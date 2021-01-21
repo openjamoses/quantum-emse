@@ -1,0 +1,5 @@
+snapshot,bugs,smells,vulnerability,Major,Critical,Minor,Blocker,nCLOC
+0,0,0,0,0,0,0,0,0
+1,0,606,0,120,481,5,0,8784
+2,0,1183,0,330,711,142,0,62575
+3,0,1582,0,475,808,299,0,152763

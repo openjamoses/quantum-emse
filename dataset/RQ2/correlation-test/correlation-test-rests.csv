@@ -1,0 +1,80 @@
+Category,project,snapshots,mean_spearman,std_spearman,,mean_pearson,std_pearson,,avg_p-val1,avg_p-val2
+Experimentation,BBN-Q/QGL,14,0.88,0.0793,,0.8877,0.0696,,0.020339791,0.007817508
+Experimentation,m-labs/artiq,9,0.4264,0.1035,,0.9427,0.0711,,2.42E-08,6.46E-41
+Experimentation,qutech/qupulse,20,0.7794,0.0308,,0.7052,0.1016,,8.70E-08,0.000163953
+Experimentation,lneuhaus/pyrpl,11,0.8361,0.036,,0.772,0.2,,4.51E-17,9.04E-06
+Experimentation,BBN-Q/Qlab,26,0.5159,0.3452,,0.7735,0.2217,,0.229714462,0.036304462
+Experimentation,BBN-Q/PyQLab,15,0.8689,0.0309,,0.8591,0.0491,,2.06E-05,3.51E-06
+Experimentation,zlatko-minev/pyEPR,8,0.9175,0.0602,,0.9762,0.003,,2.57E-06,8.07E-06
+ToolKit,evaleev/libint,3,nan,nan,,nan,nan,,nan,nan
+ToolKit,jcmgray/quimb,18,0.7516,0.1442,,0.7379,0.144,,0.015919741,0.02982031
+ToolKit,XanaduAI/pennylane,9,0.8073,0.0872,,0.813,0.2082,,0.008861573,0.056844825
+ToolKit,OriginQ/QPanda-2,7,0.8403,0.0115,,0.8197,0.0269,,2.42E-06,8.50E-06
+ToolKit,bloomberg/quantum,2,0.8556,0.1056,,0.5857,0.0386,,0.009971063,0.036174987
+ToolKit,rigetti/forest-benchmarking,5,0.8102,0.0189,,0.7097,0.0778,,3.92E-07,4.61E-06
+ToolKit,QInfer/python-qinfer,19,0.7891,0.0295,,0.8118,0.0365,,1.06E-05,6.39E-06
+ToolKit,zoran-cuckovic/QGIS-visibility-analysis,6,0.6184,0.1909,,0.9436,0.0294,,0.150130317,0.000765986
+ToolKit,qubekit/QUBEKit,8,0.8978,0.0493,,0.7786,0.1402,,nan,0.131690995
+ToolKit,tensorflow/quantum,3,0.3805,0.0513,,0.5917,0.1465,,0.052031215,0.012781017
+ToolKit,TRIQS/triqs,13,0.7911,0.0408,,0.8593,0.0563,,1.56E-13,9.49E-23
+ToolKit,QuTech-Delft/qtt,10,0.8909,0.0552,,0.9306,0.0212,,1.43E-16,4.02E-14
+ToolKit,lmacken/quantumrandom,4,0.7533,0.21,,0.858,0.0763,,0.21473794,0.082455944
+ToolKit,qucat/qucat,5,0.7561,0.1251,,0.9031,0.0463,,2.04E-15,0.011791795
+ToolKit,Qiskit/qiskit-ignis,8,0.731,0.1082,,0.6122,0.1558,,0.007118736,0.005673563
+ToolKit,orbkit/orbkit,17,0.8622,0.047,,0.7828,0.1906,,2.26E-06,0.000122188
+ToolKit,deepchem/deepchem,7,0.7558,0.2301,,0.6727,0.1282,,0.09707593,7.51E-06
+ToolKit,aiidateam/aiida-quantumespresso,13,0.7506,0.1373,,0.8189,0.1719,,1.38E-06,1.85E-06
+Compiler,QE-Lab/OpenQL,5,0.8503,0.0674,,0.9826,0.0153,,1.08E-09,1.83E-25
+Compiler,Quantomatic/pyzx,8,0.8746,0.0484,,0.8792,0.0349,,5.42E-09,2.63E-08
+Cryptography,theQRL/QRL,13,0.7775,0.092,,0.551,0.2182,,6.20E-10,0.000222906
+Cryptography,mupq/pqm4,3,1,0,,0.9428,0.0375,,0,0.057230914
+Simulator,arguelles/nuSQuIDS,20,0.9917,0.0183,,0.9965,0.0024,,0.007697505,0.018754399
+Simulator,softwareQinc/qpp,2,0.835,0,,0.6273,0,,7.04E-50,7.50E-22
+Simulator,issp-center-dev/HPhi,12,0.8644,0.0389,,0.9948,0.0145,,0.076253084,0.000112716
+Simulator,SoftwareQuTech/SimulaQron,7,0.862,0.0772,,0.8319,0.0504,,6.98E-08,3.25E-12
+Simulator,QuantumBFS/Yao.jl,3,0.8208,0,,0.9761,0,,0.088587005,0.004413385
+Simulator,Strilanc/Quirk,15,0.6185,0.1292,,0.9552,0.0325,,0.000263984,1.05E-06
+Simulator,Qiskit/qiskit-aer,8,0.7856,0.0936,,0.7007,0.1348,,9.61E-06,0.031042525
+Simulator,qutip/qutip,9,0.845,0.0352,,0.8313,0.0769,,4.95E-12,1.57E-08
+Simulator,QuEST-Kit/QuEST,1,0.8895,0,,0.8311,0,,4.97E-11,1.30E-08
+Simulator,qulacs/qulacs,6,0.8706,0.0616,,0.9682,0.0143,,0.059365359,0.002071088
+Simulator,quantumlib/OpenFermion-Cirq,8,0.7992,0.1545,,0.8621,0.1238,,0.041164745,0.020308517
+Simulator,microsoft/qmt,5,0.7895,0.1542,,0.8117,0.0723,,2.40E-06,2.00E-05
+Simulator,Qiskit/qiskit-jku-provider,3,0.122,0.8073,,0.1607,0.8229,,nan,0.642871054
+Simulator,ngnrsaa/qflex,3,0.4942,0.1535,,0.9447,0.0277,,0.179888644,4.59E-05
+Simulator,marvel-nccr/quantum-mobile,2,-0.1581,0.1581,,0.0218,0.4967,,0.802090652,0.45018966
+Quantum Algorithsm,qrefine/qrefine,11,0.9167,0.0128,,0.8953,0.045,,3.96E-26,5.56E-25
+Quantum Algorithsm,mabuchilab/QNET,21,0.8376,0.0408,,0.716,0.0354,,8.81E-10,3.60E-07
+Quantum Algorithsm,Qiskit/qiskit-aqua,9,0.7839,0.0313,,0.8593,0.0546,,8.72E-23,2.20E-30
+Quantum Algorithsm,quantumlib/OpenFermion,12,0.7365,0.036,,0.6038,0.1072,,3.33E-09,4.27E-07
+Quantum Algorithsm,rigetti/grove,7,0.6853,0.1048,,0.6149,0.184,,0.000822659,0.007432143
+Quantum Algorithsm,netket/netket,8,nan,nan,,nan,nan,,nan,nan
+Quantum Algorithsm,XanaduAI/thewalrus,7,0.7817,0.0919,,0.9134,0.0342,,0.00493509,6.53E-07
+Quantum Algorithsm,qucontrol/krotov,7,0.7654,0.3344,,0.7444,0.4359,,0.133536724,0.085436993
+Quantum Algorithsm,aeantipov/pomerol,2,nan,nan,,nan,nan,,nan,nan
+Quantum Algorithsm,Q-solvers/EDLib,5,0.7688,0.1353,,0.97,0.015,,nan,0.218441968
+Quantum Algorithsm,dwave-examples/factoring,7,-0.5714,0.6776,,-0.4558,0.8605,,nan,0.794313745
+Quantum Algorithsm,ProjectQ-Framework/FermiLib,1,0.706,0,,0.4158,0,,9.13E-06,0.019995737
+Assembly,lanl/qmasm,13,0.8648,0.16,,0.8731,0.1688,,0.033541706,0.03581236
+Assembly,XanaduAI/blackbird,5,0.7902,0.0278,,0.8637,0.0099,,0.000115936,2.82E-06
+Assembly,BBN-Q/pyqgl2,9,0.8604,0.0399,,0.914,0.0199,,1.22E-18,7.08E-16
+Assembly,artiste-qb-net/qubiter,11,0.7288,0.2472,,0.7803,0.1192,,0.003456136,2.25E-05
+Quantum Annealing,shinmorino/sqaod,4,0.8854,0.0159,,0.6113,0.0865,,2.35E-08,0.000225362
+Quantum Annealing,dwavesystems/qbsolv,13,0.6609,0.1906,,0.9693,0.0181,,nan,0.086725868
+Quantum Annealing,dwavesystems/dimod,13,0.7346,0.1338,,0.6851,0.0709,,0.097436119,0.068904427
+Quantum Annealing,dwavesystems/dwave-system,15,0.7054,0.1838,,0.9051,0.1733,,nan,0.085326484
+Quantum Annealing,dwavesystems/dwavebinarycsp,8,0.568,0.0547,,0.4717,0.2169,,0.110052391,0.150373532
+Quantum Annealing,dwavesystems/penaltymodel,10,0.3097,0.1163,,0.41,0.0377,,0.234905309,0.083849703
+Full-stack Library,Qiskit/qiskit-terra,15,0.5747,0.4278,,0.5558,0.4326,,nan,0.066677002
+Full-stack Library,microsoft/Quantum,10,nan,nan,,nan,nan,,nan,nan
+Full-stack Library,microsoft/QuantumLibraries,7,0.4746,0.3778,,0.7901,0.2662,,nan,0.264431029
+Full-stack Library,rigetti/pyquil,15,0.8572,0.0373,,0.78,0.1074,,9.58E-07,3.67E-05
+Full-stack Library,Qiskit/qiskit,7,0.6374,0.2391,,0.547,0.4521,,0.139022576,0.38753271
+Full-stack Library,Qiskit/qiskit-ibmq-provider,6,0.3494,0.1295,,0.5466,0.2721,,0.262692832,0.081742972
+Full-stack Library,qiskit-community/qiskit-js,3,0.8216,0.1284,,0.9868,0.0016,,0.020891682,0.037456133
+Full-stack Library,qiskit-community/qiskit-vscode,4,0.7527,0.0945,,0.8251,0.1743,,0.148980262,0.112099386
+Full-stack Library,rigetti/rpcq,7,0.7587,0.1415,,0.9853,0.0259,,nan,0.167383826
+Full-stack Library,ProjectQ-Framework/ProjectQ,10,0.7275,0.0166,,0.633,0.0578,,8.51E-10,4.55E-06
+Full-stack Library,QuantumPackage/qp2,5,0.7826,0,,0.7292,0,,0.000338509,0.001349902
+Full-stack Library,XanaduAI/strawberryfields,10,0.8157,0.0233,,0.8269,0.017,,3.46E-12,6.67E-14
+Full-stack Library,Blueqat/Blueqat,8,0.8083,0.0781,,0.9666,0.0226,,nan,0.125003055

@@ -1,0 +1,14 @@
+categories,repos,Avg.commits,Avg.contrib,avg.issue,avg.pr,avg.forks,avg.stars,languages,avg.snapshots
+ToolKit,22,792,14,314,204,71,223,"nan,Puppet,C++,Python,Julia,HTML,",14
+Quantum Annealing,6,770,11,220,152,56,175,"q,C++,Python,",11
+None-Quantum,34,2612,92,1157,579,765,5017,"C++,PHP,JavaScript,Python,Julia,C,HTML,",22
+Assembly,5,212,3,16,9,21,88,"Julia,HTML,C++,Python,",9
+Compiler,3,528,14,296,202,32,150,"OpenQASM,C#,C++,",10
+Web-Extension,9,626,7,138,77,28,188,"CSS,JavaScript,PHP,",10
+Quantum Algorithsm,14,875,15,221,159,59,147,"C++,Python,",11
+Quantum-Chemistry,19,2305,16,372,263,40,67,"C++,Fortran,Python,Julia,Jupyter Notebook,",26
+Experimentation,9,1790,13,300,108,26,49,"MATLAB,CoffeeScript,Python,Julia,Jupyter Notebook,",18
+Cryptography,4,1129,12,497,421,33,173,"Assembly,Go,C++,Python,",13
+Fun/ Game,4,256,5,68,56,12,31,"Vue,JavaScript,Jupyter Notebook,Python,",4
+Full-stack Library,16,658,36,786,536,212,741,"C#,PowerShell,Common Lisp,C++,F#,Fortran,JavaScript,Python,HTML,",9
+Simulator,20,929,13,272,178,53,158,"C#,Common Lisp,C++,JavaScript,Python,Julia,Shell,",12

@@ -1,0 +1,231 @@
+rule,tag,message
+common-php:DuplicatedBlocks/MAJOR,design/suspicious/,1 duplicated blocks of code must be removed.; 
+css:S1116/MINOR,unused/,Unexpected extra semicolon; 
+css:S4647/BLOCKER,xxxxx/,"Unexpected invalid hex color ""#white""; "
+css:S4648/MAJOR,xxxxx/,Unexpected duplicate name monospace; 
+css:S4649/MAJOR,xxxxx/,Unexpected missing generic font family; 
+css:S4650/BLOCKER,xxxxx/,"Expected single space after ""*"" operator; "
+css:S4651/CRITICAL,xxxxx/,Unexpected nonstandard direction; 
+css:S4652/MAJOR,xxxxx/,Unexpected newline in string; 
+css:S4653/BLOCKER,xxxxx/,"Unexpected unknown unit ""%%""; "
+css:S4654/BLOCKER,xxxxx/,"Unexpected unknown property ""tab-index""; "
+css:S4656/MAJOR,xxxxx/,"Unexpected duplicate ""text-decoration""; "
+css:S4657/CRITICAL,xxxxx/,"Unexpected shorthand ""padding"" after ""padding-left""; "
+css:S4658/MAJOR,xxxxx/,Unexpected empty block; 
+css:S4659/MAJOR,xxxxx/,"Unexpected unknown pseudo-class selector "":.chromeUI""; "
+css:S4660/MAJOR,xxxxx/,"Unexpected unknown pseudo-element selector ""::hover""; "
+css:S4661/MAJOR,xxxxx/,"Unexpected unknown media feature name ""transform-3d""; "
+css:S4663/MINOR,xxxxx/,Unexpected empty comment; 
+css:S4666/MAJOR,xxxxx/,"Unexpected duplicate selector ""code"", first used at line 207; "
+css:S4667/MAJOR,xxxxx/,Unexpected empty source; 
+css:S4668/BLOCKER,xxxxx/,Unexpected double-slash CSS comment; 
+css:S4670/CRITICAL,xxxxx/,"Unexpected unknown type selector ""app-root""; "
+go:S1186/CRITICAL,suspicious/,Add a nested comment explaining why this function is empty or complete the implementation.; 
+go:S3776/CRITICAL,brain_overload/,Refactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.; 
+javascript:S108/MAJOR,suspicious/,Empty block statement.; 
+javascript:S1110/MAJOR,confusing/,Remove these useless parentheses.; 
+javascript:S1116/MINOR,unused/,Unnecessary semicolon.; 
+javascript:S1117/MAJOR,pitfall/suspicious/confusing/,'property' is already declared in the upper scope.; 
+javascript:S1126/MINOR,clumsy/,Replace this if-then-else statement by a single return statement.; 
+javascript:S1128/MINOR,unused/es2015/,Remove this unused import of 'WglTexture'.; 
+javascript:S1143/CRITICAL,cwe/error_handling/,Unsafe usage of ThrowStatement.; 
+javascript:S1264/MINOR,clumsy/,"Replace this ""for"" loop with a ""while"" loop.; "
+javascript:S128/BLOCKER,cwe/suspicious/,"End this switch case with an unconditional break, continue, return or throw statement.; "
+javascript:S1301/MINOR,bad_practice/,"""switch"" statements should have at least 3 ""case"" clauses; "
+javascript:S1439/MAJOR,confusing/,"Remove this ""a"" label.; "
+javascript:S1472/MINOR,suspicious/,Make those call arguments start on line 23; 
+javascript:S1479/MAJOR,brain_overload/,Reduce the number of non-empty switch cases from 46 to at most 30.; 
+javascript:S1481/MINOR,unused/,Remove the declaration of the unused 'origword' variable.; 
+javascript:S1515/MAJOR,suspicious/,Define this function outside of a loop.; 
+javascript:S1516/MINOR,bad_practice/,Multiline support is limited to browsers supporting ES5 only.; 
+javascript:S1527/BLOCKER,pitfall/lock_in/,"Rename ""package"" identifier to prevent potential conflicts with future evolutions of the JavaScript language.; "
+javascript:S1529/MAJOR,xxxxx/,"Review this use of bitwise ""&"" operator; conditional ""&&"" might have been intended.; "
+javascript:S1533/MINOR,pitfall/,"Remove this use of ""String"" constructor.; "
+javascript:S1534/MAJOR,pitfall/,Rename or remove duplicate property name 'ket'.; 
+javascript:S1656/MAJOR,xxxxx/,urlAnchor.href' is assigned to itself.; 
+javascript:S1736/MAJOR,cwe/unused/,"Remove this code after the ""return"" statement.; "
+javascript:S1751/MAJOR,xxxxx/,Refactor this loop to do more than one iteration.; 
+javascript:S1764/MAJOR,xxxxx/cwe/unused/,"Correct one of the identical sub-expressions on both sides of operator ""!==""; "
+javascript:S1788/MAJOR,es2015/psr2/,"Move parameter ""state"" after parameters without default value.; "
+javascript:S1854/MAJOR,cwe/unused/,"Remove this useless assignment to variable ""origword"".; "
+javascript:S1862/MAJOR,pitfall/xxxxx/unused/,This branch duplicates the one on line 104; 
+javascript:S1871/MAJOR,design/suspicious/,This branch's code block is the same as the block for the branch on line 499.; 
+javascript:S1940/MINOR,pitfall/,Use the opposite operator (>=) instead.; 
+javascript:S2137/MAJOR,pitfall/,"Do not use ""undefined"" to declare a parameter - use another name.; "
+javascript:S2189/BLOCKER,xxxxx/,Correct this loop's end condition as to not be invariant.; 
+javascript:S2201/MAJOR,xxxxx/,"The return value of ""some"" must be used.; "
+javascript:S2259/MAJOR,cwe/,"TypeError can be thrown as ""source"" might be null or undefined here.; "
+javascript:S2589/MAJOR,suspicious/duplicate/confusing/,This always evaluates to truthy. Consider refactoring this code.; 
+javascript:S2681/MAJOR,design/suspicious/,This line will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.; 
+javascript:S2692/MAJOR,suspicious/,This check ignores index 0; consider using 'includes' method to make this check safe and explicit.; 
+javascript:S2703/BLOCKER,pitfall/,"Add the ""let"", ""const"" or ""var"" keyword to this declaration of ""i"" to make it explicit.; "
+javascript:S2737/MINOR,clumsy/finding/error_handling/unused/,Add logic to this catch clause or eliminate it and rethrow the exception automatically.; 
+javascript:S2757/MAJOR,xxxxx/,"Was ""+="" meant instead?; "
+javascript:S2814/MAJOR,confusing/,'fp' is already defined.; 
+javascript:S2870/MAJOR,xxxxx/,"Remove this use of ""delete"".; "
+javascript:S2999/MAJOR,xxxxx/,Replace this with a constructor function.; 
+javascript:S3001/MINOR,xxxxx/,"Remove this ""delete"" operator or pass an object property to it.; "
+javascript:S3317/MINOR,convention/es2015/confusing/,"Rename this file to ""ZeroGate""; "
+javascript:S3403/MAJOR,xxxxx/unused/,"Remove this ""!=="" check; it will always be true. Did you mean to use ""!=""?; "
+javascript:S3516/BLOCKER,xxxxx/,Refactor this function to not always return the same value.; 
+javascript:S3531/MAJOR,api_design/es2015/,"Add a ""yield"" statement to this generator.; "
+javascript:S3686/MAJOR,xxxxx/,"Correct the use of this function; on line 41 it was called with ""new"".; "
+javascript:S3699/MAJOR,xxxxx/,"Remove this use of the output from ""writeString""; ""writeString"" doesn't return anything.; "
+javascript:S3782/MAJOR,confusing/,Change this argument to the documented type: String.; 
+javascript:S3785/CRITICAL,cwe/,TypeError can be thrown as this operand might have primitive type.; 
+javascript:S3796/BLOCKER,xxxxx/,"Add a ""return"" statement to this callback.; "
+javascript:S3812/CRITICAL,xxxxx/,"Add parentheses to perform ""instanceof"" operator before logical NOT operator.; "
+javascript:S3923/MAJOR,pitfall/xxxxx/unused/,"This conditional operation returns the same value whether the condition is ""true"" or ""false"".; "
+javascript:S3972/CRITICAL,suspicious/,"Move this ""if"" to a new line or add the missing ""else"".; "
+javascript:S3973/CRITICAL,pitfall/,"Use curly braces or indentation to denote the code conditionally executed by this ""if"".; "
+javascript:S3981/MAJOR,xxxxx/,"Fix this expression; length of ""will.payload"" is always greater or equal to zero.; "
+javascript:S3984/MAJOR,error_handling/,Throw this error or remove this useless statement.; 
+javascript:S4030/MAJOR,suspicious/unused/,Either use this collection's contents or remove the collection.; 
+javascript:S4140/MAJOR,xxxxx/,Unexpected comma in middle of array.; 
+javascript:S4143/MAJOR,suspicious/,"Verify this is the index that was intended; ""name"" was already set on line 5909.; "
+javascript:S4158/MINOR,xxxxx/,"Review this usage of ""_itemsResultsClone"" as it can only be empty here.; "
+javascript:S4165/MAJOR,redundant/,"Review this useless assignment: ""i"" already holds the assigned value along all execution paths.; "
+javascript:S878/MAJOR,xxxxx/,Unexpected use of comma operator.; 
+javascript:S888/CRITICAL,cwe/suspicious/,"Replace '!=' operator with one of '<=', '>=', '<', or '>' comparison operators.; "
+javascript:S905/MAJOR,xxxxx/,Expected an assignment or function call and instead saw an expression.; 
+javascript:S930/CRITICAL,based_on_misra/cwe/,"This function expects no arguments, but 1 was provided.; "
+php:S101/MINOR,convention/,"Rename class ""Com_QuantummanagerInstallerScript"" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.; "
+php:S1066/MAJOR,clumsy/,Merge this if statement with the enclosing one.; 
+php:S1068/MAJOR,unused/,"Remove this unused ""$allowed_types"" private field.; "
+php:S107/MAJOR,brain_overload/,"This function has 8 parameters, which is greater than the 7 authorized.; "
+php:S1116/MINOR,unused/,Remove this empty statement.; 
+php:S1117/MAJOR,pitfall/suspicious/confusing/,"Rename ""$tabs"" which has the same name as the field declared at line 3.; "
+php:S112/MAJOR,cwe/error_handling/,Define and throw a dedicated exception instead of using a generic one.; 
+php:S1125/MINOR,clumsy/,"Remove the literal ""FALSE"" boolean value.; "
+php:S1135/INFO,cwe/,"Complete the task associated to this ""TODO"" comment.; "
+php:S1142/MAJOR,brain_overload/,"Reduce the number of returns of this function 7, down to the maximum allowed 3.; "
+php:S1144/MAJOR,unused/,"Remove this unused private ""postfix"" method.; "
+php:S1172/MAJOR,unused/,"Remove the unused function parameter ""$adapter"".; "
+php:S1185/MINOR,clumsy/redundant/,"Remove this method ""__construct"" to simply inherit it.; "
+php:S1192/CRITICAL,design/xxxxx/,"Define a constant instead of duplicating this literal ""error"" 3 times.; "
+php:S121/CRITICAL,pitfall/,Add curly braces around the nested statement(s).; 
+php:S125/MAJOR,unused/,Remove this commented out code.; 
+php:S1301/MINOR,bad_practice/,"Replace this ""switch"" statement with ""if"" statements to increase readability.; "
+php:S131/CRITICAL,cwe/,"Add a ""case default"" clause to this ""switch"" statement.; "
+php:S138/MAJOR,brain_overload/,"This function ""isSafeFile"" has 158 lines, which is greater than the 150 lines authorized. Split it into smaller functions.; "
+php:S1448/MAJOR,brain_overload/,"Class ""User"" has 23 methods, which is greater than 20 authorized. Split it into smaller classes.; "
+php:S1479/MAJOR,brain_overload/,Reduce the number of switch cases from 33 to at most 30.; 
+php:S1481/MINOR,unused/,"Remove this unused ""$key"" local variable.; "
+php:S1488/MINOR,clumsy/,"Immediately return this expression instead of assigning it to the temporary variable ""$html"".; "
+php:S1603/MAJOR,design/,"Replace this function name ""shoot"", since a ""__construct"" method has already been defined in this class.; "
+php:S1763/MAJOR,cwe/unused/,Remove this unreachable code.; 
+php:S1788/MAJOR,es2015/psr2/,"Move arguments ""$path"" after arguments without default value; "
+php:S1848/MAJOR,unused/cwe/,"Either remove this useless object instantiation of class ""Message"" or use it; "
+php:S1854/MAJOR,cwe/unused/,Remove this useless assignment to local variable '$file'.; 
+php:S1871/MAJOR,design/suspicious/,This branch's code block is the same as the block for the branch on line 217.; 
+php:S2681/MAJOR,design/suspicious/,This statement will not be executed conditionally; only the first statement of this 3-statement block will be. The rest will execute unconditionally.; 
+php:S3358/MAJOR,confusing/,Extract this nested ternary operation into an independent statement.; 
+php:S3626/MINOR,clumsy/redundant/,Remove this redundant jump.; 
+php:S3776/CRITICAL,brain_overload/,Refactor this function to reduce its Cognitive Complexity from 151 to the 15 allowed.; 
+php:S3923/MAJOR,pitfall/xxxxx/unused/,Remove this conditional structure or edit its code blocks so that they're not all the same.; 
+php:S3973/CRITICAL,pitfall/,"Use curly braces or indentation to denote the code conditionally executed by this ""if"".; "
+php:S4144/MAJOR,suspicious/duplicate/confusing/,"Update this method so that its implementation is not identical to ""user_action_user_edit"" on line 58.; "
+php:S836/MAJOR,cwe/,Review the data-flow - use of uninitialized value.; 
+php:S907/MAJOR,brain_overload/,"Remove use of ""goto"" statement.; "
+python:BackticksUsage/BLOCKER,python3/,"Use ""repr"" instead.; "
+python:ExecStatementUsage/BLOCKER,python3/obsolete/,Do not use exec statement.; 
+python:InequalityUsage/MAJOR,obsolete/,"Replace ""<>"" by ""!="".; "
+python:PreIncrementDecrement/MAJOR,xxxxx/,"This statement doesn't produce the expected result, replace use of non-existent pre-increment operator; "
+python:PrintStatementUsage/MAJOR,python3/obsolete/,Replace print statement by built-in function.; 
+python:S100/MINOR,convention/,"Rename method ""_gen_G"" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.; "
+python:S101/MINOR,convention/,"Rename class ""_build_py"" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.; "
+python:S1045/MAJOR,error_handling/,Catch this exception only once; it is already handled by a previous except clause.; 
+python:S1066/MAJOR,clumsy/,Merge this if statement with the enclosing one.; 
+python:S107/MAJOR,brain_overload/,"Method ""__init__"" has 20 parameters, which is greater than the 7 authorized.; "
+python:S108/MAJOR,suspicious/,Either remove or fill this block of code.; 
+python:S1110/MAJOR,confusing/,Remove those useless parentheses.; 
+python:S112/MAJOR,cwe/error_handling/,Replace this generic exception class with a more specific one.; 
+python:S1134/MAJOR,convention/,"Take the required action to fix the issue indicated by this ""FIXME"" comment.; "
+python:S1143/CRITICAL,cwe/error_handling/,"Remove this ""return"" statement from this ""finally"" block.; "
+python:S1144/MAJOR,unused/,Remove this unused class-private '__debug_hessian_matvec' method.; 
+python:S116/MINOR,convention/,"Rename this field ""partIds"" to match the regular expression ^[_a-z][_a-z0-9]*$.; "
+python:S117/MINOR,convention/,"Rename this parameter ""File"" to match the regular expression ^[_a-z][a-z0-9_]*$.; "
+python:S1186/CRITICAL,suspicious/,"Add a nested comment explaining why this method is empty, or complete the implementation.; "
+python:S1192/CRITICAL,design/xxxxx/,Define a constant instead of duplicating this literal 'MARVEL VM Documentation' 3 times.; 
+python:S1226/MINOR,xxxxx/,Introduce a new variable or use its initial value before reassigning 'tslot_type'.; 
+python:S125/MAJOR,unused/,Remove this commented out code.; 
+python:S1481/MINOR,unused/,"Remove the unused local variable ""qflex_amplitude"".; "
+python:S1542/MAJOR,convention/,"Rename function ""randCirc"" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.; "
+python:S1656/MAJOR,cwe/unused/,Remove or correct this useless self-assignment.; 
+python:S1700/MAJOR,brain_overload/,"Rename field ""keyword""; "
+python:S1716/CRITICAL,cwe/,"Remove this ""continue"" statement; "
+python:S1751/MAJOR,xxxxx/,Refactor this loop to do more than one iteration.; 
+python:S1763/MAJOR,cwe/unused/,Delete this unreachable code or refactor the code to make it reachable.; 
+python:S1764/MAJOR,xxxxx/cwe/unused/,"Correct one of the identical sub-expressions on both sides of operator ""=="".; "
+python:S1845/BLOCKER,confusing/,"Rename field ""Delta"" to prevent any misunderstanding/clash with field ""delta"" defined on line 111; "
+python:S1854/MAJOR,cwe/unused/,Remove this assignment to local variable 'sketch'; the value is never used.; 
+python:S1862/MAJOR,pitfall/xxxxx/unused/,This branch duplicates the one on line 617.; 
+python:S1871/MAJOR,design/suspicious/,"Either merge this branch with the identical one on line ""524"" or change one of the implementations.; "
+python:S2115/BLOCKER,cwe/owasp/,Add password protection to this database.; 
+python:S2159/BLOCKER,unused/,Remove this equality check between incompatible types; it will always return False.; 
+python:S2190/BLOCKER,suspicious/,Add a way to break out of this method's recursion.; 
+python:S2638/CRITICAL,cwe/based_on_misra/,Add missing parameters x.; 
+python:S2710/CRITICAL,convention/suspicious/confusing/,"Rename ""self"" to a valid class parameter name or add the missing class parameter.; "
+python:S2711/BLOCKER,xxxxx/,"Remove this use of ""return"".; "
+python:S2734/BLOCKER,xxxxx/,Remove this return value.; 
+python:S2737/MINOR,clumsy/finding/error_handling/unused/,Add logic to this except clause or eliminate it and rethrow the exception automatically.; 
+python:S2757/MAJOR,xxxxx/,Was -= meant instead?; 
+python:S2772/MINOR,unused/,"Remove this unneeded ""pass"".; "
+python:S3358/MAJOR,confusing/,Extract this nested conditional expression into an independent statement.; 
+python:S3403/BLOCKER,xxxxx/unused/,"Remove this ""is"" check; it will always be False.; "
+python:S3516/BLOCKER,xxxxx/,Refactor this method to not always return the same value.; 
+python:S3626/MINOR,clumsy/redundant/,Remove this redundant return.; 
+python:S3776/CRITICAL,brain_overload/,Refactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.; 
+python:S3827/BLOCKER,xxxxx/,get_config is not defined. Change its name or define it before using it; 
+python:S3923/MAJOR,pitfall/xxxxx/unused/,Remove this if statement or edit its code blocks so that they're not all the same.; 
+python:S3981/MAJOR,xxxxx/,"The length of a collection is always "">=0"", so update this test to either ""==0"" or "">0"".; "
+python:S3985/MAJOR,unused/,Remove this unused private '_working_set' class.; 
+python:S4143/MAJOR,suspicious/,Verify this is the key that was intended; a value has already been saved for it on line 90.; 
+python:S4144/MAJOR,suspicious/duplicate/confusing/,Update this function so that its implementation is not identical to __str__ on line 269.; 
+python:S4423/MAJOR,sans_top25/owasp/cwe/privacy/,Change this code to use a stronger protocol.; 
+python:S4426/BLOCKER,privacy/cwe/owasp/,Use a key length of at least 2048 bits.; 
+python:S4487/CRITICAL,cwe/unused/,Remove this unread private attribute '__REC11' or refactor the code to use its value.; 
+python:S5439/BLOCKER,xxxxx/,Remove this configuration disabling autoescape globally.; 
+python:S5445/BLOCKER,cwe/owasp/,'tempfile.mktemp' is insecure. Use 'tempfile.TemporaryFile' instead; 
+python:S5603/MAJOR,unused/,Remove this unused function declaration.; 
+python:S5632/BLOCKER,python3/,Change this code so that it raises an object deriving from BaseException.; 
+python:S5706/MAJOR,xxxxx/,"Remove this ""raise"" statement and return ""False"" instead.; "
+python:S5708/BLOCKER,python3/,Change this expression to be a class deriving from BaseException or a tuple of such classes.; 
+python:S5709/CRITICAL,xxxxx/,"Derive this class from ""Exception"" instead of ""SystemExit"".; "
+python:S5712/CRITICAL,bad_practice/error_handling/,"Return ""NotImplemented"" instead of raising ""NotImplementedError""; "
+python:S5713/MINOR,unused/,Remove this redundant Exception class; it derives from another which is already caught.; 
+python:S5717/CRITICAL,xxxxx/,"Change this default value to ""None"" and initialize this parameter inside the function/method.; "
+python:S5719/BLOCKER,convention/confusing/suspicious/,"Add a ""self"" or class parameter; "
+python:S5720/CRITICAL,convention/suspicious/confusing/,"Rename ""ref_mol"" to ""self"" or add the missing ""self"" parameter.; "
+python:S5722/BLOCKER,based_on_misra/cwe/,Add 3 parameters. Method __exit__ should have 4 parameters.; 
+python:S5724/BLOCKER,based_on_misra/cwe/,"Remove 1 parameters; property getter methods receive only ""self"".; "
+python:S5727/CRITICAL,xxxxx/,Remove this identity check; it will always be True.; 
+python:S5747/CRITICAL,unpredictable/error_handling/confusing/,"Remove this ""raise"" statement or move it inside an ""except"" block.; "
+python:S5754/CRITICAL,unpredictable/error_handling/confusing/,Specify an exception class to catch or reraise the exception; 
+python:S930/BLOCKER,based_on_misra/cwe/,Add 1 missing arguments; 'gen_G' expects 4 positional arguments.; 
+ruby:S1135/INFO,cwe/,Complete the task associated to this TODO comment.; 
+ruby:S1192/CRITICAL,design/xxxxx/,"Define a constant instead of duplicating this literal ""[No Name]"" 4 times.; "
+ruby:S3776/CRITICAL,brain_overload/,Refactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.; 
+Web:AvoidCommentedOutCodeCheck/MAJOR,unused/,Remove this commented out code.; 
+Web:BoldAndItalicTagsCheck/MINOR,accessibility/,Replace this <i> tag by <em>.; 
+Web:DoctypePresenceCheck/MAJOR,user_experience/,Insert a <!DOCTYPE> declaration to before this <html> tag.; 
+Web:FieldsetWithoutLegendCheck/MINOR,accessibility/,Add a <legend> tag to this fieldset.; 
+Web:FrameWithoutTitleCheck/MINOR,accessibility/,"Add a ""title"" attribute to this <iframe> tag.; "
+Web:ImgWithoutAltCheck/MINOR,wcag2_a/accessibility/,"Add an ""alt"" attribute to this image.; "
+Web:ItemTagNotWithinContainerTagCheck/MINOR,xxxxx/,Surround this <li> item tag by a <ul> or <ol> container one.; 
+Web:LinkToImageCheck/MAJOR,user_experience/accessibility/,Change this link to not directly target an image.; 
+Web:MetaRefreshCheck/MAJOR,user_experience/,Remove this meta refresh tag.; 
+Web:PageWithoutTitleCheck/MAJOR,user_experience/,Add a <title> tag to this page.; 
+Web:S1135/INFO,cwe/,"Complete the task associated to this ""TODO"" comment.; "
+Web:S1827/MAJOR,user_experience/html5/obsolete/,"Remove this deprecated ""valign"" attribute.; "
+Web:S4084/MAJOR,html5/accessibility/,Add subtitles and description files for this video.; 
+Web:S4645/MAJOR,xxxxx/,A </script> was found without a relating opening <script> tag. This may be caused by nested script tags.; 
+Web:S5148/BLOCKER,pishing/,"Add rel=""noopener noreferrer"" to this link to prevent the original page from being modified by the opened link.; "
+Web:S5254/MAJOR,wcag2_a/accessibility/,"Add ""lang"" and/or ""xml:lang"" attributes to this ""<html>"" element; "
+Web:S5255/MAJOR,wcag2_a/accessibility/,"Add an ""aria-label"" or ""aria-labbelledby"" attribute to this element.; "
+Web:S5256/MAJOR,wcag2_a/accessibility/,"Add ""<th>"" headers to this ""<table>"".; "
+Web:TableHeaderHasIdOrScopeCheck/MAJOR,wcag2_a/accessibility/,Add either an 'id' or a 'scope' attribute to this <th> tag.; 
+Web:TableWithoutCaptionCheck/MINOR,wcag2_a/accessibility/,Add a description to this table.; 
+Web:UnsupportedTagsInHtml5Check/MAJOR,user_experience/html5/obsolete/,"Remove this deprecated ""tt"" element.; "
+xml:S125/MAJOR,unused/,Remove this commented out code.; 
+xml:S1778/CRITICAL,xxxxx/,"Remove all characters located before ""<?xml"".; "

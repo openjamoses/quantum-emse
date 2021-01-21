@@ -1,0 +1,4565 @@
+category,project,Type,total
+Experimentation,QGL,0,BUGS,30,25340
+Experimentation,QGL,0,SMELLS,599,25340
+Experimentation,QGL,1,BUGS,9057,2602437
+Experimentation,QGL,1,SMELLS,32897,2602437
+Experimentation,QGL,2,BUGS,125,290936
+Experimentation,QGL,2,SMELLS,4627,290936
+Experimentation,QGL,3,BUGS,0,1
+Experimentation,QGL,3,SMELLS,0,1
+Experimentation,QGL,4,BUGS,0,1
+Experimentation,QGL,4,SMELLS,0,1
+Experimentation,QGL,5,BUGS,0,1
+Experimentation,QGL,5,SMELLS,0,1
+Experimentation,QGL,6,BUGS,0,1
+Experimentation,QGL,6,SMELLS,0,1
+Experimentation,QGL,7,BUGS,0,1
+Experimentation,QGL,7,SMELLS,0,1
+Experimentation,QGL,8,BUGS,0,1
+Experimentation,QGL,8,SMELLS,0,1
+Experimentation,QGL,9,BUGS,0,1
+Experimentation,QGL,9,SMELLS,0,1
+Experimentation,QGL,10,BUGS,10,66267
+Experimentation,QGL,10,SMELLS,1773,66267
+Experimentation,QGL,11,BUGS,10,66754
+Experimentation,QGL,11,SMELLS,1772,66754
+Experimentation,QGL,12,BUGS,974,204218
+Experimentation,QGL,12,SMELLS,2819,204218
+Experimentation,QGL,13,BUGS,1029,245084
+Experimentation,QGL,13,SMELLS,3374,245084
+Experimentation,QGL,14,BUGS,1039,311837
+Experimentation,QGL,14,SMELLS,3536,311837
+Experimentation,QGL,15,BUGS,1039,327251
+Experimentation,QGL,15,SMELLS,3657,327251
+Experimentation,QGL,16,BUGS,1019,331199
+Experimentation,QGL,16,SMELLS,3619,331199
+Experimentation,QGL,17,BUGS,1159,322375
+Experimentation,QGL,17,SMELLS,3543,322375
+Experimentation,QGL,18,BUGS,1219,331354
+Experimentation,QGL,18,SMELLS,3665,331354
+Experimentation,QGL,19,BUGS,1229,329570
+Experimentation,QGL,19,SMELLS,3693,329570
+Experimentation,QGL,20,BUGS,95,207995
+Experimentation,QGL,20,SMELLS,2933,207995
+Experimentation,QGL,21,BUGS,0,1
+Experimentation,QGL,21,SMELLS,0,1
+Experimentation,QGL,22,BUGS,0,1
+Experimentation,QGL,22,SMELLS,0,1
+Experimentation,QGL,23,BUGS,0,1
+Experimentation,QGL,23,SMELLS,0,1
+Experimentation,QGL,24,BUGS,0,1
+Experimentation,QGL,24,SMELLS,0,1
+Experimentation,QGL,25,BUGS,0,1
+Experimentation,QGL,25,SMELLS,0,1
+Experimentation,QGL,26,BUGS,0,1
+Experimentation,QGL,26,SMELLS,0,1
+Experimentation,QGL,27,BUGS,0,1
+Experimentation,QGL,27,SMELLS,0,1
+Experimentation,artiq,0,BUGS,0,82
+Experimentation,artiq,0,SMELLS,9,82
+Experimentation,artiq,1,BUGS,8752,7246703
+Experimentation,artiq,1,SMELLS,75137,7246703
+Experimentation,artiq,2,BUGS,0,1
+Experimentation,artiq,2,SMELLS,0,1
+Experimentation,artiq,3,BUGS,0,1
+Experimentation,artiq,3,SMELLS,0,1
+Experimentation,artiq,4,BUGS,0,1
+Experimentation,artiq,4,SMELLS,0,1
+Experimentation,artiq,5,BUGS,0,1
+Experimentation,artiq,5,SMELLS,0,1
+Experimentation,artiq,6,BUGS,0,1
+Experimentation,artiq,6,SMELLS,0,1
+Experimentation,artiq,7,BUGS,0,1
+Experimentation,artiq,7,SMELLS,0,1
+Experimentation,artiq,8,BUGS,0,1
+Experimentation,artiq,8,SMELLS,0,1
+Experimentation,artiq,9,BUGS,0,1
+Experimentation,artiq,9,SMELLS,0,1
+Experimentation,artiq,10,BUGS,1171,243011
+Experimentation,artiq,10,SMELLS,5304,243011
+Experimentation,artiq,11,BUGS,1191,250826
+Experimentation,artiq,11,SMELLS,5697,250826
+Experimentation,artiq,12,BUGS,1226,254641
+Experimentation,artiq,12,SMELLS,5922,254641
+Experimentation,artiq,13,BUGS,1263,1290463
+Experimentation,artiq,13,SMELLS,11438,1290463
+Experimentation,artiq,14,BUGS,1263,1327083
+Experimentation,artiq,14,SMELLS,12365,1327083
+Experimentation,artiq,15,BUGS,1253,1322492
+Experimentation,artiq,15,SMELLS,12659,1322492
+Experimentation,artiq,16,BUGS,1305,1340633
+Experimentation,artiq,16,SMELLS,13234,1340633
+Experimentation,artiq,17,BUGS,10,1190256
+Experimentation,artiq,17,SMELLS,7977,1190256
+Experimentation,artiq,18,BUGS,0,1
+Experimentation,artiq,18,SMELLS,0,1
+Experimentation,artiq,19,BUGS,0,1
+Experimentation,artiq,19,SMELLS,0,1
+Experimentation,artiq,20,BUGS,0,1
+Experimentation,artiq,20,SMELLS,0,1
+Experimentation,artiq,21,BUGS,0,1
+Experimentation,artiq,21,SMELLS,0,1
+Experimentation,artiq,22,BUGS,0,1
+Experimentation,artiq,22,SMELLS,0,1
+Experimentation,artiq,23,BUGS,0,1
+Experimentation,artiq,23,SMELLS,0,1
+Experimentation,artiq,24,BUGS,0,1
+Experimentation,artiq,24,SMELLS,0,1
+Experimentation,artiq,25,BUGS,0,1
+Experimentation,artiq,25,SMELLS,0,1
+Experimentation,quantum-shell,0,BUGS,0,58.1
+Experimentation,quantum-shell,0,SMELLS,1,58.1
+Experimentation,quantum-shell,1,BUGS,0,1
+Experimentation,quantum-shell,1,SMELLS,0,1
+Experimentation,quantum-shell,2,BUGS,0,1
+Experimentation,quantum-shell,2,SMELLS,0,1
+Experimentation,qupulse,0,BUGS,0,1
+Experimentation,qupulse,0,SMELLS,0,1
+Experimentation,qupulse,1,BUGS,3923,975458
+Experimentation,qupulse,1,SMELLS,17422,975458
+Experimentation,qupulse,2,BUGS,809,150894
+Experimentation,qupulse,2,SMELLS,2916,150894
+Experimentation,qupulse,3,BUGS,430,29274
+Experimentation,qupulse,3,SMELLS,1079,29274
+Experimentation,qupulse,4,BUGS,430,29274
+Experimentation,qupulse,4,SMELLS,1079,29274
+Experimentation,qupulse,5,BUGS,445,37641
+Experimentation,qupulse,5,SMELLS,1054,37641
+Experimentation,qupulse,6,BUGS,555,44250
+Experimentation,qupulse,6,SMELLS,1001,44250
+Experimentation,qupulse,7,BUGS,275,45390
+Experimentation,qupulse,7,SMELLS,1476,45390
+Experimentation,qupulse,8,BUGS,240,46863
+Experimentation,qupulse,8,SMELLS,1469,46863
+Experimentation,qupulse,9,BUGS,90,33952
+Experimentation,qupulse,9,SMELLS,1113,33952
+Experimentation,qupulse,10,BUGS,130,37761
+Experimentation,qupulse,10,SMELLS,1114,37761
+Experimentation,qupulse,11,BUGS,160,46026
+Experimentation,qupulse,11,SMELLS,1144,46026
+Experimentation,qupulse,12,BUGS,263,62900
+Experimentation,qupulse,12,SMELLS,1273,62900
+Experimentation,qupulse,13,BUGS,348,97844
+Experimentation,qupulse,13,SMELLS,1854,97844
+Experimentation,qupulse,14,BUGS,428,110758
+Experimentation,qupulse,14,SMELLS,1883,110758
+Experimentation,qupulse,15,BUGS,428,113436
+Experimentation,qupulse,15,SMELLS,1929,113436
+Experimentation,qupulse,16,BUGS,428,116226
+Experimentation,qupulse,16,SMELLS,1967,116226
+Experimentation,qupulse,17,BUGS,428,121725
+Experimentation,qupulse,17,SMELLS,2039,121725
+Experimentation,qupulse,18,BUGS,471,135428
+Experimentation,qupulse,18,SMELLS,2231,135428
+Experimentation,qupulse,19,BUGS,769,133099
+Experimentation,qupulse,19,SMELLS,1983,133099
+Experimentation,qupulse,20,BUGS,769,133948
+Experimentation,qupulse,20,SMELLS,1998,133948
+Experimentation,pyrpl,0,BUGS,0,1
+Experimentation,pyrpl,0,SMELLS,0,1
+Experimentation,pyrpl,1,BUGS,1505,6097950
+Experimentation,pyrpl,1,SMELLS,7718,6097950
+Experimentation,pyrpl,2,BUGS,365,456378
+Experimentation,pyrpl,2,SMELLS,3504,456378
+Experimentation,pyrpl,3,BUGS,22787,2640817
+Experimentation,pyrpl,3,SMELLS,4517,2640817
+Experimentation,pyrpl,4,BUGS,4755,454362
+Experimentation,pyrpl,4,SMELLS,2034,454362
+Experimentation,pyrpl,5,BUGS,401,388219
+Experimentation,pyrpl,5,SMELLS,2305,388219
+Experimentation,pyrpl,6,BUGS,618,2819297
+Experimentation,pyrpl,6,SMELLS,2257,2819297
+Experimentation,pyrpl,7,BUGS,618,2819233
+Experimentation,pyrpl,7,SMELLS,2201,2819233
+Experimentation,pyrpl,8,BUGS,618,2819296
+Experimentation,pyrpl,8,SMELLS,2201,2819296
+Experimentation,pyrpl,9,BUGS,618,2819296
+Experimentation,pyrpl,9,SMELLS,2201,2819296
+Experimentation,pyrpl,10,BUGS,618,2819296
+Experimentation,pyrpl,10,SMELLS,2201,2819296
+Experimentation,pyrpl,11,BUGS,618,2819302
+Experimentation,pyrpl,11,SMELLS,2201,2819302
+Experimentation,Qlab,0,BUGS,0,1
+Experimentation,Qlab,0,SMELLS,0,1
+Experimentation,Qlab,1,BUGS,8852,315415
+Experimentation,Qlab,1,SMELLS,4504,315415
+Experimentation,Qlab,2,BUGS,5192,146120
+Experimentation,Qlab,2,SMELLS,2197,146120
+Experimentation,Qlab,3,BUGS,3892,117344
+Experimentation,Qlab,3,SMELLS,946,117344
+Experimentation,Qlab,4,BUGS,3892,117344
+Experimentation,Qlab,4,SMELLS,946,117344
+Experimentation,Qlab,5,BUGS,3902,136230
+Experimentation,Qlab,5,SMELLS,1093,136230
+Experimentation,Qlab,6,BUGS,0,25940
+Experimentation,Qlab,6,SMELLS,519,25940
+Experimentation,Qlab,7,BUGS,0,29128
+Experimentation,Qlab,7,SMELLS,531,29128
+Experimentation,Qlab,8,BUGS,60,31605
+Experimentation,Qlab,8,SMELLS,539,31605
+Experimentation,Qlab,9,BUGS,70,29980
+Experimentation,Qlab,9,SMELLS,509,29980
+Experimentation,Qlab,10,BUGS,70,29980
+Experimentation,Qlab,10,SMELLS,509,29980
+Experimentation,Qlab,11,BUGS,500,30755
+Experimentation,Qlab,11,SMELLS,509,30755
+Experimentation,Qlab,12,BUGS,70,29980
+Experimentation,Qlab,12,SMELLS,509,29980
+Experimentation,Qlab,13,BUGS,500,31412
+Experimentation,Qlab,13,SMELLS,530,31412
+Experimentation,Qlab,14,BUGS,500,31412
+Experimentation,Qlab,14,SMELLS,530,31412
+Experimentation,Qlab,15,BUGS,500,31412
+Experimentation,Qlab,15,SMELLS,530,31412
+Experimentation,Qlab,16,BUGS,500,31412
+Experimentation,Qlab,16,SMELLS,530,31412
+Experimentation,Qlab,17,BUGS,700,14231
+Experimentation,Qlab,17,SMELLS,249,14231
+Experimentation,Qlab,18,BUGS,790,14695
+Experimentation,Qlab,18,SMELLS,249,14695
+Experimentation,Qlab,19,BUGS,830,14831
+Experimentation,Qlab,19,SMELLS,254,14831
+Experimentation,Qlab,20,BUGS,830,14831
+Experimentation,Qlab,20,SMELLS,254,14831
+Experimentation,Qlab,21,BUGS,0,12309
+Experimentation,Qlab,21,SMELLS,254,12309
+Experimentation,Qlab,22,BUGS,0,12339
+Experimentation,Qlab,22,SMELLS,264,12339
+Experimentation,Qlab,23,BUGS,0,12735
+Experimentation,Qlab,23,SMELLS,357,12735
+Experimentation,Qlab,24,BUGS,0,12735
+Experimentation,Qlab,24,SMELLS,357,12735
+Experimentation,Qlab,25,BUGS,0,12735
+Experimentation,Qlab,25,SMELLS,357,12735
+Experimentation,Qlab,26,BUGS,470,13138
+Experimentation,Qlab,26,SMELLS,249,13138
+Experimentation,PyQLab,0,BUGS,0,1
+Experimentation,PyQLab,0,SMELLS,0,1
+Experimentation,PyQLab,1,BUGS,3758,1398848
+Experimentation,PyQLab,1,SMELLS,24810,1398848
+Experimentation,PyQLab,2,BUGS,10,96372
+Experimentation,PyQLab,2,SMELLS,1367,96372
+Experimentation,PyQLab,3,BUGS,50,106647
+Experimentation,PyQLab,3,SMELLS,1615,106647
+Experimentation,PyQLab,4,BUGS,510,116040
+Experimentation,PyQLab,4,SMELLS,2684,116040
+Experimentation,PyQLab,5,BUGS,30,50515
+Experimentation,PyQLab,5,SMELLS,1021,50515
+Experimentation,PyQLab,6,BUGS,0,1
+Experimentation,PyQLab,6,SMELLS,0,1
+Experimentation,PyQLab,7,BUGS,0,1
+Experimentation,PyQLab,7,SMELLS,0,1
+Experimentation,PyQLab,8,BUGS,0,1
+Experimentation,PyQLab,8,SMELLS,0,1
+Experimentation,PyQLab,9,BUGS,0,1
+Experimentation,PyQLab,9,SMELLS,0,1
+Experimentation,PyQLab,10,BUGS,325,149164
+Experimentation,PyQLab,10,SMELLS,2952,149164
+Experimentation,PyQLab,11,BUGS,325,154403
+Experimentation,PyQLab,11,SMELLS,2996,154403
+Experimentation,PyQLab,12,BUGS,405,173106
+Experimentation,PyQLab,12,SMELLS,3370,173106
+Experimentation,PyQLab,13,BUGS,425,204412
+Experimentation,PyQLab,13,SMELLS,3570,204412
+Experimentation,PyQLab,14,BUGS,929,245393
+Experimentation,PyQLab,14,SMELLS,3789,245393
+Experimentation,PyQLab,15,BUGS,979,254342
+Experimentation,PyQLab,15,SMELLS,3916,254342
+Experimentation,PyQLab,16,BUGS,75,41041
+Experimentation,PyQLab,16,SMELLS,920,41041
+Experimentation,PyQLab,17,BUGS,75,43062
+Experimentation,PyQLab,17,SMELLS,931,43062
+Experimentation,PyQLab,18,BUGS,95,39004
+Experimentation,PyQLab,18,SMELLS,804,39004
+Experimentation,PyQLab,19,BUGS,105,39255
+Experimentation,PyQLab,19,SMELLS,804,39255
+Experimentation,pyEPR,0,BUGS,0,1
+Experimentation,pyEPR,0,SMELLS,0,1
+Experimentation,pyEPR,1,BUGS,35,130156
+Experimentation,pyEPR,1,SMELLS,817,130156
+Experimentation,pyEPR,2,BUGS,35,132108
+Experimentation,pyEPR,2,SMELLS,817,132108
+Experimentation,pyEPR,3,BUGS,45,142392
+Experimentation,pyEPR,3,SMELLS,961,142392
+Experimentation,pyEPR,4,BUGS,55,177089
+Experimentation,pyEPR,4,SMELLS,1130,177089
+Experimentation,pyEPR,5,BUGS,55,245601
+Experimentation,pyEPR,5,SMELLS,1466,245601
+Experimentation,pyEPR,6,BUGS,43,234276
+Experimentation,pyEPR,6,SMELLS,1566,234276
+Experimentation,pyEPR,7,BUGS,48,252891
+Experimentation,pyEPR,7,SMELLS,1624,252891
+Experimentation,pyEPR,8,BUGS,48,252943
+Experimentation,pyEPR,8,SMELLS,1629,252943
+Fun/ Game,quantum-game-2,0,BUGS,0,1
+Fun/ Game,quantum-game-2,0,SMELLS,0,1
+Fun/ Game,quantum-game-2,1,BUGS,36,36
+Fun/ Game,quantum-game-2,1,SMELLS,52,36
+Fun/ Game,quantum-game-2,2,BUGS,41,36
+Fun/ Game,quantum-game-2,2,SMELLS,47,36
+Fun/ Game,quantum-game-2,3,BUGS,47,36
+Fun/ Game,quantum-game-2,3,SMELLS,52,36
+Fun/ Game,QPong,0,BUGS,0,1786
+Fun/ Game,QPong,0,SMELLS,39,1786
+Fun/ Game,QPong,1,BUGS,60,4154
+Fun/ Game,QPong,1,SMELLS,341,4154
+Fun/ Game,QPong,2,BUGS,10,3304
+Fun/ Game,QPong,2,SMELLS,311,3304
+Fun/ Game,QPong,3,BUGS,10,3304
+Fun/ Game,QPong,3,SMELLS,311,3304
+Fun/ Game,QPong,4,BUGS,101692,1193440181
+Fun/ Game,QPong,4,SMELLS,24035,1193440181
+Fun/ Game,A_Game_to_Benchmark_Quantum_Computers,0,BUGS,0,1
+Fun/ Game,A_Game_to_Benchmark_Quantum_Computers,0,SMELLS,0,1
+Fun/ Game,A_Game_to_Benchmark_Quantum_Computers,1,BUGS,0,8785
+Fun/ Game,A_Game_to_Benchmark_Quantum_Computers,1,SMELLS,606,8785
+Fun/ Game,A_Game_to_Benchmark_Quantum_Computers,2,BUGS,0,62576
+Fun/ Game,A_Game_to_Benchmark_Quantum_Computers,2,SMELLS,1183,62576
+Fun/ Game,A_Game_to_Benchmark_Quantum_Computers,3,BUGS,0,152764
+Fun/ Game,A_Game_to_Benchmark_Quantum_Computers,3,SMELLS,1582,152764
+Fun/ Game,quantum-toy-piano-ibmq,0,BUGS,498,20148252
+Fun/ Game,quantum-toy-piano-ibmq,0,SMELLS,7232,20148252
+Fun/ Game,quantum-toy-piano-ibmq,1,BUGS,473,20155505
+Fun/ Game,quantum-toy-piano-ibmq,1,SMELLS,7361,20155505
+Fun/ Game,quantum-toy-piano-ibmq,2,BUGS,473,20156898
+Fun/ Game,quantum-toy-piano-ibmq,2,SMELLS,7382,20156898
+Fun/ Game,quantum-toy-piano-ibmq,3,BUGS,473,20157203
+Fun/ Game,quantum-toy-piano-ibmq,3,SMELLS,7398,20157203
+ToolKit,libint,0,BUGS,0,1
+ToolKit,libint,0,SMELLS,0,1
+ToolKit,libint,1,BUGS,0,1
+ToolKit,libint,1,SMELLS,0,1
+ToolKit,libint,2,BUGS,0,1
+ToolKit,libint,2,SMELLS,0,1
+ToolKit,libint,3,BUGS,40,590
+ToolKit,libint,3,SMELLS,15,590
+ToolKit,libint,4,BUGS,200,3703
+ToolKit,libint,4,SMELLS,50,3703
+ToolKit,libint,5,BUGS,80,1597
+ToolKit,libint,5,SMELLS,20,1597
+ToolKit,libint,6,BUGS,0,1
+ToolKit,libint,6,SMELLS,0,1
+ToolKit,libint,7,BUGS,0,1
+ToolKit,libint,7,SMELLS,0,1
+ToolKit,libint,8,BUGS,0,1
+ToolKit,libint,8,SMELLS,0,1
+ToolKit,libint,9,BUGS,0,1
+ToolKit,libint,9,SMELLS,0,1
+ToolKit,libint,10,BUGS,0,1
+ToolKit,libint,10,SMELLS,0,1
+ToolKit,libint,11,BUGS,0,1
+ToolKit,libint,11,SMELLS,0,1
+ToolKit,libint,12,BUGS,0,1
+ToolKit,libint,12,SMELLS,0,1
+ToolKit,libint,13,BUGS,0,1
+ToolKit,libint,13,SMELLS,0,1
+ToolKit,libint,14,BUGS,0,1
+ToolKit,libint,14,SMELLS,0,1
+ToolKit,libint,15,BUGS,0,1
+ToolKit,libint,15,SMELLS,0,1
+ToolKit,libint,16,BUGS,0,1
+ToolKit,libint,16,SMELLS,0,1
+ToolKit,libint,17,BUGS,0,1
+ToolKit,libint,17,SMELLS,0,1
+ToolKit,libint,18,BUGS,0,1
+ToolKit,libint,18,SMELLS,0,1
+ToolKit,libint,19,BUGS,0,1
+ToolKit,libint,19,SMELLS,0,1
+ToolKit,libint,20,BUGS,0,1
+ToolKit,libint,20,SMELLS,0,1
+ToolKit,libint,21,BUGS,0,1
+ToolKit,libint,21,SMELLS,0,1
+ToolKit,libint,22,BUGS,0,1
+ToolKit,libint,22,SMELLS,0,1
+ToolKit,libint,23,BUGS,0,1
+ToolKit,libint,23,SMELLS,0,1
+ToolKit,libint,24,BUGS,0,1
+ToolKit,libint,24,SMELLS,0,1
+ToolKit,libint,25,BUGS,0,1
+ToolKit,libint,25,SMELLS,0,1
+ToolKit,libint,26,BUGS,0,1
+ToolKit,libint,26,SMELLS,0,1
+ToolKit,libint,27,BUGS,0,1
+ToolKit,libint,27,SMELLS,0,1
+ToolKit,libint,28,BUGS,0,1
+ToolKit,libint,28,SMELLS,0,1
+ToolKit,libint,29,BUGS,0,1
+ToolKit,libint,29,SMELLS,0,1
+ToolKit,libint,30,BUGS,0,1
+ToolKit,libint,30,SMELLS,0,1
+ToolKit,libint,31,BUGS,0,1
+ToolKit,libint,31,SMELLS,0,1
+ToolKit,libint,32,BUGS,0,1
+ToolKit,libint,32,SMELLS,0,1
+ToolKit,libint,33,BUGS,0,1
+ToolKit,libint,33,SMELLS,0,1
+ToolKit,libint,34,BUGS,0,1
+ToolKit,libint,34,SMELLS,0,1
+ToolKit,libint,35,BUGS,0,1
+ToolKit,libint,35,SMELLS,0,1
+ToolKit,libint,36,BUGS,0,1
+ToolKit,libint,36,SMELLS,0,1
+ToolKit,libint,37,BUGS,10,123
+ToolKit,libint,37,SMELLS,5,123
+ToolKit,libint,38,BUGS,10,123
+ToolKit,libint,38,SMELLS,5,123
+ToolKit,libint,39,BUGS,20,346
+ToolKit,libint,39,SMELLS,5,346
+ToolKit,libint,40,BUGS,20,346
+ToolKit,libint,40,SMELLS,5,346
+ToolKit,libint,41,BUGS,20,346
+ToolKit,libint,41,SMELLS,5,346
+ToolKit,libint,42,BUGS,20,346
+ToolKit,libint,42,SMELLS,5,346
+ToolKit,libint,43,BUGS,20,379
+ToolKit,libint,43,SMELLS,5,379
+ToolKit,libint,44,BUGS,20,379
+ToolKit,libint,44,SMELLS,5,379
+ToolKit,libint,45,BUGS,20,379
+ToolKit,libint,45,SMELLS,5,379
+ToolKit,libint,46,BUGS,20,379
+ToolKit,libint,46,SMELLS,5,379
+ToolKit,libint,47,BUGS,20,379
+ToolKit,libint,47,SMELLS,5,379
+ToolKit,libint,48,BUGS,20,379
+ToolKit,libint,48,SMELLS,5,379
+ToolKit,libint,49,BUGS,20,400
+ToolKit,libint,49,SMELLS,5,400
+ToolKit,libint,50,BUGS,20,400
+ToolKit,libint,50,SMELLS,5,400
+ToolKit,libint,51,BUGS,20,400
+ToolKit,libint,51,SMELLS,5,400
+ToolKit,libint,52,BUGS,20,400
+ToolKit,libint,52,SMELLS,5,400
+ToolKit,libint,53,BUGS,20,400
+ToolKit,libint,53,SMELLS,5,400
+ToolKit,QuantumOptics.jl,0,BUGS,0,1
+ToolKit,QuantumOptics.jl,0,SMELLS,0,1
+ToolKit,QuantumOptics.jl,1,BUGS,0,1
+ToolKit,QuantumOptics.jl,1,SMELLS,0,1
+ToolKit,QuantumOptics.jl,2,BUGS,0,1
+ToolKit,QuantumOptics.jl,2,SMELLS,0,1
+ToolKit,QuantumOptics.jl,3,BUGS,0,1
+ToolKit,QuantumOptics.jl,3,SMELLS,0,1
+ToolKit,QuantumOptics.jl,4,BUGS,0,95
+ToolKit,QuantumOptics.jl,4,SMELLS,12,95
+ToolKit,QuantumOptics.jl,5,BUGS,0,93
+ToolKit,QuantumOptics.jl,5,SMELLS,12,93
+ToolKit,QuantumOptics.jl,6,BUGS,0,48
+ToolKit,QuantumOptics.jl,6,SMELLS,6,48
+ToolKit,QuantumOptics.jl,7,BUGS,0,48
+ToolKit,QuantumOptics.jl,7,SMELLS,6,48
+ToolKit,QuantumOptics.jl,8,BUGS,0,49
+ToolKit,QuantumOptics.jl,8,SMELLS,6,49
+ToolKit,QuantumOptics.jl,9,BUGS,0,1
+ToolKit,QuantumOptics.jl,9,SMELLS,0,1
+ToolKit,QuantumOptics.jl,10,BUGS,0,1
+ToolKit,QuantumOptics.jl,10,SMELLS,0,1
+ToolKit,QuantumOptics.jl,11,BUGS,0,1
+ToolKit,QuantumOptics.jl,11,SMELLS,0,1
+ToolKit,QuantumOptics.jl,12,BUGS,0,1
+ToolKit,QuantumOptics.jl,12,SMELLS,0,1
+ToolKit,QuantumOptics.jl,13,BUGS,0,1
+ToolKit,QuantumOptics.jl,13,SMELLS,0,1
+ToolKit,QuantumOptics.jl,14,BUGS,0,1
+ToolKit,QuantumOptics.jl,14,SMELLS,0,1
+ToolKit,QuantumOptics.jl,15,BUGS,0,1
+ToolKit,QuantumOptics.jl,15,SMELLS,0,1
+ToolKit,QuantumOptics.jl,16,BUGS,0,1
+ToolKit,QuantumOptics.jl,16,SMELLS,0,1
+ToolKit,QuantumOptics.jl,17,BUGS,0,1
+ToolKit,QuantumOptics.jl,17,SMELLS,0,1
+ToolKit,QuantumOptics.jl,18,BUGS,0,1
+ToolKit,QuantumOptics.jl,18,SMELLS,0,1
+ToolKit,QuantumOptics.jl,19,BUGS,0,1
+ToolKit,QuantumOptics.jl,19,SMELLS,0,1
+ToolKit,QuantumOptics.jl,20,BUGS,0,1
+ToolKit,QuantumOptics.jl,20,SMELLS,0,1
+ToolKit,quimb,0,BUGS,0,4209
+ToolKit,quimb,0,SMELLS,85,4209
+ToolKit,quimb,1,BUGS,1244,3369754
+ToolKit,quimb,1,SMELLS,30421,3369754
+ToolKit,quimb,2,BUGS,18,6745
+ToolKit,quimb,2,SMELLS,229,6745
+ToolKit,quimb,3,BUGS,128,19417
+ToolKit,quimb,3,SMELLS,435,19417
+ToolKit,quimb,4,BUGS,62,22509
+ToolKit,quimb,4,SMELLS,485,22509
+ToolKit,quimb,5,BUGS,62,23465
+ToolKit,quimb,5,SMELLS,522,23465
+ToolKit,quimb,6,BUGS,62,24622
+ToolKit,quimb,6,SMELLS,562,24622
+ToolKit,quimb,7,BUGS,66,34157
+ToolKit,quimb,7,SMELLS,661,34157
+ToolKit,quimb,8,BUGS,58,94053
+ToolKit,quimb,8,SMELLS,1333,94053
+ToolKit,quimb,9,BUGS,55,189969
+ToolKit,quimb,9,SMELLS,2023,189969
+ToolKit,quimb,10,BUGS,59,264616
+ToolKit,quimb,10,SMELLS,2555,264616
+ToolKit,quimb,11,BUGS,61,307806
+ToolKit,quimb,11,SMELLS,2963,307806
+ToolKit,quimb,12,BUGS,61,327846
+ToolKit,quimb,12,SMELLS,3148,327846
+ToolKit,quimb,13,BUGS,157,358438
+ToolKit,quimb,13,SMELLS,3352,358438
+ToolKit,quimb,14,BUGS,157,371464
+ToolKit,quimb,14,SMELLS,3429,371464
+ToolKit,quimb,15,BUGS,159,403281
+ToolKit,quimb,15,SMELLS,3595,403281
+ToolKit,quimb,16,BUGS,159,424848
+ToolKit,quimb,16,SMELLS,3572,424848
+ToolKit,quimb,17,BUGS,159,439613
+ToolKit,quimb,17,SMELLS,3760,439613
+ToolKit,quimb,18,BUGS,259,463723
+ToolKit,quimb,18,SMELLS,3772,463723
+ToolKit,pennylane,0,BUGS,0,59
+ToolKit,pennylane,0,SMELLS,6,59
+ToolKit,pennylane,1,BUGS,0,3714
+ToolKit,pennylane,1,SMELLS,103,3714
+ToolKit,pennylane,2,BUGS,270,73582
+ToolKit,pennylane,2,SMELLS,847,73582
+ToolKit,pennylane,3,BUGS,285,80859
+ToolKit,pennylane,3,SMELLS,1072,80859
+ToolKit,pennylane,4,BUGS,279,96065
+ToolKit,pennylane,4,SMELLS,1432,96065
+ToolKit,pennylane,5,BUGS,289,133927
+ToolKit,pennylane,5,SMELLS,1894,133927
+ToolKit,pennylane,6,BUGS,312,171354
+ToolKit,pennylane,6,SMELLS,1975,171354
+ToolKit,pennylane,7,BUGS,367,197709
+ToolKit,pennylane,7,SMELLS,3238,197709
+ToolKit,pennylane,8,BUGS,368,220210
+ToolKit,pennylane,8,SMELLS,3488,220210
+ToolKit,pennylane,9,BUGS,535,304176
+ToolKit,pennylane,9,SMELLS,4558,304176
+ToolKit,QPanda-2,0,BUGS,0,1
+ToolKit,QPanda-2,0,SMELLS,0,1
+ToolKit,QPanda-2,1,BUGS,0,1
+ToolKit,QPanda-2,1,SMELLS,0,1
+ToolKit,QPanda-2,2,BUGS,1180,31213
+ToolKit,QPanda-2,2,SMELLS,961,31213
+ToolKit,QPanda-2,3,BUGS,1130,29966
+ToolKit,QPanda-2,3,SMELLS,841,29966
+ToolKit,QPanda-2,4,BUGS,900,27292
+ToolKit,QPanda-2,4,SMELLS,725,27292
+ToolKit,QPanda-2,5,BUGS,2055,56202
+ToolKit,QPanda-2,5,SMELLS,1268,56202
+ToolKit,QPanda-2,6,BUGS,2075,57610
+ToolKit,QPanda-2,6,SMELLS,1293,57610
+ToolKit,QPanda-2,7,BUGS,2125,56928
+ToolKit,QPanda-2,7,SMELLS,1308,56928
+ToolKit,QPanda-2,8,BUGS,2125,56928
+ToolKit,QPanda-2,8,SMELLS,1308,56928
+ToolKit,quantum,0,BUGS,15,24170
+ToolKit,quantum,0,SMELLS,409,24170
+ToolKit,quantum,1,BUGS,6622,2533654
+ToolKit,quantum,1,SMELLS,35905,2533654
+ToolKit,quantum,2,BUGS,0,1
+ToolKit,quantum,2,SMELLS,0,1
+ToolKit,quantum,3,BUGS,0,1
+ToolKit,quantum,3,SMELLS,0,1
+ToolKit,quantum,4,BUGS,0,1
+ToolKit,quantum,4,SMELLS,0,1
+ToolKit,quantum,5,BUGS,0,1
+ToolKit,quantum,5,SMELLS,0,1
+ToolKit,quantum,6,BUGS,0,1
+ToolKit,quantum,6,SMELLS,0,1
+ToolKit,quantum,7,BUGS,0,1
+ToolKit,quantum,7,SMELLS,0,1
+ToolKit,quantum,8,BUGS,0,1
+ToolKit,quantum,8,SMELLS,0,1
+ToolKit,forest-benchmarking,0,BUGS,25,31434
+ToolKit,forest-benchmarking,0,SMELLS,644,31434
+ToolKit,forest-benchmarking,1,BUGS,30,48233
+ToolKit,forest-benchmarking,1,SMELLS,1020,48233
+ToolKit,forest-benchmarking,2,BUGS,20,44809
+ToolKit,forest-benchmarking,2,SMELLS,1083,44809
+ToolKit,forest-benchmarking,3,BUGS,10,45486
+ToolKit,forest-benchmarking,3,SMELLS,1184,45486
+ToolKit,forest-benchmarking,4,BUGS,10,45486
+ToolKit,forest-benchmarking,4,SMELLS,1184,45486
+ToolKit,python-qinfer,0,BUGS,0,1
+ToolKit,python-qinfer,0,SMELLS,0,1
+ToolKit,python-qinfer,1,BUGS,1955,308282
+ToolKit,python-qinfer,1,SMELLS,7391,308282
+ToolKit,python-qinfer,2,BUGS,20,11184
+ToolKit,python-qinfer,2,SMELLS,400,11184
+ToolKit,python-qinfer,3,BUGS,20,16904
+ToolKit,python-qinfer,3,SMELLS,537,16904
+ToolKit,python-qinfer,4,BUGS,30,17258
+ToolKit,python-qinfer,4,SMELLS,537,17258
+ToolKit,python-qinfer,5,BUGS,30,17778
+ToolKit,python-qinfer,5,SMELLS,549,17778
+ToolKit,python-qinfer,6,BUGS,20,21672
+ToolKit,python-qinfer,6,SMELLS,612,21672
+ToolKit,python-qinfer,7,BUGS,20,22739
+ToolKit,python-qinfer,7,SMELLS,645,22739
+ToolKit,python-qinfer,8,BUGS,20,23671
+ToolKit,python-qinfer,8,SMELLS,661,23671
+ToolKit,python-qinfer,9,BUGS,80,28826
+ToolKit,python-qinfer,9,SMELLS,869,28826
+ToolKit,python-qinfer,10,BUGS,80,30634
+ToolKit,python-qinfer,10,SMELLS,926,30634
+ToolKit,python-qinfer,11,BUGS,90,31668
+ToolKit,python-qinfer,11,SMELLS,974,31668
+ToolKit,python-qinfer,12,BUGS,90,24085
+ToolKit,python-qinfer,12,SMELLS,774,24085
+ToolKit,python-qinfer,13,BUGS,50,20290
+ToolKit,python-qinfer,13,SMELLS,655,20290
+ToolKit,python-qinfer,14,BUGS,310,30734
+ToolKit,python-qinfer,14,SMELLS,653,30734
+ToolKit,python-qinfer,15,BUGS,253,31651
+ToolKit,python-qinfer,15,SMELLS,617,31651
+ToolKit,python-qinfer,16,BUGS,253,33679
+ToolKit,python-qinfer,16,SMELLS,658,33679
+ToolKit,python-qinfer,17,BUGS,253,33703
+ToolKit,python-qinfer,17,SMELLS,658,33703
+ToolKit,python-qinfer,18,BUGS,293,35065
+ToolKit,python-qinfer,18,SMELLS,657,35065
+ToolKit,python-qinfer,19,BUGS,263,34344
+ToolKit,python-qinfer,19,SMELLS,654,34344
+ToolKit,QGIS-visibility-analysis,0,BUGS,0,1
+ToolKit,QGIS-visibility-analysis,0,SMELLS,0,1
+ToolKit,QGIS-visibility-analysis,1,BUGS,0,29414
+ToolKit,QGIS-visibility-analysis,1,SMELLS,701,29414
+ToolKit,QGIS-visibility-analysis,2,BUGS,0,32516
+ToolKit,QGIS-visibility-analysis,2,SMELLS,710,32516
+ToolKit,QGIS-visibility-analysis,3,BUGS,0,39256
+ToolKit,QGIS-visibility-analysis,3,SMELLS,832,39256
+ToolKit,QGIS-visibility-analysis,4,BUGS,0,39597
+ToolKit,QGIS-visibility-analysis,4,SMELLS,844,39597
+ToolKit,QGIS-visibility-analysis,5,BUGS,0,17228
+ToolKit,QGIS-visibility-analysis,5,SMELLS,415,17228
+ToolKit,QGIS-visibility-analysis,6,BUGS,0,17513
+ToolKit,QGIS-visibility-analysis,6,SMELLS,423,17513
+ToolKit,QUBEKit,0,BUGS,0,336
+ToolKit,QUBEKit,0,SMELLS,23,336
+ToolKit,QUBEKit,1,BUGS,10,48944
+ToolKit,QUBEKit,1,SMELLS,1519,48944
+ToolKit,QUBEKit,2,BUGS,70,38319
+ToolKit,QUBEKit,2,SMELLS,721,38319
+ToolKit,QUBEKit,3,BUGS,355,48282
+ToolKit,QUBEKit,3,SMELLS,602,48282
+ToolKit,QUBEKit,4,BUGS,65,33053
+ToolKit,QUBEKit,4,SMELLS,662,33053
+ToolKit,QUBEKit,5,BUGS,45,34339
+ToolKit,QUBEKit,5,SMELLS,746,34339
+ToolKit,QUBEKit,6,BUGS,45,30698
+ToolKit,QUBEKit,6,SMELLS,770,30698
+ToolKit,QUBEKit,7,BUGS,45,31509
+ToolKit,QUBEKit,7,SMELLS,803,31509
+ToolKit,quantum,0,BUGS,0,10424
+ToolKit,quantum,0,SMELLS,555,10424
+ToolKit,quantum,1,BUGS,20,11878
+ToolKit,quantum,1,SMELLS,535,11878
+ToolKit,quantum,2,BUGS,20,13028
+ToolKit,quantum,2,SMELLS,559,13028
+ToolKit,triqs,0,BUGS,510,2442062
+ToolKit,triqs,0,SMELLS,4874,2442062
+ToolKit,triqs,1,BUGS,5192,3318860
+ToolKit,triqs,1,SMELLS,41445,3318860
+ToolKit,triqs,2,BUGS,445,2436685
+ToolKit,triqs,2,SMELLS,4423,2436685
+ToolKit,triqs,3,BUGS,0,1
+ToolKit,triqs,3,SMELLS,0,1
+ToolKit,triqs,4,BUGS,0,1
+ToolKit,triqs,4,SMELLS,0,1
+ToolKit,triqs,5,BUGS,0,1
+ToolKit,triqs,5,SMELLS,0,1
+ToolKit,triqs,6,BUGS,0,1
+ToolKit,triqs,6,SMELLS,0,1
+ToolKit,triqs,7,BUGS,0,1
+ToolKit,triqs,7,SMELLS,0,1
+ToolKit,triqs,8,BUGS,0,1
+ToolKit,triqs,8,SMELLS,0,1
+ToolKit,triqs,9,BUGS,0,1
+ToolKit,triqs,9,SMELLS,0,1
+ToolKit,triqs,10,BUGS,695,83797
+ToolKit,triqs,10,SMELLS,3268,83797
+ToolKit,triqs,11,BUGS,695,84901
+ToolKit,triqs,11,SMELLS,3319,84901
+ToolKit,triqs,12,BUGS,705,85418
+ToolKit,triqs,12,SMELLS,3560,85418
+ToolKit,triqs,13,BUGS,699,86344
+ToolKit,triqs,13,SMELLS,3600,86344
+ToolKit,triqs,14,BUGS,709,88134
+ToolKit,triqs,14,SMELLS,3664,88134
+ToolKit,triqs,15,BUGS,239,97530
+ToolKit,triqs,15,SMELLS,3994,97530
+ToolKit,triqs,16,BUGS,249,99139
+ToolKit,triqs,16,SMELLS,4026,99139
+ToolKit,triqs,17,BUGS,249,79955
+ToolKit,triqs,17,SMELLS,3569,79955
+ToolKit,triqs,18,BUGS,189,80359
+ToolKit,triqs,18,SMELLS,3632,80359
+ToolKit,triqs,19,BUGS,198,79168
+ToolKit,triqs,19,SMELLS,3667,79168
+ToolKit,triqs,20,BUGS,0,1
+ToolKit,triqs,20,SMELLS,0,1
+ToolKit,triqs,21,BUGS,0,1
+ToolKit,triqs,21,SMELLS,0,1
+ToolKit,triqs,22,BUGS,0,1
+ToolKit,triqs,22,SMELLS,0,1
+ToolKit,triqs,23,BUGS,0,1
+ToolKit,triqs,23,SMELLS,0,1
+ToolKit,triqs,24,BUGS,0,1
+ToolKit,triqs,24,SMELLS,0,1
+ToolKit,triqs,25,BUGS,0,1
+ToolKit,triqs,25,SMELLS,0,1
+ToolKit,triqs,26,BUGS,0,1
+ToolKit,triqs,26,SMELLS,0,1
+ToolKit,triqs,27,BUGS,0,1
+ToolKit,triqs,27,SMELLS,0,1
+ToolKit,qtt,0,BUGS,0,1
+ToolKit,qtt,0,SMELLS,0,1
+ToolKit,qtt,1,BUGS,2584,4174078
+ToolKit,qtt,1,SMELLS,57386,4174078
+ToolKit,qtt,2,BUGS,1046,858522
+ToolKit,qtt,2,SMELLS,7373,858522
+ToolKit,qtt,3,BUGS,1201,1016361
+ToolKit,qtt,3,SMELLS,8478,1016361
+ToolKit,qtt,4,BUGS,408,317893
+ToolKit,qtt,4,SMELLS,3880,317893
+ToolKit,qtt,5,BUGS,0,1
+ToolKit,qtt,5,SMELLS,0,1
+ToolKit,qtt,6,BUGS,0,1
+ToolKit,qtt,6,SMELLS,0,1
+ToolKit,qtt,7,BUGS,0,1
+ToolKit,qtt,7,SMELLS,0,1
+ToolKit,qtt,8,BUGS,0,1
+ToolKit,qtt,8,SMELLS,0,1
+ToolKit,qtt,9,BUGS,0,1
+ToolKit,qtt,9,SMELLS,0,1
+ToolKit,qtt,10,BUGS,279,728632
+ToolKit,qtt,10,SMELLS,9297,728632
+ToolKit,qtt,11,BUGS,293,663417
+ToolKit,qtt,11,SMELLS,9000,663417
+ToolKit,qtt,12,BUGS,290,676719
+ToolKit,qtt,12,SMELLS,9184,676719
+ToolKit,qtt,13,BUGS,310,672581
+ToolKit,qtt,13,SMELLS,9211,672581
+ToolKit,qtt,14,BUGS,296,634277
+ToolKit,qtt,14,SMELLS,8938,634277
+ToolKit,qtt,15,BUGS,296,635601
+ToolKit,qtt,15,SMELLS,8943,635601
+ToolKit,quantumrandom,0,BUGS,0,1
+ToolKit,quantumrandom,0,SMELLS,0,1
+ToolKit,quantumrandom,1,BUGS,0,920
+ToolKit,quantumrandom,1,SMELLS,125,920
+ToolKit,quantumrandom,2,BUGS,0,960
+ToolKit,quantumrandom,2,SMELLS,125,960
+ToolKit,quantumrandom,3,BUGS,0,1209
+ToolKit,quantumrandom,3,SMELLS,120,1209
+ToolKit,quantumrandom,4,BUGS,0,1315
+ToolKit,quantumrandom,4,SMELLS,125,1315
+ToolKit,qucat,0,BUGS,0,1
+ToolKit,qucat,0,SMELLS,0,1
+ToolKit,qucat,1,BUGS,20,101273
+ToolKit,qucat,1,SMELLS,515,101273
+ToolKit,qucat,2,BUGS,563,1638360
+ToolKit,qucat,2,SMELLS,3109,1638360
+ToolKit,qucat,3,BUGS,574,1652393
+ToolKit,qucat,3,SMELLS,3246,1652393
+ToolKit,qucat,4,BUGS,450,1613744
+ToolKit,qucat,4,SMELLS,2718,1613744
+ToolKit,qucat,5,BUGS,450,1613744
+ToolKit,qucat,5,SMELLS,2718,1613744
+ToolKit,qiskit-ignis,0,BUGS,0,1
+ToolKit,qiskit-ignis,0,SMELLS,0,1
+ToolKit,qiskit-ignis,1,BUGS,0,1244
+ToolKit,qiskit-ignis,1,SMELLS,168,1244
+ToolKit,qiskit-ignis,2,BUGS,0,1755
+ToolKit,qiskit-ignis,2,SMELLS,256,1755
+ToolKit,qiskit-ignis,3,BUGS,10,10661
+ToolKit,qiskit-ignis,3,SMELLS,706,10661
+ToolKit,qiskit-ignis,4,BUGS,10,32576
+ToolKit,qiskit-ignis,4,SMELLS,1260,32576
+ToolKit,qiskit-ignis,5,BUGS,10,39316
+ToolKit,qiskit-ignis,5,SMELLS,1554,39316
+ToolKit,qiskit-ignis,6,BUGS,10,67736
+ToolKit,qiskit-ignis,6,SMELLS,1723,67736
+ToolKit,qiskit-ignis,7,BUGS,10,84263
+ToolKit,qiskit-ignis,7,SMELLS,1911,84263
+ToolKit,qiskit-ignis,8,BUGS,0,86837
+ToolKit,qiskit-ignis,8,SMELLS,2064,86837
+ToolKit,orbkit,0,BUGS,70,166448
+ToolKit,orbkit,0,SMELLS,1383,166448
+ToolKit,orbkit,1,BUGS,11910,2467150
+ToolKit,orbkit,1,SMELLS,46112,2467150
+ToolKit,orbkit,2,BUGS,9537,1277385
+ToolKit,orbkit,2,SMELLS,2790,1277385
+ToolKit,orbkit,3,BUGS,10612,2009354
+ToolKit,orbkit,3,SMELLS,3757,2009354
+ToolKit,orbkit,4,BUGS,10702,2042005
+ToolKit,orbkit,4,SMELLS,3902,2042005
+ToolKit,orbkit,5,BUGS,12446,1887603
+ToolKit,orbkit,5,SMELLS,4047,1887603
+ToolKit,orbkit,6,BUGS,13601,1999444
+ToolKit,orbkit,6,SMELLS,1258,1999444
+ToolKit,orbkit,7,BUGS,0,1
+ToolKit,orbkit,7,SMELLS,0,1
+ToolKit,orbkit,8,BUGS,0,1
+ToolKit,orbkit,8,SMELLS,0,1
+ToolKit,orbkit,9,BUGS,0,1
+ToolKit,orbkit,9,SMELLS,0,1
+ToolKit,orbkit,10,BUGS,312,203270
+ToolKit,orbkit,10,SMELLS,3467,203270
+ToolKit,orbkit,11,BUGS,392,217222
+ToolKit,orbkit,11,SMELLS,3652,217222
+ToolKit,orbkit,12,BUGS,632,103904
+ToolKit,orbkit,12,SMELLS,3567,103904
+ToolKit,orbkit,13,BUGS,512,114831
+ToolKit,orbkit,13,SMELLS,3883,114831
+ToolKit,orbkit,14,BUGS,657,172695
+ToolKit,orbkit,14,SMELLS,4854,172695
+ToolKit,orbkit,15,BUGS,545,167896
+ToolKit,orbkit,15,SMELLS,4746,167896
+ToolKit,orbkit,16,BUGS,555,169137
+ToolKit,orbkit,16,SMELLS,4832,169137
+ToolKit,orbkit,17,BUGS,485,167651
+ToolKit,orbkit,17,SMELLS,4847,167651
+ToolKit,orbkit,18,BUGS,478,167165
+ToolKit,orbkit,18,SMELLS,4861,167165
+ToolKit,orbkit,19,BUGS,478,169192
+ToolKit,orbkit,19,SMELLS,4793,169192
+ToolKit,deepchem,0,BUGS,0,1
+ToolKit,deepchem,0,SMELLS,0,1
+ToolKit,deepchem,1,BUGS,6478,10291295
+ToolKit,deepchem,1,SMELLS,47701,10291295
+ToolKit,deepchem,2,BUGS,0,1
+ToolKit,deepchem,2,SMELLS,0,1
+ToolKit,deepchem,3,BUGS,0,1
+ToolKit,deepchem,3,SMELLS,0,1
+ToolKit,deepchem,4,BUGS,0,1
+ToolKit,deepchem,4,SMELLS,0,1
+ToolKit,deepchem,5,BUGS,0,1
+ToolKit,deepchem,5,SMELLS,0,1
+ToolKit,deepchem,6,BUGS,0,1
+ToolKit,deepchem,6,SMELLS,0,1
+ToolKit,deepchem,7,BUGS,0,1
+ToolKit,deepchem,7,SMELLS,0,1
+ToolKit,deepchem,8,BUGS,0,1
+ToolKit,deepchem,8,SMELLS,0,1
+ToolKit,deepchem,9,BUGS,0,1
+ToolKit,deepchem,9,SMELLS,0,1
+ToolKit,deepchem,10,BUGS,1304,2038513
+ToolKit,deepchem,10,SMELLS,9358,2038513
+ToolKit,deepchem,11,BUGS,1304,2049918
+ToolKit,deepchem,11,SMELLS,9311,2049918
+ToolKit,deepchem,12,BUGS,1284,2055352
+ToolKit,deepchem,12,SMELLS,9576,2055352
+ToolKit,deepchem,13,BUGS,1284,2072319
+ToolKit,deepchem,13,SMELLS,9619,2072319
+ToolKit,deepchem,14,BUGS,1292,2040174
+ToolKit,deepchem,14,SMELLS,9229,2040174
+ToolKit,deepchem,15,BUGS,0,2490
+ToolKit,deepchem,15,SMELLS,141,2490
+ToolKit,deepchem,16,BUGS,0,1
+ToolKit,deepchem,16,SMELLS,0,1
+ToolKit,deepchem,17,BUGS,0,1
+ToolKit,deepchem,17,SMELLS,0,1
+ToolKit,deepchem,18,BUGS,0,1
+ToolKit,deepchem,18,SMELLS,0,1
+ToolKit,deepchem,19,BUGS,0,1
+ToolKit,deepchem,19,SMELLS,0,1
+ToolKit,aiida-quantumespresso,0,BUGS,62,113449
+ToolKit,aiida-quantumespresso,0,SMELLS,2592,113449
+ToolKit,aiida-quantumespresso,1,BUGS,122,284863
+ToolKit,aiida-quantumespresso,1,SMELLS,11144,284863
+ToolKit,aiida-quantumespresso,2,BUGS,207,146266
+ToolKit,aiida-quantumespresso,2,SMELLS,3711,146266
+ToolKit,aiida-quantumespresso,3,BUGS,567,172531
+ToolKit,aiida-quantumespresso,3,SMELLS,4977,172531
+ToolKit,aiida-quantumespresso,4,BUGS,462,169194
+ToolKit,aiida-quantumespresso,4,SMELLS,5854,169194
+ToolKit,aiida-quantumespresso,5,BUGS,477,169307
+ToolKit,aiida-quantumespresso,5,SMELLS,5868,169307
+ToolKit,aiida-quantumespresso,6,BUGS,425,171098
+ToolKit,aiida-quantumespresso,6,SMELLS,5957,171098
+ToolKit,aiida-quantumespresso,7,BUGS,455,162950
+ToolKit,aiida-quantumespresso,7,SMELLS,5795,162950
+ToolKit,aiida-quantumespresso,8,BUGS,150,103403
+ToolKit,aiida-quantumespresso,8,SMELLS,3112,103403
+ToolKit,aiida-quantumespresso,9,BUGS,60,59693
+ToolKit,aiida-quantumespresso,9,SMELLS,2721,59693
+ToolKit,aiida-quantumespresso,10,BUGS,10,56019
+ToolKit,aiida-quantumespresso,10,SMELLS,2738,56019
+ToolKit,aiida-quantumespresso,11,BUGS,25,57345
+ToolKit,aiida-quantumespresso,11,SMELLS,2866,57345
+ToolKit,aiida-quantumespresso,12,BUGS,25,58053
+ToolKit,aiida-quantumespresso,12,SMELLS,2948,58053
+Quantum Algorithsm,qrefine,0,BUGS,0,1
+Quantum Algorithsm,qrefine,0,SMELLS,0,1
+Quantum Algorithsm,qrefine,1,BUGS,3305,1094401
+Quantum Algorithsm,qrefine,1,SMELLS,15790,1094401
+Quantum Algorithsm,qrefine,2,BUGS,145,197770
+Quantum Algorithsm,qrefine,2,SMELLS,3771,197770
+Quantum Algorithsm,qrefine,3,BUGS,260,270897
+Quantum Algorithsm,qrefine,3,SMELLS,4518,270897
+Quantum Algorithsm,qrefine,4,BUGS,275,298427
+Quantum Algorithsm,qrefine,4,SMELLS,4877,298427
+Quantum Algorithsm,qrefine,5,BUGS,314,340369
+Quantum Algorithsm,qrefine,5,SMELLS,5402,340369
+Quantum Algorithsm,qrefine,6,BUGS,454,369802
+Quantum Algorithsm,qrefine,6,SMELLS,5615,369802
+Quantum Algorithsm,qrefine,7,BUGS,1570,464169
+Quantum Algorithsm,qrefine,7,SMELLS,6180,464169
+Quantum Algorithsm,qrefine,8,BUGS,1570,468578
+Quantum Algorithsm,qrefine,8,SMELLS,6216,468578
+Quantum Algorithsm,qrefine,9,BUGS,1530,440951
+Quantum Algorithsm,qrefine,9,SMELLS,5454,440951
+Quantum Algorithsm,qrefine,10,BUGS,1580,468747
+Quantum Algorithsm,qrefine,10,SMELLS,6198,468747
+Quantum Algorithsm,qrefine,11,BUGS,1580,469922
+Quantum Algorithsm,qrefine,11,SMELLS,6219,469922
+Quantum Algorithsm,QNET,0,BUGS,0,1
+Quantum Algorithsm,QNET,0,SMELLS,0,1
+Quantum Algorithsm,QNET,1,BUGS,4274,2716712
+Quantum Algorithsm,QNET,1,SMELLS,33116,2716712
+Quantum Algorithsm,QNET,2,BUGS,333,576188
+Quantum Algorithsm,QNET,2,SMELLS,8737,576188
+Quantum Algorithsm,QNET,3,BUGS,78,117522
+Quantum Algorithsm,QNET,3,SMELLS,1753,117522
+Quantum Algorithsm,QNET,4,BUGS,362,123308
+Quantum Algorithsm,QNET,4,SMELLS,1947,123308
+Quantum Algorithsm,QNET,5,BUGS,362,123301
+Quantum Algorithsm,QNET,5,SMELLS,1947,123301
+Quantum Algorithsm,QNET,6,BUGS,457,125754
+Quantum Algorithsm,QNET,6,SMELLS,2003,125754
+Quantum Algorithsm,QNET,7,BUGS,457,133033
+Quantum Algorithsm,QNET,7,SMELLS,2106,133033
+Quantum Algorithsm,QNET,8,BUGS,362,124768
+Quantum Algorithsm,QNET,8,SMELLS,1953,124768
+Quantum Algorithsm,QNET,9,BUGS,497,161875
+Quantum Algorithsm,QNET,9,SMELLS,2158,161875
+Quantum Algorithsm,QNET,10,BUGS,567,160652
+Quantum Algorithsm,QNET,10,SMELLS,1893,160652
+Quantum Algorithsm,QNET,11,BUGS,567,163507
+Quantum Algorithsm,QNET,11,SMELLS,1900,163507
+Quantum Algorithsm,QNET,12,BUGS,617,171514
+Quantum Algorithsm,QNET,12,SMELLS,1930,171514
+Quantum Algorithsm,QNET,13,BUGS,557,267930
+Quantum Algorithsm,QNET,13,SMELLS,2961,267930
+Quantum Algorithsm,QNET,14,BUGS,557,268778
+Quantum Algorithsm,QNET,14,SMELLS,2968,268778
+Quantum Algorithsm,QNET,15,BUGS,325,264804
+Quantum Algorithsm,QNET,15,SMELLS,3288,264804
+Quantum Algorithsm,QNET,16,BUGS,265,279496
+Quantum Algorithsm,QNET,16,SMELLS,3415,279496
+Quantum Algorithsm,QNET,17,BUGS,255,294472
+Quantum Algorithsm,QNET,17,SMELLS,3481,294472
+Quantum Algorithsm,QNET,18,BUGS,257,297749
+Quantum Algorithsm,QNET,18,SMELLS,3504,297749
+Quantum Algorithsm,QNET,19,BUGS,274,326587
+Quantum Algorithsm,QNET,19,SMELLS,3899,326587
+Quantum Algorithsm,QNET,20,BUGS,100,222334
+Quantum Algorithsm,QNET,20,SMELLS,2939,222334
+Quantum Algorithsm,QNET,21,BUGS,100,235371
+Quantum Algorithsm,QNET,21,SMELLS,3109,235371
+Quantum Algorithsm,qiskit-aqua,0,BUGS,0,1
+Quantum Algorithsm,qiskit-aqua,0,SMELLS,0,1
+Quantum Algorithsm,qiskit-aqua,1,BUGS,78,126253
+Quantum Algorithsm,qiskit-aqua,1,SMELLS,2787,126253
+Quantum Algorithsm,qiskit-aqua,2,BUGS,38,101422
+Quantum Algorithsm,qiskit-aqua,2,SMELLS,2740,101422
+Quantum Algorithsm,qiskit-aqua,3,BUGS,30,85697
+Quantum Algorithsm,qiskit-aqua,3,SMELLS,3385,85697
+Quantum Algorithsm,qiskit-aqua,4,BUGS,5,110149
+Quantum Algorithsm,qiskit-aqua,4,SMELLS,4028,110149
+Quantum Algorithsm,qiskit-aqua,5,BUGS,70,206764
+Quantum Algorithsm,qiskit-aqua,5,SMELLS,6539,206764
+Quantum Algorithsm,qiskit-aqua,6,BUGS,70,139711
+Quantum Algorithsm,qiskit-aqua,6,SMELLS,5729,139711
+Quantum Algorithsm,qiskit-aqua,7,BUGS,70,115299
+Quantum Algorithsm,qiskit-aqua,7,SMELLS,5129,115299
+Quantum Algorithsm,qiskit-aqua,8,BUGS,148,137875
+Quantum Algorithsm,qiskit-aqua,8,SMELLS,6011,137875
+Quantum Algorithsm,qiskit-aqua,9,BUGS,236,154425
+Quantum Algorithsm,qiskit-aqua,9,SMELLS,5927,154425
+Quantum Algorithsm,OpenFermion,0,BUGS,392,54656
+Quantum Algorithsm,OpenFermion,0,SMELLS,1256,54656
+Quantum Algorithsm,OpenFermion,1,BUGS,584,214227
+Quantum Algorithsm,OpenFermion,1,SMELLS,6609,214227
+Quantum Algorithsm,OpenFermion,2,BUGS,105,65173
+Quantum Algorithsm,OpenFermion,2,SMELLS,1850,65173
+Quantum Algorithsm,OpenFermion,3,BUGS,175,80543
+Quantum Algorithsm,OpenFermion,3,SMELLS,2075,80543
+Quantum Algorithsm,OpenFermion,4,BUGS,175,86919
+Quantum Algorithsm,OpenFermion,4,SMELLS,2143,86919
+Quantum Algorithsm,OpenFermion,5,BUGS,185,90056
+Quantum Algorithsm,OpenFermion,5,SMELLS,2219,90056
+Quantum Algorithsm,OpenFermion,6,BUGS,185,90280
+Quantum Algorithsm,OpenFermion,6,SMELLS,2221,90280
+Quantum Algorithsm,OpenFermion,7,BUGS,205,93751
+Quantum Algorithsm,OpenFermion,7,SMELLS,2280,93751
+Quantum Algorithsm,OpenFermion,8,BUGS,205,94525
+Quantum Algorithsm,OpenFermion,8,SMELLS,2345,94525
+Quantum Algorithsm,OpenFermion,9,BUGS,205,94530
+Quantum Algorithsm,OpenFermion,9,SMELLS,2353,94530
+Quantum Algorithsm,OpenFermion,10,BUGS,205,75933
+Quantum Algorithsm,OpenFermion,10,SMELLS,2240,75933
+Quantum Algorithsm,OpenFermion,11,BUGS,27,73718
+Quantum Algorithsm,OpenFermion,11,SMELLS,2678,73718
+Quantum Algorithsm,grove,0,BUGS,0,1
+Quantum Algorithsm,grove,0,SMELLS,0,1
+Quantum Algorithsm,grove,1,BUGS,0,3720
+Quantum Algorithsm,grove,1,SMELLS,246,3720
+Quantum Algorithsm,grove,2,BUGS,0,3859
+Quantum Algorithsm,grove,2,SMELLS,269,3859
+Quantum Algorithsm,grove,3,BUGS,30,5544
+Quantum Algorithsm,grove,3,SMELLS,224,5544
+Quantum Algorithsm,grove,4,BUGS,30,8571
+Quantum Algorithsm,grove,4,SMELLS,324,8571
+Quantum Algorithsm,grove,5,BUGS,30,9020
+Quantum Algorithsm,grove,5,SMELLS,354,9020
+Quantum Algorithsm,grove,6,BUGS,30,8585
+Quantum Algorithsm,grove,6,SMELLS,351,8585
+Quantum Algorithsm,grove,7,BUGS,30,8735
+Quantum Algorithsm,grove,7,SMELLS,358,8735
+Quantum Algorithsm,netket,0,BUGS,0,1
+Quantum Algorithsm,netket,0,SMELLS,0,1
+Quantum Algorithsm,netket,1,BUGS,0,341
+Quantum Algorithsm,netket,1,SMELLS,40,341
+Quantum Algorithsm,netket,2,BUGS,0,425
+Quantum Algorithsm,netket,2,SMELLS,50,425
+Quantum Algorithsm,netket,3,BUGS,20,5535
+Quantum Algorithsm,netket,3,SMELLS,274,5535
+Quantum Algorithsm,netket,4,BUGS,50,6210
+Quantum Algorithsm,netket,4,SMELLS,318,6210
+Quantum Algorithsm,netket,5,BUGS,30,7290
+Quantum Algorithsm,netket,5,SMELLS,433,7290
+Quantum Algorithsm,netket,6,BUGS,30,8922
+Quantum Algorithsm,netket,6,SMELLS,515,8922
+Quantum Algorithsm,netket,7,BUGS,20,6897
+Quantum Algorithsm,netket,7,SMELLS,480,6897
+Quantum Algorithsm,netket,8,BUGS,45,13051
+Quantum Algorithsm,netket,8,SMELLS,742,13051
+Quantum Algorithsm,thewalrus,0,BUGS,0,1
+Quantum Algorithsm,thewalrus,0,SMELLS,0,1
+Quantum Algorithsm,thewalrus,1,BUGS,272,31982
+Quantum Algorithsm,thewalrus,1,SMELLS,164,31982
+Quantum Algorithsm,thewalrus,2,BUGS,272,39963
+Quantum Algorithsm,thewalrus,2,SMELLS,369,39963
+Quantum Algorithsm,thewalrus,3,BUGS,272,52486
+Quantum Algorithsm,thewalrus,3,SMELLS,602,52486
+Quantum Algorithsm,thewalrus,4,BUGS,277,57388
+Quantum Algorithsm,thewalrus,4,SMELLS,637,57388
+Quantum Algorithsm,thewalrus,5,BUGS,282,81463
+Quantum Algorithsm,thewalrus,5,SMELLS,1053,81463
+Quantum Algorithsm,thewalrus,6,BUGS,262,92240
+Quantum Algorithsm,thewalrus,6,SMELLS,870,92240
+Quantum Algorithsm,thewalrus,7,BUGS,322,99794
+Quantum Algorithsm,thewalrus,7,SMELLS,857,99794
+Quantum Algorithsm,krotov,0,BUGS,0,370
+Quantum Algorithsm,krotov,0,SMELLS,48,370
+Quantum Algorithsm,krotov,1,BUGS,1,13408
+Quantum Algorithsm,krotov,1,SMELLS,446,13408
+Quantum Algorithsm,krotov,2,BUGS,1,62243
+Quantum Algorithsm,krotov,2,SMELLS,1171,62243
+Quantum Algorithsm,krotov,3,BUGS,1,63461
+Quantum Algorithsm,krotov,3,SMELLS,1173,63461
+Quantum Algorithsm,krotov,4,BUGS,1,67014
+Quantum Algorithsm,krotov,4,SMELLS,1258,67014
+Quantum Algorithsm,krotov,5,BUGS,1,75743
+Quantum Algorithsm,krotov,5,SMELLS,1327,75743
+Quantum Algorithsm,krotov,6,BUGS,1,82766
+Quantum Algorithsm,krotov,6,SMELLS,1436,82766
+Quantum Algorithsm,pomerol,0,BUGS,0,1
+Quantum Algorithsm,pomerol,0,SMELLS,0,1
+Quantum Algorithsm,pomerol,1,BUGS,0,741
+Quantum Algorithsm,pomerol,1,SMELLS,100,741
+Quantum Algorithsm,pomerol,2,BUGS,0,467
+Quantum Algorithsm,pomerol,2,SMELLS,78,467
+Quantum Algorithsm,pomerol,3,BUGS,0,1
+Quantum Algorithsm,pomerol,3,SMELLS,0,1
+Quantum Algorithsm,pomerol,4,BUGS,0,75
+Quantum Algorithsm,pomerol,4,SMELLS,10,75
+Quantum Algorithsm,pomerol,5,BUGS,0,75
+Quantum Algorithsm,pomerol,5,SMELLS,10,75
+Quantum Algorithsm,pomerol,6,BUGS,0,75
+Quantum Algorithsm,pomerol,6,SMELLS,10,75
+Quantum Algorithsm,pomerol,7,BUGS,0,75
+Quantum Algorithsm,pomerol,7,SMELLS,10,75
+Quantum Algorithsm,pomerol,8,BUGS,0,75
+Quantum Algorithsm,pomerol,8,SMELLS,10,75
+Quantum Algorithsm,pomerol,9,BUGS,0,75
+Quantum Algorithsm,pomerol,9,SMELLS,10,75
+Quantum Algorithsm,pomerol,10,BUGS,0,75
+Quantum Algorithsm,pomerol,10,SMELLS,10,75
+Quantum Algorithsm,pomerol,11,BUGS,0,75
+Quantum Algorithsm,pomerol,11,SMELLS,10,75
+Quantum Algorithsm,pomerol,12,BUGS,0,75
+Quantum Algorithsm,pomerol,12,SMELLS,10,75
+Quantum Algorithsm,pomerol,13,BUGS,0,75
+Quantum Algorithsm,pomerol,13,SMELLS,10,75
+Quantum Algorithsm,pomerol,14,BUGS,0,75
+Quantum Algorithsm,pomerol,14,SMELLS,10,75
+Quantum Algorithsm,pomerol,15,BUGS,0,75
+Quantum Algorithsm,pomerol,15,SMELLS,10,75
+Quantum Algorithsm,pomerol,16,BUGS,0,75
+Quantum Algorithsm,pomerol,16,SMELLS,10,75
+Quantum Algorithsm,pomerol,17,BUGS,0,75
+Quantum Algorithsm,pomerol,17,SMELLS,10,75
+Quantum Algorithsm,pomerol,18,BUGS,0,75
+Quantum Algorithsm,pomerol,18,SMELLS,10,75
+Quantum Algorithsm,pomerol,19,BUGS,0,75
+Quantum Algorithsm,pomerol,19,SMELLS,10,75
+Quantum Algorithsm,pomerol,20,BUGS,0,75
+Quantum Algorithsm,pomerol,20,SMELLS,10,75
+Quantum Algorithsm,pomerol,21,BUGS,0,75
+Quantum Algorithsm,pomerol,21,SMELLS,10,75
+Quantum Algorithsm,pomerol,22,BUGS,0,75
+Quantum Algorithsm,pomerol,22,SMELLS,10,75
+Quantum Algorithsm,pomerol,23,BUGS,0,75
+Quantum Algorithsm,pomerol,23,SMELLS,10,75
+Quantum Algorithsm,pomerol,24,BUGS,0,75
+Quantum Algorithsm,pomerol,24,SMELLS,10,75
+Quantum Algorithsm,EDLib,0,BUGS,0,1
+Quantum Algorithsm,EDLib,0,SMELLS,0,1
+Quantum Algorithsm,EDLib,1,BUGS,0,1
+Quantum Algorithsm,EDLib,1,SMELLS,0,1
+Quantum Algorithsm,EDLib,2,BUGS,0,73
+Quantum Algorithsm,EDLib,2,SMELLS,5,73
+Quantum Algorithsm,EDLib,3,BUGS,0,241
+Quantum Algorithsm,EDLib,3,SMELLS,19,241
+Quantum Algorithsm,EDLib,4,BUGS,0,309
+Quantum Algorithsm,EDLib,4,SMELLS,24,309
+Quantum Algorithsm,EDLib,5,BUGS,0,432
+Quantum Algorithsm,EDLib,5,SMELLS,29,432
+Quantum Algorithsm,EDLib,6,BUGS,0,432
+Quantum Algorithsm,EDLib,6,SMELLS,29,432
+Quantum Algorithsm,EDLib,7,BUGS,0,707
+Quantum Algorithsm,EDLib,7,SMELLS,54,707
+Quantum Algorithsm,EDLib,8,BUGS,0,707
+Quantum Algorithsm,EDLib,8,SMELLS,54,707
+Quantum Algorithsm,factoring,0,BUGS,0,1
+Quantum Algorithsm,factoring,0,SMELLS,0,1
+Quantum Algorithsm,factoring,1,BUGS,40,283
+Quantum Algorithsm,factoring,1,SMELLS,4,283
+Quantum Algorithsm,factoring,2,BUGS,40,303
+Quantum Algorithsm,factoring,2,SMELLS,10,303
+Quantum Algorithsm,factoring,3,BUGS,40,327
+Quantum Algorithsm,factoring,3,SMELLS,10,327
+Quantum Algorithsm,factoring,4,BUGS,40,331
+Quantum Algorithsm,factoring,4,SMELLS,10,331
+Quantum Algorithsm,factoring,5,BUGS,40,331
+Quantum Algorithsm,factoring,5,SMELLS,10,331
+Quantum Algorithsm,factoring,6,BUGS,40,1336
+Quantum Algorithsm,factoring,6,SMELLS,100,1336
+Quantum Algorithsm,factoring,7,BUGS,40,1336
+Quantum Algorithsm,factoring,7,SMELLS,100,1336
+Quantum Algorithsm,FermiLib,0,BUGS,0,1
+Quantum Algorithsm,FermiLib,0,SMELLS,0,1
+Quantum Algorithsm,FermiLib,1,BUGS,42,19766
+Quantum Algorithsm,FermiLib,1,SMELLS,870,19766
+Quantum Annealing,sqaod,0,BUGS,0,1
+Quantum Annealing,sqaod,0,SMELLS,0,1
+Quantum Annealing,sqaod,1,BUGS,60,26747
+Quantum Annealing,sqaod,1,SMELLS,1277,26747
+Quantum Annealing,sqaod,2,BUGS,80,51290
+Quantum Annealing,sqaod,2,SMELLS,1698,51290
+Quantum Annealing,sqaod,3,BUGS,180,57655
+Quantum Annealing,sqaod,3,SMELLS,1901,57655
+Quantum Annealing,sqaod,4,BUGS,180,88371
+Quantum Annealing,sqaod,4,SMELLS,2228,88371
+Quantum Annealing,qbsolv,0,BUGS,0,866
+Quantum Annealing,qbsolv,0,SMELLS,43,866
+Quantum Annealing,qbsolv,1,BUGS,2241,30647
+Quantum Annealing,qbsolv,1,SMELLS,421,30647
+Quantum Annealing,qbsolv,2,BUGS,97,2512
+Quantum Annealing,qbsolv,2,SMELLS,65,2512
+Quantum Annealing,qbsolv,3,BUGS,97,2412
+Quantum Annealing,qbsolv,3,SMELLS,65,2412
+Quantum Annealing,qbsolv,4,BUGS,97,2558
+Quantum Annealing,qbsolv,4,SMELLS,87,2558
+Quantum Annealing,qbsolv,5,BUGS,97,2563
+Quantum Annealing,qbsolv,5,SMELLS,85,2563
+Quantum Annealing,qbsolv,6,BUGS,97,2710
+Quantum Annealing,qbsolv,6,SMELLS,96,2710
+Quantum Annealing,qbsolv,7,BUGS,97,2711
+Quantum Annealing,qbsolv,7,SMELLS,96,2711
+Quantum Annealing,qbsolv,8,BUGS,97,2861
+Quantum Annealing,qbsolv,8,SMELLS,111,2861
+Quantum Annealing,qbsolv,9,BUGS,117,2973
+Quantum Annealing,qbsolv,9,SMELLS,121,2973
+Quantum Annealing,qbsolv,10,BUGS,117,2973
+Quantum Annealing,qbsolv,10,SMELLS,121,2973
+Quantum Annealing,qbsolv,11,BUGS,117,2973
+Quantum Annealing,qbsolv,11,SMELLS,121,2973
+Quantum Annealing,qbsolv,12,BUGS,117,2970
+Quantum Annealing,qbsolv,12,SMELLS,121,2970
+Quantum Annealing,dimod,0,BUGS,0,241
+Quantum Annealing,dimod,0,SMELLS,41,241
+Quantum Annealing,dimod,1,BUGS,180,722649
+Quantum Annealing,dimod,1,SMELLS,4373,722649
+Quantum Annealing,dimod,2,BUGS,0,4376
+Quantum Annealing,dimod,2,SMELLS,117,4376
+Quantum Annealing,dimod,3,BUGS,60,39286
+Quantum Annealing,dimod,3,SMELLS,712,39286
+Quantum Annealing,dimod,4,BUGS,50,48689
+Quantum Annealing,dimod,4,SMELLS,787,48689
+Quantum Annealing,dimod,5,BUGS,290,53402
+Quantum Annealing,dimod,5,SMELLS,724,53402
+Quantum Annealing,dimod,6,BUGS,40,44148
+Quantum Annealing,dimod,6,SMELLS,675,44148
+Quantum Annealing,dimod,7,BUGS,40,64811
+Quantum Annealing,dimod,7,SMELLS,1060,64811
+Quantum Annealing,dimod,8,BUGS,60,68382
+Quantum Annealing,dimod,8,SMELLS,1097,68382
+Quantum Annealing,dimod,9,BUGS,60,71466
+Quantum Annealing,dimod,9,SMELLS,1118,71466
+Quantum Annealing,dimod,10,BUGS,60,73431
+Quantum Annealing,dimod,10,SMELLS,1190,73431
+Quantum Annealing,dimod,11,BUGS,60,313306
+Quantum Annealing,dimod,11,SMELLS,1527,313306
+Quantum Annealing,dimod,12,BUGS,60,330904
+Quantum Annealing,dimod,12,SMELLS,1495,330904
+Quantum Annealing,dwave-system,0,BUGS,0,44131
+Quantum Annealing,dwave-system,0,SMELLS,712,44131
+Quantum Annealing,dwave-system,1,BUGS,320,293437
+Quantum Annealing,dwave-system,1,SMELLS,4621,293437
+Quantum Annealing,dwave-system,2,BUGS,0,44430
+Quantum Annealing,dwave-system,2,SMELLS,802,44430
+Quantum Annealing,dwave-system,3,BUGS,0,44446
+Quantum Annealing,dwave-system,3,SMELLS,802,44446
+Quantum Annealing,dwave-system,4,BUGS,0,163
+Quantum Annealing,dwave-system,4,SMELLS,9,163
+Quantum Annealing,dwave-system,5,BUGS,60,3512
+Quantum Annealing,dwave-system,5,SMELLS,171,3512
+Quantum Annealing,dwave-system,6,BUGS,40,2677
+Quantum Annealing,dwave-system,6,SMELLS,154,2677
+Quantum Annealing,dwave-system,7,BUGS,0,44702
+Quantum Annealing,dwave-system,7,SMELLS,802,44702
+Quantum Annealing,dwave-system,8,BUGS,40,43941
+Quantum Annealing,dwave-system,8,SMELLS,638,43941
+Quantum Annealing,dwave-system,9,BUGS,40,44245
+Quantum Annealing,dwave-system,9,SMELLS,688,44245
+Quantum Annealing,dwave-system,10,BUGS,60,46532
+Quantum Annealing,dwave-system,10,SMELLS,724,46532
+Quantum Annealing,dwave-system,11,BUGS,60,47663
+Quantum Annealing,dwave-system,11,SMELLS,754,47663
+Quantum Annealing,dwave-system,12,BUGS,60,50711
+Quantum Annealing,dwave-system,12,SMELLS,795,50711
+Quantum Annealing,dwave-system,13,BUGS,65,50554
+Quantum Annealing,dwave-system,13,SMELLS,800,50554
+Quantum Annealing,dwave-system,14,BUGS,75,54410
+Quantum Annealing,dwave-system,14,SMELLS,841,54410
+Quantum Annealing,dwavebinarycsp,0,BUGS,0,1
+Quantum Annealing,dwavebinarycsp,0,SMELLS,0,1
+Quantum Annealing,dwavebinarycsp,1,BUGS,40,421
+Quantum Annealing,dwavebinarycsp,1,SMELLS,15,421
+Quantum Annealing,dwavebinarycsp,2,BUGS,50,2103
+Quantum Annealing,dwavebinarycsp,2,SMELLS,211,2103
+Quantum Annealing,dwavebinarycsp,3,BUGS,50,2273
+Quantum Annealing,dwavebinarycsp,3,SMELLS,226,2273
+Quantum Annealing,dwavebinarycsp,4,BUGS,50,2283
+Quantum Annealing,dwavebinarycsp,4,SMELLS,226,2283
+Quantum Annealing,dwavebinarycsp,5,BUGS,70,2459
+Quantum Annealing,dwavebinarycsp,5,SMELLS,236,2459
+Quantum Annealing,dwavebinarycsp,6,BUGS,70,2463
+Quantum Annealing,dwavebinarycsp,6,SMELLS,236,2463
+Quantum Annealing,dwavebinarycsp,7,BUGS,70,2457
+Quantum Annealing,dwavebinarycsp,7,SMELLS,236,2457
+Quantum Annealing,dwavebinarycsp,8,BUGS,70,2199
+Quantum Annealing,dwavebinarycsp,8,SMELLS,226,2199
+Quantum Annealing,penaltymodel,0,BUGS,0,1
+Quantum Annealing,penaltymodel,0,SMELLS,0,1
+Quantum Annealing,penaltymodel,1,BUGS,230,8121
+Quantum Annealing,penaltymodel,1,SMELLS,568,8121
+Quantum Annealing,penaltymodel,2,BUGS,80,4008
+Quantum Annealing,penaltymodel,2,SMELLS,203,4008
+Quantum Annealing,penaltymodel,3,BUGS,160,5770
+Quantum Annealing,penaltymodel,3,SMELLS,330,5770
+Quantum Annealing,penaltymodel,4,BUGS,160,5781
+Quantum Annealing,penaltymodel,4,SMELLS,330,5781
+Quantum Annealing,penaltymodel,5,BUGS,160,5149
+Quantum Annealing,penaltymodel,5,SMELLS,348,5149
+Quantum Annealing,penaltymodel,6,BUGS,230,5538
+Quantum Annealing,penaltymodel,6,SMELLS,376,5538
+Quantum Annealing,penaltymodel,7,BUGS,230,5538
+Quantum Annealing,penaltymodel,7,SMELLS,376,5538
+Quantum Annealing,penaltymodel,8,BUGS,230,5560
+Quantum Annealing,penaltymodel,8,SMELLS,377,5560
+Quantum Annealing,penaltymodel,9,BUGS,230,5625
+Quantum Annealing,penaltymodel,9,SMELLS,379,5625
+Quantum Annealing,penaltymodel,10,BUGS,230,5625
+Quantum Annealing,penaltymodel,10,SMELLS,379,5625
+Compiler,OpenQL,0,BUGS,0,1
+Compiler,OpenQL,0,SMELLS,0,1
+Compiler,OpenQL,1,BUGS,12785,59107619
+Compiler,OpenQL,1,SMELLS,59277,59107619
+Compiler,OpenQL,2,BUGS,0,1
+Compiler,OpenQL,2,SMELLS,0,1
+Compiler,OpenQL,3,BUGS,0,1
+Compiler,OpenQL,3,SMELLS,0,1
+Compiler,OpenQL,4,BUGS,0,1
+Compiler,OpenQL,4,SMELLS,0,1
+Compiler,OpenQL,5,BUGS,0,1
+Compiler,OpenQL,5,SMELLS,0,1
+Compiler,OpenQL,6,BUGS,0,1
+Compiler,OpenQL,6,SMELLS,0,1
+Compiler,OpenQL,7,BUGS,0,1
+Compiler,OpenQL,7,SMELLS,0,1
+Compiler,OpenQL,8,BUGS,0,1
+Compiler,OpenQL,8,SMELLS,0,1
+Compiler,OpenQL,9,BUGS,0,1
+Compiler,OpenQL,9,SMELLS,0,1
+Compiler,OpenQL,10,BUGS,3557,16940700
+Compiler,OpenQL,10,SMELLS,16688,16940700
+Compiler,OpenQL,11,BUGS,3557,16940840
+Compiler,OpenQL,11,SMELLS,16698,16940840
+Compiler,OpenQL,12,BUGS,3556,16947089
+Compiler,OpenQL,12,SMELLS,16817,16947089
+Compiler,OpenQL,13,BUGS,2115,8278900
+Compiler,OpenQL,13,SMELLS,9059,8278900
+Compiler,OpenQL,14,BUGS,0,1
+Compiler,OpenQL,14,SMELLS,0,1
+Compiler,pyzx,0,BUGS,0,35
+Compiler,pyzx,0,SMELLS,8,35
+Compiler,pyzx,1,BUGS,77,25521
+Compiler,pyzx,1,SMELLS,1272,25521
+Compiler,pyzx,2,BUGS,82,77781
+Compiler,pyzx,2,SMELLS,3106,77781
+Compiler,pyzx,3,BUGS,82,82252
+Compiler,pyzx,3,SMELLS,3288,82252
+Compiler,pyzx,4,BUGS,107,91417
+Compiler,pyzx,4,SMELLS,4074,91417
+Compiler,pyzx,5,BUGS,97,106138
+Compiler,pyzx,5,SMELLS,4296,106138
+Compiler,pyzx,6,BUGS,107,117603
+Compiler,pyzx,6,SMELLS,4473,117603
+Compiler,pyzx,7,BUGS,62,100639
+Compiler,pyzx,7,SMELLS,4093,100639
+Compiler,pyzx,8,BUGS,92,107472
+Compiler,pyzx,8,SMELLS,4411,107472
+Cryptography,QRL,0,BUGS,0,1
+Cryptography,QRL,0,SMELLS,0,1
+Cryptography,QRL,1,BUGS,1810,2926250
+Cryptography,QRL,1,SMELLS,22116,2926250
+Cryptography,QRL,2,BUGS,80,408015
+Cryptography,QRL,2,SMELLS,2093,408015
+Cryptography,QRL,3,BUGS,330,336703
+Cryptography,QRL,3,SMELLS,2045,336703
+Cryptography,QRL,4,BUGS,67,408473
+Cryptography,QRL,4,SMELLS,2357,408473
+Cryptography,QRL,5,BUGS,395,487170
+Cryptography,QRL,5,SMELLS,1194,487170
+Cryptography,QRL,6,BUGS,447,593184
+Cryptography,QRL,6,SMELLS,2619,593184
+Cryptography,QRL,7,BUGS,445,590419
+Cryptography,QRL,7,SMELLS,3783,590419
+Cryptography,QRL,8,BUGS,445,636136
+Cryptography,QRL,8,SMELLS,4531,636136
+Cryptography,QRL,9,BUGS,445,635172
+Cryptography,QRL,9,SMELLS,4619,635172
+Cryptography,QRL,10,BUGS,445,648576
+Cryptography,QRL,10,SMELLS,4698,648576
+Cryptography,QRL,11,BUGS,445,648591
+Cryptography,QRL,11,SMELLS,4698,648591
+Cryptography,QRL,12,BUGS,455,722646
+Cryptography,QRL,12,SMELLS,5430,722646
+Cryptography,QRL,13,BUGS,445,714950
+Cryptography,QRL,13,SMELLS,5501,714950
+Cryptography,pqm4,0,BUGS,0,1
+Cryptography,pqm4,0,SMELLS,0,1
+Cryptography,pqm4,1,BUGS,0,683
+Cryptography,pqm4,1,SMELLS,113,683
+Cryptography,pqm4,2,BUGS,0,683
+Cryptography,pqm4,2,SMELLS,113,683
+Cryptography,pqm4,3,BUGS,0,609
+Cryptography,pqm4,3,SMELLS,114,609
+Cryptography,pqm4,4,BUGS,0,1
+Cryptography,pqm4,4,SMELLS,0,1
+Cryptography,pqm4,5,BUGS,0,1
+Cryptography,pqm4,5,SMELLS,0,1
+Cryptography,pqm4,6,BUGS,0,1
+Cryptography,pqm4,6,SMELLS,0,1
+Cryptography,pqm4,7,BUGS,0,1
+Cryptography,pqm4,7,SMELLS,0,1
+Cryptography,pqm4,8,BUGS,0,1
+Cryptography,pqm4,8,SMELLS,0,1
+Cryptography,quantum,0,BUGS,0,1
+Cryptography,quantum,0,SMELLS,0,1
+Cryptography,quantum,1,BUGS,0,1
+Cryptography,quantum,1,SMELLS,0,1
+Cryptography,quantum,2,BUGS,0,1
+Cryptography,quantum,2,SMELLS,0,1
+Cryptography,quantum,3,BUGS,0,1
+Cryptography,quantum,3,SMELLS,0,1
+Cryptography,quantum,4,BUGS,0,1
+Cryptography,quantum,4,SMELLS,0,1
+Cryptography,quantum,5,BUGS,0,1
+Cryptography,quantum,5,SMELLS,0,1
+Cryptography,quantum,6,BUGS,0,1
+Cryptography,quantum,6,SMELLS,0,1
+Cryptography,quantum,7,BUGS,0,1
+Cryptography,quantum,7,SMELLS,0,1
+Cryptography,quantum,8,BUGS,0,1
+Cryptography,quantum,8,SMELLS,0,1
+Cryptography,quantum,9,BUGS,0,1
+Cryptography,quantum,9,SMELLS,0,1
+Cryptography,quantum,10,BUGS,0,1
+Cryptography,quantum,10,SMELLS,0,1
+Simulator,nuSQuIDS,0,BUGS,0,1
+Simulator,nuSQuIDS,0,SMELLS,0,1
+Simulator,nuSQuIDS,1,BUGS,55,63395
+Simulator,nuSQuIDS,1,SMELLS,2344,63395
+Simulator,nuSQuIDS,2,BUGS,10,13006
+Simulator,nuSQuIDS,2,SMELLS,465,13006
+Simulator,nuSQuIDS,3,BUGS,5,5974
+Simulator,nuSQuIDS,3,SMELLS,213,5974
+Simulator,nuSQuIDS,4,BUGS,5,5420
+Simulator,nuSQuIDS,4,SMELLS,198,5420
+Simulator,nuSQuIDS,5,BUGS,5,5420
+Simulator,nuSQuIDS,5,SMELLS,198,5420
+Simulator,nuSQuIDS,6,BUGS,5,5420
+Simulator,nuSQuIDS,6,SMELLS,198,5420
+Simulator,nuSQuIDS,7,BUGS,5,5420
+Simulator,nuSQuIDS,7,SMELLS,198,5420
+Simulator,nuSQuIDS,8,BUGS,5,5420
+Simulator,nuSQuIDS,8,SMELLS,198,5420
+Simulator,nuSQuIDS,9,BUGS,5,5420
+Simulator,nuSQuIDS,9,SMELLS,198,5420
+Simulator,nuSQuIDS,10,BUGS,5,5410
+Simulator,nuSQuIDS,10,SMELLS,188,5410
+Simulator,nuSQuIDS,11,BUGS,5,5434
+Simulator,nuSQuIDS,11,SMELLS,213,5434
+Simulator,nuSQuIDS,12,BUGS,5,5434
+Simulator,nuSQuIDS,12,SMELLS,213,5434
+Simulator,nuSQuIDS,13,BUGS,5,5434
+Simulator,nuSQuIDS,13,SMELLS,213,5434
+Simulator,nuSQuIDS,14,BUGS,5,5410
+Simulator,nuSQuIDS,14,SMELLS,188,5410
+Simulator,nuSQuIDS,15,BUGS,5,5410
+Simulator,nuSQuIDS,15,SMELLS,188,5410
+Simulator,nuSQuIDS,16,BUGS,5,7033
+Simulator,nuSQuIDS,16,SMELLS,252,7033
+Simulator,nuSQuIDS,17,BUGS,5,7033
+Simulator,nuSQuIDS,17,SMELLS,252,7033
+Simulator,nuSQuIDS,18,BUGS,5,7033
+Simulator,nuSQuIDS,18,SMELLS,252,7033
+Simulator,nuSQuIDS,19,BUGS,5,7033
+Simulator,nuSQuIDS,19,SMELLS,252,7033
+Simulator,nuSQuIDS,20,BUGS,5,7033
+Simulator,nuSQuIDS,20,SMELLS,252,7033
+Simulator,qpp,0,BUGS,0,1
+Simulator,qpp,0,SMELLS,0,1
+Simulator,qpp,1,BUGS,8714,14106419
+Simulator,qpp,1,SMELLS,35817,14106419
+Simulator,qpp,2,BUGS,0,1
+Simulator,qpp,2,SMELLS,0,1
+Simulator,qpp,3,BUGS,0,1
+Simulator,qpp,3,SMELLS,0,1
+Simulator,qpp,4,BUGS,0,1
+Simulator,qpp,4,SMELLS,0,1
+Simulator,qpp,5,BUGS,0,1
+Simulator,qpp,5,SMELLS,0,1
+Simulator,qpp,6,BUGS,0,1
+Simulator,qpp,6,SMELLS,0,1
+Simulator,qpp,7,BUGS,0,1
+Simulator,qpp,7,SMELLS,0,1
+Simulator,qpp,8,BUGS,0,1
+Simulator,qpp,8,SMELLS,0,1
+Simulator,qpp,9,BUGS,0,1
+Simulator,qpp,9,SMELLS,0,1
+Simulator,qpp,10,BUGS,8714,14106419
+Simulator,qpp,10,SMELLS,35817,14106419
+Simulator,qpp,11,BUGS,0,1
+Simulator,qpp,11,SMELLS,0,1
+Simulator,qpp,12,BUGS,0,1
+Simulator,qpp,12,SMELLS,0,1
+Simulator,qpp,13,BUGS,0,1
+Simulator,qpp,13,SMELLS,0,1
+Simulator,qpp,14,BUGS,0,1
+Simulator,qpp,14,SMELLS,0,1
+Simulator,qpp,15,BUGS,0,1
+Simulator,qpp,15,SMELLS,0,1
+Simulator,qpp,16,BUGS,0,1
+Simulator,qpp,16,SMELLS,0,1
+Simulator,qpp,17,BUGS,0,1
+Simulator,qpp,17,SMELLS,0,1
+Simulator,qpp,18,BUGS,0,1
+Simulator,qpp,18,SMELLS,0,1
+Simulator,qpp,19,BUGS,0,1
+Simulator,qpp,19,SMELLS,0,1
+Simulator,qpp,20,BUGS,0,1
+Simulator,qpp,20,SMELLS,0,1
+Simulator,HPhi,0,BUGS,0,1
+Simulator,HPhi,0,SMELLS,0,1
+Simulator,HPhi,1,BUGS,45,66587
+Simulator,HPhi,1,SMELLS,2245,66587
+Simulator,HPhi,2,BUGS,0,70929
+Simulator,HPhi,2,SMELLS,1702,70929
+Simulator,HPhi,3,BUGS,0,1
+Simulator,HPhi,3,SMELLS,0,1
+Simulator,HPhi,4,BUGS,0,1
+Simulator,HPhi,4,SMELLS,0,1
+Simulator,HPhi,5,BUGS,0,1
+Simulator,HPhi,5,SMELLS,0,1
+Simulator,HPhi,6,BUGS,0,1
+Simulator,HPhi,6,SMELLS,0,1
+Simulator,HPhi,7,BUGS,5,53
+Simulator,HPhi,7,SMELLS,0,53
+Simulator,HPhi,8,BUGS,5,53
+Simulator,HPhi,8,SMELLS,0,53
+Simulator,HPhi,9,BUGS,5,6286
+Simulator,HPhi,9,SMELLS,191,6286
+Simulator,HPhi,10,BUGS,5,6286
+Simulator,HPhi,10,SMELLS,191,6286
+Simulator,HPhi,11,BUGS,5,6427
+Simulator,HPhi,11,SMELLS,210,6427
+Simulator,HPhi,12,BUGS,5,6586
+Simulator,HPhi,12,SMELLS,225,6586
+Simulator,HPhi,13,BUGS,5,6473
+Simulator,HPhi,13,SMELLS,215,6473
+Simulator,HPhi,14,BUGS,5,6473
+Simulator,HPhi,14,SMELLS,215,6473
+Simulator,HPhi,15,BUGS,5,6473
+Simulator,HPhi,15,SMELLS,215,6473
+Simulator,HPhi,16,BUGS,5,6428
+Simulator,HPhi,16,SMELLS,210,6428
+Simulator,HPhi,17,BUGS,5,6430
+Simulator,HPhi,17,SMELLS,210,6430
+Simulator,HPhi,18,BUGS,5,15019
+Simulator,HPhi,18,SMELLS,554,15019
+Simulator,SimulaQron,0,BUGS,164,773831
+Simulator,SimulaQron,0,SMELLS,2653,773831
+Simulator,SimulaQron,1,BUGS,2,594429
+Simulator,SimulaQron,1,SMELLS,6585,594429
+Simulator,SimulaQron,2,BUGS,766,2146457
+Simulator,SimulaQron,2,SMELLS,6337,2146457
+Simulator,SimulaQron,3,BUGS,766,2301739
+Simulator,SimulaQron,3,SMELLS,7342,2301739
+Simulator,SimulaQron,4,BUGS,471,2189473
+Simulator,SimulaQron,4,SMELLS,7120,2189473
+Simulator,SimulaQron,5,BUGS,481,1881856
+Simulator,SimulaQron,5,SMELLS,3720,1881856
+Simulator,SimulaQron,6,BUGS,0,1
+Simulator,SimulaQron,6,SMELLS,0,1
+Simulator,SimulaQron,7,BUGS,0,1
+Simulator,SimulaQron,7,SMELLS,0,1
+Simulator,SimulaQron,8,BUGS,0,1
+Simulator,SimulaQron,8,SMELLS,0,1
+Simulator,SimulaQron,9,BUGS,0,1
+Simulator,SimulaQron,9,SMELLS,0,1
+Simulator,SimulaQron,10,BUGS,2,383803
+Simulator,SimulaQron,10,SMELLS,3465,383803
+Simulator,Yao.jl,0,BUGS,0,1
+Simulator,Yao.jl,0,SMELLS,0,1
+Simulator,Yao.jl,1,BUGS,0,2717
+Simulator,Yao.jl,1,SMELLS,189,2717
+Simulator,Yao.jl,2,BUGS,0,2717
+Simulator,Yao.jl,2,SMELLS,189,2717
+Simulator,Yao.jl,3,BUGS,0,2717
+Simulator,Yao.jl,3,SMELLS,189,2717
+Simulator,Yao.jl,4,BUGS,0,226
+Simulator,Yao.jl,4,SMELLS,24,226
+Simulator,Yao.jl,5,BUGS,0,226
+Simulator,Yao.jl,5,SMELLS,24,226
+Simulator,Yao.jl,6,BUGS,0,226
+Simulator,Yao.jl,6,SMELLS,24,226
+Simulator,Yao.jl,7,BUGS,0,1
+Simulator,Yao.jl,7,SMELLS,0,1
+Simulator,Yao.jl,8,BUGS,0,1
+Simulator,Yao.jl,8,SMELLS,0,1
+Simulator,Quirk,0,BUGS,0,1
+Simulator,Quirk,0,SMELLS,0,1
+Simulator,Quirk,1,BUGS,550,212046
+Simulator,Quirk,1,SMELLS,1737,212046
+Simulator,Quirk,2,BUGS,195,841055
+Simulator,Quirk,2,SMELLS,1358,841055
+Simulator,Quirk,3,BUGS,40,61846
+Simulator,Quirk,3,SMELLS,585,61846
+Simulator,Quirk,4,BUGS,40,65059
+Simulator,Quirk,4,SMELLS,571,65059
+Simulator,Quirk,5,BUGS,77,82062
+Simulator,Quirk,5,SMELLS,648,82062
+Simulator,Quirk,6,BUGS,72,47308
+Simulator,Quirk,6,SMELLS,517,47308
+Simulator,Quirk,7,BUGS,72,54648
+Simulator,Quirk,7,SMELLS,583,54648
+Simulator,Quirk,8,BUGS,75,32069
+Simulator,Quirk,8,SMELLS,266,32069
+Simulator,Quirk,9,BUGS,90,33432
+Simulator,Quirk,9,SMELLS,275,33432
+Simulator,Quirk,10,BUGS,90,34189
+Simulator,Quirk,10,SMELLS,277,34189
+Simulator,Quirk,11,BUGS,90,34538
+Simulator,Quirk,11,SMELLS,280,34538
+Simulator,Quirk,12,BUGS,90,34466
+Simulator,Quirk,12,SMELLS,277,34466
+Simulator,Quirk,13,BUGS,90,35678
+Simulator,Quirk,13,SMELLS,292,35678
+Simulator,Quirk,14,BUGS,90,36345
+Simulator,Quirk,14,SMELLS,298,36345
+Simulator,Quirk,15,BUGS,90,36228
+Simulator,Quirk,15,SMELLS,313,36228
+Simulator,qiskit-aer,0,BUGS,0,1
+Simulator,qiskit-aer,0,SMELLS,0,1
+Simulator,qiskit-aer,1,BUGS,0,5372
+Simulator,qiskit-aer,1,SMELLS,109,5372
+Simulator,qiskit-aer,2,BUGS,0,64491
+Simulator,qiskit-aer,2,SMELLS,1375,64491
+Simulator,qiskit-aer,3,BUGS,20,72591
+Simulator,qiskit-aer,3,SMELLS,1451,72591
+Simulator,qiskit-aer,4,BUGS,10,83161
+Simulator,qiskit-aer,4,SMELLS,1509,83161
+Simulator,qiskit-aer,5,BUGS,20,105000
+Simulator,qiskit-aer,5,SMELLS,1621,105000
+Simulator,qiskit-aer,6,BUGS,10,154042
+Simulator,qiskit-aer,6,SMELLS,3550,154042
+Simulator,qiskit-aer,7,BUGS,20,123779
+Simulator,qiskit-aer,7,SMELLS,2932,123779
+Simulator,qiskit-aer,8,BUGS,10,121231
+Simulator,qiskit-aer,8,SMELLS,3077,121231
+Simulator,qutip,0,BUGS,775,31337
+Simulator,qutip,0,SMELLS,1871,31337
+Simulator,qutip,1,BUGS,12071,2859937
+Simulator,qutip,1,SMELLS,55309,2859937
+Simulator,qutip,2,BUGS,0,1
+Simulator,qutip,2,SMELLS,0,1
+Simulator,qutip,3,BUGS,0,1
+Simulator,qutip,3,SMELLS,0,1
+Simulator,qutip,4,BUGS,0,1
+Simulator,qutip,4,SMELLS,0,1
+Simulator,qutip,5,BUGS,0,1
+Simulator,qutip,5,SMELLS,0,1
+Simulator,qutip,6,BUGS,0,1
+Simulator,qutip,6,SMELLS,0,1
+Simulator,qutip,7,BUGS,0,1
+Simulator,qutip,7,SMELLS,0,1
+Simulator,qutip,8,BUGS,0,1
+Simulator,qutip,8,SMELLS,0,1
+Simulator,qutip,9,BUGS,0,1
+Simulator,qutip,9,SMELLS,0,1
+Simulator,qutip,10,BUGS,2414,371584
+Simulator,qutip,10,SMELLS,6818,371584
+Simulator,qutip,11,BUGS,2684,379805
+Simulator,qutip,11,SMELLS,6864,379805
+Simulator,qutip,12,BUGS,2826,412282
+Simulator,qutip,12,SMELLS,7220,412282
+Simulator,qutip,13,BUGS,2755,466158
+Simulator,qutip,13,SMELLS,8357,466158
+Simulator,qutip,14,BUGS,161,538497
+Simulator,qutip,14,SMELLS,10132,538497
+Simulator,qutip,15,BUGS,151,477263
+Simulator,qutip,15,SMELLS,9201,477263
+Simulator,qutip,16,BUGS,110,132157
+Simulator,qutip,16,SMELLS,2773,132157
+Simulator,qutip,17,BUGS,0,1
+Simulator,qutip,17,SMELLS,0,1
+Simulator,qutip,18,BUGS,0,1
+Simulator,qutip,18,SMELLS,0,1
+Simulator,qutip,19,BUGS,0,1
+Simulator,qutip,19,SMELLS,0,1
+Simulator,qutip,20,BUGS,0,1
+Simulator,qutip,20,SMELLS,0,1
+Simulator,qutip,21,BUGS,0,1
+Simulator,qutip,21,SMELLS,0,1
+Simulator,qutip,22,BUGS,0,1
+Simulator,qutip,22,SMELLS,0,1
+Simulator,qutip,23,BUGS,0,1
+Simulator,qutip,23,SMELLS,0,1
+Simulator,qutip,24,BUGS,0,1
+Simulator,qutip,24,SMELLS,0,1
+Simulator,qutip,25,BUGS,0,1
+Simulator,qutip,25,SMELLS,0,1
+Simulator,qutip,26,BUGS,0,1
+Simulator,qutip,26,SMELLS,0,1
+Simulator,qutip,27,BUGS,0,1
+Simulator,qutip,27,SMELLS,0,1
+Simulator,qutip,28,BUGS,0,1
+Simulator,qutip,28,SMELLS,0,1
+Simulator,qutip,29,BUGS,0,1
+Simulator,qutip,29,SMELLS,0,1
+Simulator,qutip,30,BUGS,0,1
+Simulator,qutip,30,SMELLS,0,1
+Simulator,qutip,31,BUGS,0,1
+Simulator,qutip,31,SMELLS,0,1
+Simulator,qutip,32,BUGS,0,1
+Simulator,qutip,32,SMELLS,0,1
+Simulator,qutip,33,BUGS,0,1
+Simulator,qutip,33,SMELLS,0,1
+Simulator,qutip,34,BUGS,0,1
+Simulator,qutip,34,SMELLS,0,1
+Simulator,qutip,35,BUGS,0,1
+Simulator,qutip,35,SMELLS,0,1
+Simulator,qutip,36,BUGS,0,1
+Simulator,qutip,36,SMELLS,0,1
+Simulator,QuEST,0,BUGS,0,1
+Simulator,QuEST,0,SMELLS,0,1
+Simulator,QuEST,1,BUGS,7089,15257940
+Simulator,QuEST,1,SMELLS,39128,15257940
+Simulator,QuEST,2,BUGS,0,1
+Simulator,QuEST,2,SMELLS,0,1
+Simulator,QuEST,3,BUGS,0,1
+Simulator,QuEST,3,SMELLS,0,1
+Simulator,QuEST,4,BUGS,0,1
+Simulator,QuEST,4,SMELLS,0,1
+Simulator,QuEST,5,BUGS,0,1
+Simulator,QuEST,5,SMELLS,0,1
+Simulator,QuEST,6,BUGS,0,1
+Simulator,QuEST,6,SMELLS,0,1
+Simulator,QuEST,7,BUGS,0,1
+Simulator,QuEST,7,SMELLS,0,1
+Simulator,QuEST,8,BUGS,0,1
+Simulator,QuEST,8,SMELLS,0,1
+Simulator,QuEST,9,BUGS,0,1
+Simulator,QuEST,9,SMELLS,0,1
+Simulator,QuEST,10,BUGS,3483,6831442
+Simulator,QuEST,10,SMELLS,6210,6831442
+Simulator,QuEST,11,BUGS,0,1
+Simulator,QuEST,11,SMELLS,0,1
+Simulator,QuEST,12,BUGS,0,1
+Simulator,QuEST,12,SMELLS,0,1
+Simulator,qulacs,0,BUGS,0,1
+Simulator,qulacs,0,SMELLS,0,1
+Simulator,qulacs,1,BUGS,0,937
+Simulator,qulacs,1,SMELLS,45,937
+Simulator,qulacs,2,BUGS,0,1741
+Simulator,qulacs,2,SMELLS,70,1741
+Simulator,qulacs,3,BUGS,20,3262
+Simulator,qulacs,3,SMELLS,90,3262
+Simulator,qulacs,4,BUGS,20,3353
+Simulator,qulacs,4,SMELLS,95,3353
+Simulator,qulacs,5,BUGS,20,3451
+Simulator,qulacs,5,SMELLS,101,3451
+Simulator,qulacs,6,BUGS,20,3451
+Simulator,qulacs,6,SMELLS,101,3451
+Simulator,OpenFermion-Cirq,0,BUGS,0,1
+Simulator,OpenFermion-Cirq,0,SMELLS,0,1
+Simulator,OpenFermion-Cirq,1,BUGS,0,1171
+Simulator,OpenFermion-Cirq,1,SMELLS,134,1171
+Simulator,OpenFermion-Cirq,2,BUGS,0,5589
+Simulator,OpenFermion-Cirq,2,SMELLS,419,5589
+Simulator,OpenFermion-Cirq,3,BUGS,2,7646
+Simulator,OpenFermion-Cirq,3,SMELLS,556,7646
+Simulator,OpenFermion-Cirq,4,BUGS,2,7976
+Simulator,OpenFermion-Cirq,4,SMELLS,603,7976
+Simulator,OpenFermion-Cirq,5,BUGS,2,9835
+Simulator,OpenFermion-Cirq,5,SMELLS,699,9835
+Simulator,OpenFermion-Cirq,6,BUGS,2,9935
+Simulator,OpenFermion-Cirq,6,SMELLS,699,9935
+Simulator,OpenFermion-Cirq,7,BUGS,2,10015
+Simulator,OpenFermion-Cirq,7,SMELLS,699,10015
+Simulator,OpenFermion-Cirq,8,BUGS,12,12313
+Simulator,OpenFermion-Cirq,8,SMELLS,832,12313
+Simulator,qmt,0,BUGS,0,1
+Simulator,qmt,0,SMELLS,0,1
+Simulator,qmt,1,BUGS,10,215416
+Simulator,qmt,1,SMELLS,2435,215416
+Simulator,qmt,2,BUGS,0,234304
+Simulator,qmt,2,SMELLS,2493,234304
+Simulator,qmt,3,BUGS,416,975926
+Simulator,qmt,3,SMELLS,3140,975926
+Simulator,qmt,4,BUGS,416,983024
+Simulator,qmt,4,SMELLS,3281,983024
+Simulator,qmt,5,BUGS,50,135057
+Simulator,qmt,5,SMELLS,1786,135057
+Simulator,qiskit-jku-provider,0,BUGS,0,1
+Simulator,qiskit-jku-provider,0,SMELLS,0,1
+Simulator,qiskit-jku-provider,1,BUGS,0,1598
+Simulator,qiskit-jku-provider,1,SMELLS,153,1598
+Simulator,qiskit-jku-provider,2,BUGS,0,1519
+Simulator,qiskit-jku-provider,2,SMELLS,153,1519
+Simulator,qiskit-jku-provider,3,BUGS,0,1820
+Simulator,qiskit-jku-provider,3,SMELLS,159,1820
+Simulator,qflex,0,BUGS,0,1
+Simulator,qflex,0,SMELLS,0,1
+Simulator,qflex,1,BUGS,0,1
+Simulator,qflex,1,SMELLS,0,1
+Simulator,qflex,2,BUGS,0,1
+Simulator,qflex,2,SMELLS,0,1
+Simulator,qflex,3,BUGS,0,3218
+Simulator,qflex,3,SMELLS,211,3218
+Simulator,qflex,4,BUGS,0,3430
+Simulator,qflex,4,SMELLS,214,3430
+Simulator,qflex,5,BUGS,0,4392
+Simulator,qflex,5,SMELLS,225,4392
+Simulator,QCViewer,0,BUGS,0,1
+Simulator,QCViewer,0,SMELLS,0,1
+Simulator,QCViewer,1,BUGS,0,1
+Simulator,QCViewer,1,SMELLS,0,1
+Simulator,QCViewer,2,BUGS,0,1
+Simulator,QCViewer,2,SMELLS,0,1
+Simulator,QCViewer,3,BUGS,0,57
+Simulator,QCViewer,3,SMELLS,15,57
+Simulator,QCViewer,4,BUGS,0,57
+Simulator,QCViewer,4,SMELLS,15,57
+Simulator,QCViewer,5,BUGS,0,57
+Simulator,QCViewer,5,SMELLS,15,57
+Simulator,QCViewer,6,BUGS,0,57
+Simulator,QCViewer,6,SMELLS,15,57
+Simulator,QCViewer,7,BUGS,0,57
+Simulator,QCViewer,7,SMELLS,15,57
+Simulator,QCViewer,8,BUGS,0,57
+Simulator,QCViewer,8,SMELLS,15,57
+Simulator,quantum-mobile,0,BUGS,0,1
+Simulator,quantum-mobile,0,SMELLS,0,1
+Simulator,quantum-mobile,1,BUGS,0,42
+Simulator,quantum-mobile,1,SMELLS,6,42
+Simulator,quantum-mobile,2,BUGS,10,221
+Simulator,quantum-mobile,2,SMELLS,20,221
+Simulator,quantum-mobile,3,BUGS,0,231
+Simulator,quantum-mobile,3,SMELLS,20,231
+Simulator,quantum-mobile,4,BUGS,0,42
+Simulator,quantum-mobile,4,SMELLS,6,42
+Simulator,quantum-mobile,5,BUGS,0,42
+Simulator,quantum-mobile,5,SMELLS,6,42
+Simulator,quantum-mobile,6,BUGS,0,42
+Simulator,quantum-mobile,6,SMELLS,6,42
+Simulator,quantum-mobile,7,BUGS,0,42
+Simulator,quantum-mobile,7,SMELLS,6,42
+Simulator,quantum-mobile,8,BUGS,0,42
+Simulator,quantum-mobile,8,SMELLS,6,42
+Simulator,quantum-mobile,9,BUGS,0,42
+Simulator,quantum-mobile,9,SMELLS,6,42
+Quantum-Chemistry,mpqc,0,BUGS,0,1
+Quantum-Chemistry,mpqc,0,SMELLS,0,1
+Quantum-Chemistry,mpqc,1,BUGS,0,1
+Quantum-Chemistry,mpqc,1,SMELLS,0,1
+Quantum-Chemistry,mpqc,2,BUGS,0,1
+Quantum-Chemistry,mpqc,2,SMELLS,0,1
+Quantum-Chemistry,mpqc,3,BUGS,0,1
+Quantum-Chemistry,mpqc,3,SMELLS,0,1
+Quantum-Chemistry,mpqc,4,BUGS,0,1
+Quantum-Chemistry,mpqc,4,SMELLS,0,1
+Quantum-Chemistry,mpqc,5,BUGS,0,1
+Quantum-Chemistry,mpqc,5,SMELLS,0,1
+Quantum-Chemistry,mpqc,6,BUGS,0,1
+Quantum-Chemistry,mpqc,6,SMELLS,0,1
+Quantum-Chemistry,mpqc,7,BUGS,115,297451
+Quantum-Chemistry,mpqc,7,SMELLS,5578,297451
+Quantum-Chemistry,mpqc,8,BUGS,0,12127
+Quantum-Chemistry,mpqc,8,SMELLS,822,12127
+Quantum-Chemistry,mpqc,9,BUGS,0,757
+Quantum-Chemistry,mpqc,9,SMELLS,102,757
+Quantum-Chemistry,mpqc,10,BUGS,0,1
+Quantum-Chemistry,mpqc,10,SMELLS,0,1
+Quantum-Chemistry,mpqc,11,BUGS,0,1
+Quantum-Chemistry,mpqc,11,SMELLS,0,1
+Quantum-Chemistry,mpqc,12,BUGS,0,1
+Quantum-Chemistry,mpqc,12,SMELLS,0,1
+Quantum-Chemistry,mpqc,13,BUGS,0,1
+Quantum-Chemistry,mpqc,13,SMELLS,0,1
+Quantum-Chemistry,mpqc,14,BUGS,0,1
+Quantum-Chemistry,mpqc,14,SMELLS,0,1
+Quantum-Chemistry,mpqc,15,BUGS,0,1
+Quantum-Chemistry,mpqc,15,SMELLS,0,1
+Quantum-Chemistry,mpqc,16,BUGS,0,1
+Quantum-Chemistry,mpqc,16,SMELLS,0,1
+Quantum-Chemistry,mpqc,17,BUGS,0,1
+Quantum-Chemistry,mpqc,17,SMELLS,0,1
+Quantum-Chemistry,mpqc,18,BUGS,0,1
+Quantum-Chemistry,mpqc,18,SMELLS,0,1
+Quantum-Chemistry,mpqc,19,BUGS,0,1
+Quantum-Chemistry,mpqc,19,SMELLS,0,1
+Quantum-Chemistry,mpqc,20,BUGS,0,1
+Quantum-Chemistry,mpqc,20,SMELLS,0,1
+Quantum-Chemistry,mpqc,21,BUGS,0,1
+Quantum-Chemistry,mpqc,21,SMELLS,0,1
+Quantum-Chemistry,mpqc,22,BUGS,0,1
+Quantum-Chemistry,mpqc,22,SMELLS,0,1
+Quantum-Chemistry,mpqc,23,BUGS,0,1
+Quantum-Chemistry,mpqc,23,SMELLS,0,1
+Quantum-Chemistry,mpqc,24,BUGS,0,1
+Quantum-Chemistry,mpqc,24,SMELLS,0,1
+Quantum-Chemistry,mpqc,25,BUGS,0,1
+Quantum-Chemistry,mpqc,25,SMELLS,0,1
+Quantum-Chemistry,mpqc,26,BUGS,0,1
+Quantum-Chemistry,mpqc,26,SMELLS,0,1
+Quantum-Chemistry,mpqc,27,BUGS,0,1
+Quantum-Chemistry,mpqc,27,SMELLS,0,1
+Quantum-Chemistry,mpqc,28,BUGS,0,1
+Quantum-Chemistry,mpqc,28,SMELLS,0,1
+Quantum-Chemistry,mpqc,29,BUGS,0,1
+Quantum-Chemistry,mpqc,29,SMELLS,0,1
+Quantum-Chemistry,mpqc,30,BUGS,0,1
+Quantum-Chemistry,mpqc,30,SMELLS,0,1
+Quantum-Chemistry,mpqc,31,BUGS,0,1
+Quantum-Chemistry,mpqc,31,SMELLS,0,1
+Quantum-Chemistry,mpqc,32,BUGS,0,1
+Quantum-Chemistry,mpqc,32,SMELLS,0,1
+Quantum-Chemistry,mpqc,33,BUGS,0,1
+Quantum-Chemistry,mpqc,33,SMELLS,0,1
+Quantum-Chemistry,mpqc,34,BUGS,0,1
+Quantum-Chemistry,mpqc,34,SMELLS,0,1
+Quantum-Chemistry,mpqc,35,BUGS,0,1
+Quantum-Chemistry,mpqc,35,SMELLS,0,1
+Quantum-Chemistry,mpqc,36,BUGS,0,1
+Quantum-Chemistry,mpqc,36,SMELLS,0,1
+Quantum-Chemistry,mpqc,37,BUGS,0,1
+Quantum-Chemistry,mpqc,37,SMELLS,0,1
+Quantum-Chemistry,mpqc,38,BUGS,0,1
+Quantum-Chemistry,mpqc,38,SMELLS,0,1
+Quantum-Chemistry,mpqc,39,BUGS,0,1
+Quantum-Chemistry,mpqc,39,SMELLS,0,1
+Quantum-Chemistry,mpqc,40,BUGS,0,1
+Quantum-Chemistry,mpqc,40,SMELLS,0,1
+Quantum-Chemistry,mpqc,41,BUGS,0,1
+Quantum-Chemistry,mpqc,41,SMELLS,0,1
+Quantum-Chemistry,mpqc,42,BUGS,0,1
+Quantum-Chemistry,mpqc,42,SMELLS,0,1
+Quantum-Chemistry,mpqc,43,BUGS,0,1
+Quantum-Chemistry,mpqc,43,SMELLS,0,1
+Quantum-Chemistry,mpqc,44,BUGS,0,1
+Quantum-Chemistry,mpqc,44,SMELLS,0,1
+Quantum-Chemistry,mpqc,45,BUGS,0,1
+Quantum-Chemistry,mpqc,45,SMELLS,0,1
+Quantum-Chemistry,mpqc,46,BUGS,0,1
+Quantum-Chemistry,mpqc,46,SMELLS,0,1
+Quantum-Chemistry,mpqc,47,BUGS,0,1
+Quantum-Chemistry,mpqc,47,SMELLS,0,1
+Quantum-Chemistry,mpqc,48,BUGS,0,1
+Quantum-Chemistry,mpqc,48,SMELLS,0,1
+Quantum-Chemistry,mpqc,49,BUGS,0,1
+Quantum-Chemistry,mpqc,49,SMELLS,0,1
+Quantum-Chemistry,mpqc,50,BUGS,0,1
+Quantum-Chemistry,mpqc,50,SMELLS,0,1
+Quantum-Chemistry,mpqc,51,BUGS,0,1
+Quantum-Chemistry,mpqc,51,SMELLS,0,1
+Quantum-Chemistry,mpqc,52,BUGS,0,1
+Quantum-Chemistry,mpqc,52,SMELLS,0,1
+Quantum-Chemistry,mpqc,53,BUGS,0,1
+Quantum-Chemistry,mpqc,53,SMELLS,0,1
+Quantum-Chemistry,mpqc,54,BUGS,0,1
+Quantum-Chemistry,mpqc,54,SMELLS,0,1
+Quantum-Chemistry,mpqc,55,BUGS,0,1
+Quantum-Chemistry,mpqc,55,SMELLS,0,1
+Quantum-Chemistry,mpqc,56,BUGS,0,1
+Quantum-Chemistry,mpqc,56,SMELLS,0,1
+Quantum-Chemistry,mpqc,57,BUGS,0,1
+Quantum-Chemistry,mpqc,57,SMELLS,0,1
+Quantum-Chemistry,mpqc,58,BUGS,0,1
+Quantum-Chemistry,mpqc,58,SMELLS,0,1
+Quantum-Chemistry,mpqc,59,BUGS,0,1
+Quantum-Chemistry,mpqc,59,SMELLS,0,1
+Quantum-Chemistry,mpqc,60,BUGS,0,1
+Quantum-Chemistry,mpqc,60,SMELLS,0,1
+Quantum-Chemistry,mpqc,61,BUGS,0,1
+Quantum-Chemistry,mpqc,61,SMELLS,0,1
+Quantum-Chemistry,mpqc,62,BUGS,0,1
+Quantum-Chemistry,mpqc,62,SMELLS,0,1
+Quantum-Chemistry,mpqc,63,BUGS,0,1
+Quantum-Chemistry,mpqc,63,SMELLS,0,1
+Quantum-Chemistry,mpqc,64,BUGS,0,1
+Quantum-Chemistry,mpqc,64,SMELLS,0,1
+Quantum-Chemistry,mpqc,65,BUGS,0,1
+Quantum-Chemistry,mpqc,65,SMELLS,0,1
+Quantum-Chemistry,mpqc,66,BUGS,0,1
+Quantum-Chemistry,mpqc,66,SMELLS,0,1
+Quantum-Chemistry,mpqc,67,BUGS,0,1
+Quantum-Chemistry,mpqc,67,SMELLS,0,1
+Quantum-Chemistry,mpqc,68,BUGS,0,1
+Quantum-Chemistry,mpqc,68,SMELLS,0,1
+Quantum-Chemistry,mpqc,69,BUGS,0,1
+Quantum-Chemistry,mpqc,69,SMELLS,0,1
+Quantum-Chemistry,mpqc,70,BUGS,0,1
+Quantum-Chemistry,mpqc,70,SMELLS,0,1
+Quantum-Chemistry,mpqc,71,BUGS,0,1
+Quantum-Chemistry,mpqc,71,SMELLS,0,1
+Quantum-Chemistry,mpqc,72,BUGS,0,1
+Quantum-Chemistry,mpqc,72,SMELLS,0,1
+Quantum-Chemistry,mpqc,73,BUGS,5,30857
+Quantum-Chemistry,mpqc,73,SMELLS,430,30857
+Quantum-Chemistry,mpqc,74,BUGS,95,31505
+Quantum-Chemistry,mpqc,74,SMELLS,441,31505
+Quantum-Chemistry,mpqc,75,BUGS,5,31135
+Quantum-Chemistry,mpqc,75,SMELLS,441,31135
+Quantum-Chemistry,mpqc,76,BUGS,5,31135
+Quantum-Chemistry,mpqc,76,SMELLS,441,31135
+Quantum-Chemistry,mpqc,77,BUGS,5,31135
+Quantum-Chemistry,mpqc,77,SMELLS,441,31135
+Quantum-Chemistry,mpqc,78,BUGS,0,70845
+Quantum-Chemistry,mpqc,78,SMELLS,1692,70845
+Quantum-Chemistry,mpqc,79,BUGS,0,70845
+Quantum-Chemistry,mpqc,79,SMELLS,1692,70845
+Quantum-Chemistry,mpqc,80,BUGS,0,1
+Quantum-Chemistry,mpqc,80,SMELLS,0,1
+Quantum-Chemistry,mpqc,81,BUGS,0,2269
+Quantum-Chemistry,mpqc,81,SMELLS,143,2269
+Quantum-Chemistry,mpqc,82,BUGS,0,2269
+Quantum-Chemistry,mpqc,82,SMELLS,143,2269
+Quantum-Chemistry,mpqc,83,BUGS,0,2269
+Quantum-Chemistry,mpqc,83,SMELLS,143,2269
+Quantum-Chemistry,mpqc,84,BUGS,0,2269
+Quantum-Chemistry,mpqc,84,SMELLS,143,2269
+Quantum-Chemistry,mpqc,85,BUGS,0,2269
+Quantum-Chemistry,mpqc,85,SMELLS,143,2269
+Quantum-Chemistry,mpqc,86,BUGS,0,31
+Quantum-Chemistry,mpqc,86,SMELLS,5,31
+Quantum-Chemistry,mpqc,87,BUGS,0,253
+Quantum-Chemistry,mpqc,87,SMELLS,34,253
+Quantum-Chemistry,mpqc,88,BUGS,0,253
+Quantum-Chemistry,mpqc,88,SMELLS,34,253
+Quantum-Chemistry,mpqc,89,BUGS,0,253
+Quantum-Chemistry,mpqc,89,SMELLS,34,253
+Quantum-Chemistry,mpqc,90,BUGS,0,253
+Quantum-Chemistry,mpqc,90,SMELLS,34,253
+Quantum-Chemistry,mpqc,91,BUGS,0,253
+Quantum-Chemistry,mpqc,91,SMELLS,34,253
+Quantum-Chemistry,mpqc,92,BUGS,0,253
+Quantum-Chemistry,mpqc,92,SMELLS,34,253
+Quantum-Chemistry,pyscf,0,BUGS,0,1
+Quantum-Chemistry,pyscf,0,SMELLS,0,1
+Quantum-Chemistry,pyscf,1,BUGS,2393,4693889
+Quantum-Chemistry,pyscf,1,SMELLS,61645,4693889
+Quantum-Chemistry,pyscf,2,BUGS,0,1
+Quantum-Chemistry,pyscf,2,SMELLS,0,1
+Quantum-Chemistry,pyscf,3,BUGS,0,1
+Quantum-Chemistry,pyscf,3,SMELLS,0,1
+Quantum-Chemistry,pyscf,4,BUGS,0,1
+Quantum-Chemistry,pyscf,4,SMELLS,0,1
+Quantum-Chemistry,pyscf,5,BUGS,0,1
+Quantum-Chemistry,pyscf,5,SMELLS,0,1
+Quantum-Chemistry,pyscf,6,BUGS,0,1
+Quantum-Chemistry,pyscf,6,SMELLS,0,1
+Quantum-Chemistry,pyscf,7,BUGS,0,1
+Quantum-Chemistry,pyscf,7,SMELLS,0,1
+Quantum-Chemistry,pyscf,8,BUGS,0,1
+Quantum-Chemistry,pyscf,8,SMELLS,0,1
+Quantum-Chemistry,pyscf,9,BUGS,0,1
+Quantum-Chemistry,pyscf,9,SMELLS,0,1
+Quantum-Chemistry,pyscf,10,BUGS,878,1313542
+Quantum-Chemistry,pyscf,10,SMELLS,22373,1313542
+Quantum-Chemistry,pyscf,11,BUGS,939,1519282
+Quantum-Chemistry,pyscf,11,SMELLS,24879,1519282
+Quantum-Chemistry,pyscf,12,BUGS,439,1781491
+Quantum-Chemistry,pyscf,12,SMELLS,12762,1781491
+Quantum-Chemistry,pyscf,13,BUGS,0,1
+Quantum-Chemistry,pyscf,13,SMELLS,0,1
+Quantum-Chemistry,pyscf,14,BUGS,0,1
+Quantum-Chemistry,pyscf,14,SMELLS,0,1
+Quantum-Chemistry,pyscf,15,BUGS,0,1
+Quantum-Chemistry,pyscf,15,SMELLS,0,1
+Quantum-Chemistry,pyscf,16,BUGS,0,1
+Quantum-Chemistry,pyscf,16,SMELLS,0,1
+Quantum-Chemistry,pyscf,17,BUGS,0,1
+Quantum-Chemistry,pyscf,17,SMELLS,0,1
+Quantum-Chemistry,pyscf,18,BUGS,0,1
+Quantum-Chemistry,pyscf,18,SMELLS,0,1
+Quantum-Chemistry,pyscf,19,BUGS,0,1
+Quantum-Chemistry,pyscf,19,SMELLS,0,1
+Quantum-Chemistry,pyscf,20,BUGS,0,1
+Quantum-Chemistry,pyscf,20,SMELLS,0,1
+Quantum-Chemistry,pyscf,21,BUGS,0,1
+Quantum-Chemistry,pyscf,21,SMELLS,0,1
+Quantum-Chemistry,pyscf,22,BUGS,0,1
+Quantum-Chemistry,pyscf,22,SMELLS,0,1
+Quantum-Chemistry,pyscf,23,BUGS,0,1
+Quantum-Chemistry,pyscf,23,SMELLS,0,1
+Quantum-Chemistry,pyscf,24,BUGS,0,1
+Quantum-Chemistry,pyscf,24,SMELLS,0,1
+Quantum-Chemistry,pyscf,25,BUGS,0,1
+Quantum-Chemistry,pyscf,25,SMELLS,0,1
+Quantum-Chemistry,basis_set_exchange,0,BUGS,20,1113
+Quantum-Chemistry,basis_set_exchange,0,SMELLS,98,1113
+Quantum-Chemistry,basis_set_exchange,1,BUGS,55,46775
+Quantum-Chemistry,basis_set_exchange,1,SMELLS,1172,46775
+Quantum-Chemistry,basis_set_exchange,2,BUGS,15,2424
+Quantum-Chemistry,basis_set_exchange,2,SMELLS,194,2424
+Quantum-Chemistry,basis_set_exchange,3,BUGS,5,37837
+Quantum-Chemistry,basis_set_exchange,3,SMELLS,490,37837
+Quantum-Chemistry,basis_set_exchange,4,BUGS,10,38368
+Quantum-Chemistry,basis_set_exchange,4,SMELLS,714,38368
+Quantum-Chemistry,basis_set_exchange,5,BUGS,30,40514
+Quantum-Chemistry,basis_set_exchange,5,SMELLS,899,40514
+Quantum-Chemistry,basis_set_exchange,6,BUGS,20,41664
+Quantum-Chemistry,basis_set_exchange,6,SMELLS,1113,41664
+Quantum-Chemistry,basis_set_exchange,7,BUGS,20,41703
+Quantum-Chemistry,basis_set_exchange,7,SMELLS,1161,41703
+Quantum-Chemistry,basis_set_exchange,8,BUGS,20,42013
+Quantum-Chemistry,basis_set_exchange,8,SMELLS,1167,42013
+Quantum-Chemistry,basis_set_exchange,9,BUGS,50,44945
+Quantum-Chemistry,basis_set_exchange,9,SMELLS,1048,44945
+Quantum-Chemistry,basis_set_exchange,10,BUGS,50,44947
+Quantum-Chemistry,basis_set_exchange,10,SMELLS,1048,44947
+Quantum-Chemistry,QCElemental,0,BUGS,0,1
+Quantum-Chemistry,QCElemental,0,SMELLS,0,1
+Quantum-Chemistry,QCElemental,1,BUGS,40,113265
+Quantum-Chemistry,QCElemental,1,SMELLS,1498,113265
+Quantum-Chemistry,QCElemental,2,BUGS,40,117988
+Quantum-Chemistry,QCElemental,2,SMELLS,1634,117988
+Quantum-Chemistry,QCElemental,3,BUGS,40,139918
+Quantum-Chemistry,QCElemental,3,SMELLS,2259,139918
+Quantum-Chemistry,QCElemental,4,BUGS,10,140025
+Quantum-Chemistry,QCElemental,4,SMELLS,2387,140025
+Quantum-Chemistry,QCElemental,5,BUGS,10,144952
+Quantum-Chemistry,QCElemental,5,SMELLS,2493,144952
+Quantum-Chemistry,QCElemental,6,BUGS,10,4293947
+Quantum-Chemistry,QCElemental,6,SMELLS,10500,4293947
+Quantum-Chemistry,QCElemental,7,BUGS,10,4295073
+Quantum-Chemistry,QCElemental,7,SMELLS,10525,4295073
+Quantum-Chemistry,QCEngine,0,BUGS,0,1
+Quantum-Chemistry,QCEngine,0,SMELLS,0,1
+Quantum-Chemistry,QCEngine,1,BUGS,43,33971
+Quantum-Chemistry,QCEngine,1,SMELLS,249,33971
+Quantum-Chemistry,QCEngine,2,BUGS,50,34426
+Quantum-Chemistry,QCEngine,2,SMELLS,271,34426
+Quantum-Chemistry,QCEngine,3,BUGS,20,34276
+Quantum-Chemistry,QCEngine,3,SMELLS,321,34276
+Quantum-Chemistry,QCEngine,4,BUGS,40,48419
+Quantum-Chemistry,QCEngine,4,SMELLS,776,48419
+Quantum-Chemistry,QCEngine,5,BUGS,45,86939
+Quantum-Chemistry,QCEngine,5,SMELLS,1550,86939
+Quantum-Chemistry,QCEngine,6,BUGS,35,103923
+Quantum-Chemistry,QCEngine,6,SMELLS,2071,103923
+Quantum-Chemistry,QCEngine,7,BUGS,55,118104
+Quantum-Chemistry,QCEngine,7,SMELLS,2437,118104
+Quantum-Chemistry,QCEngine,8,BUGS,65,127797
+Quantum-Chemistry,QCEngine,8,SMELLS,2828,127797
+Quantum-Chemistry,QCEngine,9,BUGS,35,153014
+Quantum-Chemistry,QCEngine,9,SMELLS,3293,153014
+Quantum-Chemistry,QCFractal,0,BUGS,0,1
+Quantum-Chemistry,QCFractal,0,SMELLS,0,1
+Quantum-Chemistry,QCFractal,1,BUGS,1006,3054350
+Quantum-Chemistry,QCFractal,1,SMELLS,10403,3054350
+Quantum-Chemistry,QCFractal,2,BUGS,0,20907
+Quantum-Chemistry,QCFractal,2,SMELLS,678,20907
+Quantum-Chemistry,QCFractal,3,BUGS,0,23253
+Quantum-Chemistry,QCFractal,3,SMELLS,698,23253
+Quantum-Chemistry,QCFractal,4,BUGS,198,58541
+Quantum-Chemistry,QCFractal,4,SMELLS,801,58541
+Quantum-Chemistry,QCFractal,5,BUGS,20,57007
+Quantum-Chemistry,QCFractal,5,SMELLS,928,57007
+Quantum-Chemistry,QCFractal,6,BUGS,50,79744
+Quantum-Chemistry,QCFractal,6,SMELLS,1462,79744
+Quantum-Chemistry,QCFractal,7,BUGS,80,64434
+Quantum-Chemistry,QCFractal,7,SMELLS,1169,64434
+Quantum-Chemistry,QCFractal,8,BUGS,120,136809
+Quantum-Chemistry,QCFractal,8,SMELLS,2455,136809
+Quantum-Chemistry,QCFractal,9,BUGS,160,133636
+Quantum-Chemistry,QCFractal,9,SMELLS,2523,133636
+Quantum-Chemistry,QCFractal,10,BUGS,332,1003430
+Quantum-Chemistry,QCFractal,10,SMELLS,3251,1003430
+Quantum-Chemistry,QCFractal,11,BUGS,322,1015785
+Quantum-Chemistry,QCFractal,11,SMELLS,3304,1015785
+Quantum-Chemistry,QCFractal,12,BUGS,322,1021612
+Quantum-Chemistry,QCFractal,12,SMELLS,3340,1021612
+Quantum-Chemistry,CheMPS2,0,BUGS,0,1
+Quantum-Chemistry,CheMPS2,0,SMELLS,0,1
+Quantum-Chemistry,CheMPS2,1,BUGS,0,39156
+Quantum-Chemistry,CheMPS2,1,SMELLS,2424,39156
+Quantum-Chemistry,CheMPS2,2,BUGS,0,1
+Quantum-Chemistry,CheMPS2,2,SMELLS,0,1
+Quantum-Chemistry,CheMPS2,3,BUGS,0,1
+Quantum-Chemistry,CheMPS2,3,SMELLS,0,1
+Quantum-Chemistry,CheMPS2,4,BUGS,0,1
+Quantum-Chemistry,CheMPS2,4,SMELLS,0,1
+Quantum-Chemistry,CheMPS2,5,BUGS,0,2868
+Quantum-Chemistry,CheMPS2,5,SMELLS,201,2868
+Quantum-Chemistry,CheMPS2,6,BUGS,0,7477
+Quantum-Chemistry,CheMPS2,6,SMELLS,648,7477
+Quantum-Chemistry,CheMPS2,7,BUGS,0,7463
+Quantum-Chemistry,CheMPS2,7,SMELLS,634,7463
+Quantum-Chemistry,CheMPS2,8,BUGS,0,6813
+Quantum-Chemistry,CheMPS2,8,SMELLS,454,6813
+Quantum-Chemistry,CheMPS2,9,BUGS,0,7199
+Quantum-Chemistry,CheMPS2,9,SMELLS,484,7199
+Quantum-Chemistry,CheMPS2,10,BUGS,0,7196
+Quantum-Chemistry,CheMPS2,10,SMELLS,482,7196
+Quantum-Chemistry,CheMPS2,11,BUGS,0,7196
+Quantum-Chemistry,CheMPS2,11,SMELLS,482,7196
+Quantum-Chemistry,CheMPS2,12,BUGS,0,4954
+Quantum-Chemistry,CheMPS2,12,SMELLS,292,4954
+Quantum-Chemistry,CheMPS2,13,BUGS,0,4954
+Quantum-Chemistry,CheMPS2,13,SMELLS,292,4954
+Quantum-Chemistry,CheMPS2,14,BUGS,0,4954
+Quantum-Chemistry,CheMPS2,14,SMELLS,292,4954
+Quantum-Chemistry,CheMPS2,15,BUGS,0,4954
+Quantum-Chemistry,CheMPS2,15,SMELLS,292,4954
+Quantum-Chemistry,CheMPS2,16,BUGS,0,4954
+Quantum-Chemistry,CheMPS2,16,SMELLS,292,4954
+Quantum-Chemistry,libra-code,0,BUGS,0,1
+Quantum-Chemistry,libra-code,0,SMELLS,0,1
+Quantum-Chemistry,libra-code,1,BUGS,292,1790725
+Quantum-Chemistry,libra-code,1,SMELLS,43757,1790725
+Quantum-Chemistry,libra-code,2,BUGS,0,1
+Quantum-Chemistry,libra-code,2,SMELLS,0,1
+Quantum-Chemistry,libra-code,3,BUGS,0,1
+Quantum-Chemistry,libra-code,3,SMELLS,0,1
+Quantum-Chemistry,libra-code,4,BUGS,0,1
+Quantum-Chemistry,libra-code,4,SMELLS,0,1
+Quantum-Chemistry,libra-code,5,BUGS,0,1
+Quantum-Chemistry,libra-code,5,SMELLS,0,1
+Quantum-Chemistry,libra-code,6,BUGS,0,1
+Quantum-Chemistry,libra-code,6,SMELLS,0,1
+Quantum-Chemistry,libra-code,7,BUGS,0,1
+Quantum-Chemistry,libra-code,7,SMELLS,0,1
+Quantum-Chemistry,libra-code,8,BUGS,0,1
+Quantum-Chemistry,libra-code,8,SMELLS,0,1
+Quantum-Chemistry,libra-code,9,BUGS,0,1
+Quantum-Chemistry,libra-code,9,SMELLS,0,1
+Quantum-Chemistry,libra-code,10,BUGS,116,952207
+Quantum-Chemistry,libra-code,10,SMELLS,23190,952207
+Quantum-Chemistry,libra-code,11,BUGS,86,756485
+Quantum-Chemistry,libra-code,11,SMELLS,15399,756485
+Quantum-Chemistry,libra-code,12,BUGS,0,1
+Quantum-Chemistry,libra-code,12,SMELLS,0,1
+Quantum-Chemistry,libra-code,13,BUGS,0,1
+Quantum-Chemistry,libra-code,13,SMELLS,0,1
+Quantum-Chemistry,libra-code,14,BUGS,0,1
+Quantum-Chemistry,libra-code,14,SMELLS,0,1
+Quantum-Chemistry,libra-code,15,BUGS,0,1
+Quantum-Chemistry,libra-code,15,SMELLS,0,1
+Quantum-Chemistry,libra-code,16,BUGS,0,1
+Quantum-Chemistry,libra-code,16,SMELLS,0,1
+Quantum-Chemistry,libra-code,17,BUGS,0,1
+Quantum-Chemistry,libra-code,17,SMELLS,0,1
+Quantum-Chemistry,libra-code,18,BUGS,0,1
+Quantum-Chemistry,libra-code,18,SMELLS,0,1
+Quantum-Chemistry,libra-code,19,BUGS,0,1
+Quantum-Chemistry,libra-code,19,SMELLS,0,1
+Quantum-Chemistry,libra-code,20,BUGS,0,1
+Quantum-Chemistry,libra-code,20,SMELLS,0,1
+Quantum-Chemistry,cp2k,0,BUGS,0,1
+Quantum-Chemistry,cp2k,0,SMELLS,0,1
+Quantum-Chemistry,cp2k,1,BUGS,1195,1143252
+Quantum-Chemistry,cp2k,1,SMELLS,17965,1143252
+Quantum-Chemistry,cp2k,2,BUGS,6509,2092061
+Quantum-Chemistry,cp2k,2,SMELLS,28934,2092061
+Quantum-Chemistry,cp2k,3,BUGS,67,44939
+Quantum-Chemistry,cp2k,3,SMELLS,1095,44939
+Quantum-Chemistry,cp2k,4,BUGS,0,1
+Quantum-Chemistry,cp2k,4,SMELLS,0,1
+Quantum-Chemistry,cp2k,5,BUGS,0,1
+Quantum-Chemistry,cp2k,5,SMELLS,0,1
+Quantum-Chemistry,cp2k,6,BUGS,0,1
+Quantum-Chemistry,cp2k,6,SMELLS,0,1
+Quantum-Chemistry,cp2k,7,BUGS,0,1
+Quantum-Chemistry,cp2k,7,SMELLS,0,1
+Quantum-Chemistry,cp2k,8,BUGS,0,1
+Quantum-Chemistry,cp2k,8,SMELLS,0,1
+Quantum-Chemistry,cp2k,9,BUGS,0,1
+Quantum-Chemistry,cp2k,9,SMELLS,0,1
+Quantum-Chemistry,cp2k,10,BUGS,12,92916
+Quantum-Chemistry,cp2k,10,SMELLS,1510,92916
+Quantum-Chemistry,cp2k,11,BUGS,22,94190
+Quantum-Chemistry,cp2k,11,SMELLS,1560,94190
+Quantum-Chemistry,cp2k,12,BUGS,22,93318
+Quantum-Chemistry,cp2k,12,SMELLS,1535,93318
+Quantum-Chemistry,cp2k,13,BUGS,42,94169
+Quantum-Chemistry,cp2k,13,SMELLS,1540,94169
+Quantum-Chemistry,cp2k,14,BUGS,42,95719
+Quantum-Chemistry,cp2k,14,SMELLS,1618,95719
+Quantum-Chemistry,cp2k,15,BUGS,189,97889
+Quantum-Chemistry,cp2k,15,SMELLS,1678,97889
+Quantum-Chemistry,cp2k,16,BUGS,189,98454
+Quantum-Chemistry,cp2k,16,SMELLS,1758,98454
+Quantum-Chemistry,cp2k,17,BUGS,204,116552
+Quantum-Chemistry,cp2k,17,SMELLS,2018,116552
+Quantum-Chemistry,cp2k,18,BUGS,239,169265
+Quantum-Chemistry,cp2k,18,SMELLS,2311,169265
+Quantum-Chemistry,cp2k,19,BUGS,234,190789
+Quantum-Chemistry,cp2k,19,SMELLS,2437,190789
+Quantum-Chemistry,cp2k,20,BUGS,242,194264
+Quantum-Chemistry,cp2k,20,SMELLS,2570,194264
+Quantum-Chemistry,cp2k,21,BUGS,424,195055
+Quantum-Chemistry,cp2k,21,SMELLS,2645,195055
+Quantum-Chemistry,cp2k,22,BUGS,656,195147
+Quantum-Chemistry,cp2k,22,SMELLS,2705,195147
+Quantum-Chemistry,cp2k,23,BUGS,711,203145
+Quantum-Chemistry,cp2k,23,SMELLS,2730,203145
+Quantum-Chemistry,cp2k,24,BUGS,686,202619
+Quantum-Chemistry,cp2k,24,SMELLS,2740,202619
+Quantum-Chemistry,cp2k,25,BUGS,758,203304
+Quantum-Chemistry,cp2k,25,SMELLS,2804,203304
+Quantum-Chemistry,cp2k,26,BUGS,758,213651
+Quantum-Chemistry,cp2k,26,SMELLS,3060,213651
+Quantum-Chemistry,cp2k,27,BUGS,758,228482
+Quantum-Chemistry,cp2k,27,SMELLS,3230,228482
+Quantum-Chemistry,cp2k,28,BUGS,758,228451
+Quantum-Chemistry,cp2k,28,SMELLS,3230,228451
+Quantum-Chemistry,cp2k,29,BUGS,758,227952
+Quantum-Chemistry,cp2k,29,SMELLS,3220,227952
+Quantum-Chemistry,cp2k,30,BUGS,65,30057
+Quantum-Chemistry,cp2k,30,SMELLS,657,30057
+Quantum-Chemistry,cp2k,31,BUGS,0,1
+Quantum-Chemistry,cp2k,31,SMELLS,0,1
+Quantum-Chemistry,cp2k,32,BUGS,0,1
+Quantum-Chemistry,cp2k,32,SMELLS,0,1
+Quantum-Chemistry,cp2k,33,BUGS,0,1
+Quantum-Chemistry,cp2k,33,SMELLS,0,1
+Quantum-Chemistry,cp2k,34,BUGS,0,1
+Quantum-Chemistry,cp2k,34,SMELLS,0,1
+Quantum-Chemistry,cp2k,35,BUGS,0,1
+Quantum-Chemistry,cp2k,35,SMELLS,0,1
+Quantum-Chemistry,cp2k,36,BUGS,0,1
+Quantum-Chemistry,cp2k,36,SMELLS,0,1
+Quantum-Chemistry,cp2k,37,BUGS,0,1
+Quantum-Chemistry,cp2k,37,SMELLS,0,1
+Quantum-Chemistry,cp2k,38,BUGS,0,1
+Quantum-Chemistry,cp2k,38,SMELLS,0,1
+Quantum-Chemistry,cp2k,39,BUGS,0,1
+Quantum-Chemistry,cp2k,39,SMELLS,0,1
+Quantum-Chemistry,cp2k,40,BUGS,0,1
+Quantum-Chemistry,cp2k,40,SMELLS,0,1
+Quantum-Chemistry,cp2k,41,BUGS,0,1
+Quantum-Chemistry,cp2k,41,SMELLS,0,1
+Quantum-Chemistry,cp2k,42,BUGS,0,1
+Quantum-Chemistry,cp2k,42,SMELLS,0,1
+Quantum-Chemistry,cp2k,43,BUGS,0,1
+Quantum-Chemistry,cp2k,43,SMELLS,0,1
+Quantum-Chemistry,cp2k,44,BUGS,0,1
+Quantum-Chemistry,cp2k,44,SMELLS,0,1
+Quantum-Chemistry,cp2k,45,BUGS,0,1
+Quantum-Chemistry,cp2k,45,SMELLS,0,1
+Quantum-Chemistry,cp2k,46,BUGS,0,1
+Quantum-Chemistry,cp2k,46,SMELLS,0,1
+Quantum-Chemistry,cp2k,47,BUGS,0,1
+Quantum-Chemistry,cp2k,47,SMELLS,0,1
+Quantum-Chemistry,cp2k,48,BUGS,0,1
+Quantum-Chemistry,cp2k,48,SMELLS,0,1
+Quantum-Chemistry,cp2k,49,BUGS,0,1
+Quantum-Chemistry,cp2k,49,SMELLS,0,1
+Quantum-Chemistry,cp2k,50,BUGS,0,1
+Quantum-Chemistry,cp2k,50,SMELLS,0,1
+Quantum-Chemistry,cp2k,51,BUGS,0,1
+Quantum-Chemistry,cp2k,51,SMELLS,0,1
+Quantum-Chemistry,cp2k,52,BUGS,0,1
+Quantum-Chemistry,cp2k,52,SMELLS,0,1
+Quantum-Chemistry,cp2k,53,BUGS,0,1
+Quantum-Chemistry,cp2k,53,SMELLS,0,1
+Quantum-Chemistry,cp2k,54,BUGS,0,1
+Quantum-Chemistry,cp2k,54,SMELLS,0,1
+Quantum-Chemistry,cp2k,55,BUGS,0,1
+Quantum-Chemistry,cp2k,55,SMELLS,0,1
+Quantum-Chemistry,cp2k,56,BUGS,0,1
+Quantum-Chemistry,cp2k,56,SMELLS,0,1
+Quantum-Chemistry,cp2k,57,BUGS,0,1
+Quantum-Chemistry,cp2k,57,SMELLS,0,1
+Quantum-Chemistry,cp2k,58,BUGS,0,1
+Quantum-Chemistry,cp2k,58,SMELLS,0,1
+Quantum-Chemistry,cp2k,59,BUGS,0,1
+Quantum-Chemistry,cp2k,59,SMELLS,0,1
+Quantum-Chemistry,cp2k,60,BUGS,0,1
+Quantum-Chemistry,cp2k,60,SMELLS,0,1
+Quantum-Chemistry,cp2k,61,BUGS,0,1
+Quantum-Chemistry,cp2k,61,SMELLS,0,1
+Quantum-Chemistry,cp2k,62,BUGS,0,1
+Quantum-Chemistry,cp2k,62,SMELLS,0,1
+Quantum-Chemistry,cp2k,63,BUGS,0,1
+Quantum-Chemistry,cp2k,63,SMELLS,0,1
+Quantum-Chemistry,cp2k,64,BUGS,0,1
+Quantum-Chemistry,cp2k,64,SMELLS,0,1
+Quantum-Chemistry,cp2k,65,BUGS,0,1
+Quantum-Chemistry,cp2k,65,SMELLS,0,1
+Quantum-Chemistry,cp2k,66,BUGS,0,1
+Quantum-Chemistry,cp2k,66,SMELLS,0,1
+Quantum-Chemistry,cp2k,67,BUGS,0,1
+Quantum-Chemistry,cp2k,67,SMELLS,0,1
+Quantum-Chemistry,cp2k,68,BUGS,0,1
+Quantum-Chemistry,cp2k,68,SMELLS,0,1
+Quantum-Chemistry,cp2k,69,BUGS,0,1
+Quantum-Chemistry,cp2k,69,SMELLS,0,1
+Quantum-Chemistry,cp2k,70,BUGS,0,1
+Quantum-Chemistry,cp2k,70,SMELLS,0,1
+Quantum-Chemistry,cp2k,71,BUGS,0,1
+Quantum-Chemistry,cp2k,71,SMELLS,0,1
+Quantum-Chemistry,cp2k,72,BUGS,0,1
+Quantum-Chemistry,cp2k,72,SMELLS,0,1
+Quantum-Chemistry,cp2k,73,BUGS,0,1
+Quantum-Chemistry,cp2k,73,SMELLS,0,1
+Quantum-Chemistry,cp2k,74,BUGS,0,1
+Quantum-Chemistry,cp2k,74,SMELLS,0,1
+Quantum-Chemistry,cp2k,75,BUGS,0,1
+Quantum-Chemistry,cp2k,75,SMELLS,0,1
+Quantum-Chemistry,cp2k,76,BUGS,0,1
+Quantum-Chemistry,cp2k,76,SMELLS,0,1
+Quantum-Chemistry,xtp,0,BUGS,0,1
+Quantum-Chemistry,xtp,0,SMELLS,0,1
+Quantum-Chemistry,xtp,1,BUGS,80,21157
+Quantum-Chemistry,xtp,1,SMELLS,1101,21157
+Quantum-Chemistry,xtp,2,BUGS,70,19614
+Quantum-Chemistry,xtp,2,SMELLS,1006,19614
+Quantum-Chemistry,xtp,3,BUGS,30,8686
+Quantum-Chemistry,xtp,3,SMELLS,469,8686
+Quantum-Chemistry,xtp,4,BUGS,20,329
+Quantum-Chemistry,xtp,4,SMELLS,0,329
+Quantum-Chemistry,xtp,5,BUGS,0,1240
+Quantum-Chemistry,xtp,5,SMELLS,74,1240
+Quantum-Chemistry,xtp,6,BUGS,0,1240
+Quantum-Chemistry,xtp,6,SMELLS,74,1240
+Quantum-Chemistry,xtp,7,BUGS,0,1240
+Quantum-Chemistry,xtp,7,SMELLS,74,1240
+Quantum-Chemistry,xtp,8,BUGS,0,1
+Quantum-Chemistry,xtp,8,SMELLS,0,1
+Quantum-Chemistry,xtp,9,BUGS,0,1240
+Quantum-Chemistry,xtp,9,SMELLS,74,1240
+Quantum-Chemistry,xtp,10,BUGS,0,1
+Quantum-Chemistry,xtp,10,SMELLS,0,1
+Quantum-Chemistry,xtp,11,BUGS,10,2712
+Quantum-Chemistry,xtp,11,SMELLS,135,2712
+Quantum-Chemistry,xtp,12,BUGS,10,2636
+Quantum-Chemistry,xtp,12,SMELLS,138,2636
+Quantum-Chemistry,xtp,13,BUGS,0,1
+Quantum-Chemistry,xtp,13,SMELLS,0,1
+Quantum-Chemistry,xtp,14,BUGS,10,2636
+Quantum-Chemistry,xtp,14,SMELLS,138,2636
+Quantum-Chemistry,xtp,15,BUGS,10,2636
+Quantum-Chemistry,xtp,15,SMELLS,138,2636
+Quantum-Chemistry,xtp,16,BUGS,10,2636
+Quantum-Chemistry,xtp,16,SMELLS,138,2636
+Quantum-Chemistry,xtp,17,BUGS,10,2636
+Quantum-Chemistry,xtp,17,SMELLS,138,2636
+Quantum-Chemistry,xtp,18,BUGS,10,2636
+Quantum-Chemistry,xtp,18,SMELLS,138,2636
+Quantum-Chemistry,xtp,19,BUGS,10,2636
+Quantum-Chemistry,xtp,19,SMELLS,138,2636
+Quantum-Chemistry,xtp,20,BUGS,0,1
+Quantum-Chemistry,xtp,20,SMELLS,0,1
+Quantum-Chemistry,xtp,21,BUGS,10,2636
+Quantum-Chemistry,xtp,21,SMELLS,138,2636
+Quantum-Chemistry,xtp,22,BUGS,0,1
+Quantum-Chemistry,xtp,22,SMELLS,0,1
+Quantum-Chemistry,xtp,23,BUGS,10,2636
+Quantum-Chemistry,xtp,23,SMELLS,138,2636
+Quantum-Chemistry,xtp,24,BUGS,10,2928
+Quantum-Chemistry,xtp,24,SMELLS,148,2928
+Quantum-Chemistry,xtp,25,BUGS,10,2928
+Quantum-Chemistry,xtp,25,SMELLS,148,2928
+Quantum-Chemistry,xtp,26,BUGS,10,2636
+Quantum-Chemistry,xtp,26,SMELLS,138,2636
+Quantum-Chemistry,xtp,27,BUGS,0,1
+Quantum-Chemistry,xtp,27,SMELLS,0,1
+Quantum-Chemistry,xtp,28,BUGS,10,2928
+Quantum-Chemistry,xtp,28,SMELLS,148,2928
+Quantum-Chemistry,xtp,29,BUGS,10,2928
+Quantum-Chemistry,xtp,29,SMELLS,148,2928
+Quantum-Chemistry,xtp,30,BUGS,10,2956
+Quantum-Chemistry,xtp,30,SMELLS,153,2956
+Quantum-Chemistry,xtp,31,BUGS,10,2956
+Quantum-Chemistry,xtp,31,SMELLS,153,2956
+Quantum-Chemistry,xtp,32,BUGS,10,2664
+Quantum-Chemistry,xtp,32,SMELLS,143,2664
+Quantum-Chemistry,xtp,33,BUGS,0,29
+Quantum-Chemistry,xtp,33,SMELLS,5,29
+Quantum-Chemistry,xtp,34,BUGS,0,29
+Quantum-Chemistry,xtp,34,SMELLS,5,29
+Quantum-Chemistry,xtp,35,BUGS,0,29
+Quantum-Chemistry,xtp,35,SMELLS,5,29
+Quantum-Chemistry,xtp,36,BUGS,0,29
+Quantum-Chemistry,xtp,36,SMELLS,5,29
+Quantum-Chemistry,xtp,37,BUGS,0,1
+Quantum-Chemistry,xtp,37,SMELLS,0,1
+Quantum-Chemistry,xtp,38,BUGS,0,1
+Quantum-Chemistry,xtp,38,SMELLS,0,1
+Quantum-Chemistry,xtp,39,BUGS,0,1
+Quantum-Chemistry,xtp,39,SMELLS,0,1
+Quantum-Chemistry,xtp,40,BUGS,0,1
+Quantum-Chemistry,xtp,40,SMELLS,0,1
+Quantum-Chemistry,xtp,41,BUGS,0,1
+Quantum-Chemistry,xtp,41,SMELLS,0,1
+Quantum-Chemistry,xtp,42,BUGS,0,1
+Quantum-Chemistry,xtp,42,SMELLS,0,1
+Quantum-Chemistry,xtp,43,BUGS,0,1
+Quantum-Chemistry,xtp,43,SMELLS,0,1
+Quantum-Chemistry,xtp,44,BUGS,0,1
+Quantum-Chemistry,xtp,44,SMELLS,0,1
+Quantum-Chemistry,xtp,45,BUGS,10,165
+Quantum-Chemistry,xtp,45,SMELLS,0,165
+Quantum-Chemistry,xtp,46,BUGS,10,165
+Quantum-Chemistry,xtp,46,SMELLS,0,165
+Quantum-Chemistry,hande,0,BUGS,0,1
+Quantum-Chemistry,hande,0,SMELLS,0,1
+Quantum-Chemistry,hande,1,BUGS,65,180245
+Quantum-Chemistry,hande,1,SMELLS,5784,180245
+Quantum-Chemistry,hande,2,BUGS,240,205389
+Quantum-Chemistry,hande,2,SMELLS,7493,205389
+Quantum-Chemistry,hande,3,BUGS,240,248406
+Quantum-Chemistry,hande,3,SMELLS,9209,248406
+Quantum-Chemistry,hande,4,BUGS,0,7180
+Quantum-Chemistry,hande,4,SMELLS,338,7180
+Quantum-Chemistry,hande,5,BUGS,0,7180
+Quantum-Chemistry,hande,5,SMELLS,338,7180
+Quantum-Chemistry,hande,6,BUGS,0,7282
+Quantum-Chemistry,hande,6,SMELLS,347,7282
+Quantum-Chemistry,hande,7,BUGS,0,7684
+Quantum-Chemistry,hande,7,SMELLS,398,7684
+Quantum-Chemistry,hande,8,BUGS,0,7714
+Quantum-Chemistry,hande,8,SMELLS,398,7714
+Quantum-Chemistry,hande,9,BUGS,10,15598
+Quantum-Chemistry,hande,9,SMELLS,633,15598
+Quantum-Chemistry,hande,10,BUGS,0,14630
+Quantum-Chemistry,hande,10,SMELLS,618,14630
+Quantum-Chemistry,hande,11,BUGS,0,23640
+Quantum-Chemistry,hande,11,SMELLS,732,23640
+Quantum-Chemistry,hande,12,BUGS,0,6776
+Quantum-Chemistry,hande,12,SMELLS,347,6776
+Quantum-Chemistry,hande,13,BUGS,0,10569
+Quantum-Chemistry,hande,13,SMELLS,432,10569
+Quantum-Chemistry,hande,14,BUGS,0,24249
+Quantum-Chemistry,hande,14,SMELLS,794,24249
+Quantum-Chemistry,hande,15,BUGS,0,24567
+Quantum-Chemistry,hande,15,SMELLS,698,24567
+Quantum-Chemistry,hande,16,BUGS,0,24563
+Quantum-Chemistry,hande,16,SMELLS,693,24563
+Quantum-Chemistry,hande,17,BUGS,5,21646
+Quantum-Chemistry,hande,17,SMELLS,579,21646
+Quantum-Chemistry,hande,18,BUGS,30,13146
+Quantum-Chemistry,hande,18,SMELLS,366,13146
+Quantum-Chemistry,hande,19,BUGS,30,13820
+Quantum-Chemistry,hande,19,SMELLS,441,13820
+Quantum-Chemistry,hande,20,BUGS,20,14324
+Quantum-Chemistry,hande,20,SMELLS,475,14324
+Quantum-Chemistry,hande,21,BUGS,20,14706
+Quantum-Chemistry,hande,21,SMELLS,540,14706
+Quantum-Chemistry,hande,22,BUGS,20,19275
+Quantum-Chemistry,hande,22,SMELLS,667,19275
+Quantum-Chemistry,hande,23,BUGS,20,20685
+Quantum-Chemistry,hande,23,SMELLS,738,20685
+Quantum-Chemistry,hande,24,BUGS,20,20772
+Quantum-Chemistry,hande,24,SMELLS,769,20772
+Quantum-Chemistry,hande,25,BUGS,20,19683
+Quantum-Chemistry,hande,25,SMELLS,702,19683
+Quantum-Chemistry,hande,26,BUGS,30,21060
+Quantum-Chemistry,hande,26,SMELLS,806,21060
+Quantum-Chemistry,hande,27,BUGS,30,23831
+Quantum-Chemistry,hande,27,SMELLS,881,23831
+Quantum-Chemistry,hande,28,BUGS,30,23962
+Quantum-Chemistry,hande,28,SMELLS,886,23962
+Quantum-Chemistry,hande,29,BUGS,30,23910
+Quantum-Chemistry,hande,29,SMELLS,901,23910
+Quantum-Chemistry,hande,30,BUGS,30,24448
+Quantum-Chemistry,hande,30,SMELLS,916,24448
+Quantum-Chemistry,hande,31,BUGS,30,24451
+Quantum-Chemistry,hande,31,SMELLS,916,24451
+Quantum-Chemistry,hande,32,BUGS,30,24478
+Quantum-Chemistry,hande,32,SMELLS,923,24478
+Quantum-Chemistry,hande,33,BUGS,30,31231
+Quantum-Chemistry,hande,33,SMELLS,1177,31231
+Quantum-Chemistry,hande,34,BUGS,30,33765
+Quantum-Chemistry,hande,34,SMELLS,1254,33765
+Quantum-Chemistry,hande,35,BUGS,30,33765
+Quantum-Chemistry,hande,35,SMELLS,1254,33765
+Quantum-Chemistry,hande,36,BUGS,30,33781
+Quantum-Chemistry,hande,36,SMELLS,1254,33781
+Quantum-Chemistry,hande,37,BUGS,30,38193
+Quantum-Chemistry,hande,37,SMELLS,1285,38193
+Quantum-Chemistry,quantarhei,0,BUGS,0,1
+Quantum-Chemistry,quantarhei,0,SMELLS,0,1
+Quantum-Chemistry,quantarhei,1,BUGS,1540,4747368
+Quantum-Chemistry,quantarhei,1,SMELLS,83276,4747368
+Quantum-Chemistry,quantarhei,2,BUGS,0,1
+Quantum-Chemistry,quantarhei,2,SMELLS,0,1
+Quantum-Chemistry,quantarhei,3,BUGS,0,1
+Quantum-Chemistry,quantarhei,3,SMELLS,0,1
+Quantum-Chemistry,quantarhei,4,BUGS,0,1
+Quantum-Chemistry,quantarhei,4,SMELLS,0,1
+Quantum-Chemistry,quantarhei,5,BUGS,0,1
+Quantum-Chemistry,quantarhei,5,SMELLS,0,1
+Quantum-Chemistry,quantarhei,6,BUGS,0,1
+Quantum-Chemistry,quantarhei,6,SMELLS,0,1
+Quantum-Chemistry,quantarhei,7,BUGS,0,1
+Quantum-Chemistry,quantarhei,7,SMELLS,0,1
+Quantum-Chemistry,quantarhei,8,BUGS,0,1
+Quantum-Chemistry,quantarhei,8,SMELLS,0,1
+Quantum-Chemistry,quantarhei,9,BUGS,0,1
+Quantum-Chemistry,quantarhei,9,SMELLS,0,1
+Quantum-Chemistry,quantarhei,10,BUGS,211,1025193
+Quantum-Chemistry,quantarhei,10,SMELLS,23303,1025193
+Quantum-Chemistry,quantarhei,11,BUGS,296,1032956
+Quantum-Chemistry,quantarhei,11,SMELLS,23437,1032956
+Quantum-Chemistry,quantarhei,12,BUGS,359,1084334
+Quantum-Chemistry,quantarhei,12,SMELLS,23685,1084334
+Quantum-Chemistry,quantarhei,13,BUGS,0,1
+Quantum-Chemistry,quantarhei,13,SMELLS,0,1
+Quantum-Chemistry,quantarhei,14,BUGS,0,1
+Quantum-Chemistry,quantarhei,14,SMELLS,0,1
+Quantum-Chemistry,quantum_package,0,BUGS,0,1
+Quantum-Chemistry,quantum_package,0,SMELLS,0,1
+Quantum-Chemistry,quantum_package,1,BUGS,675,501005
+Quantum-Chemistry,quantum_package,1,SMELLS,12800,501005
+Quantum-Chemistry,quantum_package,2,BUGS,0,3214
+Quantum-Chemistry,quantum_package,2,SMELLS,177,3214
+Quantum-Chemistry,quantum_package,3,BUGS,0,3260
+Quantum-Chemistry,quantum_package,3,SMELLS,177,3260
+Quantum-Chemistry,quantum_package,4,BUGS,0,12197
+Quantum-Chemistry,quantum_package,4,SMELLS,432,12197
+Quantum-Chemistry,quantum_package,5,BUGS,50,59407
+Quantum-Chemistry,quantum_package,5,SMELLS,951,59407
+Quantum-Chemistry,quantum_package,6,BUGS,50,30576
+Quantum-Chemistry,quantum_package,6,SMELLS,841,30576
+Quantum-Chemistry,quantum_package,7,BUGS,50,31492
+Quantum-Chemistry,quantum_package,7,SMELLS,826,31492
+Quantum-Chemistry,quantum_package,8,BUGS,60,43644
+Quantum-Chemistry,quantum_package,8,SMELLS,1139,43644
+Quantum-Chemistry,quantum_package,9,BUGS,60,45100
+Quantum-Chemistry,quantum_package,9,SMELLS,1159,45100
+Quantum-Chemistry,quantum_package,10,BUGS,60,45746
+Quantum-Chemistry,quantum_package,10,SMELLS,1175,45746
+Quantum-Chemistry,quantum_package,11,BUGS,60,47085
+Quantum-Chemistry,quantum_package,11,SMELLS,1186,47085
+Quantum-Chemistry,quantum_package,12,BUGS,60,47960
+Quantum-Chemistry,quantum_package,12,SMELLS,1224,47960
+Quantum-Chemistry,quantum_package,13,BUGS,60,48105
+Quantum-Chemistry,quantum_package,13,SMELLS,1204,48105
+Quantum-Chemistry,quantum_package,14,BUGS,60,49133
+Quantum-Chemistry,quantum_package,14,SMELLS,1236,49133
+Quantum-Chemistry,quantum_package,15,BUGS,75,52181
+Quantum-Chemistry,quantum_package,15,SMELLS,1333,52181
+Quantum-Chemistry,quantum_package,16,BUGS,75,52181
+Quantum-Chemistry,quantum_package,16,SMELLS,1333,52181
+Quantum-Chemistry,quantum_package,17,BUGS,75,52201
+Quantum-Chemistry,quantum_package,17,SMELLS,1333,52201
+Quantum-Chemistry,quantum_package,18,BUGS,75,52201
+Quantum-Chemistry,quantum_package,18,SMELLS,1333,52201
+Quantum-Chemistry,quantum_package,19,BUGS,75,52201
+Quantum-Chemistry,quantum_package,19,SMELLS,1333,52201
+Quantum-Chemistry,q2mm,0,BUGS,30,26705
+Quantum-Chemistry,q2mm,0,SMELLS,2245,26705
+Quantum-Chemistry,q2mm,1,BUGS,160,1196955
+Quantum-Chemistry,q2mm,1,SMELLS,22763,1196955
+Quantum-Chemistry,q2mm,2,BUGS,10,49357
+Quantum-Chemistry,q2mm,2,SMELLS,1336,49357
+Quantum-Chemistry,q2mm,3,BUGS,50,89607
+Quantum-Chemistry,q2mm,3,SMELLS,1632,89607
+Quantum-Chemistry,q2mm,4,BUGS,30,90665
+Quantum-Chemistry,q2mm,4,SMELLS,1857,90665
+Quantum-Chemistry,q2mm,5,BUGS,30,69592
+Quantum-Chemistry,q2mm,5,SMELLS,1304,69592
+Quantum-Chemistry,q2mm,6,BUGS,30,91594
+Quantum-Chemistry,q2mm,6,SMELLS,1553,91594
+Quantum-Chemistry,q2mm,7,BUGS,20,89707
+Quantum-Chemistry,q2mm,7,SMELLS,1628,89707
+Quantum-Chemistry,q2mm,8,BUGS,20,94698
+Quantum-Chemistry,q2mm,8,SMELLS,1739,94698
+Quantum-Chemistry,q2mm,9,BUGS,20,138157
+Quantum-Chemistry,q2mm,9,SMELLS,2138,138157
+Quantum-Chemistry,q2mm,10,BUGS,20,144246
+Quantum-Chemistry,q2mm,10,SMELLS,2332,144246
+Quantum-Chemistry,q2mm,11,BUGS,10,152687
+Quantum-Chemistry,q2mm,11,SMELLS,3077,152687
+Quantum-Chemistry,q2mm,12,BUGS,20,144420
+Quantum-Chemistry,q2mm,12,SMELLS,2338,144420
+Quantum-Chemistry,q2mm,13,BUGS,20,154664
+Quantum-Chemistry,q2mm,13,SMELLS,2436,154664
+Quantum-Chemistry,q2mm,14,BUGS,20,189138
+Quantum-Chemistry,q2mm,14,SMELLS,3314,189138
+Quantum-Chemistry,q2mm,15,BUGS,20,188951
+Quantum-Chemistry,q2mm,15,SMELLS,3309,188951
+Quantum-Chemistry,q2mm,16,BUGS,20,188950
+Quantum-Chemistry,q2mm,16,SMELLS,3309,188950
+Quantum-Chemistry,GQCP,0,BUGS,0,1
+Quantum-Chemistry,GQCP,0,SMELLS,0,1
+Quantum-Chemistry,GQCP,1,BUGS,0,1
+Quantum-Chemistry,GQCP,1,SMELLS,0,1
+Quantum-Chemistry,GQCP,2,BUGS,0,1
+Quantum-Chemistry,GQCP,2,SMELLS,0,1
+Quantum-Chemistry,GQCP,3,BUGS,0,1
+Quantum-Chemistry,GQCP,3,SMELLS,0,1
+Quantum-Chemistry,GQCP,4,BUGS,0,136
+Quantum-Chemistry,GQCP,4,SMELLS,30,136
+Quantum-Chemistry,GQCP,5,BUGS,0,179
+Quantum-Chemistry,GQCP,5,SMELLS,35,179
+Quantum-Chemistry,GQCP,6,BUGS,0,1
+Quantum-Chemistry,GQCP,6,SMELLS,0,1
+Quantum-Chemistry,GQCP,7,BUGS,0,1
+Quantum-Chemistry,GQCP,7,SMELLS,0,1
+Quantum-Chemistry,GQCP,8,BUGS,0,2377
+Quantum-Chemistry,GQCP,8,SMELLS,85,2377
+Quantum-Chemistry,qcdb,0,BUGS,0,1
+Quantum-Chemistry,qcdb,0,SMELLS,0,1
+Quantum-Chemistry,qcdb,1,BUGS,222,2316730
+Quantum-Chemistry,qcdb,1,SMELLS,20319,2316730
+Quantum-Chemistry,qcdb,2,BUGS,222,2316772
+Quantum-Chemistry,qcdb,2,SMELLS,20319,2316772
+Quantum-Chemistry,qcdb,3,BUGS,302,2321700
+Quantum-Chemistry,qcdb,3,SMELLS,19857,2321700
+Quantum-Chemistry,qcdb,4,BUGS,352,2336864
+Quantum-Chemistry,qcdb,4,SMELLS,20017,2336864
+Quantum-Chemistry,qcdb,5,BUGS,412,2249589
+Quantum-Chemistry,qcdb,5,SMELLS,19400,2249589
+Quantum-Chemistry,qcdb,6,BUGS,255,1254164
+Quantum-Chemistry,qcdb,6,SMELLS,10413,1254164
+Quantum-Chemistry,qcdb,7,BUGS,0,1
+Quantum-Chemistry,qcdb,7,SMELLS,0,1
+Full-stack Library,qiskit-terra,0,BUGS,0,572
+Full-stack Library,qiskit-terra,0,SMELLS,86,572
+Full-stack Library,qiskit-terra,1,BUGS,2533,1784999
+Full-stack Library,qiskit-terra,1,SMELLS,41148,1784999
+Full-stack Library,qiskit-terra,2,BUGS,205,127068
+Full-stack Library,qiskit-terra,2,SMELLS,2014,127068
+Full-stack Library,qiskit-terra,3,BUGS,165,157693
+Full-stack Library,qiskit-terra,3,SMELLS,2325,157693
+Full-stack Library,qiskit-terra,4,BUGS,10,134596
+Full-stack Library,qiskit-terra,4,SMELLS,2984,134596
+Full-stack Library,qiskit-terra,5,BUGS,10,164345
+Full-stack Library,qiskit-terra,5,SMELLS,3432,164345
+Full-stack Library,qiskit-terra,6,BUGS,120,108473
+Full-stack Library,qiskit-terra,6,SMELLS,3002,108473
+Full-stack Library,qiskit-terra,7,BUGS,59,120139
+Full-stack Library,qiskit-terra,7,SMELLS,4014,120139
+Full-stack Library,qiskit-terra,8,BUGS,230,102901
+Full-stack Library,qiskit-terra,8,SMELLS,4188,102901
+Full-stack Library,qiskit-terra,9,BUGS,86,155942
+Full-stack Library,qiskit-terra,9,SMELLS,4985,155942
+Full-stack Library,qiskit-terra,10,BUGS,432,191126
+Full-stack Library,qiskit-terra,10,SMELLS,5564,191126
+Full-stack Library,qiskit-terra,11,BUGS,432,224659
+Full-stack Library,qiskit-terra,11,SMELLS,6125,224659
+Full-stack Library,qiskit-terra,12,BUGS,726,282290
+Full-stack Library,qiskit-terra,12,SMELLS,7059,282290
+Full-stack Library,qiskit-terra,13,BUGS,504,484062
+Full-stack Library,qiskit-terra,13,SMELLS,10130,484062
+Full-stack Library,qiskit-terra,14,BUGS,409,531848
+Full-stack Library,qiskit-terra,14,SMELLS,10484,531848
+Full-stack Library,Quantum,0,BUGS,0,1
+Full-stack Library,Quantum,0,SMELLS,0,1
+Full-stack Library,Quantum,1,BUGS,0,2343
+Full-stack Library,Quantum,1,SMELLS,134,2343
+Full-stack Library,Quantum,2,BUGS,0,1662
+Full-stack Library,Quantum,2,SMELLS,86,1662
+Full-stack Library,Quantum,3,BUGS,0,1610
+Full-stack Library,Quantum,3,SMELLS,80,1610
+Full-stack Library,Quantum,4,BUGS,0,368
+Full-stack Library,Quantum,4,SMELLS,0,368
+Full-stack Library,Quantum,5,BUGS,0,368
+Full-stack Library,Quantum,5,SMELLS,0,368
+Full-stack Library,Quantum,6,BUGS,0,588
+Full-stack Library,Quantum,6,SMELLS,44,588
+Full-stack Library,Quantum,7,BUGS,0,610
+Full-stack Library,Quantum,7,SMELLS,44,610
+Full-stack Library,Quantum,8,BUGS,0,906
+Full-stack Library,Quantum,8,SMELLS,134,906
+Full-stack Library,Quantum,9,BUGS,0,906
+Full-stack Library,Quantum,9,SMELLS,134,906
+Full-stack Library,Quantum,10,BUGS,0,734
+Full-stack Library,Quantum,10,SMELLS,54,734
+Full-stack Library,QuantumLibraries,0,BUGS,0,1
+Full-stack Library,QuantumLibraries,0,SMELLS,0,1
+Full-stack Library,QuantumLibraries,1,BUGS,0,1740
+Full-stack Library,QuantumLibraries,1,SMELLS,116,1740
+Full-stack Library,QuantumLibraries,2,BUGS,0,1662
+Full-stack Library,QuantumLibraries,2,SMELLS,86,1662
+Full-stack Library,QuantumLibraries,3,BUGS,0,1610
+Full-stack Library,QuantumLibraries,3,SMELLS,80,1610
+Full-stack Library,QuantumLibraries,4,BUGS,0,1517
+Full-stack Library,QuantumLibraries,4,SMELLS,80,1517
+Full-stack Library,QuantumLibraries,5,BUGS,0,637
+Full-stack Library,QuantumLibraries,5,SMELLS,63,637
+Full-stack Library,QuantumLibraries,6,BUGS,0,826
+Full-stack Library,QuantumLibraries,6,SMELLS,100,826
+Full-stack Library,QuantumLibraries,7,BUGS,0,47
+Full-stack Library,QuantumLibraries,7,SMELLS,8,47
+Full-stack Library,QuantumLibraries,8,BUGS,0,47
+Full-stack Library,QuantumLibraries,8,SMELLS,8,47
+Full-stack Library,QuantumLibraries,9,BUGS,0,47
+Full-stack Library,QuantumLibraries,9,SMELLS,8,47
+Full-stack Library,QuantumLibraries,10,BUGS,0,131
+Full-stack Library,QuantumLibraries,10,SMELLS,36,131
+Full-stack Library,pyquil,0,BUGS,740,29034
+Full-stack Library,pyquil,0,SMELLS,310,29034
+Full-stack Library,pyquil,1,BUGS,1180,3240980
+Full-stack Library,pyquil,1,SMELLS,14608,3240980
+Full-stack Library,pyquil,2,BUGS,755,33083
+Full-stack Library,pyquil,2,SMELLS,320,33083
+Full-stack Library,pyquil,3,BUGS,754,40747
+Full-stack Library,pyquil,3,SMELLS,386,40747
+Full-stack Library,pyquil,4,BUGS,804,573305
+Full-stack Library,pyquil,4,SMELLS,1316,573305
+Full-stack Library,pyquil,5,BUGS,904,587890
+Full-stack Library,pyquil,5,SMELLS,1571,587890
+Full-stack Library,pyquil,6,BUGS,8,298737
+Full-stack Library,pyquil,6,SMELLS,1520,298737
+Full-stack Library,pyquil,7,BUGS,28,484314
+Full-stack Library,pyquil,7,SMELLS,1863,484314
+Full-stack Library,pyquil,8,BUGS,38,520899
+Full-stack Library,pyquil,8,SMELLS,1992,520899
+Full-stack Library,pyquil,9,BUGS,43,558689
+Full-stack Library,pyquil,9,SMELLS,2449,558689
+Full-stack Library,pyquil,10,BUGS,43,593164
+Full-stack Library,pyquil,10,SMELLS,2546,593164
+Full-stack Library,pyquil,11,BUGS,43,603336
+Full-stack Library,pyquil,11,SMELLS,2581,603336
+Full-stack Library,pyquil,12,BUGS,108,670962
+Full-stack Library,pyquil,12,SMELLS,3052,670962
+Full-stack Library,pyquil,13,BUGS,108,671557
+Full-stack Library,pyquil,13,SMELLS,3065,671557
+Full-stack Library,pyquil,14,BUGS,108,671736
+Full-stack Library,pyquil,14,SMELLS,3070,671736
+Full-stack Library,qiskit,0,BUGS,0,1
+Full-stack Library,qiskit,0,SMELLS,0,1
+Full-stack Library,qiskit,1,BUGS,12,6809
+Full-stack Library,qiskit,1,SMELLS,146,6809
+Full-stack Library,qiskit,2,BUGS,12,7464
+Full-stack Library,qiskit,2,SMELLS,146,7464
+Full-stack Library,qiskit,3,BUGS,7,6462
+Full-stack Library,qiskit,3,SMELLS,101,6462
+Full-stack Library,qiskit,4,BUGS,0,3382
+Full-stack Library,qiskit,4,SMELLS,374,3382
+Full-stack Library,qiskit,5,BUGS,0,3345
+Full-stack Library,qiskit,5,SMELLS,373,3345
+Full-stack Library,qiskit,6,BUGS,20,4039
+Full-stack Library,qiskit,6,SMELLS,403,4039
+Full-stack Library,qiskit,7,BUGS,20,4089
+Full-stack Library,qiskit,7,SMELLS,403,4089
+Full-stack Library,qiskit-ibmq-provider,0,BUGS,0,1
+Full-stack Library,qiskit-ibmq-provider,0,SMELLS,0,1
+Full-stack Library,qiskit-ibmq-provider,1,BUGS,0,4056
+Full-stack Library,qiskit-ibmq-provider,1,SMELLS,143,4056
+Full-stack Library,qiskit-ibmq-provider,2,BUGS,20,7228
+Full-stack Library,qiskit-ibmq-provider,2,SMELLS,317,7228
+Full-stack Library,qiskit-ibmq-provider,3,BUGS,10,3174
+Full-stack Library,qiskit-ibmq-provider,3,SMELLS,224,3174
+Full-stack Library,qiskit-ibmq-provider,4,BUGS,10,4876
+Full-stack Library,qiskit-ibmq-provider,4,SMELLS,352,4876
+Full-stack Library,qiskit-ibmq-provider,5,BUGS,10,10603
+Full-stack Library,qiskit-ibmq-provider,5,SMELLS,940,10603
+Full-stack Library,qiskit-ibmq-provider,6,BUGS,20,13053
+Full-stack Library,qiskit-ibmq-provider,6,SMELLS,979,13053
+Full-stack Library,qiskit-js,0,BUGS,0,1
+Full-stack Library,qiskit-js,0,SMELLS,0,1
+Full-stack Library,qiskit-js,1,BUGS,955,187879638
+Full-stack Library,qiskit-js,1,SMELLS,25223,187879638
+Full-stack Library,qiskit-js,2,BUGS,955,186661841
+Full-stack Library,qiskit-js,2,SMELLS,25031,186661841
+Full-stack Library,qiskit-js,3,BUGS,640,103097279
+Full-stack Library,qiskit-js,3,SMELLS,13891,103097279
+Full-stack Library,qiskit-js,4,BUGS,0,1
+Full-stack Library,qiskit-js,4,SMELLS,0,1
+Full-stack Library,qiskit-js,5,BUGS,0,1
+Full-stack Library,qiskit-js,5,SMELLS,0,1
+Full-stack Library,qiskit-js,6,BUGS,0,1
+Full-stack Library,qiskit-js,6,SMELLS,0,1
+Full-stack Library,qiskit-js,7,BUGS,0,1
+Full-stack Library,qiskit-js,7,SMELLS,0,1
+Full-stack Library,qiskit-vscode,0,BUGS,0,1
+Full-stack Library,qiskit-vscode,0,SMELLS,0,1
+Full-stack Library,qiskit-vscode,1,BUGS,30,2120
+Full-stack Library,qiskit-vscode,1,SMELLS,16,2120
+Full-stack Library,qiskit-vscode,2,BUGS,31,1798
+Full-stack Library,qiskit-vscode,2,SMELLS,43,1798
+Full-stack Library,qiskit-vscode,3,BUGS,31,2998
+Full-stack Library,qiskit-vscode,3,SMELLS,57,2998
+Full-stack Library,qiskit-vscode,4,BUGS,31,2719
+Full-stack Library,qiskit-vscode,4,SMELLS,55,2719
+Full-stack Library,rpcq,0,BUGS,0,10072
+Full-stack Library,rpcq,0,SMELLS,221,10072
+Full-stack Library,rpcq,1,BUGS,0,439
+Full-stack Library,rpcq,1,SMELLS,27,439
+Full-stack Library,rpcq,2,BUGS,0,621
+Full-stack Library,rpcq,2,SMELLS,42,621
+Full-stack Library,rpcq,3,BUGS,0,6207
+Full-stack Library,rpcq,3,SMELLS,196,6207
+Full-stack Library,rpcq,4,BUGS,0,6209
+Full-stack Library,rpcq,4,SMELLS,196,6209
+Full-stack Library,rpcq,5,BUGS,0,6860
+Full-stack Library,rpcq,5,SMELLS,213,6860
+Full-stack Library,rpcq,6,BUGS,0,6500
+Full-stack Library,rpcq,6,SMELLS,199,6500
+Full-stack Library,ProjectQ,0,BUGS,0,1
+Full-stack Library,ProjectQ,0,SMELLS,0,1
+Full-stack Library,ProjectQ,1,BUGS,294,93747
+Full-stack Library,ProjectQ,1,SMELLS,4019,93747
+Full-stack Library,ProjectQ,2,BUGS,31,25025
+Full-stack Library,ProjectQ,2,SMELLS,1186,25025
+Full-stack Library,ProjectQ,3,BUGS,31,29460
+Full-stack Library,ProjectQ,3,SMELLS,1494,29460
+Full-stack Library,ProjectQ,4,BUGS,211,33223
+Full-stack Library,ProjectQ,4,SMELLS,1573,33223
+Full-stack Library,ProjectQ,5,BUGS,213,53660
+Full-stack Library,ProjectQ,5,SMELLS,2256,53660
+Full-stack Library,ProjectQ,6,BUGS,213,56420
+Full-stack Library,ProjectQ,6,SMELLS,2290,56420
+Full-stack Library,ProjectQ,7,BUGS,213,58810
+Full-stack Library,ProjectQ,7,SMELLS,2499,58810
+Full-stack Library,ProjectQ,8,BUGS,213,59417
+Full-stack Library,ProjectQ,8,SMELLS,2531,59417
+Full-stack Library,ProjectQ,9,BUGS,263,63883
+Full-stack Library,ProjectQ,9,SMELLS,2701,63883
+Full-stack Library,ProjectQ,10,BUGS,263,79654
+Full-stack Library,ProjectQ,10,SMELLS,3072,79654
+Full-stack Library,qp2,0,BUGS,0,1
+Full-stack Library,qp2,0,SMELLS,0,1
+Full-stack Library,qp2,1,BUGS,0,14775
+Full-stack Library,qp2,1,SMELLS,523,14775
+Full-stack Library,qp2,2,BUGS,0,14775
+Full-stack Library,qp2,2,SMELLS,523,14775
+Full-stack Library,qp2,3,BUGS,0,14775
+Full-stack Library,qp2,3,SMELLS,523,14775
+Full-stack Library,qp2,4,BUGS,0,14775
+Full-stack Library,qp2,4,SMELLS,523,14775
+Full-stack Library,qp2,5,BUGS,0,14775
+Full-stack Library,qp2,5,SMELLS,523,14775
+Full-stack Library,strawberryfields,0,BUGS,285,102462
+Full-stack Library,strawberryfields,0,SMELLS,1323,102462
+Full-stack Library,strawberryfields,1,BUGS,285,121684
+Full-stack Library,strawberryfields,1,SMELLS,1572,121684
+Full-stack Library,strawberryfields,2,BUGS,285,132244
+Full-stack Library,strawberryfields,2,SMELLS,1680,132244
+Full-stack Library,strawberryfields,3,BUGS,305,149876
+Full-stack Library,strawberryfields,3,SMELLS,1755,149876
+Full-stack Library,strawberryfields,4,BUGS,365,156579
+Full-stack Library,strawberryfields,4,SMELLS,2006,156579
+Full-stack Library,strawberryfields,5,BUGS,331,170748
+Full-stack Library,strawberryfields,5,SMELLS,2177,170748
+Full-stack Library,strawberryfields,6,BUGS,313,183077
+Full-stack Library,strawberryfields,6,SMELLS,2300,183077
+Full-stack Library,strawberryfields,7,BUGS,314,175170
+Full-stack Library,strawberryfields,7,SMELLS,2347,175170
+Full-stack Library,strawberryfields,8,BUGS,313,214785
+Full-stack Library,strawberryfields,8,SMELLS,2916,214785
+Full-stack Library,strawberryfields,9,BUGS,309,205325
+Full-stack Library,strawberryfields,9,SMELLS,3164,205325
+Full-stack Library,Blueqat,0,BUGS,10,48
+Full-stack Library,Blueqat,0,SMELLS,5,48
+Full-stack Library,Blueqat,1,BUGS,18,8787
+Full-stack Library,Blueqat,1,SMELLS,156,8787
+Full-stack Library,Blueqat,2,BUGS,18,31351
+Full-stack Library,Blueqat,2,SMELLS,392,31351
+Full-stack Library,Blueqat,3,BUGS,68,29598
+Full-stack Library,Blueqat,3,SMELLS,405,29598
+Full-stack Library,Blueqat,4,BUGS,78,32878
+Full-stack Library,Blueqat,4,SMELLS,469,32878
+Full-stack Library,Blueqat,5,BUGS,78,32630
+Full-stack Library,Blueqat,5,SMELLS,443,32630
+Full-stack Library,Blueqat,6,BUGS,68,32410
+Full-stack Library,Blueqat,6,SMELLS,443,32410
+Full-stack Library,Blueqat,7,BUGS,68,33972
+Full-stack Library,Blueqat,7,SMELLS,441,33972
+Full-stack Library,Cirq,0,BUGS,0,2073
+Full-stack Library,Cirq,0,SMELLS,99,2073
+Full-stack Library,Cirq,1,BUGS,333,295305
+Full-stack Library,Cirq,1,SMELLS,7054,295305
+Full-stack Library,Cirq,2,BUGS,18,22032
+Full-stack Library,Cirq,2,SMELLS,667,22032
+Full-stack Library,Cirq,3,BUGS,98,47571
+Full-stack Library,Cirq,3,SMELLS,1242,47571
+Full-stack Library,Cirq,4,BUGS,78,65622
+Full-stack Library,Cirq,4,SMELLS,1814,65622
+Full-stack Library,Cirq,5,BUGS,48,98828
+Full-stack Library,Cirq,5,SMELLS,2254,98828
+Full-stack Library,Cirq,6,BUGS,50,126034
+Full-stack Library,Cirq,6,SMELLS,2859,126034
+Full-stack Library,Cirq,7,BUGS,111,184436
+Full-stack Library,Cirq,7,SMELLS,4215,184436
+Full-stack Library,Cirq,8,BUGS,119,202308
+Full-stack Library,Cirq,8,SMELLS,5098,202308
+Full-stack Library,Cirq,9,BUGS,257,280465
+Full-stack Library,Cirq,9,SMELLS,6486,280465
+Full-stack Library,Cirq,10,BUGS,309,286352
+Full-stack Library,Cirq,10,SMELLS,6793,286352
+Full-stack Library,staq,0,BUGS,0,1
+Full-stack Library,staq,0,SMELLS,0,1
+Full-stack Library,staq,1,BUGS,0,1
+Full-stack Library,staq,1,SMELLS,0,1
+Full-stack Library,staq,2,BUGS,0,322137
+Full-stack Library,staq,2,SMELLS,4216,322137
+Full-stack Library,staq,3,BUGS,0,322137
+Full-stack Library,staq,3,SMELLS,4216,322137
+Full-stack Library,staq,4,BUGS,0,322137
+Full-stack Library,staq,4,SMELLS,4216,322137
+Web-Extension,CustomCSSforFx,0,BUGS,0,1
+Web-Extension,CustomCSSforFx,0,SMELLS,0,1
+Web-Extension,CustomCSSforFx,1,BUGS,15110,69939.30000000051
+Web-Extension,CustomCSSforFx,1,SMELLS,617,69939.30000000051
+Web-Extension,CustomCSSforFx,2,BUGS,2809,15622.999999999973
+Web-Extension,CustomCSSforFx,2,SMELLS,185,15622.999999999973
+Web-Extension,CustomCSSforFx,3,BUGS,3009,15845.399999999963
+Web-Extension,CustomCSSforFx,3,SMELLS,183,15845.399999999963
+Web-Extension,CustomCSSforFx,4,BUGS,3094,16251.599999999911
+Web-Extension,CustomCSSforFx,4,SMELLS,194,16251.599999999911
+Web-Extension,CustomCSSforFx,5,BUGS,4051,20629.799999999923
+Web-Extension,CustomCSSforFx,5,SMELLS,163,20629.799999999923
+Web-Extension,CustomCSSforFx,6,BUGS,4215,21477.199999999946
+Web-Extension,CustomCSSforFx,6,SMELLS,169,21477.199999999946
+Web-Extension,CustomCSSforFx,7,BUGS,4560,22692.399999999983
+Web-Extension,CustomCSSforFx,7,SMELLS,182,22692.399999999983
+Web-Extension,CustomCSSforFx,8,BUGS,3597,14491.69999999991
+Web-Extension,CustomCSSforFx,8,SMELLS,92,14491.69999999991
+Web-Extension,CustomCSSforFx,9,BUGS,0,1
+Web-Extension,CustomCSSforFx,9,SMELLS,0,1
+Web-Extension,CustomCSSforFx,10,BUGS,6047,25614.899999999925
+Web-Extension,CustomCSSforFx,10,SMELLS,219,25614.899999999925
+Web-Extension,CustomCSSforFx,11,BUGS,6329,26237.099999999962
+Web-Extension,CustomCSSforFx,11,SMELLS,219,26237.099999999962
+Web-Extension,quantum,0,BUGS,0,1
+Web-Extension,quantum,0,SMELLS,0,1
+Web-Extension,quantum,1,BUGS,0,1
+Web-Extension,quantum,1,SMELLS,0,1
+Web-Extension,quantum,2,BUGS,0,1
+Web-Extension,quantum,2,SMELLS,0,1
+Web-Extension,quantum,3,BUGS,0,1
+Web-Extension,quantum,3,SMELLS,0,1
+Web-Extension,quantum,4,BUGS,0,1
+Web-Extension,quantum,4,SMELLS,0,1
+Web-Extension,quantum,5,BUGS,0,1
+Web-Extension,quantum,5,SMELLS,0,1
+Web-Extension,quantum,6,BUGS,0,1
+Web-Extension,quantum,6,SMELLS,0,1
+Web-Extension,quantum,7,BUGS,0,1
+Web-Extension,quantum,7,SMELLS,0,1
+Web-Extension,quantum,8,BUGS,0,1
+Web-Extension,quantum,8,SMELLS,0,1
+Web-Extension,quantum,9,BUGS,0,1
+Web-Extension,quantum,9,SMELLS,0,1
+Web-Extension,quantum,10,BUGS,0,1
+Web-Extension,quantum,10,SMELLS,0,1
+Web-Extension,quanta,0,BUGS,895,7281771
+Web-Extension,quanta,0,SMELLS,5707,7281771
+Web-Extension,quanta,1,BUGS,14204,79532277
+Web-Extension,quanta,1,SMELLS,42889,79532277
+Web-Extension,quanta,2,BUGS,0,1
+Web-Extension,quanta,2,SMELLS,0,1
+Web-Extension,quanta,3,BUGS,0,1
+Web-Extension,quanta,3,SMELLS,0,1
+Web-Extension,quanta,4,BUGS,0,1
+Web-Extension,quanta,4,SMELLS,0,1
+Web-Extension,quanta,5,BUGS,0,1
+Web-Extension,quanta,5,SMELLS,0,1
+Web-Extension,quanta,6,BUGS,0,1
+Web-Extension,quanta,6,SMELLS,0,1
+Web-Extension,quanta,7,BUGS,0,1
+Web-Extension,quanta,7,SMELLS,0,1
+Web-Extension,quanta,8,BUGS,0,1
+Web-Extension,quanta,8,SMELLS,0,1
+Web-Extension,quanta,9,BUGS,0,1
+Web-Extension,quanta,9,SMELLS,0,1
+Web-Extension,quanta,10,BUGS,13037,72169167
+Web-Extension,quanta,10,SMELLS,35011,72169167
+Web-Extension,quanta,11,BUGS,0,1
+Web-Extension,quanta,11,SMELLS,0,1
+Web-Extension,quanta,12,BUGS,0,1
+Web-Extension,quanta,12,SMELLS,0,1
+Web-Extension,quanta,13,BUGS,0,1
+Web-Extension,quanta,13,SMELLS,0,1
+Web-Extension,quanta,14,BUGS,0,1
+Web-Extension,quanta,14,SMELLS,0,1
+Web-Extension,quanta,15,BUGS,0,1
+Web-Extension,quanta,15,SMELLS,0,1
+Web-Extension,quanta,16,BUGS,0,1
+Web-Extension,quanta,16,SMELLS,0,1
+Web-Extension,quanta,17,BUGS,0,1
+Web-Extension,quanta,17,SMELLS,0,1
+Web-Extension,quanta,18,BUGS,0,1
+Web-Extension,quanta,18,SMELLS,0,1
+Web-Extension,quanta,19,BUGS,0,1
+Web-Extension,quanta,19,SMELLS,0,1
+Web-Extension,websocket-monitor,0,BUGS,0,1
+Web-Extension,websocket-monitor,0,SMELLS,0,1
+Web-Extension,websocket-monitor,1,BUGS,2215,5656322
+Web-Extension,websocket-monitor,1,SMELLS,2515,5656322
+Web-Extension,websocket-monitor,2,BUGS,2254,5934028
+Web-Extension,websocket-monitor,2,SMELLS,3154,5934028
+Web-Extension,websocket-monitor,3,BUGS,2254,5930918
+Web-Extension,websocket-monitor,3,SMELLS,2899,5930918
+Web-Extension,websocket-monitor,4,BUGS,2254,5930919
+Web-Extension,websocket-monitor,4,SMELLS,2899,5930919
+Web-Extension,websocket-monitor,5,BUGS,2254,5930918
+Web-Extension,websocket-monitor,5,SMELLS,2899,5930918
+Web-Extension,drop-feeds,0,BUGS,0,1
+Web-Extension,drop-feeds,0,SMELLS,0,1
+Web-Extension,drop-feeds,1,BUGS,95,9438
+Web-Extension,drop-feeds,1,SMELLS,168,9438
+Web-Extension,drop-feeds,2,BUGS,1770,51742
+Web-Extension,drop-feeds,2,SMELLS,264,51742
+Web-Extension,drop-feeds,3,BUGS,1811,49253
+Web-Extension,drop-feeds,3,SMELLS,283,49253
+Web-Extension,drop-feeds,4,BUGS,3906,99155
+Web-Extension,drop-feeds,4,SMELLS,296,99155
+Web-Extension,drop-feeds,5,BUGS,3982,103515
+Web-Extension,drop-feeds,5,SMELLS,314,103515
+Web-Extension,drop-feeds,6,BUGS,3982,103520
+Web-Extension,drop-feeds,6,SMELLS,314,103520
+Web-Extension,drop-feeds,7,BUGS,3982,103625
+Web-Extension,drop-feeds,7,SMELLS,314,103625
+Web-Extension,drop-feeds,8,BUGS,3982,104204
+Web-Extension,drop-feeds,8,SMELLS,316,104204
+Web-Extension,quantummanager,0,BUGS,0,1
+Web-Extension,quantummanager,0,SMELLS,0,1
+Web-Extension,quantummanager,1,BUGS,35,17744
+Web-Extension,quantummanager,1,SMELLS,1669,17744
+Web-Extension,quantummanager,2,BUGS,149,109629
+Web-Extension,quantummanager,2,SMELLS,4495,109629
+Web-Extension,quantummanager,3,BUGS,154,118030
+Web-Extension,quantummanager,3,SMELLS,4898,118030
+Web-Extension,quantummanager,4,BUGS,164,165246
+Web-Extension,quantummanager,4,SMELLS,5227,165246
+Web-Extension,quantummanager,5,BUGS,164,187722
+Web-Extension,quantummanager,5,SMELLS,4170,187722
+Web-Extension,firefox-extension,0,BUGS,0,1
+Web-Extension,firefox-extension,0,SMELLS,0,1
+Web-Extension,firefox-extension,1,BUGS,163,42210
+Web-Extension,firefox-extension,1,SMELLS,296,42210
+Web-Extension,firefox-extension,2,BUGS,176,48097
+Web-Extension,firefox-extension,2,SMELLS,294,48097
+Web-Extension,firefox-extension,3,BUGS,174,48035
+Web-Extension,firefox-extension,3,SMELLS,294,48035
+Web-Extension,Quantum-Nox-Firefox-Dark-Full-Theme,0,BUGS,0,1
+Web-Extension,Quantum-Nox-Firefox-Dark-Full-Theme,0,SMELLS,0,1
+Web-Extension,Quantum-Nox-Firefox-Dark-Full-Theme,1,BUGS,24307,2055302
+Web-Extension,Quantum-Nox-Firefox-Dark-Full-Theme,1,SMELLS,6104,2055302
+Web-Extension,Quantum-Nox-Firefox-Dark-Full-Theme,2,BUGS,1755,132598
+Web-Extension,Quantum-Nox-Firefox-Dark-Full-Theme,2,SMELLS,36,132598
+Web-Extension,Quantum-Nox-Firefox-Dark-Full-Theme,3,BUGS,1595,148372
+Web-Extension,Quantum-Nox-Firefox-Dark-Full-Theme,3,SMELLS,42,148372
+Web-Extension,Quantum-Nox-Firefox-Dark-Full-Theme,4,BUGS,11660,302172
+Web-Extension,Quantum-Nox-Firefox-Dark-Full-Theme,4,SMELLS,40,302172
+Web-Extension,Quantum-Nox-Firefox-Dark-Full-Theme,5,BUGS,5170,73499
+Web-Extension,Quantum-Nox-Firefox-Dark-Full-Theme,5,SMELLS,0,73499
+Web-Extension,Quantum-Nox-Firefox-Dark-Full-Theme,6,BUGS,0,1
+Web-Extension,Quantum-Nox-Firefox-Dark-Full-Theme,6,SMELLS,0,1
+Web-Extension,Quantum-Nox-Firefox-Dark-Full-Theme,7,BUGS,0,1
+Web-Extension,Quantum-Nox-Firefox-Dark-Full-Theme,7,SMELLS,0,1
+Web-Extension,Quantum-Nox-Firefox-Dark-Full-Theme,8,BUGS,0,1
+Web-Extension,Quantum-Nox-Firefox-Dark-Full-Theme,8,SMELLS,0,1
+Web-Extension,Quantum-Nox-Firefox-Dark-Full-Theme,9,BUGS,0,1
+Web-Extension,Quantum-Nox-Firefox-Dark-Full-Theme,9,SMELLS,0,1
+Web-Extension,Quantum-Nox-Firefox-Dark-Full-Theme,10,BUGS,11633,976261
+Web-Extension,Quantum-Nox-Firefox-Dark-Full-Theme,10,SMELLS,2844,976261
+Web-Extension,Quantum-Nox-Firefox-Dark-Full-Theme,11,BUGS,11763,1047210
+Web-Extension,Quantum-Nox-Firefox-Dark-Full-Theme,11,SMELLS,3240,1047210
+Web-Extension,firefox-nativedark,0,BUGS,0,1
+Web-Extension,firefox-nativedark,0,SMELLS,0,1
+Web-Extension,firefox-nativedark,1,BUGS,5,505
+Web-Extension,firefox-nativedark,1,SMELLS,0,505
+Web-Extension,firefox-nativedark,2,BUGS,5,505
+Web-Extension,firefox-nativedark,2,SMELLS,0,505
+Web-Extension,firefox-nativedark,3,BUGS,5,505
+Web-Extension,firefox-nativedark,3,SMELLS,0,505
+Web-Extension,firefox-nativedark,4,BUGS,5,505
+Web-Extension,firefox-nativedark,4,SMELLS,0,505
+Web-Extension,firefox-nativedark,5,BUGS,5,505
+Web-Extension,firefox-nativedark,5,SMELLS,0,505
+Assembly,qmasm,0,BUGS,0,1
+Assembly,qmasm,0,SMELLS,0,1
+Assembly,qmasm,1,BUGS,270,151239
+Assembly,qmasm,1,SMELLS,3742,151239
+Assembly,qmasm,2,BUGS,0,6821
+Assembly,qmasm,2,SMELLS,365,6821
+Assembly,qmasm,3,BUGS,30,10651
+Assembly,qmasm,3,SMELLS,410,10651
+Assembly,qmasm,4,BUGS,30,9246
+Assembly,qmasm,4,SMELLS,341,9246
+Assembly,qmasm,5,BUGS,40,12702
+Assembly,qmasm,5,SMELLS,406,12702
+Assembly,qmasm,6,BUGS,40,12702
+Assembly,qmasm,6,SMELLS,406,12702
+Assembly,qmasm,7,BUGS,40,16711
+Assembly,qmasm,7,SMELLS,541,16711
+Assembly,qmasm,8,BUGS,30,18181
+Assembly,qmasm,8,SMELLS,578,18181
+Assembly,qmasm,9,BUGS,30,22745
+Assembly,qmasm,9,SMELLS,631,22745
+Assembly,qmasm,10,BUGS,30,28150
+Assembly,qmasm,10,SMELLS,729,28150
+Assembly,qmasm,11,BUGS,30,27391
+Assembly,qmasm,11,SMELLS,696,27391
+Assembly,qmasm,12,BUGS,110,46088
+Assembly,qmasm,12,SMELLS,1033,46088
+Assembly,qmasm,13,BUGS,80,46540
+Assembly,qmasm,13,SMELLS,1070,46540
+Assembly,blackbird,0,BUGS,0,1
+Assembly,blackbird,0,SMELLS,0,1
+Assembly,blackbird,1,BUGS,270,133872
+Assembly,blackbird,1,SMELLS,445,133872
+Assembly,blackbird,2,BUGS,270,211642
+Assembly,blackbird,2,SMELLS,806,211642
+Assembly,blackbird,3,BUGS,270,212073
+Assembly,blackbird,3,SMELLS,876,212073
+Assembly,blackbird,4,BUGS,270,211672
+Assembly,blackbird,4,SMELLS,827,211672
+Assembly,blackbird,5,BUGS,270,274335
+Assembly,blackbird,5,SMELLS,888,274335
+Assembly,pyqgl2,0,BUGS,0,1
+Assembly,pyqgl2,0,SMELLS,0,1
+Assembly,pyqgl2,1,BUGS,1225,559431
+Assembly,pyqgl2,1,SMELLS,7069,559431
+Assembly,pyqgl2,2,BUGS,335,193669
+Assembly,pyqgl2,2,SMELLS,4411,193669
+Assembly,pyqgl2,3,BUGS,425,526209
+Assembly,pyqgl2,3,SMELLS,6992,526209
+Assembly,pyqgl2,4,BUGS,870,613109
+Assembly,pyqgl2,4,SMELLS,7960,613109
+Assembly,pyqgl2,5,BUGS,870,613111
+Assembly,pyqgl2,5,SMELLS,7987,613111
+Assembly,pyqgl2,6,BUGS,890,542951
+Assembly,pyqgl2,6,SMELLS,6941,542951
+Assembly,pyqgl2,7,BUGS,890,513116
+Assembly,pyqgl2,7,SMELLS,6573,513116
+Assembly,pyqgl2,8,BUGS,890,469291
+Assembly,pyqgl2,8,SMELLS,5957,469291
+Assembly,pyqgl2,9,BUGS,0,1
+Assembly,pyqgl2,9,SMELLS,0,1
+Assembly,pyqgl2,10,BUGS,975,523963
+Assembly,pyqgl2,10,SMELLS,6201,523963
+Assembly,qubiter,0,BUGS,40,8049
+Assembly,qubiter,0,SMELLS,286,8049
+Assembly,qubiter,1,BUGS,2460,940307
+Assembly,qubiter,1,SMELLS,3486,940307
+Assembly,qubiter,2,BUGS,110,9029
+Assembly,qubiter,2,SMELLS,294,9029
+Assembly,qubiter,3,BUGS,170,16360
+Assembly,qubiter,3,SMELLS,488,16360
+Assembly,qubiter,4,BUGS,1171,39310
+Assembly,qubiter,4,SMELLS,911,39310
+Assembly,qubiter,5,BUGS,1181,49044
+Assembly,qubiter,5,SMELLS,1066,49044
+Assembly,qubiter,6,BUGS,1261,54402
+Assembly,qubiter,6,SMELLS,1332,54402
+Assembly,qubiter,7,BUGS,1341,63206
+Assembly,qubiter,7,SMELLS,1457,63206
+Assembly,qubiter,8,BUGS,1551,73585
+Assembly,qubiter,8,SMELLS,1766,73585
+Assembly,qubiter,9,BUGS,1951,92950
+Assembly,qubiter,9,SMELLS,2330,92950
+Assembly,qubiter,10,BUGS,2350,931387
+Assembly,qubiter,10,SMELLS,3192,931387
+None-Quantum,mjolnir,0,BUGS,0,1
+None-Quantum,mjolnir,0,SMELLS,0,1
+None-Quantum,mjolnir,1,BUGS,30,334
+None-Quantum,mjolnir,1,SMELLS,15,334
+None-Quantum,mjolnir,2,BUGS,0,1
+None-Quantum,mjolnir,2,SMELLS,0,1
+None-Quantum,mjolnir,3,BUGS,10,112
+None-Quantum,mjolnir,3,SMELLS,5,112
+None-Quantum,mjolnir,4,BUGS,10,112
+None-Quantum,mjolnir,4,SMELLS,5,112
+None-Quantum,mjolnir,5,BUGS,10,112
+None-Quantum,mjolnir,5,SMELLS,5,112
+None-Quantum,mjolnir,6,BUGS,10,112
+None-Quantum,mjolnir,6,SMELLS,5,112
+None-Quantum,mjolnir,7,BUGS,10,112
+None-Quantum,mjolnir,7,SMELLS,5,112
+None-Quantum,mjolnir,8,BUGS,10,112
+None-Quantum,mjolnir,8,SMELLS,5,112
+None-Quantum,mjolnir,9,BUGS,10,112
+None-Quantum,mjolnir,9,SMELLS,5,112
+None-Quantum,mjolnir,10,BUGS,10,112
+None-Quantum,mjolnir,10,SMELLS,5,112
+None-Quantum,mjolnir,11,BUGS,10,112
+None-Quantum,mjolnir,11,SMELLS,5,112
+None-Quantum,mjolnir,12,BUGS,10,112
+None-Quantum,mjolnir,12,SMELLS,5,112
+None-Quantum,recorder,0,BUGS,0,1
+None-Quantum,recorder,0,SMELLS,0,1
+None-Quantum,recorder,1,BUGS,119,76566
+None-Quantum,recorder,1,SMELLS,1209,76566
+None-Quantum,recorder,2,BUGS,13,4778
+None-Quantum,recorder,2,SMELLS,108,4778
+None-Quantum,recorder,3,BUGS,13,5312
+None-Quantum,recorder,3,SMELLS,139,5312
+None-Quantum,recorder,4,BUGS,13,5410
+None-Quantum,recorder,4,SMELLS,141,5410
+None-Quantum,recorder,5,BUGS,13,5415
+None-Quantum,recorder,5,SMELLS,141,5415
+None-Quantum,recorder,6,BUGS,13,5457
+None-Quantum,recorder,6,SMELLS,141,5457
+None-Quantum,recorder,7,BUGS,13,5472
+None-Quantum,recorder,7,SMELLS,141,5472
+None-Quantum,recorder,8,BUGS,13,5496
+None-Quantum,recorder,8,SMELLS,141,5496
+None-Quantum,recorder,9,BUGS,13,5496
+None-Quantum,recorder,9,SMELLS,141,5496
+None-Quantum,recorder,10,BUGS,13,5664
+None-Quantum,recorder,10,SMELLS,141,5664
+None-Quantum,recorder,11,BUGS,13,5694
+None-Quantum,recorder,11,SMELLS,141,5694
+None-Quantum,recorder,12,BUGS,15,10338
+None-Quantum,recorder,12,SMELLS,149,10338
+None-Quantum,recorder,13,BUGS,13,10170
+None-Quantum,recorder,13,SMELLS,149,10170
+None-Quantum,recorder,14,BUGS,13,10198
+None-Quantum,recorder,14,SMELLS,149,10198
+None-Quantum,recorder,15,BUGS,13,10198
+None-Quantum,recorder,15,SMELLS,149,10198
+None-Quantum,recorder,16,BUGS,13,10018
+None-Quantum,recorder,16,SMELLS,124,10018
+None-Quantum,recorder,17,BUGS,13,10018
+None-Quantum,recorder,17,SMELLS,124,10018
+None-Quantum,Open-PS2-Loader,0,BUGS,0,1
+None-Quantum,Open-PS2-Loader,0,SMELLS,0,1
+None-Quantum,Open-PS2-Loader,1,BUGS,1520,197213
+None-Quantum,Open-PS2-Loader,1,SMELLS,1908,197213
+None-Quantum,Open-PS2-Loader,2,BUGS,0,1
+None-Quantum,Open-PS2-Loader,2,SMELLS,0,1
+None-Quantum,Open-PS2-Loader,3,BUGS,760,98607
+None-Quantum,Open-PS2-Loader,3,SMELLS,954,98607
+None-Quantum,Open-PS2-Loader,4,BUGS,760,98607
+None-Quantum,Open-PS2-Loader,4,SMELLS,954,98607
+None-Quantum,Open-PS2-Loader,5,BUGS,760,98607
+None-Quantum,Open-PS2-Loader,5,SMELLS,954,98607
+None-Quantum,Open-PS2-Loader,6,BUGS,760,98607
+None-Quantum,Open-PS2-Loader,6,SMELLS,954,98607
+None-Quantum,Open-PS2-Loader,7,BUGS,760,98607
+None-Quantum,Open-PS2-Loader,7,SMELLS,954,98607
+None-Quantum,Open-PS2-Loader,8,BUGS,760,98607
+None-Quantum,Open-PS2-Loader,8,SMELLS,954,98607
+None-Quantum,Open-PS2-Loader,9,BUGS,760,98607
+None-Quantum,Open-PS2-Loader,9,SMELLS,954,98607
+None-Quantum,Open-PS2-Loader,10,BUGS,760,98607
+None-Quantum,Open-PS2-Loader,10,SMELLS,954,98607
+None-Quantum,Open-PS2-Loader,11,BUGS,760,98607
+None-Quantum,Open-PS2-Loader,11,SMELLS,954,98607
+None-Quantum,Open-PS2-Loader,12,BUGS,0,1
+None-Quantum,Open-PS2-Loader,12,SMELLS,0,1
+None-Quantum,Open-PS2-Loader,13,BUGS,0,1
+None-Quantum,Open-PS2-Loader,13,SMELLS,0,1
+None-Quantum,Open-PS2-Loader,14,BUGS,0,1
+None-Quantum,Open-PS2-Loader,14,SMELLS,0,1
+None-Quantum,Open-PS2-Loader,15,BUGS,0,1
+None-Quantum,Open-PS2-Loader,15,SMELLS,0,1
+None-Quantum,Open-PS2-Loader,16,BUGS,0,1
+None-Quantum,Open-PS2-Loader,16,SMELLS,0,1
+None-Quantum,Open-PS2-Loader,17,BUGS,0,1
+None-Quantum,Open-PS2-Loader,17,SMELLS,0,1
+None-Quantum,Open-PS2-Loader,18,BUGS,0,1
+None-Quantum,Open-PS2-Loader,18,SMELLS,0,1
+None-Quantum,Open-PS2-Loader,19,BUGS,0,1
+None-Quantum,Open-PS2-Loader,19,SMELLS,0,1
+None-Quantum,Open-PS2-Loader,20,BUGS,0,1
+None-Quantum,Open-PS2-Loader,20,SMELLS,0,1
+None-Quantum,Open-PS2-Loader,21,BUGS,0,1
+None-Quantum,Open-PS2-Loader,21,SMELLS,0,1
+None-Quantum,Open-PS2-Loader,22,BUGS,0,1
+None-Quantum,Open-PS2-Loader,22,SMELLS,0,1
+None-Quantum,Open-PS2-Loader,23,BUGS,0,1
+None-Quantum,Open-PS2-Loader,23,SMELLS,0,1
+None-Quantum,Open-PS2-Loader,24,BUGS,0,1
+None-Quantum,Open-PS2-Loader,24,SMELLS,0,1
+None-Quantum,Open-PS2-Loader,25,BUGS,0,1
+None-Quantum,Open-PS2-Loader,25,SMELLS,0,1
+None-Quantum,Open-PS2-Loader,26,BUGS,0,1
+None-Quantum,Open-PS2-Loader,26,SMELLS,0,1
+None-Quantum,Open-PS2-Loader,27,BUGS,0,1
+None-Quantum,Open-PS2-Loader,27,SMELLS,0,1
+None-Quantum,Open-PS2-Loader,28,BUGS,0,1
+None-Quantum,Open-PS2-Loader,28,SMELLS,0,1
+None-Quantum,Open-PS2-Loader,29,BUGS,0,1
+None-Quantum,Open-PS2-Loader,29,SMELLS,0,1
+None-Quantum,Open-PS2-Loader,30,BUGS,0,1
+None-Quantum,Open-PS2-Loader,30,SMELLS,0,1
+None-Quantum,Open-PS2-Loader,31,BUGS,0,1
+None-Quantum,Open-PS2-Loader,31,SMELLS,0,1
+None-Quantum,Open-PS2-Loader,32,BUGS,0,1
+None-Quantum,Open-PS2-Loader,32,SMELLS,0,1
+None-Quantum,Open-PS2-Loader,33,BUGS,0,1
+None-Quantum,Open-PS2-Loader,33,SMELLS,0,1
+None-Quantum,Open-PS2-Loader,34,BUGS,0,1
+None-Quantum,Open-PS2-Loader,34,SMELLS,0,1
+None-Quantum,Open-PS2-Loader,35,BUGS,0,1
+None-Quantum,Open-PS2-Loader,35,SMELLS,0,1
+None-Quantum,Open-PS2-Loader,36,BUGS,0,1
+None-Quantum,Open-PS2-Loader,36,SMELLS,0,1
+None-Quantum,cquery,0,BUGS,0,1
+None-Quantum,cquery,0,SMELLS,0,1
+None-Quantum,cquery,1,BUGS,0,1429
+None-Quantum,cquery,1,SMELLS,112,1429
+None-Quantum,cquery,2,BUGS,0,1429
+None-Quantum,cquery,2,SMELLS,112,1429
+None-Quantum,cquery,3,BUGS,0,3180
+None-Quantum,cquery,3,SMELLS,152,3180
+None-Quantum,cquery,4,BUGS,0,2926
+None-Quantum,cquery,4,SMELLS,190,2926
+None-Quantum,cquery,5,BUGS,10,5415
+None-Quantum,cquery,5,SMELLS,247,5415
+None-Quantum,cquery,6,BUGS,10,5351
+None-Quantum,cquery,6,SMELLS,242,5351
+None-Quantum,zetavm,0,BUGS,0,1
+None-Quantum,zetavm,0,SMELLS,0,1
+None-Quantum,zetavm,1,BUGS,70,15479
+None-Quantum,zetavm,1,SMELLS,808,15479
+None-Quantum,zetavm,2,BUGS,30,15841
+None-Quantum,zetavm,2,SMELLS,806,15841
+None-Quantum,Dism-Multi-language,0,BUGS,0,1
+None-Quantum,Dism-Multi-language,0,SMELLS,0,1
+None-Quantum,Dism-Multi-language,1,BUGS,500,121206
+None-Quantum,Dism-Multi-language,1,SMELLS,2100,121206
+None-Quantum,Dism-Multi-language,2,BUGS,90,20239
+None-Quantum,Dism-Multi-language,2,SMELLS,411,20239
+None-Quantum,Dism-Multi-language,3,BUGS,103,23623
+None-Quantum,Dism-Multi-language,3,SMELLS,411,23623
+None-Quantum,Dism-Multi-language,4,BUGS,103,23623
+None-Quantum,Dism-Multi-language,4,SMELLS,411,23623
+None-Quantum,Dism-Multi-language,5,BUGS,103,23618
+None-Quantum,Dism-Multi-language,5,SMELLS,411,23618
+None-Quantum,Dism-Multi-language,6,BUGS,103,23623
+None-Quantum,Dism-Multi-language,6,SMELLS,411,23623
+None-Quantum,Dism-Multi-language,7,BUGS,103,23804
+None-Quantum,Dism-Multi-language,7,SMELLS,411,23804
+None-Quantum,Dism-Multi-language,8,BUGS,103,23804
+None-Quantum,Dism-Multi-language,8,SMELLS,411,23804
+None-Quantum,Dism-Multi-language,9,BUGS,103,23810
+None-Quantum,Dism-Multi-language,9,SMELLS,411,23810
+None-Quantum,Dism-Multi-language,10,BUGS,103,23810
+None-Quantum,Dism-Multi-language,10,SMELLS,411,23810
+None-Quantum,Dism-Multi-language,11,BUGS,103,23810
+None-Quantum,Dism-Multi-language,11,SMELLS,411,23810
+None-Quantum,Dism-Multi-language,12,BUGS,103,23810
+None-Quantum,Dism-Multi-language,12,SMELLS,411,23810
+None-Quantum,Dism-Multi-language,13,BUGS,103,23810
+None-Quantum,Dism-Multi-language,13,SMELLS,411,23810
+None-Quantum,keystone-classic,0,BUGS,0,1
+None-Quantum,keystone-classic,0,SMELLS,0,1
+None-Quantum,keystone-classic,1,BUGS,9453,505733759
+None-Quantum,keystone-classic,1,SMELLS,47287,505733759
+None-Quantum,keystone-classic,2,BUGS,0,1
+None-Quantum,keystone-classic,2,SMELLS,0,1
+None-Quantum,keystone-classic,3,BUGS,0,1
+None-Quantum,keystone-classic,3,SMELLS,0,1
+None-Quantum,keystone-classic,4,BUGS,0,1
+None-Quantum,keystone-classic,4,SMELLS,0,1
+None-Quantum,keystone-classic,5,BUGS,0,1
+None-Quantum,keystone-classic,5,SMELLS,0,1
+None-Quantum,keystone-classic,6,BUGS,0,1
+None-Quantum,keystone-classic,6,SMELLS,0,1
+None-Quantum,keystone-classic,7,BUGS,0,1
+None-Quantum,keystone-classic,7,SMELLS,0,1
+None-Quantum,keystone-classic,8,BUGS,0,1
+None-Quantum,keystone-classic,8,SMELLS,0,1
+None-Quantum,keystone-classic,9,BUGS,0,1
+None-Quantum,keystone-classic,9,SMELLS,0,1
+None-Quantum,keystone-classic,10,BUGS,5546,330687281
+None-Quantum,keystone-classic,10,SMELLS,30030,330687281
+None-Quantum,keystone-classic,11,BUGS,3144,172375034
+None-Quantum,keystone-classic,11,SMELLS,13890,172375034
+None-Quantum,keystone-classic,12,BUGS,0,1
+None-Quantum,keystone-classic,12,SMELLS,0,1
+None-Quantum,keystone-classic,13,BUGS,0,1
+None-Quantum,keystone-classic,13,SMELLS,0,1
+None-Quantum,keystone-classic,14,BUGS,0,1
+None-Quantum,keystone-classic,14,SMELLS,0,1
+None-Quantum,keystone-classic,15,BUGS,0,1
+None-Quantum,keystone-classic,15,SMELLS,0,1
+None-Quantum,keystone-classic,16,BUGS,0,1
+None-Quantum,keystone-classic,16,SMELLS,0,1
+None-Quantum,keystone-classic,17,BUGS,0,1
+None-Quantum,keystone-classic,17,SMELLS,0,1
+None-Quantum,keystone-classic,18,BUGS,0,1
+None-Quantum,keystone-classic,18,SMELLS,0,1
+None-Quantum,keystone-classic,19,BUGS,0,1
+None-Quantum,keystone-classic,19,SMELLS,0,1
+None-Quantum,keystone-classic,20,BUGS,0,1
+None-Quantum,keystone-classic,20,SMELLS,0,1
+None-Quantum,keystone-classic,21,BUGS,0,1
+None-Quantum,keystone-classic,21,SMELLS,0,1
+None-Quantum,keystone-classic,22,BUGS,0,1
+None-Quantum,keystone-classic,22,SMELLS,0,1
+None-Quantum,keystone-classic,23,BUGS,0,1
+None-Quantum,keystone-classic,23,SMELLS,0,1
+None-Quantum,keystone-classic,24,BUGS,0,1
+None-Quantum,keystone-classic,24,SMELLS,0,1
+None-Quantum,keystone-classic,25,BUGS,0,1
+None-Quantum,keystone-classic,25,SMELLS,0,1
+None-Quantum,mui,0,BUGS,0,1
+None-Quantum,mui,0,SMELLS,0,1
+None-Quantum,mui,1,BUGS,14748,31793545
+None-Quantum,mui,1,SMELLS,52399,31793545
+None-Quantum,mui,2,BUGS,0,1
+None-Quantum,mui,2,SMELLS,0,1
+None-Quantum,mui,3,BUGS,0,1
+None-Quantum,mui,3,SMELLS,0,1
+None-Quantum,mui,4,BUGS,0,1
+None-Quantum,mui,4,SMELLS,0,1
+None-Quantum,mui,5,BUGS,0,1
+None-Quantum,mui,5,SMELLS,0,1
+None-Quantum,mui,6,BUGS,0,1
+None-Quantum,mui,6,SMELLS,0,1
+None-Quantum,mui,7,BUGS,0,1
+None-Quantum,mui,7,SMELLS,0,1
+None-Quantum,mui,8,BUGS,0,1
+None-Quantum,mui,8,SMELLS,0,1
+None-Quantum,mui,9,BUGS,0,1
+None-Quantum,mui,9,SMELLS,0,1
+None-Quantum,mui,10,BUGS,1558,3409979
+None-Quantum,mui,10,SMELLS,6029,3409979
+None-Quantum,mui,11,BUGS,1588,3426989
+None-Quantum,mui,11,SMELLS,6036,3426989
+None-Quantum,mui,12,BUGS,1884,4392280
+None-Quantum,mui,12,SMELLS,7017,4392280
+None-Quantum,mui,13,BUGS,1904,4405959
+None-Quantum,mui,13,SMELLS,7027,4405959
+None-Quantum,mui,14,BUGS,1904,4423321
+None-Quantum,mui,14,SMELLS,7032,4423321
+None-Quantum,mui,15,BUGS,1904,4424667
+None-Quantum,mui,15,SMELLS,7032,4424667
+None-Quantum,mui,16,BUGS,1904,4425507
+None-Quantum,mui,16,SMELLS,7037,4425507
+None-Quantum,mui,17,BUGS,1212,2150607
+None-Quantum,mui,17,SMELLS,3530,2150607
+None-Quantum,quack,0,BUGS,0,1
+None-Quantum,quack,0,SMELLS,0,1
+None-Quantum,quack,1,BUGS,0,943
+None-Quantum,quack,1,SMELLS,173,943
+None-Quantum,quack,2,BUGS,0,32661
+None-Quantum,quack,2,SMELLS,1232,32661
+None-Quantum,quack,3,BUGS,15,14881
+None-Quantum,quack,3,SMELLS,2588,14881
+None-Quantum,quack,4,BUGS,0,16306
+None-Quantum,quack,4,SMELLS,3407,16306
+None-Quantum,quack,5,BUGS,5,15313
+None-Quantum,quack,5,SMELLS,3297,15313
+None-Quantum,quack,6,BUGS,15,10265
+None-Quantum,quack,6,SMELLS,1368,10265
+None-Quantum,kivy,0,BUGS,270,96451
+None-Quantum,kivy,0,SMELLS,3587,96451
+None-Quantum,kivy,1,BUGS,1916,3584779
+None-Quantum,kivy,1,SMELLS,84318,3584779
+None-Quantum,kivy,2,BUGS,0,58989
+None-Quantum,kivy,2,SMELLS,2285,58989
+None-Quantum,kivy,3,BUGS,0,1
+None-Quantum,kivy,3,SMELLS,0,1
+None-Quantum,kivy,4,BUGS,0,1
+None-Quantum,kivy,4,SMELLS,0,1
+None-Quantum,kivy,5,BUGS,0,1
+None-Quantum,kivy,5,SMELLS,0,1
+None-Quantum,kivy,6,BUGS,0,1
+None-Quantum,kivy,6,SMELLS,0,1
+None-Quantum,kivy,7,BUGS,0,1
+None-Quantum,kivy,7,SMELLS,0,1
+None-Quantum,kivy,8,BUGS,0,1
+None-Quantum,kivy,8,SMELLS,0,1
+None-Quantum,kivy,9,BUGS,0,1
+None-Quantum,kivy,9,SMELLS,0,1
+None-Quantum,kivy,10,BUGS,152,327874
+None-Quantum,kivy,10,SMELLS,8117,327874
+None-Quantum,kivy,11,BUGS,177,265559
+None-Quantum,kivy,11,SMELLS,6542,265559
+None-Quantum,kivy,12,BUGS,177,293252
+None-Quantum,kivy,12,SMELLS,6873,293252
+None-Quantum,kivy,13,BUGS,177,312803
+None-Quantum,kivy,13,SMELLS,7309,312803
+None-Quantum,kivy,14,BUGS,203,349916
+None-Quantum,kivy,14,SMELLS,8050,349916
+None-Quantum,kivy,15,BUGS,193,362487
+None-Quantum,kivy,15,SMELLS,8245,362487
+None-Quantum,kivy,16,BUGS,208,381348
+None-Quantum,kivy,16,SMELLS,8556,381348
+None-Quantum,kivy,17,BUGS,183,381038
+None-Quantum,kivy,17,SMELLS,8793,381038
+None-Quantum,kivy,18,BUGS,183,378990
+None-Quantum,kivy,18,SMELLS,8760,378990
+None-Quantum,kivy,19,BUGS,188,417751
+None-Quantum,kivy,19,SMELLS,9075,417751
+None-Quantum,kivy,20,BUGS,0,1
+None-Quantum,kivy,20,SMELLS,0,1
+None-Quantum,kivy,21,BUGS,0,1
+None-Quantum,kivy,21,SMELLS,0,1
+None-Quantum,kivy,22,BUGS,0,1
+None-Quantum,kivy,22,SMELLS,0,1
+None-Quantum,kivy,23,BUGS,0,1
+None-Quantum,kivy,23,SMELLS,0,1
+None-Quantum,kivy,24,BUGS,0,1
+None-Quantum,kivy,24,SMELLS,0,1
+None-Quantum,kivy,25,BUGS,0,1
+None-Quantum,kivy,25,SMELLS,0,1
+None-Quantum,kivy,26,BUGS,0,1
+None-Quantum,kivy,26,SMELLS,0,1
+None-Quantum,kivy,27,BUGS,0,1
+None-Quantum,kivy,27,SMELLS,0,1
+None-Quantum,kivy,28,BUGS,0,1
+None-Quantum,kivy,28,SMELLS,0,1
+None-Quantum,kivy,29,BUGS,0,1
+None-Quantum,kivy,29,SMELLS,0,1
+None-Quantum,kivy,30,BUGS,0,1
+None-Quantum,kivy,30,SMELLS,0,1
+None-Quantum,kivy,31,BUGS,0,1
+None-Quantum,kivy,31,SMELLS,0,1
+None-Quantum,kivy,32,BUGS,0,1
+None-Quantum,kivy,32,SMELLS,0,1
+None-Quantum,kivy,33,BUGS,0,1
+None-Quantum,kivy,33,SMELLS,0,1
+None-Quantum,kivy,34,BUGS,0,1
+None-Quantum,kivy,34,SMELLS,0,1
+None-Quantum,kivy,35,BUGS,0,1
+None-Quantum,kivy,35,SMELLS,0,1
+None-Quantum,kivy,36,BUGS,0,1
+None-Quantum,kivy,36,SMELLS,0,1
+None-Quantum,kivy,37,BUGS,0,1
+None-Quantum,kivy,37,SMELLS,0,1
+None-Quantum,kivy,38,BUGS,0,1
+None-Quantum,kivy,38,SMELLS,0,1
+None-Quantum,kivy,39,BUGS,0,1
+None-Quantum,kivy,39,SMELLS,0,1
+None-Quantum,lbry-sdk,0,BUGS,8,154098
+None-Quantum,lbry-sdk,0,SMELLS,3023,154098
+None-Quantum,lbry-sdk,1,BUGS,1876,2894903
+None-Quantum,lbry-sdk,1,SMELLS,46669,2894903
+None-Quantum,lbry-sdk,2,BUGS,18,364970
+None-Quantum,lbry-sdk,2,SMELLS,4469,364970
+None-Quantum,lbry-sdk,3,BUGS,98,379623
+None-Quantum,lbry-sdk,3,SMELLS,4560,379623
+None-Quantum,lbry-sdk,4,BUGS,18,377663
+None-Quantum,lbry-sdk,4,SMELLS,4708,377663
+None-Quantum,lbry-sdk,5,BUGS,0,207382
+None-Quantum,lbry-sdk,5,SMELLS,2824,207382
+None-Quantum,lbry-sdk,6,BUGS,0,1
+None-Quantum,lbry-sdk,6,SMELLS,0,1
+None-Quantum,lbry-sdk,7,BUGS,0,1
+None-Quantum,lbry-sdk,7,SMELLS,0,1
+None-Quantum,lbry-sdk,8,BUGS,0,1
+None-Quantum,lbry-sdk,8,SMELLS,0,1
+None-Quantum,lbry-sdk,9,BUGS,0,1
+None-Quantum,lbry-sdk,9,SMELLS,0,1
+None-Quantum,lbry-sdk,10,BUGS,43,245193
+None-Quantum,lbry-sdk,10,SMELLS,5150,245193
+None-Quantum,lbry-sdk,11,BUGS,10,11409
+None-Quantum,lbry-sdk,11,SMELLS,220,11409
+None-Quantum,lbry-sdk,12,BUGS,87,217027
+None-Quantum,lbry-sdk,12,SMELLS,4636,217027
+None-Quantum,lbry-sdk,13,BUGS,40,96838
+None-Quantum,lbry-sdk,13,SMELLS,944,96838
+None-Quantum,lbry-sdk,14,BUGS,193,150152
+None-Quantum,lbry-sdk,14,SMELLS,3635,150152
+None-Quantum,lbry-sdk,15,BUGS,223,215786
+None-Quantum,lbry-sdk,15,SMELLS,3991,215786
+None-Quantum,lbry-sdk,16,BUGS,412,337089
+None-Quantum,lbry-sdk,16,SMELLS,5276,337089
+None-Quantum,lbry-sdk,17,BUGS,400,424613
+None-Quantum,lbry-sdk,17,SMELLS,6204,424613
+None-Quantum,lbry-sdk,18,BUGS,230,429006
+None-Quantum,lbry-sdk,18,SMELLS,6217,429006
+None-Quantum,lbry-sdk,19,BUGS,230,479728
+None-Quantum,lbry-sdk,19,SMELLS,6648,479728
+None-Quantum,CSrankings,0,BUGS,0,1
+None-Quantum,CSrankings,0,SMELLS,0,1
+None-Quantum,CSrankings,1,BUGS,7825,4152787
+None-Quantum,CSrankings,1,SMELLS,18332,4152787
+None-Quantum,CSrankings,2,BUGS,94,50588
+None-Quantum,CSrankings,2,SMELLS,988,50588
+None-Quantum,CSrankings,3,BUGS,161,68901
+None-Quantum,CSrankings,3,SMELLS,1265,68901
+None-Quantum,CSrankings,4,BUGS,151,85226
+None-Quantum,CSrankings,4,SMELLS,1385,85226
+None-Quantum,CSrankings,5,BUGS,774,176323
+None-Quantum,CSrankings,5,SMELLS,1640,176323
+None-Quantum,CSrankings,6,BUGS,815,191220
+None-Quantum,CSrankings,6,SMELLS,1712,191220
+None-Quantum,CSrankings,7,BUGS,1000,496005
+None-Quantum,CSrankings,7,SMELLS,2204,496005
+None-Quantum,CSrankings,8,BUGS,949,484896
+None-Quantum,CSrankings,8,SMELLS,2062,484896
+None-Quantum,CSrankings,9,BUGS,930,492805
+None-Quantum,CSrankings,9,SMELLS,2188,492805
+None-Quantum,CSrankings,10,BUGS,959,517009
+None-Quantum,CSrankings,10,SMELLS,2255,517009
+None-Quantum,CSrankings,11,BUGS,959,501521
+None-Quantum,CSrankings,11,SMELLS,2143,501521
+None-Quantum,CSrankings,12,BUGS,971,519875
+None-Quantum,CSrankings,12,SMELLS,2168,519875
+None-Quantum,CSrankings,13,BUGS,964,509321
+None-Quantum,CSrankings,13,SMELLS,2152,509321
+None-Quantum,CSrankings,14,BUGS,964,509569
+None-Quantum,CSrankings,14,SMELLS,2162,509569
+None-Quantum,CSrankings,15,BUGS,972,511699
+None-Quantum,CSrankings,15,SMELLS,2172,511699
+None-Quantum,CSrankings,16,BUGS,972,521725
+None-Quantum,CSrankings,16,SMELLS,2189,521725
+None-Quantum,CSrankings,17,BUGS,972,521725
+None-Quantum,CSrankings,17,SMELLS,2189,521725
+None-Quantum,Nuitka,0,BUGS,186,472221
+None-Quantum,Nuitka,0,SMELLS,7152,472221
+None-Quantum,Nuitka,1,BUGS,1635,4483652
+None-Quantum,Nuitka,1,SMELLS,63711,4483652
+None-Quantum,Nuitka,2,BUGS,0,1
+None-Quantum,Nuitka,2,SMELLS,0,1
+None-Quantum,Nuitka,3,BUGS,0,1
+None-Quantum,Nuitka,3,SMELLS,0,1
+None-Quantum,Nuitka,4,BUGS,0,1
+None-Quantum,Nuitka,4,SMELLS,0,1
+None-Quantum,Nuitka,5,BUGS,0,1
+None-Quantum,Nuitka,5,SMELLS,0,1
+None-Quantum,Nuitka,6,BUGS,0,1
+None-Quantum,Nuitka,6,SMELLS,0,1
+None-Quantum,Nuitka,7,BUGS,0,1
+None-Quantum,Nuitka,7,SMELLS,0,1
+None-Quantum,Nuitka,8,BUGS,0,1
+None-Quantum,Nuitka,8,SMELLS,0,1
+None-Quantum,Nuitka,9,BUGS,0,1
+None-Quantum,Nuitka,9,SMELLS,0,1
+None-Quantum,Nuitka,10,BUGS,993,2484430
+None-Quantum,Nuitka,10,SMELLS,37564,2484430
+None-Quantum,Nuitka,11,BUGS,441,1350839
+None-Quantum,Nuitka,11,SMELLS,16949,1350839
+None-Quantum,Nuitka,12,BUGS,0,1
+None-Quantum,Nuitka,12,SMELLS,0,1
+None-Quantum,Nuitka,13,BUGS,0,1
+None-Quantum,Nuitka,13,SMELLS,0,1
+None-Quantum,Nuitka,14,BUGS,0,1
+None-Quantum,Nuitka,14,SMELLS,0,1
+None-Quantum,Nuitka,15,BUGS,0,1
+None-Quantum,Nuitka,15,SMELLS,0,1
+None-Quantum,Nuitka,16,BUGS,0,1
+None-Quantum,Nuitka,16,SMELLS,0,1
+None-Quantum,Nuitka,17,BUGS,0,1
+None-Quantum,Nuitka,17,SMELLS,0,1
+None-Quantum,Nuitka,18,BUGS,0,1
+None-Quantum,Nuitka,18,SMELLS,0,1
+None-Quantum,Nuitka,19,BUGS,0,1
+None-Quantum,Nuitka,19,SMELLS,0,1
+None-Quantum,Nuitka,20,BUGS,0,1
+None-Quantum,Nuitka,20,SMELLS,0,1
+None-Quantum,Nuitka,21,BUGS,0,1
+None-Quantum,Nuitka,21,SMELLS,0,1
+None-Quantum,Nuitka,22,BUGS,0,1
+None-Quantum,Nuitka,22,SMELLS,0,1
+None-Quantum,Nuitka,23,BUGS,0,1
+None-Quantum,Nuitka,23,SMELLS,0,1
+None-Quantum,Nuitka,24,BUGS,0,1
+None-Quantum,Nuitka,24,SMELLS,0,1
+None-Quantum,Nuitka,25,BUGS,0,1
+None-Quantum,Nuitka,25,SMELLS,0,1
+None-Quantum,Nuitka,26,BUGS,0,1
+None-Quantum,Nuitka,26,SMELLS,0,1
+None-Quantum,Nuitka,27,BUGS,0,1
+None-Quantum,Nuitka,27,SMELLS,0,1
+None-Quantum,Nuitka,28,BUGS,0,1
+None-Quantum,Nuitka,28,SMELLS,0,1
+None-Quantum,Nuitka,29,BUGS,0,1
+None-Quantum,Nuitka,29,SMELLS,0,1
+None-Quantum,Nuitka,30,BUGS,0,1
+None-Quantum,Nuitka,30,SMELLS,0,1
+None-Quantum,Nuitka,31,BUGS,0,1
+None-Quantum,Nuitka,31,SMELLS,0,1
+None-Quantum,Nuitka,32,BUGS,0,1
+None-Quantum,Nuitka,32,SMELLS,0,1
+None-Quantum,Nuitka,33,BUGS,0,1
+None-Quantum,Nuitka,33,SMELLS,0,1
+None-Quantum,Nuitka,34,BUGS,0,1
+None-Quantum,Nuitka,34,SMELLS,0,1
+None-Quantum,Nuitka,35,BUGS,0,1
+None-Quantum,Nuitka,35,SMELLS,0,1
+None-Quantum,Nuitka,36,BUGS,0,1
+None-Quantum,Nuitka,36,SMELLS,0,1
+None-Quantum,Nuitka,37,BUGS,0,1
+None-Quantum,Nuitka,37,SMELLS,0,1
+None-Quantum,Flask-AppBuilder,0,BUGS,0,1
+None-Quantum,Flask-AppBuilder,0,SMELLS,0,1
+None-Quantum,Flask-AppBuilder,1,BUGS,16005,12107889
+None-Quantum,Flask-AppBuilder,1,SMELLS,34160,12107889
+None-Quantum,Flask-AppBuilder,2,BUGS,0,1
+None-Quantum,Flask-AppBuilder,2,SMELLS,0,1
+None-Quantum,Flask-AppBuilder,3,BUGS,0,1
+None-Quantum,Flask-AppBuilder,3,SMELLS,0,1
+None-Quantum,Flask-AppBuilder,4,BUGS,0,1
+None-Quantum,Flask-AppBuilder,4,SMELLS,0,1
+None-Quantum,Flask-AppBuilder,5,BUGS,0,1
+None-Quantum,Flask-AppBuilder,5,SMELLS,0,1
+None-Quantum,Flask-AppBuilder,6,BUGS,0,1
+None-Quantum,Flask-AppBuilder,6,SMELLS,0,1
+None-Quantum,Flask-AppBuilder,7,BUGS,0,1
+None-Quantum,Flask-AppBuilder,7,SMELLS,0,1
+None-Quantum,Flask-AppBuilder,8,BUGS,0,1
+None-Quantum,Flask-AppBuilder,8,SMELLS,0,1
+None-Quantum,Flask-AppBuilder,9,BUGS,0,1
+None-Quantum,Flask-AppBuilder,9,SMELLS,0,1
+None-Quantum,Flask-AppBuilder,10,BUGS,2438,2832929
+None-Quantum,Flask-AppBuilder,10,SMELLS,6425,2832929
+None-Quantum,Flask-AppBuilder,11,BUGS,2438,2832935
+None-Quantum,Flask-AppBuilder,11,SMELLS,6425,2832935
+None-Quantum,Flask-AppBuilder,12,BUGS,2438,2836151
+None-Quantum,Flask-AppBuilder,12,SMELLS,6470,2836151
+None-Quantum,Flask-AppBuilder,13,BUGS,2438,2835727
+None-Quantum,Flask-AppBuilder,13,SMELLS,6445,2835727
+None-Quantum,Flask-AppBuilder,14,BUGS,1029,186499
+None-Quantum,Flask-AppBuilder,14,SMELLS,3035,186499
+None-Quantum,Flask-AppBuilder,15,BUGS,1029,191555
+None-Quantum,Flask-AppBuilder,15,SMELLS,3099,191555
+None-Quantum,Flask-AppBuilder,16,BUGS,219,12698
+None-Quantum,Flask-AppBuilder,16,SMELLS,461,12698
+None-Quantum,Flask-AppBuilder,17,BUGS,0,1
+None-Quantum,Flask-AppBuilder,17,SMELLS,0,1
+None-Quantum,Flask-AppBuilder,18,BUGS,0,1
+None-Quantum,Flask-AppBuilder,18,SMELLS,0,1
+None-Quantum,Flask-AppBuilder,19,BUGS,0,1
+None-Quantum,Flask-AppBuilder,19,SMELLS,0,1
+None-Quantum,Flask-AppBuilder,20,BUGS,0,1
+None-Quantum,Flask-AppBuilder,20,SMELLS,0,1
+None-Quantum,Flask-AppBuilder,21,BUGS,0,1
+None-Quantum,Flask-AppBuilder,21,SMELLS,0,1
+None-Quantum,Flask-AppBuilder,22,BUGS,0,1
+None-Quantum,Flask-AppBuilder,22,SMELLS,0,1
+None-Quantum,Flask-AppBuilder,23,BUGS,0,1
+None-Quantum,Flask-AppBuilder,23,SMELLS,0,1
+None-Quantum,Flask-AppBuilder,24,BUGS,0,1
+None-Quantum,Flask-AppBuilder,24,SMELLS,0,1
+None-Quantum,Flask-AppBuilder,25,BUGS,0,1
+None-Quantum,Flask-AppBuilder,25,SMELLS,0,1
+None-Quantum,dash,0,BUGS,0,1
+None-Quantum,dash,0,SMELLS,0,1
+None-Quantum,dash,1,BUGS,350,570191
+None-Quantum,dash,1,SMELLS,10520,570191
+None-Quantum,dash,2,BUGS,28,2611
+None-Quantum,dash,2,SMELLS,121,2611
+None-Quantum,dash,3,BUGS,0,1
+None-Quantum,dash,3,SMELLS,0,1
+None-Quantum,dash,4,BUGS,0,865
+None-Quantum,dash,4,SMELLS,109,865
+None-Quantum,dash,5,BUGS,0,972
+None-Quantum,dash,5,SMELLS,44,972
+None-Quantum,dash,6,BUGS,10,18627
+None-Quantum,dash,6,SMELLS,168,18627
+None-Quantum,dash,7,BUGS,34,23085
+None-Quantum,dash,7,SMELLS,509,23085
+None-Quantum,dash,8,BUGS,14,13515
+None-Quantum,dash,8,SMELLS,343,13515
+None-Quantum,dash,9,BUGS,10,39476
+None-Quantum,dash,9,SMELLS,245,39476
+None-Quantum,dash,10,BUGS,9,26572
+None-Quantum,dash,10,SMELLS,575,26572
+None-Quantum,dash,11,BUGS,59,39333
+None-Quantum,dash,11,SMELLS,757,39333
+None-Quantum,dash,12,BUGS,109,44168
+None-Quantum,dash,12,SMELLS,731,44168
+None-Quantum,dash,13,BUGS,5,48407
+None-Quantum,dash,13,SMELLS,316,48407
+None-Quantum,dash,14,BUGS,16,83140
+None-Quantum,dash,14,SMELLS,1240,83140
+None-Quantum,dash,15,BUGS,16,72823
+None-Quantum,dash,15,SMELLS,1349,72823
+None-Quantum,dash,16,BUGS,36,75529
+None-Quantum,dash,16,SMELLS,1479,75529
+None-Quantum,dash,17,BUGS,36,71104
+None-Quantum,dash,17,SMELLS,1503,71104
+None-Quantum,dash,18,BUGS,36,106603
+None-Quantum,dash,18,SMELLS,2489,106603
+None-Quantum,appdaemon,0,BUGS,0,1
+None-Quantum,appdaemon,0,SMELLS,0,1
+None-Quantum,appdaemon,1,BUGS,1623,17189973
+None-Quantum,appdaemon,1,SMELLS,31070,17189973
+None-Quantum,appdaemon,2,BUGS,82,156151
+None-Quantum,appdaemon,2,SMELLS,1251,156151
+None-Quantum,appdaemon,3,BUGS,185,2794616
+None-Quantum,appdaemon,3,SMELLS,3195,2794616
+None-Quantum,appdaemon,4,BUGS,230,2781462
+None-Quantum,appdaemon,4,SMELLS,3412,2781462
+None-Quantum,appdaemon,5,BUGS,242,2793046
+None-Quantum,appdaemon,5,SMELLS,3578,2793046
+None-Quantum,appdaemon,6,BUGS,240,2851765
+None-Quantum,appdaemon,6,SMELLS,3969,2851765
+None-Quantum,appdaemon,7,BUGS,240,2854828
+None-Quantum,appdaemon,7,SMELLS,4023,2854828
+None-Quantum,appdaemon,8,BUGS,240,2859366
+None-Quantum,appdaemon,8,SMELLS,4063,2859366
+None-Quantum,appdaemon,9,BUGS,280,2828303
+None-Quantum,appdaemon,9,SMELLS,4794,2828303
+None-Quantum,appdaemon,10,BUGS,280,2831140
+None-Quantum,appdaemon,10,SMELLS,4841,2831140
+None-Quantum,appdaemon,11,BUGS,248,2872259
+None-Quantum,appdaemon,11,SMELLS,4173,2872259
+None-Quantum,appdaemon,12,BUGS,285,2872043
+None-Quantum,appdaemon,12,SMELLS,5497,2872043
+None-Quantum,appdaemon,13,BUGS,285,2873156
+None-Quantum,appdaemon,13,SMELLS,5531,2873156
+None-Quantum,appdaemon,14,BUGS,255,2853777
+None-Quantum,appdaemon,14,SMELLS,5237,2853777
+None-Quantum,appdaemon,15,BUGS,255,2857149
+None-Quantum,appdaemon,15,SMELLS,5239,2857149
+None-Quantum,calibre-web,0,BUGS,798,1609271
+None-Quantum,calibre-web,0,SMELLS,16256,1609271
+None-Quantum,calibre-web,1,BUGS,3542,140164005
+None-Quantum,calibre-web,1,SMELLS,52113,140164005
+None-Quantum,calibre-web,2,BUGS,0,1
+None-Quantum,calibre-web,2,SMELLS,0,1
+None-Quantum,calibre-web,3,BUGS,0,1
+None-Quantum,calibre-web,3,SMELLS,0,1
+None-Quantum,calibre-web,4,BUGS,0,1
+None-Quantum,calibre-web,4,SMELLS,0,1
+None-Quantum,calibre-web,5,BUGS,0,1
+None-Quantum,calibre-web,5,SMELLS,0,1
+None-Quantum,calibre-web,6,BUGS,0,1
+None-Quantum,calibre-web,6,SMELLS,0,1
+None-Quantum,calibre-web,7,BUGS,0,1
+None-Quantum,calibre-web,7,SMELLS,0,1
+None-Quantum,calibre-web,8,BUGS,0,1
+None-Quantum,calibre-web,8,SMELLS,0,1
+None-Quantum,calibre-web,9,BUGS,0,1
+None-Quantum,calibre-web,9,SMELLS,0,1
+None-Quantum,calibre-web,10,BUGS,344,23039999
+None-Quantum,calibre-web,10,SMELLS,6542,23039999
+None-Quantum,calibre-web,11,BUGS,367,23106907
+None-Quantum,calibre-web,11,SMELLS,6420,23106907
+None-Quantum,calibre-web,12,BUGS,330,23090044
+None-Quantum,calibre-web,12,SMELLS,6796,23090044
+None-Quantum,calibre-web,13,BUGS,1225,39572831
+None-Quantum,calibre-web,13,SMELLS,9819,39572831
+None-Quantum,calibre-web,14,BUGS,939,30100733
+None-Quantum,calibre-web,14,SMELLS,6418,30100733
+None-Quantum,calibre-web,15,BUGS,0,1
+None-Quantum,calibre-web,15,SMELLS,0,1
+None-Quantum,calibre-web,16,BUGS,0,1
+None-Quantum,calibre-web,16,SMELLS,0,1
+None-Quantum,calibre-web,17,BUGS,0,1
+None-Quantum,calibre-web,17,SMELLS,0,1
+None-Quantum,calibre-web,18,BUGS,0,1
+None-Quantum,calibre-web,18,SMELLS,0,1
+None-Quantum,flexx,0,BUGS,0,1
+None-Quantum,flexx,0,SMELLS,0,1
+None-Quantum,flexx,1,BUGS,3610,2368375
+None-Quantum,flexx,1,SMELLS,46364,2368375
+None-Quantum,flexx,2,BUGS,379,241323
+None-Quantum,flexx,2,SMELLS,5296,241323
+None-Quantum,flexx,3,BUGS,595,97654
+None-Quantum,flexx,3,SMELLS,1856,97654
+None-Quantum,flexx,4,BUGS,954,113972
+None-Quantum,flexx,4,SMELLS,2067,113972
+None-Quantum,flexx,5,BUGS,819,236723
+None-Quantum,flexx,5,SMELLS,3228,236723
+None-Quantum,flexx,6,BUGS,774,267211
+None-Quantum,flexx,6,SMELLS,3417,267211
+None-Quantum,flexx,7,BUGS,124,108778
+None-Quantum,flexx,7,SMELLS,1277,108778
+None-Quantum,flexx,8,BUGS,0,1
+None-Quantum,flexx,8,SMELLS,0,1
+None-Quantum,flexx,9,BUGS,0,1
+None-Quantum,flexx,9,SMELLS,0,1
+None-Quantum,flexx,10,BUGS,673,362995
+None-Quantum,flexx,10,SMELLS,5280,362995
+None-Quantum,flexx,11,BUGS,673,371590
+None-Quantum,flexx,11,SMELLS,5426,371590
+None-Quantum,flexx,12,BUGS,673,373565
+None-Quantum,flexx,12,SMELLS,5428,373565
+None-Quantum,flexx,13,BUGS,763,350799
+None-Quantum,flexx,13,SMELLS,6202,350799
+None-Quantum,flexx,14,BUGS,128,146650
+None-Quantum,flexx,14,SMELLS,3923,146650
+None-Quantum,flexx,15,BUGS,128,147133
+None-Quantum,flexx,15,SMELLS,3911,147133
+None-Quantum,flexx,16,BUGS,128,148678
+None-Quantum,flexx,16,SMELLS,3958,148678
+None-Quantum,flexx,17,BUGS,128,151111
+None-Quantum,flexx,17,SMELLS,3969,151111
+None-Quantum,flexx,18,BUGS,128,151136
+None-Quantum,flexx,18,SMELLS,3969,151136
+None-Quantum,flexx,19,BUGS,128,151796
+None-Quantum,flexx,19,SMELLS,3980,151796
+None-Quantum,flexx,20,BUGS,128,151803
+None-Quantum,flexx,20,SMELLS,3980,151803
+None-Quantum,pre-commit,0,BUGS,0,2563
+None-Quantum,pre-commit,0,SMELLS,70,2563
+None-Quantum,pre-commit,1,BUGS,4446,311487
+None-Quantum,pre-commit,1,SMELLS,4183,311487
+None-Quantum,pre-commit,2,BUGS,7380,450560
+None-Quantum,pre-commit,2,SMELLS,2717,450560
+None-Quantum,pre-commit,3,BUGS,15,4042
+None-Quantum,pre-commit,3,SMELLS,197,4042
+None-Quantum,pre-commit,4,BUGS,65,6712
+None-Quantum,pre-commit,4,SMELLS,256,6712
+None-Quantum,pre-commit,5,BUGS,65,8200
+None-Quantum,pre-commit,5,SMELLS,271,8200
+None-Quantum,pre-commit,6,BUGS,75,9628
+None-Quantum,pre-commit,6,SMELLS,281,9628
+None-Quantum,pre-commit,7,BUGS,75,9855
+None-Quantum,pre-commit,7,SMELLS,271,9855
+None-Quantum,pre-commit,8,BUGS,75,11228
+None-Quantum,pre-commit,8,SMELLS,321,11228
+None-Quantum,pre-commit,9,BUGS,75,11318
+None-Quantum,pre-commit,9,SMELLS,323,11318
+None-Quantum,pre-commit,10,BUGS,65,11849
+None-Quantum,pre-commit,10,SMELLS,334,11849
+None-Quantum,pre-commit,11,BUGS,215,18197
+None-Quantum,pre-commit,11,SMELLS,365,18197
+None-Quantum,pre-commit,12,BUGS,215,20695
+None-Quantum,pre-commit,12,SMELLS,395,20695
+None-Quantum,pre-commit,13,BUGS,255,21590
+None-Quantum,pre-commit,13,SMELLS,385,21590
+None-Quantum,pre-commit,14,BUGS,345,29341
+None-Quantum,pre-commit,14,SMELLS,426,29341
+None-Quantum,pre-commit,15,BUGS,485,34123
+None-Quantum,pre-commit,15,SMELLS,382,34123
+None-Quantum,pre-commit,16,BUGS,635,39600
+None-Quantum,pre-commit,16,SMELLS,429,39600
+None-Quantum,pre-commit,17,BUGS,667,41700
+None-Quantum,pre-commit,17,SMELLS,429,41700
+None-Quantum,pre-commit,18,BUGS,767,43723
+None-Quantum,pre-commit,18,SMELLS,441,43723
+None-Quantum,pre-commit,19,BUGS,797,48517
+None-Quantum,pre-commit,19,SMELLS,462,48517
+None-Quantum,pre-commit,20,BUGS,807,49187
+None-Quantum,pre-commit,20,SMELLS,469,49187
+None-Quantum,pre-commit,21,BUGS,1307,76984
+None-Quantum,pre-commit,21,SMELLS,481,76984
+None-Quantum,pre-commit,22,BUGS,1657,97526
+None-Quantum,pre-commit,22,SMELLS,514,97526
+None-Quantum,pre-commit,23,BUGS,1777,110551
+None-Quantum,pre-commit,23,SMELLS,522,110551
+None-Quantum,pre-commit,24,BUGS,1817,112311
+None-Quantum,pre-commit,24,SMELLS,534,112311
+None-Quantum,falcon,0,BUGS,0,1
+None-Quantum,falcon,0,SMELLS,0,1
+None-Quantum,falcon,1,BUGS,159,435777
+None-Quantum,falcon,1,SMELLS,16744,435777
+None-Quantum,falcon,2,BUGS,530,827941
+None-Quantum,falcon,2,SMELLS,22854,827941
+None-Quantum,falcon,3,BUGS,5,8893
+None-Quantum,falcon,3,SMELLS,592,8893
+None-Quantum,falcon,4,BUGS,5,8902
+None-Quantum,falcon,4,SMELLS,587,8902
+None-Quantum,falcon,5,BUGS,5,9090
+None-Quantum,falcon,5,SMELLS,619,9090
+None-Quantum,falcon,6,BUGS,16,9676
+None-Quantum,falcon,6,SMELLS,677,9676
+None-Quantum,falcon,7,BUGS,17,13407
+None-Quantum,falcon,7,SMELLS,778,13407
+None-Quantum,falcon,8,BUGS,17,22001
+None-Quantum,falcon,8,SMELLS,1106,22001
+None-Quantum,falcon,9,BUGS,17,24829
+None-Quantum,falcon,9,SMELLS,1187,24829
+None-Quantum,falcon,10,BUGS,17,28363
+None-Quantum,falcon,10,SMELLS,1319,28363
+None-Quantum,falcon,11,BUGS,17,28907
+None-Quantum,falcon,11,SMELLS,1327,28907
+None-Quantum,falcon,12,BUGS,17,34136
+None-Quantum,falcon,12,SMELLS,1461,34136
+None-Quantum,falcon,13,BUGS,27,33744
+None-Quantum,falcon,13,SMELLS,1441,33744
+None-Quantum,falcon,14,BUGS,27,35574
+None-Quantum,falcon,14,SMELLS,1486,35574
+None-Quantum,falcon,15,BUGS,5,44793
+None-Quantum,falcon,15,SMELLS,1711,44793
+None-Quantum,falcon,16,BUGS,5,54559
+None-Quantum,falcon,16,SMELLS,1973,54559
+None-Quantum,falcon,17,BUGS,5,54206
+None-Quantum,falcon,17,SMELLS,1938,54206
+None-Quantum,falcon,18,BUGS,7,57664
+None-Quantum,falcon,18,SMELLS,1871,57664
+None-Quantum,falcon,19,BUGS,7,58121
+None-Quantum,falcon,19,SMELLS,1891,58121
+None-Quantum,falcon,20,BUGS,17,60912
+None-Quantum,falcon,20,SMELLS,1996,60912
+None-Quantum,falcon,21,BUGS,17,65553
+None-Quantum,falcon,21,SMELLS,2083,65553
+None-Quantum,falcon,22,BUGS,7,66018
+None-Quantum,falcon,22,SMELLS,2101,66018
+None-Quantum,falcon,23,BUGS,47,71465
+None-Quantum,falcon,23,SMELLS,2136,71465
+None-Quantum,falcon,24,BUGS,51,88964
+None-Quantum,falcon,24,SMELLS,2244,88964
+None-Quantum,falcon,25,BUGS,51,89495
+None-Quantum,falcon,25,SMELLS,2267,89495
+None-Quantum,falcon,26,BUGS,71,93584
+None-Quantum,falcon,26,SMELLS,2338,93584
+None-Quantum,falcon,27,BUGS,132,140293
+None-Quantum,falcon,27,SMELLS,3580,140293
+None-Quantum,falcon,28,BUGS,132,145050
+None-Quantum,falcon,28,SMELLS,3656,145050
+None-Quantum,bench,0,BUGS,0,1
+None-Quantum,bench,0,SMELLS,0,1
+None-Quantum,bench,1,BUGS,3245,292120
+None-Quantum,bench,1,SMELLS,9294,292120
+None-Quantum,bench,2,BUGS,1715,166923
+None-Quantum,bench,2,SMELLS,5032,166923
+None-Quantum,bench,3,BUGS,95,28812
+None-Quantum,bench,3,SMELLS,602,28812
+None-Quantum,bench,4,BUGS,125,34657
+None-Quantum,bench,4,SMELLS,683,34657
+None-Quantum,bench,5,BUGS,135,43954
+None-Quantum,bench,5,SMELLS,772,43954
+None-Quantum,bench,6,BUGS,140,44313
+None-Quantum,bench,6,SMELLS,823,44313
+None-Quantum,bench,7,BUGS,240,27475
+None-Quantum,bench,7,SMELLS,788,27475
+None-Quantum,bench,8,BUGS,230,26412
+None-Quantum,bench,8,SMELLS,794,26412
+None-Quantum,bench,9,BUGS,300,40859
+None-Quantum,bench,9,SMELLS,1176,40859
+None-Quantum,bench,10,BUGS,300,41099
+None-Quantum,bench,10,SMELLS,1176,41099
+None-Quantum,bench,11,BUGS,310,43005
+None-Quantum,bench,11,SMELLS,1206,43005
+None-Quantum,bench,12,BUGS,320,21208
+None-Quantum,bench,12,SMELLS,702,21208
+None-Quantum,bench,13,BUGS,320,21366
+None-Quantum,bench,13,SMELLS,697,21366
+None-Quantum,bench,14,BUGS,340,20759
+None-Quantum,bench,14,SMELLS,698,20759
+None-Quantum,bench,15,BUGS,310,24911
+None-Quantum,bench,15,SMELLS,823,24911
+None-Quantum,bench,16,BUGS,320,26935
+None-Quantum,bench,16,SMELLS,875,26935
+None-Quantum,bench,17,BUGS,320,27703
+None-Quantum,bench,17,SMELLS,915,27703
+None-Quantum,bench,18,BUGS,320,28338
+None-Quantum,bench,18,SMELLS,918,28338
+None-Quantum,bench,19,BUGS,330,28618
+None-Quantum,bench,19,SMELLS,922,28618
+None-Quantum,bench,20,BUGS,340,29457
+None-Quantum,bench,20,SMELLS,928,29457
+None-Quantum,bench,21,BUGS,350,28918
+None-Quantum,bench,21,SMELLS,918,28918
+None-Quantum,bench,22,BUGS,310,32133
+None-Quantum,bench,22,SMELLS,928,32133
+None-Quantum,bench,23,BUGS,310,31781
+None-Quantum,bench,23,SMELLS,926,31781
+None-Quantum,bench,24,BUGS,320,32185
+None-Quantum,bench,24,SMELLS,908,32185
+None-Quantum,thefuck,0,BUGS,0,135
+None-Quantum,thefuck,0,SMELLS,14,135
+None-Quantum,thefuck,1,BUGS,1432,48866
+None-Quantum,thefuck,1,SMELLS,3648,48866
+None-Quantum,thefuck,2,BUGS,160,10444
+None-Quantum,thefuck,2,SMELLS,720,10444
+None-Quantum,thefuck,3,BUGS,70,5559
+None-Quantum,thefuck,3,SMELLS,325,5559
+None-Quantum,thefuck,4,BUGS,70,4048
+None-Quantum,thefuck,4,SMELLS,282,4048
+None-Quantum,thefuck,5,BUGS,70,4134
+None-Quantum,thefuck,5,SMELLS,286,4134
+None-Quantum,thefuck,6,BUGS,70,4212
+None-Quantum,thefuck,6,SMELLS,318,4212
+None-Quantum,thefuck,7,BUGS,70,4167
+None-Quantum,thefuck,7,SMELLS,325,4167
+None-Quantum,thefuck,8,BUGS,80,3979
+None-Quantum,thefuck,8,SMELLS,333,3979
+None-Quantum,thefuck,9,BUGS,80,3978
+None-Quantum,thefuck,9,SMELLS,333,3978
+None-Quantum,thefuck,10,BUGS,80,4162
+None-Quantum,thefuck,10,SMELLS,354,4162
+None-Quantum,thefuck,11,BUGS,80,4065
+None-Quantum,thefuck,11,SMELLS,331,4065
+None-Quantum,thefuck,12,BUGS,80,4063
+None-Quantum,thefuck,12,SMELLS,329,4063
+None-Quantum,thefuck,13,BUGS,80,4066
+None-Quantum,thefuck,13,SMELLS,329,4066
+None-Quantum,thefuck,14,BUGS,70,4170
+None-Quantum,thefuck,14,SMELLS,331,4170
+None-Quantum,thefuck,15,BUGS,70,4094
+None-Quantum,thefuck,15,SMELLS,327,4094
+None-Quantum,thefuck,16,BUGS,70,4171
+None-Quantum,thefuck,16,SMELLS,333,4171
+None-Quantum,thefuck,17,BUGS,70,5281
+None-Quantum,thefuck,17,SMELLS,394,5281
+None-Quantum,thefuck,18,BUGS,70,5284
+None-Quantum,thefuck,18,SMELLS,394,5284
+None-Quantum,thefuck,19,BUGS,70,5284
+None-Quantum,thefuck,19,SMELLS,394,5284
+None-Quantum,thefuck,20,BUGS,70,5283
+None-Quantum,thefuck,20,SMELLS,402,5283
+None-Quantum,pinax-stripe,0,BUGS,181,6596
+None-Quantum,pinax-stripe,0,SMELLS,96,6596
+None-Quantum,pinax-stripe,1,BUGS,211,3069062
+None-Quantum,pinax-stripe,1,SMELLS,6439,3069062
+None-Quantum,pinax-stripe,2,BUGS,5,1356340
+None-Quantum,pinax-stripe,2,SMELLS,2167,1356340
+None-Quantum,pinax-stripe,3,BUGS,5,3268
+None-Quantum,pinax-stripe,3,SMELLS,150,3268
+None-Quantum,pinax-stripe,4,BUGS,5,7617
+None-Quantum,pinax-stripe,4,SMELLS,240,7617
+None-Quantum,pinax-stripe,5,BUGS,5,9922
+None-Quantum,pinax-stripe,5,SMELLS,248,9922
+None-Quantum,pinax-stripe,6,BUGS,5,9933
+None-Quantum,pinax-stripe,6,SMELLS,248,9933
+None-Quantum,pinax-stripe,7,BUGS,5,9927
+None-Quantum,pinax-stripe,7,SMELLS,248,9927
+None-Quantum,pinax-stripe,8,BUGS,10,13045
+None-Quantum,pinax-stripe,8,SMELLS,144,13045
+None-Quantum,pinax-stripe,9,BUGS,10,13045
+None-Quantum,pinax-stripe,9,SMELLS,144,13045
+None-Quantum,pinax-stripe,10,BUGS,10,13045
+None-Quantum,pinax-stripe,10,SMELLS,144,13045
+None-Quantum,pinax-stripe,11,BUGS,10,13049
+None-Quantum,pinax-stripe,11,SMELLS,144,13049
+None-Quantum,pinax-stripe,12,BUGS,0,255407
+None-Quantum,pinax-stripe,12,SMELLS,607,255407
+None-Quantum,pinax-stripe,13,BUGS,0,267544
+None-Quantum,pinax-stripe,13,SMELLS,623,267544
+None-Quantum,pinax-stripe,14,BUGS,0,267548
+None-Quantum,pinax-stripe,14,SMELLS,623,267548
+None-Quantum,pinax-stripe,15,BUGS,10,279186
+None-Quantum,pinax-stripe,15,SMELLS,655,279186
+None-Quantum,pinax-stripe,16,BUGS,0,308997
+None-Quantum,pinax-stripe,16,SMELLS,721,308997
+None-Quantum,pinax-stripe,17,BUGS,0,321658
+None-Quantum,pinax-stripe,17,SMELLS,729,321658
+None-Quantum,pinax-stripe,18,BUGS,0,656548
+None-Quantum,pinax-stripe,18,SMELLS,1040,656548
+None-Quantum,pinax-stripe,19,BUGS,0,678993
+None-Quantum,pinax-stripe,19,SMELLS,1052,678993
+None-Quantum,pinax-stripe,20,BUGS,0,677923
+None-Quantum,pinax-stripe,20,SMELLS,1046,677923
+None-Quantum,pinax-stripe,21,BUGS,0,677923
+None-Quantum,pinax-stripe,21,SMELLS,1046,677923
+None-Quantum,django-tastypie,0,BUGS,60,952
+None-Quantum,django-tastypie,0,SMELLS,61,952
+None-Quantum,django-tastypie,1,BUGS,1935,3189215
+None-Quantum,django-tastypie,1,SMELLS,25774,3189215
+None-Quantum,django-tastypie,2,BUGS,2075,4389239
+None-Quantum,django-tastypie,2,SMELLS,28257,4389239
+None-Quantum,django-tastypie,3,BUGS,435,1014869
+None-Quantum,django-tastypie,3,SMELLS,6662,1014869
+None-Quantum,django-tastypie,4,BUGS,15,80758
+None-Quantum,django-tastypie,4,SMELLS,974,80758
+None-Quantum,django-tastypie,5,BUGS,55,115394
+None-Quantum,django-tastypie,5,SMELLS,1305,115394
+None-Quantum,django-tastypie,6,BUGS,35,128955
+None-Quantum,django-tastypie,6,SMELLS,1378,128955
+None-Quantum,django-tastypie,7,BUGS,35,149654
+None-Quantum,django-tastypie,7,SMELLS,1449,149654
+None-Quantum,django-tastypie,8,BUGS,35,164308
+None-Quantum,django-tastypie,8,SMELLS,1733,164308
+None-Quantum,django-tastypie,9,BUGS,25,171846
+None-Quantum,django-tastypie,9,SMELLS,1788,171846
+None-Quantum,django-tastypie,10,BUGS,30,185139
+None-Quantum,django-tastypie,10,SMELLS,1904,185139
+None-Quantum,django-tastypie,11,BUGS,180,231151
+None-Quantum,django-tastypie,11,SMELLS,2179,231151
+None-Quantum,django-tastypie,12,BUGS,220,264489
+None-Quantum,django-tastypie,12,SMELLS,2296,264489
+None-Quantum,django-tastypie,13,BUGS,220,354235
+None-Quantum,django-tastypie,13,SMELLS,2679,354235
+None-Quantum,django-tastypie,14,BUGS,210,353679
+None-Quantum,django-tastypie,14,SMELLS,2679,353679
+None-Quantum,django-tastypie,15,BUGS,210,354032
+None-Quantum,django-tastypie,15,SMELLS,2684,354032
+None-Quantum,django-tastypie,16,BUGS,210,349956
+None-Quantum,django-tastypie,16,SMELLS,2674,349956
+None-Quantum,django-tastypie,17,BUGS,210,351664
+None-Quantum,django-tastypie,17,SMELLS,2690,351664
+None-Quantum,django-tastypie,18,BUGS,210,351657
+None-Quantum,django-tastypie,18,SMELLS,2690,351657
+None-Quantum,django-tastypie,19,BUGS,210,351475
+None-Quantum,django-tastypie,19,SMELLS,2681,351475
+None-Quantum,django-tastypie,20,BUGS,205,298605
+None-Quantum,django-tastypie,20,SMELLS,2436,298605
+None-Quantum,django-tastypie,21,BUGS,205,383603
+None-Quantum,django-tastypie,21,SMELLS,2584,383603
+None-Quantum,django-tastypie,22,BUGS,205,452262
+None-Quantum,django-tastypie,22,SMELLS,2818,452262
+None-Quantum,django-tastypie,23,BUGS,205,452479
+None-Quantum,django-tastypie,23,SMELLS,2826,452479
+None-Quantum,django-tastypie,24,BUGS,205,454239
+None-Quantum,django-tastypie,24,SMELLS,2818,454239
+None-Quantum,django-tastypie,25,BUGS,205,454251
+None-Quantum,django-tastypie,25,SMELLS,2818,454251
+None-Quantum,django-tastypie,26,BUGS,205,454251
+None-Quantum,django-tastypie,26,SMELLS,2818,454251
+None-Quantum,django-tastypie,27,BUGS,205,460458
+None-Quantum,django-tastypie,27,SMELLS,2813,460458
+None-Quantum,django-tastypie,28,BUGS,205,466819
+None-Quantum,django-tastypie,28,SMELLS,2816,466819
+None-Quantum,django-tastypie,29,BUGS,205,468379
+None-Quantum,django-tastypie,29,SMELLS,2823,468379
+None-Quantum,django-tastypie,30,BUGS,205,471501
+None-Quantum,django-tastypie,30,SMELLS,2852,471501
+None-Quantum,django-tastypie,31,BUGS,205,471501
+None-Quantum,django-tastypie,31,SMELLS,2852,471501
+None-Quantum,django-tables2,0,BUGS,40,477
+None-Quantum,django-tables2,0,SMELLS,15,477
+None-Quantum,django-tables2,1,BUGS,1476,127410
+None-Quantum,django-tables2,1,SMELLS,3635,127410
+None-Quantum,django-tables2,2,BUGS,1591,180265
+None-Quantum,django-tables2,2,SMELLS,6051,180265
+None-Quantum,django-tables2,3,BUGS,1588,260933
+None-Quantum,django-tables2,3,SMELLS,6249,260933
+None-Quantum,django-tables2,4,BUGS,6,3116
+None-Quantum,django-tables2,4,SMELLS,103,3116
+None-Quantum,django-tables2,5,BUGS,14,2870
+None-Quantum,django-tables2,5,SMELLS,108,2870
+None-Quantum,django-tables2,6,BUGS,4,2798
+None-Quantum,django-tables2,6,SMELLS,108,2798
+None-Quantum,django-tables2,7,BUGS,22,2202
+None-Quantum,django-tables2,7,SMELLS,78,2202
+None-Quantum,django-tables2,8,BUGS,120,2515
+None-Quantum,django-tables2,8,SMELLS,167,2515
+None-Quantum,django-tables2,9,BUGS,120,4123
+None-Quantum,django-tables2,9,SMELLS,232,4123
+None-Quantum,django-tables2,10,BUGS,156,6472
+None-Quantum,django-tables2,10,SMELLS,267,6472
+None-Quantum,django-tables2,11,BUGS,146,9970
+None-Quantum,django-tables2,11,SMELLS,331,9970
+None-Quantum,django-tables2,12,BUGS,146,9952
+None-Quantum,django-tables2,12,SMELLS,322,9952
+None-Quantum,django-tables2,13,BUGS,146,11349
+None-Quantum,django-tables2,13,SMELLS,322,11349
+None-Quantum,django-tables2,14,BUGS,146,12892
+None-Quantum,django-tables2,14,SMELLS,361,12892
+None-Quantum,django-tables2,15,BUGS,146,13999
+None-Quantum,django-tables2,15,SMELLS,369,13999
+None-Quantum,django-tables2,16,BUGS,146,14418
+None-Quantum,django-tables2,16,SMELLS,378,14418
+None-Quantum,django-tables2,17,BUGS,146,14399
+None-Quantum,django-tables2,17,SMELLS,376,14399
+None-Quantum,django-tables2,18,BUGS,146,15516
+None-Quantum,django-tables2,18,SMELLS,406,15516
+None-Quantum,django-tables2,19,BUGS,146,15516
+None-Quantum,django-tables2,19,SMELLS,406,15516
+None-Quantum,django-tables2,20,BUGS,146,15518
+None-Quantum,django-tables2,20,SMELLS,406,15518
+None-Quantum,django-tables2,21,BUGS,146,12882
+None-Quantum,django-tables2,21,SMELLS,428,12882
+None-Quantum,django-tables2,22,BUGS,151,11453
+None-Quantum,django-tables2,22,SMELLS,428,11453
+None-Quantum,django-tables2,23,BUGS,161,16767
+None-Quantum,django-tables2,23,SMELLS,547,16767
+None-Quantum,django-tables2,24,BUGS,161,17295
+None-Quantum,django-tables2,24,SMELLS,549,17295
+None-Quantum,django-tables2,25,BUGS,170,19521
+None-Quantum,django-tables2,25,SMELLS,590,19521
+None-Quantum,django-tables2,26,BUGS,170,18166
+None-Quantum,django-tables2,26,SMELLS,686,18166
+None-Quantum,django-tables2,27,BUGS,160,21544
+None-Quantum,django-tables2,27,SMELLS,842,21544
+None-Quantum,django-tables2,28,BUGS,160,21899
+None-Quantum,django-tables2,28,SMELLS,854,21899
+None-Quantum,django-tables2,29,BUGS,160,22261
+None-Quantum,django-tables2,29,SMELLS,624,22261
+None-Quantum,django-tables2,30,BUGS,174,24818
+None-Quantum,django-tables2,30,SMELLS,629,24818
+None-Quantum,django-tables2,31,BUGS,174,25905
+None-Quantum,django-tables2,31,SMELLS,648,25905
+None-Quantum,django-tables2,32,BUGS,172,27946
+None-Quantum,django-tables2,32,SMELLS,669,27946
+None-Quantum,django-tables2,33,BUGS,177,29470
+None-Quantum,django-tables2,33,SMELLS,689,29470
+None-Quantum,django-tables2,34,BUGS,177,29544
+None-Quantum,django-tables2,34,SMELLS,689,29544
+None-Quantum,django-tables2,35,BUGS,177,29486
+None-Quantum,django-tables2,35,SMELLS,706,29486
+None-Quantum,django-tables2,36,BUGS,177,30238
+None-Quantum,django-tables2,36,SMELLS,706,30238
+None-Quantum,django-tables2,37,BUGS,177,30275
+None-Quantum,django-tables2,37,SMELLS,708,30275
+None-Quantum,django-tables2,38,BUGS,177,30276
+None-Quantum,django-tables2,38,SMELLS,708,30276
+None-Quantum,personfinder,0,BUGS,0,1
+None-Quantum,personfinder,0,SMELLS,0,1
+None-Quantum,personfinder,1,BUGS,40813,12183489
+None-Quantum,personfinder,1,SMELLS,57330,12183489
+None-Quantum,personfinder,2,BUGS,0,1
+None-Quantum,personfinder,2,SMELLS,0,1
+None-Quantum,personfinder,3,BUGS,0,1
+None-Quantum,personfinder,3,SMELLS,0,1
+None-Quantum,personfinder,4,BUGS,0,1
+None-Quantum,personfinder,4,SMELLS,0,1
+None-Quantum,personfinder,5,BUGS,0,1
+None-Quantum,personfinder,5,SMELLS,0,1
+None-Quantum,personfinder,6,BUGS,0,1
+None-Quantum,personfinder,6,SMELLS,0,1
+None-Quantum,personfinder,7,BUGS,0,1
+None-Quantum,personfinder,7,SMELLS,0,1
+None-Quantum,personfinder,8,BUGS,0,1
+None-Quantum,personfinder,8,SMELLS,0,1
+None-Quantum,personfinder,9,BUGS,0,1
+None-Quantum,personfinder,9,SMELLS,0,1
+None-Quantum,personfinder,10,BUGS,172,1269566
+None-Quantum,personfinder,10,SMELLS,6263,1269566
+None-Quantum,personfinder,11,BUGS,172,1340675
+None-Quantum,personfinder,11,SMELLS,6355,1340675
+None-Quantum,personfinder,12,BUGS,177,1349660
+None-Quantum,personfinder,12,SMELLS,6380,1349660
+None-Quantum,personfinder,13,BUGS,202,1352511
+None-Quantum,personfinder,13,SMELLS,6375,1352511
+None-Quantum,personfinder,14,BUGS,222,1413244
+None-Quantum,personfinder,14,SMELLS,6546,1413244
+None-Quantum,personfinder,15,BUGS,232,1418519
+None-Quantum,personfinder,15,SMELLS,6544,1418519
+None-Quantum,personfinder,16,BUGS,232,1278042
+None-Quantum,personfinder,16,SMELLS,5833,1278042
+None-Quantum,personfinder,17,BUGS,227,1562635
+None-Quantum,personfinder,17,SMELLS,9052,1562635
+None-Quantum,personfinder,18,BUGS,38570,932216
+None-Quantum,personfinder,18,SMELLS,1927,932216
+None-Quantum,personfinder,19,BUGS,0,1
+None-Quantum,personfinder,19,SMELLS,0,1
+None-Quantum,personfinder,20,BUGS,0,1
+None-Quantum,personfinder,20,SMELLS,0,1
+None-Quantum,personfinder,21,BUGS,0,1
+None-Quantum,personfinder,21,SMELLS,0,1
+None-Quantum,personfinder,22,BUGS,0,1
+None-Quantum,personfinder,22,SMELLS,0,1
+None-Quantum,personfinder,23,BUGS,0,1
+None-Quantum,personfinder,23,SMELLS,0,1
+None-Quantum,personfinder,24,BUGS,0,1
+None-Quantum,personfinder,24,SMELLS,0,1
+None-Quantum,personfinder,25,BUGS,0,1
+None-Quantum,personfinder,25,SMELLS,0,1
+None-Quantum,personfinder,26,BUGS,0,1
+None-Quantum,personfinder,26,SMELLS,0,1
+None-Quantum,personfinder,27,BUGS,0,1
+None-Quantum,personfinder,27,SMELLS,0,1
+None-Quantum,personfinder,28,BUGS,0,1
+None-Quantum,personfinder,28,SMELLS,0,1
+None-Quantum,personfinder,29,BUGS,0,1
+None-Quantum,personfinder,29,SMELLS,0,1
+None-Quantum,personfinder,30,BUGS,0,1
+None-Quantum,personfinder,30,SMELLS,0,1
+None-Quantum,personfinder,31,BUGS,0,1
+None-Quantum,personfinder,31,SMELLS,0,1
+None-Quantum,django-crispy-forms,0,BUGS,0,1
+None-Quantum,django-crispy-forms,0,SMELLS,0,1
+None-Quantum,django-crispy-forms,1,BUGS,209,191660
+None-Quantum,django-crispy-forms,1,SMELLS,3946,191660
+None-Quantum,django-crispy-forms,2,BUGS,435,146583
+None-Quantum,django-crispy-forms,2,SMELLS,4665,146583
+None-Quantum,django-crispy-forms,3,BUGS,285,122564
+None-Quantum,django-crispy-forms,3,SMELLS,3384,122564
+None-Quantum,django-crispy-forms,4,BUGS,5,2138
+None-Quantum,django-crispy-forms,4,SMELLS,96,2138
+None-Quantum,django-crispy-forms,5,BUGS,1512,339689
+None-Quantum,django-crispy-forms,5,SMELLS,1429,339689
+None-Quantum,django-crispy-forms,6,BUGS,1495,338384
+None-Quantum,django-crispy-forms,6,SMELLS,1384,338384
+None-Quantum,django-crispy-forms,7,BUGS,1517,42828
+None-Quantum,django-crispy-forms,7,SMELLS,731,42828
+None-Quantum,django-crispy-forms,8,BUGS,12,7463
+None-Quantum,django-crispy-forms,8,SMELLS,240,7463
+None-Quantum,django-crispy-forms,9,BUGS,1502,339906
+None-Quantum,django-crispy-forms,9,SMELLS,1449,339906
+None-Quantum,django-crispy-forms,10,BUGS,2,11718
+None-Quantum,django-crispy-forms,10,SMELLS,270,11718
+None-Quantum,django-crispy-forms,11,BUGS,7,12740
+None-Quantum,django-crispy-forms,11,SMELLS,297,12740
+None-Quantum,django-crispy-forms,12,BUGS,7,18475
+None-Quantum,django-crispy-forms,12,SMELLS,322,18475
+None-Quantum,django-crispy-forms,13,BUGS,17,24719
+None-Quantum,django-crispy-forms,13,SMELLS,369,24719
+None-Quantum,django-crispy-forms,14,BUGS,17,29684
+None-Quantum,django-crispy-forms,14,SMELLS,403,29684
+None-Quantum,django-crispy-forms,15,BUGS,17,29943
+None-Quantum,django-crispy-forms,15,SMELLS,407,29943
+None-Quantum,django-crispy-forms,16,BUGS,17,31813
+None-Quantum,django-crispy-forms,16,SMELLS,468,31813
+None-Quantum,django-crispy-forms,17,BUGS,30,10217
+None-Quantum,django-crispy-forms,17,SMELLS,462,10217
+None-Quantum,django-crispy-forms,18,BUGS,30,10217
+None-Quantum,django-crispy-forms,18,SMELLS,462,10217
+None-Quantum,django-crispy-forms,19,BUGS,55,10958
+None-Quantum,django-crispy-forms,19,SMELLS,467,10958
+None-Quantum,django-crispy-forms,20,BUGS,55,11139
+None-Quantum,django-crispy-forms,20,SMELLS,470,11139
+None-Quantum,django-crispy-forms,21,BUGS,35,11511
+None-Quantum,django-crispy-forms,21,SMELLS,410,11511
+None-Quantum,django-crispy-forms,22,BUGS,45,14370
+None-Quantum,django-crispy-forms,22,SMELLS,454,14370
+None-Quantum,django-crispy-forms,23,BUGS,45,14785
+None-Quantum,django-crispy-forms,23,SMELLS,468,14785
+None-Quantum,django-crispy-forms,24,BUGS,45,15474
+None-Quantum,django-crispy-forms,24,SMELLS,471,15474
+None-Quantum,django-crispy-forms,25,BUGS,45,15496
+None-Quantum,django-crispy-forms,25,SMELLS,467,15496
+None-Quantum,django-crispy-forms,26,BUGS,40,15408
+None-Quantum,django-crispy-forms,26,SMELLS,467,15408
+None-Quantum,django-crispy-forms,27,BUGS,45,15496
+None-Quantum,django-crispy-forms,27,SMELLS,467,15496
+None-Quantum,django-crispy-forms,28,BUGS,40,15489
+None-Quantum,django-crispy-forms,28,SMELLS,473,15489
+None-Quantum,django-crispy-forms,29,BUGS,40,16057
+None-Quantum,django-crispy-forms,29,SMELLS,472,16057
+None-Quantum,django-crispy-forms,30,BUGS,40,16328
+None-Quantum,django-crispy-forms,30,SMELLS,482,16328
+None-Quantum,django-crispy-forms,31,BUGS,40,15838
+None-Quantum,django-crispy-forms,31,SMELLS,476,15838
+None-Quantum,django-crispy-forms,32,BUGS,40,15888
+None-Quantum,django-crispy-forms,32,SMELLS,481,15888
+None-Quantum,django-crispy-forms,33,BUGS,40,15835
+None-Quantum,django-crispy-forms,33,SMELLS,481,15835
+None-Quantum,django-crispy-forms,34,BUGS,40,19583
+None-Quantum,django-crispy-forms,34,SMELLS,490,19583
+None-Quantum,django-crispy-forms,35,BUGS,40,19545
+None-Quantum,django-crispy-forms,35,SMELLS,455,19545
+None-Quantum,django-crispy-forms,36,BUGS,40,17952
+None-Quantum,django-crispy-forms,36,SMELLS,453,17952
+None-Quantum,Wooey,0,BUGS,0,1
+None-Quantum,Wooey,0,SMELLS,0,1
+None-Quantum,Wooey,1,BUGS,531,245152
+None-Quantum,Wooey,1,SMELLS,7168,245152
+None-Quantum,Wooey,2,BUGS,80,19941
+None-Quantum,Wooey,2,SMELLS,651,19941
+None-Quantum,Wooey,3,BUGS,60,18976
+None-Quantum,Wooey,3,SMELLS,684,18976
+None-Quantum,Wooey,4,BUGS,60,21315
+None-Quantum,Wooey,4,SMELLS,728,21315
+None-Quantum,Wooey,5,BUGS,60,26239
+None-Quantum,Wooey,5,SMELLS,811,26239
+None-Quantum,Wooey,6,BUGS,66,27016
+None-Quantum,Wooey,6,SMELLS,812,27016
+None-Quantum,Wooey,7,BUGS,66,27160
+None-Quantum,Wooey,7,SMELLS,812,27160
+None-Quantum,Wooey,8,BUGS,66,27160
+None-Quantum,Wooey,8,SMELLS,812,27160
+None-Quantum,Wooey,9,BUGS,66,26838
+None-Quantum,Wooey,9,SMELLS,811,26838
+None-Quantum,Wooey,10,BUGS,69,30275
+None-Quantum,Wooey,10,SMELLS,942,30275
+None-Quantum,Wooey,11,BUGS,72,32993
+None-Quantum,Wooey,11,SMELLS,949,32993
+None-Quantum,Wooey,12,BUGS,72,33296
+None-Quantum,Wooey,12,SMELLS,956,33296
+None-Quantum,Wooey,13,BUGS,72,33311
+None-Quantum,Wooey,13,SMELLS,956,33311
+None-Quantum,Wooey,14,BUGS,72,33543
+None-Quantum,Wooey,14,SMELLS,965,33543
+None-Quantum,Wooey,15,BUGS,72,33582
+None-Quantum,Wooey,15,SMELLS,956,33582
+None-Quantum,Wooey,16,BUGS,72,32056
+None-Quantum,Wooey,16,SMELLS,917,32056
+None-Quantum,Tool-X,0,BUGS,0,1
+None-Quantum,Tool-X,0,SMELLS,0,1
+None-Quantum,Tool-X,1,BUGS,0,1
+None-Quantum,Tool-X,1,SMELLS,0,1
+None-Quantum,Tool-X,2,BUGS,0,1
+None-Quantum,Tool-X,2,SMELLS,0,1
+None-Quantum,Tool-X,3,BUGS,0,1
+None-Quantum,Tool-X,3,SMELLS,0,1
+None-Quantum,Tool-X,4,BUGS,360,16169
+None-Quantum,Tool-X,4,SMELLS,797,16169
+None-Quantum,Tool-X,5,BUGS,360,16583
+None-Quantum,Tool-X,5,SMELLS,822,16583
+None-Quantum,Tool-X,6,BUGS,360,16941
+None-Quantum,Tool-X,6,SMELLS,831,16941
+None-Quantum,Tool-X,7,BUGS,360,16941
+None-Quantum,Tool-X,7,SMELLS,831,16941
+None-Quantum,Tool-X,8,BUGS,70,17589
+None-Quantum,Tool-X,8,SMELLS,765,17589
+None-Quantum,Tool-X,9,BUGS,70,17589
+None-Quantum,Tool-X,9,SMELLS,763,17589
+None-Quantum,vdebug,0,BUGS,5,38400
+None-Quantum,vdebug,0,SMELLS,235,38400
+None-Quantum,vdebug,1,BUGS,50,188350
+None-Quantum,vdebug,1,SMELLS,4345,188350
+None-Quantum,vdebug,2,BUGS,15,239135
+None-Quantum,vdebug,2,SMELLS,4372,239135
+None-Quantum,vdebug,3,BUGS,5,11161
+None-Quantum,vdebug,3,SMELLS,348,11161
+None-Quantum,vdebug,4,BUGS,5,12224
+None-Quantum,vdebug,4,SMELLS,342,12224
+None-Quantum,vdebug,5,BUGS,5,12961
+None-Quantum,vdebug,5,SMELLS,355,12961
+None-Quantum,vdebug,6,BUGS,5,13370
+None-Quantum,vdebug,6,SMELLS,380,13370
+None-Quantum,vdebug,7,BUGS,5,13381
+None-Quantum,vdebug,7,SMELLS,380,13381
+None-Quantum,vdebug,8,BUGS,5,13420
+None-Quantum,vdebug,8,SMELLS,380,13420
+None-Quantum,vdebug,9,BUGS,5,13432
+None-Quantum,vdebug,9,SMELLS,380,13432
+None-Quantum,vdebug,10,BUGS,5,18645
+None-Quantum,vdebug,10,SMELLS,458,18645
+None-Quantum,vdebug,11,BUGS,5,13468
+None-Quantum,vdebug,11,SMELLS,380,13468
+None-Quantum,vdebug,12,BUGS,5,13967
+None-Quantum,vdebug,12,SMELLS,387,13967
+None-Quantum,vdebug,13,BUGS,5,13967
+None-Quantum,vdebug,13,SMELLS,387,13967
+None-Quantum,vdebug,14,BUGS,5,15330
+None-Quantum,vdebug,14,SMELLS,413,15330
+None-Quantum,vdebug,15,BUGS,5,15330
+None-Quantum,vdebug,15,SMELLS,413,15330
+None-Quantum,vdebug,16,BUGS,5,15365
+None-Quantum,vdebug,16,SMELLS,418,15365
+None-Quantum,vdebug,17,BUGS,5,15358
+None-Quantum,vdebug,17,SMELLS,418,15358
+None-Quantum,vdebug,18,BUGS,5,20662
+None-Quantum,vdebug,18,SMELLS,465,20662
+None-Quantum,vdebug,19,BUGS,0,14137
+None-Quantum,vdebug,19,SMELLS,381,14137
+None-Quantum,vdebug,20,BUGS,5,15358
+None-Quantum,vdebug,20,SMELLS,418,15358
+None-Quantum,vdebug,21,BUGS,0,14038
+None-Quantum,vdebug,21,SMELLS,424,14038
+None-Quantum,vdebug,22,BUGS,0,13643
+None-Quantum,vdebug,22,SMELLS,414,13643
+None-Quantum,vdebug,23,BUGS,0,13523
+None-Quantum,vdebug,23,SMELLS,406,13523
+None-Quantum,vdebug,24,BUGS,0,13892
+None-Quantum,vdebug,24,SMELLS,412,13892
+None-Quantum,vdebug,25,BUGS,0,15583
+None-Quantum,vdebug,25,SMELLS,420,15583
+None-Quantum,vdebug,26,BUGS,0,15583
+None-Quantum,vdebug,26,SMELLS,420,15583
+None-Quantum,vdebug,27,BUGS,0,18743
+None-Quantum,vdebug,27,SMELLS,455,18743
+None-Quantum,vdebug,28,BUGS,0,19641
+None-Quantum,vdebug,28,SMELLS,460,19641

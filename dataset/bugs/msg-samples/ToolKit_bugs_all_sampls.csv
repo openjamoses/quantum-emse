@@ -1,0 +1,1239 @@
+project,BugInducing,InducingDate,BugFixing,FixingDates,InducingMessage
+QuTech-Delft/qtt,b214e17bb47a41ee28377aa7aef097ed583fe39d,2016-11-18T10:24:40Z,febc20562ca555f15a6093fd97bf6092cb6d8c17/2f19337ee2b33498f4d1170cf763a9d3f86fe76b/,2016-11-18 21:34:51+01:00/2016-11-11 16:55:44+01:00/,Fix style of slopeClick in tools
+lmacken/quantumrandom,d56d8618c911692ac42e8f39cd031c093ecd26ef,2012-04-15T18:35:53Z,c1f2fa109bcdde146c0d41e96f2062563fc7c3f6/4fd64b7d1500aa837ebff83c9be24b3f4008d890/,2012-04-15 15:19:35-04:00/2012-04-15 14:55:22-04:00/,Minor refactoring.
+deepchem/deepchem,345c903b22f0f2320d933daea6db525ab0334fcd,2017-08-07T20:10:42Z,11a539c2f45bdc68bb3c854f58bea254267b3a6b/2c23fc6d9ccbfe543d85664163e96f195e1da114/56d66761e90c215eb053aeb3c4445ae44beeff35/20b0a55b5e53fb7cfba057f98d540e84c5a6382e/5314446e36eb7bc87b875f7c05c3a29d7a8f5a09/,2017-10-13 12:49:10-07:00/2020-06-01 18:19:59-07:00/2017-08-13 20:17:30-07:00/2020-06-17 19:00:42-07:00/2020-06-18 18:07:39-07:00/,GPGO hyperparamopt
+deepchem/deepchem,e72121c64d0039693642ae1edf04b2a6126fa339,2017-12-05T05:47:01Z,c98b0f28a7b7b8cf433a31745cc0a2e5048b1602/,2018-03-03 10:57:39-08:00/,changed version string to 1.3.1
+redhat-cip/openstack-quantum-puppet,991b37735013ec4d126c010158d6c1f96d5085d2,2013-05-06T18:14:22Z,8efeb8253a1977c174c341690178fd3021d2908b/,2013-05-21 08:17:53-05:00/,"Adds support for managing the metadata agent service and config file.
+
+Fixes bug: #1175720
+
+Change-Id: I90e3246b2684fb73e59dab0042b1de97774baa96"
+qojulia/QuantumOptics.jl,1fb52009e7ca2cb258f69480bd47aae09e896237,2019-09-10T10:45:16Z,2736cc817ff73ccd130eb790d394210c2b825818/,2019-10-03 12:43:07+02:00/,Update Project.toml
+qucat/qucat,5928e1ac993c7abdb552fbbdcba28ad37788d50a,2019-04-15T14:42:40Z,e9f2f7e9f58c1537d62b039e4b49806b1ca02d99/40da18dacebbd5c55a3ef886128632a58a5110be/1e6cc084c63ab953267d467449bf98e7334af0ff/b272ea131dd5c8c056a01b96bdf80934d475cb88/67c1377d733f65944d0ecd2ca15974eaf729fee3/c7336a2aacb27fbb658bb011fcd0ba03870351f9/4a06ef3e2418217a3011c6897285aa6d2fb796ec/,2020-03-30 12:47:30+02:00/2019-11-05 13:59:36+01:00/2019-04-15 17:01:02+02:00/2019-04-16 10:21:34+02:00/2020-01-29 19:40:23+01:00/2019-04-15 19:52:21+02:00/2019-04-17 17:54:09+02:00/,option to track events
+XanaduAI/pennylane,7e14291d718909e203f8d27155cda8c58be3cb3f,2019-07-18T16:02:51Z,231b9d94c3053ae0a13d6550e5fdd93a00ca9d1f/96b1513e149a12eac506b910136ef5d105050d0e/123ba7ee6c0a9ef3350b6f49852b58e80365b84d/9a2c76430a6cb020d9321fdc7517b21d1f0c512b/e80dcf3fd39a0ba8618a41cb9cea5780bc75c73b/,2020-05-05 02:00:05-04:00/2019-09-19 01:21:07+02:00/2020-05-16 18:53:39+09:18/2019-08-02 00:56:31+08:00/2020-05-20 00:01:41+09:18/,"Refactor test_configuration.py (#263)
+
+* Refactor test of pennylane init
+
+Ported the test to pytest in renamed class TestPennyLaneInit. Also added
+a fixture for the default configuration.
+
+Issues: #99
+
+* Refactor tests of configuration loading [WIP]
+
+* Refactor test_configuration.py
+
+Tests were ported from unittest to pytest. New fixtures were introduced.
+The test now uses monkeypatch to manipulate environment variables.
+
+Issues: #99
+
+* Remove misplaced test fixture
+
+* Remove bug in tf_support fixture
+
+* Make default_config a global variable instead of fixture
+
+Also replace tmpdir fixture with tmp_path fixture in test_save.
+
+* Fix PosixPath issue when compiling on Python 3.5"
+XanaduAI/pennylane,b1f439dbf7705fcb8a9003d38c5f41b1dd50aa3c,2019-01-12T11:50:10Z,1ddf632238f4d9878dfc78f3ba0796d8d12dd997/,2019-05-29 18:38:03+02:00/,fixed doc string of test
+QInfer/python-qinfer,1b46426fa44138b24e7cea84770120b459a43ae2,2013-03-21T19:22:42Z,78db6694edbcf1bd7db802877dbc06a27dede8b4/fc528239a13a3b6f8e6ae6f696f80714b6b0ca08/33b83bfdfcb67694ba3ab69b77556a37d2ab8ac0/32c1b4bf86d93cdb65c764d9aa701f9753efc7e2/,2017-06-07 17:12:22-04:00/2013-10-24 14:12:24-06:00/2013-10-30 16:46:37-04:00/2016-04-11 12:56:53-04:00/,Fixed memory leak in bayes_risk.
+deepchem/deepchem,ada0d8072190d6fef5676c472752cdd3bd8f997a,2018-03-25T23:36:11Z,f20016c8ebf43e786e263986d296f90b4b8551de/a3ac57d50af9e08639f63f9100627d967f79cb29/0c241128fc008e89745690bd58e91e754aa40514/ccd2f0fc9d5ee264195bb754ebc1f9841548d873/b9f19b3d1add52a75010a91dbd7a56d567128bd4/,2018-03-25 16:47:28-07:00/2018-03-25 16:47:37-07:00/2019-05-10 17:50:13-07:00/2018-03-25 16:43:28-07:00/2020-07-13 20:35:54-07:00/,Rename MPNNTensorGraph to MPNNModel
+OriginQ/QPanda-2,8e822fd4e493f48d6123cc19cc2f603675927175,2018-06-06T09:04:26Z,fbb243fa3a3b1044ca0c2a51ee43c32d74946a8d/,2018-06-06 17:10:10+08:00/,Update README.md
+deepchem/deepchem,0483083ba83d3e7471eca391a0bfb6a61edffd69,2018-06-11T17:24:36Z,32d8eeb745db4fb72b9f1377bcb0af64bf8c51fc/c273b22c8d55ae213cdcb2cded45373aa553a556/b7eaee92e024a10f72dafe96e8d4a983d2b42861/98294a99c5532a015ad92d5e1972f42ee074171a/49a1024b907344c569c3abd56b7f25d0f139a503/,2018-10-01 09:39:51-04:00/2018-10-01 08:26:22-04:00/2019-04-29 17:23:18-07:00/2019-08-16 17:37:31-07:00/2019-04-30 10:55:28-07:00/,Single conda-forge install
+jcmgray/quimb,d5172b9862e9915e4ed1bc607bf7bc6ebc4989ff,2017-11-28T10:43:18Z,1d4c202c032d33e16b0ff9a674e1df37634601e9/6b59a383007ab117d03daba2289c424a151798d2/,2017-12-03 16:40:56+00:00/2018-09-20 15:49:51+01:00/,try fixing travis slepc svds no vecs
+Qiskit/qiskit-ignis,f17fd396546e72391c50da29f4dfc8b8468257ac,2019-03-06T11:48:42Z,50ebf9aa3d4d370492b582d7c7efb456f331d7ef/,2019-03-07 17:38:23+02:00/,Fixes in coherence-overview.ipynb
+QInfer/python-qinfer,cbfd7569a2894220bed28262f168487296f749bd,2016-06-07T08:22:31Z,113d24d1f4e88594c6c7bc8185a344b42114408d/7aa89de6f553914041b895bc8d4f97598f9a8715/,2016-06-15 14:20:13+10:00/2016-09-05 13:45:07+10:00/,Fixed build warning.
+deepchem/deepchem,bcf1908804224a44ab5e80e65a0096446f14495d,2016-07-12T00:52:36Z,b1739816123c958c6fa3d47312810633cc682deb/,2016-09-07 01:22:31-07:00/,Committing latest change
+qubekit/QUBEKit,074461ec1519ce6d7fe810438aa60277da0e594b,2019-04-10T13:25:37Z,cc372f641dc697464b030ab4d90059d00258142d/,2019-04-10 15:41:02+01:00/,conda environments and travis integration
+Qiskit/qiskit-ignis,be4fe0ed595b2ec7328cd289a798e863d9f95fc5,2019-06-10T05:48:01Z,14e29a4b5587810f18d67f68cb86c7fbd38937fa/,2019-09-06 23:36:05-04:00/,Update CHANGELOG.md
+XanaduAI/pennylane,c678dabdf82faba85a36182856aa5b1fa0551f61,2020-02-13T00:50:59Z,7e784b0ef0aa91446894192519fa03a03cc73a1d/c1acac050537d998485ad2af64aa17780c5791ba/b7cb1fa8f36d7c31b4009e0ee62e07120fa7e1ba/39cc06cf257ee5cb06cc67c9ce6a55877a39defb/f7ad64a39187a577ff33d1cf3abb57e345eb317a/c2d27ccc005e46bba584b3f6a18fb9eed4824f88/a776dbecfb0c1d32bb04012a69ee0e559d58c3b5/854192509c6ee558a2efe1df3404adf630f5931b/a17b0ed1824462a0e9e26901dd6789db3b60493a/beccbd73370a8be280407f3834ee0e9318a39f40/178b772435e1f22e19afc8aa828d9221d20ad719/a76f103695e15668c22005a86a6d8e31d9b3c236/d9afb759984f4580185e85c56c3fe7e4e4c312bd/,2020-03-13 07:23:50+01:00/2020-07-24 10:05:44-04:00/2020-03-16 06:20:20+02:00/2020-02-28 21:19:09+10:18/2020-03-10 18:20:55-04:00/2020-08-05 15:40:47+02:00/2020-02-18 14:26:51+08:00/2020-02-28 08:10:08+10:18/2020-02-18 02:14:23+02:00/2020-02-16 02:28:58+02:00/2020-05-12 22:14:36-04:00/2020-03-16 17:26:43+01:00/2020-06-16 16:45:47+02:00/,"Implement PassthruQNode (#488)
+
+* Cleanup.
+
+* PassthruQNode works.
+
+* Tests pass.
+
+* CHANGELOG entry, fixes.
+
+* TF fix.
+
+* Another TF fix.
+
+* Fixing copyright statements.
+
+* Apply suggestions from code review
+
+Co-Authored-By: Nathan Killoran <co9olguy@users.noreply.github.com>
+
+* Changes from code review.
+
+* More changes from review.
+
+* Add a TODO
+
+Co-Authored-By: Josh Izaac <josh146@gmail.com>
+
+* Analytic results for the PassthruQNode tests.
+
+* Move visibility check to CircuitGraph.
+
+* Oops, forgot the test.
+
+Co-authored-by: Josh Izaac <josh146@gmail.com>
+Co-authored-by: Nathan Killoran <co9olguy@users.noreply.github.com>
+Co-authored-by: antalszava <antalszava@gmail.com>"
+deepchem/deepchem,0fdabafbe06b52b00598a4ba2f6610bc3ffeb429,2015-12-15T04:08:19Z,c3d0520fe3413f55820b961b3f5df5238310694c/91e5385511a4c0c734e78e5d130d0c8bf0dba10e/47be8a552f1eeb6c4c2b8a55084c2a9cba537a67/a2e91325b9d51d4bcdb62de3c292f8db941f3111/d4519b349263b3c3fcbb781872c5ab14b0ae0d68/349253281df278367d1b9d24ed09d223416c7708/221be57b10fd3afd3aee34d724e0f6ec90682dc5/a4ab24f33a57d0ea9a807cf5b5d9248aae1c04fe/f7801c0046eaff75f272d757952a2de78f5b618e/d8c0d1942326aa95e30ff2b458076496ed847f2e/6963843d49417b5b55d92a1b2b439baa9acd812e/6b80747ec5328cc95f276a417355c069dca69d32/2f703bf4563ff4c6b10a2e6b982b043810241bec/fde59eb81629210df48350e516e033822af5fda4/65f7a6fb35f6710d602963b3f278707c1a72fcc2/b9d616c0caf654c849b6f21b059c6a05ffc290d3/2860de81474e10c9c0ec50f11ca3b804cb68f9f8/403bcfd1c12e996d93e95502842e73570a60d8b8/f21ff3a4283f066d164fe62b90d29e7b373c7875/786a2ca952bf710f5d2625c41a93fa247ae45eb4/836dcfbe529a5ad3e901c94946bbb7b8c8cbf05f/25f19f49668cf0ff28a87e8aa4719f5d429d299b/f440639b2f1976731cfb388c8db45f5761cbe0eb/bdb4e4b23f90a312afa77c245846b048be10cfb4/719e4bc93e0c56d60ac80a875113de7e8d76e915/658c0b910ff37945913f947f4a9c5b4794dd5af4/578bea4cc1b26185d82c026ce41e2c6a520ae18b/b191fe4c1c7ada0d9331237eef683d83a3d8da91/801dd3945b66f1aff14354d6e30f3c467b33ae16/ac8021999adcabe36b697c6c1e680be4ffd5da66/,2016-01-07 19:50:51-08:00/2016-01-17 16:02:27-08:00/2016-01-11 18:44:11-08:00/2016-01-06 19:31:16-08:00/2015-12-18 20:27:48-08:00/2015-12-31 13:37:03-08:00/2016-10-10 14:04:30-07:00/2016-01-07 18:01:45-08:00/2016-01-16 23:27:29-08:00/2016-09-17 19:57:41-07:00/2016-01-06 15:34:58-08:00/2016-01-06 18:35:30-08:00/2016-01-01 22:49:39-08:00/2015-12-17 16:52:52-08:00/2016-05-11 12:57:29-07:00/2016-07-16 23:28:02-07:00/2016-01-08 20:21:14-08:00/2016-01-05 17:37:25-08:00/2016-10-29 21:38:47-07:00/2016-01-05 17:46:02-08:00/2016-01-03 22:05:15-08:00/2016-01-06 17:58:38-08:00/2016-01-08 19:42:37-08:00/2016-01-26 23:05:34-08:00/2015-12-16 00:47:57-08:00/2015-12-15 22:06:29-08:00/2016-01-17 17:23:52-08:00/2016-01-06 20:04:30-08:00/2016-01-04 20:21:38-08:00/2016-02-06 19:31:10-08:00/,added new model and fit framework
+deepchem/deepchem,b74bbade46115f4f8660161d8a601f7e88c4b1d8,2017-11-02T15:54:40Z,e831142b475bd9f9efcf40c06b381b1deb0ea666/,2020-07-29 19:12:55-07:00/,no index in the csv file
+aiidateam/aiida-quantumespresso,3fca469946de12ecb809da9e461e88d83adbdf0e,2018-06-27T08:47:46Z,fbac0993bb8b6cdeba85717453debcf0ab062b5a/a835a6f41ad3a0ec8aaf1a8b22dd060fecb16c29/02712c7a61fc41a5d1baa50431a3297da0580634/3bccdd8a2025ee05fa3f1670ee253e3061383a49/a2031e96e2282c329e1acd66c5b4362141e2513a/50e063812facbb31bf421cf619f3debbd0093c54/a6647ef9212a303ab1f5ff0f5e134baecaa0d84a/6afbc1b499d90f25db238f46e5766ce24faee1d4/84930701ebbbfcaf51a4aa84f11e7c452bfded5b/f7a03009104b0ffb72b64c774b69834afaff1aab/40d8d0c4e8815d87e14b01089710eb0c0deb4239/615d699c6bb5de5578e96fe223f567e6d6f6f8d4/cab1a22d5c47028be35c3c9b16aa9c3f546df908/70d97b1cf40e3a6a4d9fe8bf0fccba09a3d4d102/00f4c3f27dd982761a262c51c760b0394e7b63f4/41b3e2bf1325c07dfcc57868b689707a868600e0/a77c68853cc87f538552a4ac45a799e097ad3f93/77314634d6e7341f386dddc2374f096eb76d2b97/,2018-08-24 11:49:27+02:00/2020-05-08 16:00:53+02:00/2019-06-07 16:45:49+02:00/2019-07-16 12:35:21+02:00/2019-08-02 16:50:08+02:00/2020-03-06 14:26:41+01:00/2018-07-05 15:26:05+02:00/2018-08-24 09:05:05+02:00/2019-04-02 11:46:30+02:00/2018-07-13 23:15:00+02:00/2019-04-09 08:50:38+02:00/2019-06-19 09:15:27+02:00/2019-06-11 13:52:49+02:00/2019-06-07 13:20:49+02:00/2019-08-09 16:57:51+02:00/2019-03-22 11:11:39+01:00/2020-10-09 21:39:35+02:00/2019-01-10 14:33:32+01:00/,"Implement the new exit code functionality in the workchains (#177)
+
+New functionality added in aiida-core now allows to define known exit
+modes of a WorkChain through its ProcessSpec. They can be added in the
+define method, through the exit_code method. Later they can be retrieved
+through the exit_codes collection property for a given label"
+orbkit/orbkit,c3126cfe782f4f16e9466577820afa47489d6a75,2014-03-17T17:08:02Z,eaeddbfb261f6159fb0c91e7cc158ec9933f7d73/,2015-07-31 15:27:53+02:00/,ed
+TRIQS/triqs,0279068dc0fc7598c9c6baae139334d514233a60,2016-10-29T11:06:19Z,8ce34550fb0d66cbfc6ec5bf25036dbc3397ca7f/102a79f06b84eeabb4e12322dfe5fd414ed7b673/,2018-05-26 23:43:55+02:00/2020-03-16 12:48:47-04:00/,[gfs/hdf5] hdf5 id: int -> hid_t (fixes hdf5 1.10 bug #353)
+qojulia/QuantumOptics.jl,e91719cd87035bf1b7062c0c8291bb3838f071c6,2015-11-03T08:17:20Z,e40c8d23ca6d6156b4dea7f51ccb27e2b762a782/e897c160cbdbf477f7454b0db056726892e5ecfd/1fc393799b03845d01f300915c81f359f40f05fb/525f058cb5fcb59832ded097d9ee57e29bf85151/adb62cbb9fcf79bd921784f1a0fe3c851f33d745/,2017-01-17 19:31:25+01:00/2018-08-03 09:58:25+02:00/2017-05-12 10:09:46+02:00/2019-10-07 10:34:06+02:00/2016-03-16 13:58:57+01:00/,Add test for metrics.
+qubekit/QUBEKit,c84da98f45ee0e3f6e20282b9924c5d8c17447c1,2018-10-31T11:56:27Z,ed4d17e75edf904ea246e43d96dc05b4f49baccc/9b05fd6c99f639174ad0176e7ae5e9525627813b/cb7d0a373d5dfd603692aac412130c6e81645c24/47bb0871fb56ec63053845338f57bbb7b6bcb870/f7c45510a1ebdb82c545e8547252a3c227d5a4ab/905684427633a72cd3bac538e476eee7fa66b244/76f56c78878774e1a6318d965cf9fda37e1a00dd/f485122045766cdc11b4cb223980df6b8c3f0d33/,2018-10-31 15:50:32+00:00/2018-10-31 15:50:55+00:00/2019-01-04 11:40:04+00:00/2018-10-31 18:05:46+00:00/2018-12-20 16:47:52+00:00/2018-11-22 13:53:48+00:00/2018-11-09 12:00:54+00:00/2018-11-19 09:46:51+00:00/,"Merge remote-tracking branch 'remotes/origin/master' into Engine
+
+# Conflicts:
+#	QUBEKit/tests.py"
+XanaduAI/pennylane,915faaed239d96f870c6964ec09fa68cfacfe33a,2018-11-10T13:42:28Z,b45ed9c92701a221c62e1d2efb549b18b56974af/1f78e36823eecfea3159dc52624aa5dead3af01c/,2019-10-17 18:36:33+02:00/2018-11-11 20:26:28+08:00/,small fixes
+QuTech-Delft/qtt,63b1dd4d02a7a7c0ac0cd552afa235d1c69f4460,2016-05-22T14:00:11Z,51b34ab75cf439ce8d77286e348a3b86c4dda228/67517bc29fb99386dba3fa04a4a6f8e39102720c/0ed59417c72352285823d4bef4ed269ae6bbc56c/,2017-05-17 10:13:21+02:00/2016-05-24 16:03:48+02:00/2017-03-27 16:49:01+02:00/,try to solve problems under windows
+TRIQS/triqs,3fa2e80b998ae6a74ed403c53a43479dfcc29de7,2015-10-14T19:54:28Z,507fdc71d0c67e8657d2ad28df1fb4a68f58ba67/9ac4fd3f638a83da682f586579467a0298b52a4b/188965bad2ddf43d5bce48563eaed183661d792b/25ffaa3f269072d39baba08a5d5ffc7265fb234f/d945face0be5eac2e1887c3a18f8e808796117b5/8ce34550fb0d66cbfc6ec5bf25036dbc3397ca7f/,2015-10-18 18:42:26+02:00/2015-10-15 21:26:29+02:00/2015-12-05 19:18:39+01:00/2015-10-15 15:29:51+02:00/2015-12-06 23:57:52+01:00/2018-05-26 23:43:55+02:00/,"[operators] Extractor for the 4-index interaction matrix
+
+* dict_to_matrix is made templated on the dictionary type.
+* Many smaller improvements."
+deepchem/deepchem,ffd623ab57200e7e08bbc6d861cb4d46f8a3f9f3,2016-11-10T02:27:56Z,2efccdc6835d785976e320addc0563eb1a2302c0/0af7a0518acc964d4607b33399d087aa2c1bf9a5/1b97292ef55358a0207ea3fb04f9d26b8266122d/8903c2d8ced6f85a79d612d28f8eb42b5a49b0ac/cff6617e120587b403be083b0b888de8e269a130/,2017-03-14 15:42:52-07:00/2017-07-12 21:14:23+00:00/2017-03-04 18:01:51-08:00/2017-01-15 23:49:04-08:00/2017-03-06 16:37:59-08:00/,Sider from tox
+QInfer/python-qinfer,1c42994350a474a50b327694adbb08b46338488f,2012-09-06T01:18:47Z,48904378e2ef0a054a36fc606ee321c352b20e40/a6409b425e3eac795755c79f11d4c90b32660aea/23a57f0c29261aed209215002667e6d41dd1cda3/0b6a3b49845871db89dcb027d54a0a7609ffd48b/2d3613d212edbd23920a75f2477ae1e9d8a90961/f3ae095a70342aa989a691158d987e63786e9886/911a0e6652e585ca7740b102a2daa2b3668d0be6/1d394032d7f86e74c20350dae6b54ff805d2fee7/adfa6ed27e16b15657ea7bb869d33d5a4fba5f19/,2012-09-07 12:52:34-04:00/2012-10-23 19:32:51-04:00/2012-12-13 15:49:39-05:00/2012-09-07 10:50:12-04:00/2012-09-13 21:22:22-04:00/2013-02-08 20:33:35-07:00/2015-04-17 14:39:04+10:00/2013-01-03 14:06:35-05:00/2012-11-01 14:19:58-04:00/,Tomography and test code working now
+boschmitt/tweedledum,688150cdc89ae3acb5705cdb13ca82cb4de8cfbd,2020-06-03T15:50:15Z,681a6d419cb000e1a3034fae089886394cb4ade3/,2020-06-03 18:31:57+02:00/,Install cmake before building wheels
+jcmgray/quimb,f9d55e55d0d7012d1ce47e247308990b65a614da,2016-07-05T19:54:47Z,3715eb9c7aa07dcade33749a5ba23c94e8ce590f/b5138b9047fbc20f16bbc6f388d9af6110340c50/fb97560a6a9a427a629ac03a8f73cce8b51bd132/2a5685bb1b1b7129f377e004cfe532d4251a8d77/ad3de5c0f203249583eb620bae4a9e5f5c91f17a/62a1a4362ddf3b1b8547371870851a095f3dab98/d3e753f53199fab1ee072a6fbb794bb9eab77e36/e415455aa093aed3e1950888a6a66a7c7db17363/d5cf252ff04a486592f8f6b92972dcb77c4075a1/6148df8c8143e37d8a198cb2f31c1c5cf7c80911/98997eca8bdc3598c6b8596cfa3ad3e3f42b9431/158ad2fb1b0d9898c766dfba8b0d0f69b9036001/1377f7047c1356067955ce0065c68c4af837cca6/79f4e2b972dd74e68406b44bd0d173c406753d35/5b764691bcc2a5c840426db1292751a4eb858c18/,2016-07-06 16:22:53+01:00/2017-01-13 15:49:56+00:00/2016-11-02 01:06:09+00:00/2017-07-29 22:48:55+01:00/2017-09-19 00:49:00+01:00/2016-07-20 19:07:16+01:00/2017-08-17 13:16:27+01:00/2017-09-22 14:46:06+01:00/2016-10-06 18:50:22+01:00/2017-09-19 16:21:25+01:00/2018-08-31 00:47:46+01:00/2016-10-20 18:56:16+01:00/2017-09-15 15:46:36+01:00/2016-08-23 00:28:08+01:00/2018-05-15 01:16:58+01:00/,more tests for calc module
+deepchem/deepchem,528b37b6a893713994ef6335a02a642b8827cd74,2020-04-07T23:34:30Z,ede8600fe4e0062db7ad648c48672fd7bea99419/9525c8b95b4ce1290d73cc0286e3f313dc4be9a6/38d976d012971be62cbb1a9d53ff0e55c00f7ed5/b04449fd69516dcccbb862b6c0880c9be2ca0dbd/d8a17537dd7a9874d314b31d7680b36824d3fa13/,2020-08-25 23:51:31+09:00/2020-07-02 19:21:02-05:00/2020-04-07 18:13:02-07:00/2020-07-14 16:09:31-07:00/2020-07-07 13:24:19-07:00/,Fixes
+aiidateam/aiida-quantumespresso,a0b52b5ca7fd130db769e4bd4595ca682bfecd4b,2018-01-05T11:26:40Z,ab3368d31f960c1cb62374a6256e8337693fbae0/cab1a22d5c47028be35c3c9b16aa9c3f546df908/a6a74452228f22037f6a97ed504b133b9c30c32e/,2018-01-05 13:06:58+01:00/2019-06-11 13:52:49+02:00/2018-01-06 20:20:32+01:00/,"Add basic error handler for unconverged calcs in PwBaseWorkChain
+
+The most simple remedy for convergence not reached at the end of
+a PwCalculation is to simply restart from the previous calculation
+without changing any of the inputs. In the next iteration
+convergence might just be reached"
+XanaduAI/pennylane,1de545dd1df74e7c20eb06f86f1ecb2aba9e28dc,2020-03-13T15:21:36Z,5f8064f269698cf83c2c274039096f2a80dcf8b2/dd92ecc2bd1e2d40b6c5c3ef57498bce8fec73b0/,2020-09-14 21:35:57+02:00/2020-03-15 03:41:49+01:00/,"Fix inversion of decompositions (#543)
+
+* Add inv decomposition test
+
+* Black
+
+* Fix test
+
+* Add decomposition hotfix
+
+* Update tests/qnodes/test_qnode_base.py
+
+Co-Authored-By: antalszava <antalszava@gmail.com>
+
+* Add recursion test without inverse
+
+Co-authored-by: antalszava <antalszava@gmail.com>
+Co-authored-by: Josh Izaac <josh146@gmail.com>"
+QuTech-Delft/qtt,40d3ca7938244c277a4b1beb232ee0e9c5a56247,2016-09-06T11:59:01Z,3a75d524bda8fd6415b0354eca63320709a0a083/cb281648a29f118690db4bcac681f2a88e57f7ca/f32fd57ec6c03e05b1b56e2cd0f71e9bb6dc4948/09f79a1da62a3332185cad87eba5ced41221993c/e175a364b74854175492ae74451691be86225e46/d738dd829c2a20af065f86ce8772de1685c7ea74/,2016-09-07 16:37:40+02:00/2016-11-25 10:49:41+01:00/2016-09-16 15:22:30+02:00/2016-09-16 15:22:30+02:00/2016-09-20 11:08:27+02:00/2016-09-20 11:08:27+02:00/,Fix sweep functions in virtual_awg
+QuTech-Delft/qtt,ae8f70aea6875233383059d7df1f7e59b75348d9,2017-02-07T11:19:57Z,ed0986df07569fc1a5342b62ef9b1b6b0a29bda8/,2018-07-09 23:50:01+02:00/,add docs
+CQCL/pytket,bced71743efd493e423a613028adc3f400dd4986,2018-07-18T22:09:09Z,30ba6be941e130b7ead82f4008ed40dc734b13ef/,2018-12-07 10:08:21+00:00/,docs edit
+evaleev/libint,9f9128d9d314f9cd38fc0994694a1d95cf06abce,2007-04-29T22:25:17Z,840da33bd103ead6e0f1b616873bf93c1f5b8429/6568b431f7f77c47e51ddef1370dcfa16e4a59f7/,2015-06-17 12:20:07+09:00/2008-05-22 17:13:51+00:00/,"RecurrenceRelation::generate_code() can determine whether to use CSE.
+
+--HG--
+branch : prerelease-2-branch
+extra : convert_revision : svn%3A30ab2afb-5f51-4bfe-ae8b-bcb573c66ba7/branches/prerelease-2-branch%40323"
+deepchem/deepchem,8db9166baa88ec7b57c5f3926579295f06cf9acf,2020-08-05T01:12:16Z,118151c9ae8a17d3d7bde066344807bc3b25e517/8a58f7d4811e4dff9b76fc2b7dbda816093e3b01/,2020-09-04 00:51:28+09:00/2020-08-04 18:48:48-07:00/,Changing sdf loader to yield
+deepchem/deepchem,242d4d1aec28d8b0d0681b892d605b78a071612b,2020-07-01T23:21:50Z,ede8600fe4e0062db7ad648c48672fd7bea99419/,2020-08-25 23:51:31+09:00/,fix(wandb): use is_wandb_available function in callbacks
+XanaduAI/pennylane,620d0a41bbb133b5df3be3faa41ce0957d08c230,2018-09-06T16:18:15Z,c68bbd1baf67597105a64dae46bbf34c0aa467b6/adeaad8143357f7d3e7cb015de574c1a2039ebd9/9713e459f02106fe8005657df8bc4365fe94de23/56d91d92f5e494f13139c7c9e0d444b22384ba0f/5cf2ed717636083d33b2c9e52874ce8a59f317a2/0888e9f81e494bb7f7627bdf9ba7965ccddc95e2/423f03d35856717af906c6bf0ba380dc8f7027e4/57757f994a2ec3c65d9d17609c2d3375ef130b22/22efe4c5d6f3fdfd6d24ad57a4bc8e526950dba7/6f3bfc216009b68a0815c9c3fd1f06519e607037/fc2ec00e7f35e36681bacd7737d43e2db2d6be15/98a9b2a8e409591039ae79774f6467b212656532/,2018-10-12 14:28:06-04:00/2018-10-16 06:11:20+08:00/2018-09-13 14:33:28+08:00/2018-09-08 23:38:37+08:00/2018-10-18 21:36:51+03:00/2019-10-18 03:03:26+03:00/2019-10-08 02:15:15+03:00/2018-10-26 15:07:04-04:00/2019-06-18 22:55:18-04:00/2018-10-12 17:17:20-04:00/2018-09-11 19:28:26+03:00/2018-09-19 02:14:04+03:00/,further cleaning up of gradient-based tests
+deepchem/deepchem,d9eabf5d76ced399f17606420edb5b7bf954d2c4,2017-04-29T00:23:50Z,38e2076694fd069be6be5d0be428b28e7eddc99e/118151c9ae8a17d3d7bde066344807bc3b25e517/9a2c1c6cfc8d5d3923f1a510fb4553a35a630851/d1dc4e10fb6edeafe36429b672448b87bb8a795a/e55ef461a99524b504e6a6b6e90bffd391d24301/b9cfdbc282412193f2e786d306a2c9e0dab25128/89ac2c4b7dd8bebd9f64f343a38094ce86b4bdb0/529c8134c0f380f505a2483583eef6d1efb2811a/,2019-07-30 20:11:36+02:00/2020-09-04 00:51:28+09:00/2018-03-27 00:11:29+05:18/2017-08-28 14:10:26-07:00/2018-03-08 20:58:07+05:18/2017-07-07 00:30:21-07:00/2020-09-14 10:48:15-04:00/2017-07-25 23:22:25-07:00/,compare methods for qm
+qubekit/QUBEKit,23a096410023723d574f2f37e4dec64fa93ba23d,2020-04-08T15:37:22Z,ee8298f0bf031b2e1057f84a53fa704f67b54f9c/,2020-07-31 15:28:36+01:00/,Made symmetrisation optional with command -symmetry
+TRIQS/triqs,01dfb30a5ea8950a7cc45a343a573b9a9d394a1d,2018-02-28T04:01:36Z,883456eae491d85bd26617a827d3be22c6b7a610/,2018-04-19 14:53:33+02:00/,[pade] Improve pade approximants for orbital diagonal data
+deepchem/deepchem,b08b68fdb78fd2128dedba853f38bbedf4f16af3,2017-02-13T22:14:57Z,c53c2fad7caf9d6b6dc947101dd0181dfbf3a0b1/,2017-02-13 14:46:54-08:00/,Go To Jenkins
+QuTech-Delft/qtt,a66dbe11f96b3b21c85729fa058a0341a069528a,2016-08-11T11:05:46Z,6b16be38c69b5516d139e3ec0da5fc290ca147fa/,2016-09-01 19:21:12+02:00/,minor adjustments for 2d liveplotting
+QInfer/python-qinfer,081d00e1ceaa63dd8793b73da8d41ac2942bbbf7,2016-05-10T15:40:17Z,28c2985246e7e0823fd87486ed3c246e437cb9ca/d077518b18cfe54f3f9217ce66dab432179ae7f5/,2017-03-31 11:48:56+11:00/2016-09-28 12:29:06+10:00/,Updated citation instructions to point to Zenodo DOIs.
+zoran-cuckovic/QGIS-visibility-analysis,4f3c26c311bdadd85b207484f6c8bb9e19b8a682,2014-12-08T20:17:20Z,ca37cadbe2e1f721c6128ad364f1095f2bf053ed/a4ad2dca71a2ff44731d183114e0c3483f8b3185/cef1e046edd14e753a3394bf44e41f4a00acfe66/390ea0631ceae8d6bc536da0dff4b8794561f448/432358fe3d92174c6d6562c914f5e66454e47212/05933bd0d186de794c54821394746b9910590d10/2df8a3d5be71573317920ea2d89c19d086138817/a79b27f96c43382912eea3145cbdeedc4bff7fe0/,2015-02-16 14:49:04+01:00/2015-02-02 20:36:32+01:00/2015-02-03 13:54:30+01:00/2016-04-15 15:06:53+02:00/2016-04-23 17:36:03+02:00/2019-05-28 13:17:15+02:00/2015-03-02 13:39:52+01:00/2015-02-02 22:27:31+01:00/,Update doViewshed.py
+qojulia/QuantumOptics.jl,43867ae1ce4418be3cbdbf768c80d0c3f6bc67d2,2015-08-21T09:34:15Z,e897c160cbdbf477f7454b0db056726892e5ecfd/8df761fc88a1f4573621d39bfeff1018eb5854f5/0d7a18a4f99d39b68e7466957ba1ee3e3fba68a3/d35685ffb3283ab4eb6ea44f3864281f0577222c/525f058cb5fcb59832ded097d9ee57e29bf85151/dffbe9654d49a05a1de84009549a505e1bfeb81e/8ff03f2c4e9b9c21ac0c3401eeb6f5fd2c28d6d8/,2018-08-03 09:58:25+02:00/2017-03-10 13:30:12+01:00/2017-06-06 15:37:30+02:00/2017-05-22 14:08:17+02:00/2019-10-07 10:34:06+02:00/2015-08-28 12:26:12+02:00/2015-10-21 09:00:19+02:00/,Complete replacement of old sparsematrix implementation.
+aiidateam/aiida-quantumespresso,e6e5d9b2584f871c678be627fef2f8102c62aac7,2019-05-14T13:36:33Z,5d807ed400a962dfeff21b4627a879257c36f038/615d699c6bb5de5578e96fe223f567e6d6f6f8d4/a77c68853cc87f538552a4ac45a799e097ad3f93/a417071b00cd5b01fc2eb7348885b22a3b39c7f2/,2019-06-13 13:00:10+02:00/2019-06-19 09:15:27+02:00/2020-10-09 21:39:35+02:00/2020-05-07 11:13:38+02:00/,Abstract and deduplicate process launch code in CLI scripts (#310)
+evaleev/libint,1cf6f297088cb0ee820a9f26b5c4e46bb74889c9,2013-01-15T16:03:04Z,f77fab6a7cdbcc4d86e68af0cdfcca2abe423eed/8d7c763378e6130a0eb5953dddf555b70c9db90e/77259af059057f2892efd5a494d490cd46d0e8ec/2502e900d50be646346e190a758625824d685d5e/9859ada6b3a96a12bf2ea5035e40ebdc7bf11439/945f64e2d6ea240494e45904f8b6ece9b959babe/b5ff93231c653f85e8f37c6a7050b02053fb7bd5/c5d0f852ac9deb0fb4dbd7763ec53c0236b22477/3157a4a2ddb5f678fb26da17540cae855896319d/9feac4fd235069888ccfa3a7b8d51de691669faf/,2014-05-22 20:11:39-04:00/2014-05-22 20:11:39-04:00/2019-06-19 14:30:17-04:00/2016-06-25 10:52:22-04:00/2019-06-28 00:42:42-04:00/2016-07-07 10:49:20-04:00/2019-06-27 23:14:47-04:00/2015-01-08 13:21:36-05:00/2015-01-14 15:33:03-05:00/2016-06-25 10:46:42-04:00/,"1) Further improvement of Gm evaluators.
+2) All profiling code moved to src/bin/profile/profile_Gm.cc"
+bloomberg/quantum,4b0daa1f11d28bb4c9dda17bd19d5bbba770a326,2019-09-13T19:09:16Z,42b42fd7fdd1d466860d7dbf0c85e615dff417cf/,2019-09-16 11:59:53-04:00/,"Added default constructor for GenericFuture
+
+Signed-off-by: Alexander Damian <adamian@bloomberg.net>"
+OriginQ/QPanda-2,9f164821b3bcc6fb33083a1dbf48ce8416d96cc3,2018-07-26T02:09:24Z,4dda627bd08778cb696669aa72fc9f40172ac05c/,2019-01-21 12:16:02+08:00/,2018.7.26
+tensorflow/quantum,3b934bf3ae623a8996c040ecc3e18f592c54dfdd,2020-03-11T20:10:34Z,0c90033d8763478300a6626b038c7c7ddacb7a4a/bb8dfb8ba14582bba6ca7741b43e4c64e4ee68f9/a0d95f01e4002de03614481dd2d8f381a98bfe84/a0ef76b80e33e64b6035e3a31322958fd2e8e945/,2020-06-16 10:21:32-07:00/2020-09-10 09:43:41-07:00/2020-04-16 12:20:46-07:00/2020-03-12 04:37:12-04:00/,"Added ability to sample from state vector in qsim. (#153)
+
+* Added ability to sample from state vector in qsim.
+
+* downgraded random values to floats.
+
+Co-authored-by: Michael Broughton <mbbrough@google.com>"
+OriginQ/QPanda-2,b086aa02b2d02ff3cdad2ef2e3d6e0f2340a9ae0,2019-02-22T05:47:36Z,7d756057ef6831c6136b589be701008be4becc7b/,2019-04-18 16:32:38+08:00/,Update README.md
+deepchem/deepchem,bb551ac0100dc128288223a2518239f8b3ac712f,2018-01-30T16:49:33Z,2aa5cccc7c65d14305e60e0a61781aa11cb7142d/cfbeeb2c794d7a35eac6702bb8027c8c274dbeac/c6d697c5ac3ee270809437b51bda7b003926a62f/,2019-03-28 15:11:28-07:00/2020-03-04 12:00:13-08:00/2018-03-20 02:28:58+05:18/,Test Fixes
+XanaduAI/pennylane,842ac04e91f0164d85b9f25202c949e63a4ddba6,2018-06-13T17:03:10Z,b43db9adcef5fcff0710e4e01ec7e32838695069/cbe610de9fb690aab7ec797e50e34c025123b43e/a6c4bb7cf7ed69c7e5c1515a6ceaa7daf9c6edf5/13fda84dfed72b99d9272cafac676f07b1854bee/5b13f98a171875d2a7884303d7e9ea6b828fb299/50ff0d619743c3c6ddefe33cdd3a22ccb62cd014/b0783bcd3711771888eaf8a7617b55ba87ec5bbe/deafc3d1f5a4f130e383230367fe554d2656879c/47cc5554e5c37b3f48232bdf568300989aa764b3/f110ce21d18ef3ddde630c05c11b0f9013d60225/5ed084c286231b388f1ee72f1c332c791203efdb/,2018-07-31 15:53:58+03:00/2018-08-15 17:53:38-04:00/2018-07-23 03:44:01+03:00/2018-08-10 14:03:07+03:00/2018-06-20 18:00:53+03:00/2018-08-14 18:20:47+03:00/2018-08-14 17:45:36-04:00/2018-08-17 17:55:51+03:00/2018-07-06 17:59:17+03:00/2018-08-14 20:01:31+08:00/2018-08-21 21:45:37+08:00/,"Strawberry Fields plugin, better handling of observables."
+evaleev/libint,1ea9945914a6e19a8fc6e62aed935163a6fde13e,2014-07-03T16:07:42Z,9e0e0c65b6edac2277b29e4be5519356617d5c3b/697208dcdefa5c7fb1951b84e5a0a50bda61c312/8cc13f70fb4de33066c80156d407a058bfc0ec5d/d32b233a70d5cdf243b3437a5aebbc405af40cee/38b375fb63e1c8c5c8b2c108b66b0eb78e9276db/cb2ac69299ebb14b9426665389a36faf1d88c351/3c65d6047b1a62a0f6c6adb48136e058a9170c6e/fa51d0ce87b0edde465765edef90e72b809c0e51/77517890e983e63b7efa4824dd3e3b53a20d372e/31788ab69f670273f8468b50e4c8da6d61bc1c0d/6ea90f8bbeaf1ba25c6d7972288ea37fc55b3baa/19fd08999db2bca5a780cd9d6ac4262e1ab30a18/,2015-05-08 22:03:58-04:00/2014-07-03 21:58:55-04:00/2014-07-05 17:29:49-04:00/2015-05-11 23:46:15-04:00/2014-07-25 15:22:04-04:00/2015-11-12 23:11:18-05:00/2015-05-20 12:27:44-04:00/2015-05-12 11:47:02-04:00/2015-05-13 17:05:30-04:00/2015-05-09 13:34:14-04:00/2014-07-07 08:12:01-04:00/2017-07-31 14:44:14-04:00/,"Working update of 1-body changes ... overlap compiles, testing next"
+evaleev/libint,38f88efe8ec88db8d1f06ba77e9e0bdaf9b5f7a6,2003-07-31T22:40:52Z,d671933fd91bfeacf570577238802e2030369e47/49abddd9410ac3f46080b8235c1bbae5e83d9bde/7c60e1ea18d2b5cefe1802df9917f6f9a723ca4f/7de2a8e8605c83dbefc6ed13795d92dbd215b2a3/6c497e723c61b7a7ceec6bdeaaeaf0efb2eb1036/5dae9c266cfae15d1bc6b83df0ea6406b9ecea24/ee8bf54a0d821bfcf49b3eb48b6d21a5bea8c4ea/3543c4498a36304c65ab53b426a27b20d5d73f22/,2004-02-12 00:22:46+00:00/2015-11-29 19:47:16-05:00/2012-12-13 12:13:53-05:00/2007-12-06 02:35:32+00:00/2007-06-03 19:21:25+00:00/2005-11-27 23:35:47+00:00/2007-12-05 21:43:18+00:00/2007-12-06 02:35:32+00:00/,"Added libtool.m4 for the first time.
+
+--HG--
+extra : convert_revision : svn%3A30ab2afb-5f51-4bfe-ae8b-bcb573c66ba7/trunk%4017"
+orbkit/orbkit,ac0fe2c1b61e71e45bbb529db98a24133470ed30,2014-04-10T12:02:19Z,f49aae655588126c6eed2e396794fea9e23e6b00/9c97c65e70b569f0a3aac520f12e8efec8f3c590/a47d027542d77bc7ca61822c9608ae8765f77d7a/7ced6ddb2bf03b37ff15b0afa8c13010bd1ded70/7d89404771e188034568dffec6e618a76f43ab28/a988cc9b4444583cb7058ab2056447670a26c9e2/6950bad4fe28300cab05529ca16e495597edfbce/90cfdc99b6980c90ce887e46a1ad81ddf2cf774b/f62dd52d67ef03f2f1ac86880b605950f2269f4e/,2014-04-11 11:51:18+02:00/2014-04-14 17:51:49+02:00/2014-05-23 08:53:17+02:00/2014-04-11 11:33:18+02:00/2014-04-23 16:53:07+02:00/2017-10-18 08:27:36+02:00/2014-04-10 17:53:04+02:00/2017-10-09 16:00:54+02:00/2017-06-18 00:24:12+02:00/,added QCinfo class
+TRIQS/triqs,8824aaab01602c0c9e3697869f124bdfbd07f728,2016-05-14T20:44:06Z,a6a55d93d64c05bd02e76c98f4396020d69929aa/8ce34550fb0d66cbfc6ec5bf25036dbc3397ca7f/,2016-05-05 18:28:23+02:00/2018-05-26 23:43:55+02:00/,"[gfs] Fix #313
+
+- The overload of make_real_in_tau was not correct,
+  and really to infinite recursive call on gcc (was fine on clang ...)
+- Added a test from issue 313."
+TRIQS/triqs,11081a68b739949530a8a46478071f60195ea256,2013-09-08T09:58:07Z,bab2b51b4ed81489c52030f0770c14e579b10705/,2016-08-04 15:25:30+02:00/,"Fix #5
+
+- a temp. array in stev had the wrong sign."
+deepchem/deepchem,83a9f0c7f03f571197b3944ba66aa283befd0973,2016-10-22T02:16:40Z,e6b88130fff743c9851a4353c18eaccaa446e2d8/b9b2701adfd3cf55d7f8989257635b3acf1bb08c/557bfba02f049ae7fb0f9dca7c1080d6d02ad473/e5d3678d9463f4c6d6f3ca7e0630cb7bcd371818/1bccc708dc11b091d0f4264955d6f0f4e953cf53/d66cefdd61c32e2a67abf67412df7b30d5b51843/a2658df2c6d1a105c70928b92ddf108787e5cf48/f8a1e468d787e8abd98e75186671aef83a35fa4a/66387854c407cc5d8a6ce71d111f56fe9a4586ed/03fffc0d50b2a84d1b8a670bb2bd0461b8081bfb/d568d9bfbf599ea0a5b6e5ac01d22f9b3c93beab/,2017-12-21 17:18:27-08:00/2017-12-20 15:24:10-08:00/2017-12-20 17:36:19-08:00/2017-06-06 12:29:34-04:00/2016-10-30 19:14:30-07:00/2017-02-20 20:16:27-08:00/2017-12-20 15:24:56-08:00/2016-10-25 17:18:51-07:00/2017-01-13 15:45:00-08:00/2016-10-23 20:24:21-07:00/2016-10-23 13:42:13-07:00/,Accuracy is nonzero now...
+Qiskit/qiskit-ignis,b7548e9c7b85c6dc9552eef79f62bb538f110336,2019-02-25T13:17:23Z,23d5ef8231d0bb95cb03ad9b1b62ee37757b24b3/91d777f2d1654f28f30858ace3d8c9eab72ef145/41642765249364e3ff330f7226ca969930d28774/0c9b0481524b0ae082e791bb6f8adcdf9dda3a69/,2019-07-25 08:43:46-04:00/2019-03-08 12:52:14-05:00/2019-02-25 11:57:09-05:00/2019-03-05 09:58:55+02:00/,added state labels to the measurement cal matrix plot
+evaleev/libint,8c7bc09c9664665ff03d57b9491abc593af623c5,2004-12-01T05:52:52Z,a43f347ed767de393cdd61bc71ac7058bc191214/ceb1db15bf89eba2c9523dd7e71c2ac00377c1cb/c0ba056a14191fccb568a131a6ec3f4471164ffa/,2004-12-02 00:36:52+00:00/2004-12-02 23:44:14+00:00/2008-07-03 19:20:59+00:00/,"Typelists rock. Not sure how to write a constructor for one though :-)
+
+--HG--
+branch : prerelease-2-branch
+extra : convert_revision : svn%3A30ab2afb-5f51-4bfe-ae8b-bcb573c66ba7/branches/prerelease-2-branch%4057"
+deepchem/deepchem,f51694574876e1982888c53dfa225c3e7ddd7949,2015-11-12T11:46:11Z,5d54bc74c26a9eda6f13c3236c20ea22bc551c26/6d44182d2cc8d257ea428a298600515da6879cc9/658c0b910ff37945913f947f4a9c5b4794dd5af4/9ffb217fe81967292988e9d7d2eb2b7a1c5644ba/f4a665f821e10d9918e3983d56d3526a377241d5/824d1c4ae7bcbf20556e47ed91facdd71f8e46a4/,2015-11-14 13:20:09-08:00/2015-11-15 12:49:38-08:00/2015-12-15 22:06:29-08:00/2015-11-30 17:49:02-08:00/2015-12-02 19:44:50-08:00/2015-11-12 13:22:38-08:00/,Some more loading changes
+TRIQS/triqs,6152ab7547a35ab6d452202090a4c810743314d2,2019-05-15T20:54:11Z,e6b69cf9e7ce776a9cf553fcb90e91e8b61918d8/fb18f7fa0cf57482763c4129550fbd29b9610aa4/,2019-05-15 18:47:22-04:00/2019-05-22 14:53:55-04:00/,[Gf] doc strings on python methods
+QInfer/python-qinfer,25fbab0768359acd140d64e8c519f09942dd000c,2014-03-21T01:48:19Z,456c989a098ef1950e8b67deaf47bea78dbc9c50/,2014-03-24 12:42:55-06:00/,Added naive grad_log_pdf to PoselectedDistribution
+deepchem/deepchem,d9ccdf6d4cf4addbb0b4fb596ab1397efe2863ce,2016-03-30T05:54:24Z,9bb5df8faf479b5dc8d9eeb2a0c9bdda8a12c658/,2016-04-04 20:50:25-07:00/,Fix sklearn models with fit_transformers
+deepchem/deepchem,06f53b7081a85b9109421e596aa508502f699b45,2015-11-03T05:33:18Z,1722c5a9803206f00a8de7099b862898b0bcf3cf/913f3c034f9e00a52b39cfd9599feeab23812706/b9d616c0caf654c849b6f21b059c6a05ffc290d3/8e94c5972ed2264b6becdb14a728a998bafc6919/,2015-11-05 21:30:13-08:00/2015-11-23 13:07:37-08:00/2016-07-16 23:28:02-07:00/2015-11-12 01:51:24-08:00/,fixed data processing
+XanaduAI/pennylane,4b08b58089a83bdcc2f2a2a4980f83f0115765ff,2020-07-20T15:20:54Z,9113e6987e1c206d1254648359f1455a85836bf2/,2020-08-18 16:20:13-04:00/,"Implement the particle number observable in PennyLane-QChem (#698)
+
+* Add 's2_me_table' function to the 'obs' module
+
+* Add function 'get_s2_me'
+
+* Add the function 'observable'
+
+* Add usage examples to the functions
+
+* Add unit test 'test_s2_matrix_elements'
+
+* Add unit test 'test_get_s2_matrix_elements'
+
+* Add unit test 'test_build_s2_observable'
+
+* Polish the unit tests in 'test_s2_obs'
+
+* Fix entry point
+
+* Modify 'obs.py'
+
+* Check for the shape and size of arguments of different functions in 'obs'
+
+* Polish the 'obs' module
+
+* Add the unit tests for the 'observable' function in 'obs' module
+
+* Minor change in 'obs'
+
+* Add unit test for 'observable' function
+
+* Add new test in 'test_s2_obs'
+
+* Polish 'test_observable'
+
+* Polish several details in the 'obs' module
+
+* Format 'obs' module
+
+* Format files with the unit tests
+
+* Update 'CHANGELOG.md'
+
+* Minor fix of docstring
+
+* Remove trailing space
+
+* Add the list '__all__' in the 'obs' module with the name of the functions
+
+* fix documentation
+
+* fix documentation
+
+* Update doc/conf.py
+
+* Apply suggestions from code review
+
+Co-authored-by: Josh Izaac <josh146@gmail.com>
+Co-authored-by: soranjh <40344468+soranjh@users.noreply.github.com>
+
+* Add suggestions from code review
+
+* Modify docstring
+
+* Test to check building of the docs
+
+* Try to fix issue with docs
+
+* Modify docstrings
+
+* Apply suggestions from code review
+
+Co-authored-by: Nicolas Quesada <zeitus@gmail.com>
+
+* Black files in qchem
+
+* Remove trailing spaces in the docstrings
+
+* Import functions in the 'obs' module into '__init__' file
+
+* Add the function 'get_spinZ_matrix_elements' to the 'obs' module
+
+* Fix calling statement
+
+* Modify 'obs'
+
+* Add unit tests 'test_sz_obs.py'
+
+* Add function to test the built Sz observable
+
+* Improve on the docstrings
+
+* Update 'CHANGELOG.md'
+
+* Black 'test_sz_obs.py'
+
+* Add PR number and link to 'CHANGELOG.md'
+
+* Add suggestions from code review
+
+* Add function 'get_particle_number_table' to the 'obs' module
+
+* Add unit test 'test_get_particle_number_table'
+
+* Add unit test 'test_build_particle_number_observable'
+
+* Improve on the docstrings
+
+* Update the file 'CHANGELOG.md'
+
+* Add PR number and link to 'CHANGELOG.md'
+
+* Black the file 'test_particle_number_obs.py'
+
+* Fix minor typo in the docstring
+
+* Modify docstring
+
+* Improve the docstrings
+
+* Update list '__all__' in '__init__' file
+
+* Black 'qchem/structure.py'
+
+* Black files 'test_observable.py' and 'test_s2_obs.py'
+
+* Update the file 'CHANGELOG.md'
+
+* Add suggestions from code review
+
+* Improve on the docstring
+
+* Align equations in the docstring
+
+* Fix a problem in the docstring
+
+* Update the docstring
+
+* Modify the docstring
+
+* Modify the docstring
+
+* Modify docstring
+
+* Improve the odcstring of function 'get_spin2_matrix_elements'
+
+* Fix equation in the docstring
+
+* Fix typo in the docstring
+
+* Minor change in the docstring
+
+* Fix a minor typo
+
+* Modify the docstring
+
+* Polish the docstring
+
+* Make the function 'spin2_matrix_elements' private
+
+* Rename function 'get_particle_number_table' to 'get_particle_number_elements' (code review suggestion)
+
+* Rever previous renaming of the function 'get_particle_number_elements'
+
+* Add suggestions from code review
+
+* Remove trailing spaces
+
+* Improve the 'particle-number' function and add new checks
+
+* Improve the docstring of the 'particle_number' function
+
+* Update file 'CHANGELOG.mc'
+
+* Apply suggestions from code review
+
+Co-authored-by: Josh Izaac <josh146@gmail.com>
+
+* Update 'CHANGELOG.md' file with Josh's suggestion
+
+* Add suggestions from code review
+
+* Simplify the signature of the 'particle_number' function
+
+* Format with black the unit test file 'test_particle_number_obs'
+
+* Fix **Example** in the docstring
+
+* Simplify the function 'particle_number'
+
+* Remove unused import and trailing space
+
+* Add missing end-string
+
+* Polish docstrings
+
+* Minor modification of the docstring
+
+* Apply suggestions from code review
+
+Co-authored-by: ixfoduap <40441298+ixfoduap@users.noreply.github.com>
+
+* Add suggestions from code review
+
+* Apply suggestions from code review
+
+Co-authored-by: Josh Izaac <josh146@gmail.com>
+
+* Add suggestions from code review
+
+* Check that 'n_orbitals' is greater than zero in 'particle_number'
+
+Co-authored-by: Josh Izaac <josh146@gmail.com>
+Co-authored-by: soranjh <40344468+soranjh@users.noreply.github.com>
+Co-authored-by: Nicolas Quesada <zeitus@gmail.com>
+Co-authored-by: ixfoduap <40441298+ixfoduap@users.noreply.github.com>"
+tensorflow/quantum,dd8610cd6c326bb2715d99b7cfaffb24b42cc19f,2020-05-05T13:17:13Z,1f050a8ca3217adb56bdd3bf29255a4e8d610ceb/,2020-05-11 13:34:07-07:00/,Fix gradients.ipynb
+qucat/qucat,fc53dcae9e745cb65f1b29d417cf7f9a1f0ead22,2019-05-07T15:21:29Z,67c1377d733f65944d0ecd2ca15974eaf729fee3/40da18dacebbd5c55a3ef886128632a58a5110be/ae5690856b3e81b848a744150d90aa89ae921f44/7f30e06bbf33134a53a975a914250f7caaba14cc/,2020-01-29 19:40:23+01:00/2019-11-05 13:59:36+01:00/2019-05-08 16:36:45+02:00/2019-05-08 14:07:03+02:00/,font size adapted for mac
+TRIQS/triqs,888a86a7aec22843030befb8d07fd7a64580cfbb,2019-04-18T19:36:58Z,149ceb5c861c69d532a1fcb70979d7dec1273c80/61f573b81a342a37d9d6078314a28457dd54fa55/,2020-08-10 17:56:07-04:00/2019-04-25 11:22:23-04:00/,Replace remaining appearences of arrays::range by itertools::range
+evaleev/libint,aaad6e4c34240ec518eb127a23e7b765b6c48059,2016-07-07T15:04:53Z,a610ccbf52f9cf2c399fb068d5a43bf7875df529/,2017-05-02 12:23:37-04:00/,Engine now supports r12 ints
+evaleev/libint,5cdee30e33a4f04a30d97179a0466eea3767b69f,2013-05-10T14:55:22Z,7c77289a448861949b30aa9be9b389bfc47a364f/dc9a9fd1c4b88cb7a9feab789222b102958e0e12/2e7c075208cb3e30168a45854f31170f8f2951a9/,2018-06-29 17:24:18-04:00/2013-05-17 09:38:41-04:00/2014-05-21 14:28:30-04:00/,CXXGENFLAGS are now set correctly if they were not given explicitly.
+deepchem/deepchem,147fc92ae847749eef7e525b201ff52c73d76363,2017-03-06T18:06:31Z,42038c294a32f708b41255a7f29164e5d094eeba/03e32f174dd797437132af1c2791cfb79b6a3ae7/763f8721952e8042d6086b103deb2450334be4b3/0405e2ccf3ed2c2c2af90bfcfe0672f309b58706/7041e3c39ced574bb9cec5b60bb6175788c55e8e/d54147be9745b2130a2e8f97a978a2cecd750a1d/,2017-03-06 11:36:42-08:00/2017-07-13 18:20:27-04:00/2017-03-09 19:32:33-08:00/2017-03-06 11:41:50-08:00/2020-05-20 21:50:16-07:00/2020-05-20 15:27:20-07:00/,Renames and PR cleanups
+qojulia/QuantumOptics.jl,88ad96fe02dc6424ff796906ff3bd9afefa7596e,2014-09-04T17:17:34Z,d2d62ed8224c38524db703f09d251123d6c01cc9/38bcd72f84d4362341325dd4ccf54f56728ba84c/,2015-04-28 14:22:27+02:00/2015-08-27 15:46:21+02:00/,"Add a few functions to operator class.
+
+* Identity method that takes 2 different bases as argument
+* ""Full"" method that returns always an Operator with a dense data
+  matrix."
+deepchem/deepchem,8cbcb5b759bb2fbc35b77741ae7ba322e5a2aa8c,2017-03-28T21:26:38Z,d0f86de7c7598f5a0706e7f1473981f6f9866a95/21a0aa518c00c45a2c2b71c9df6d58ec3b51dd61/64084038936a03fc93efbb35789043ed9f980bdb/,2018-01-26 10:24:41-05:00/2017-08-11 17:41:58-07:00/2017-12-24 16:42:23-08:00/,Still trying to make yapf happy
+qojulia/QuantumOptics.jl,2638ac63ba6a371c7db872fafdce851ea38b2d7d,2014-09-08T23:13:57Z,302cc9646d6222134f77d4f6afd15977a4c1d8f9/aafb5cd5af7b56ca2280dd14aa002e842786399f/c95ac80b79f959912178639d2bf3ed537b570034/39a056030b8d06064fd34fd2b3ff5978968156eb/,2017-03-06 18:30:51+01:00/2014-09-10 04:08:42+02:00/2014-09-09 22:08:50+02:00/2015-01-27 22:41:58+01:00/,Lazy operators now working as #subsystems<7. WHY?
+QInfer/python-qinfer,a0ea0a6db628500b0db3f3c513b6fa1bc55ee37e,2014-02-22T23:36:47Z,b5bbcc9a554ae86de650359ff8b07c2439153f11/,2016-06-14 11:48:21+10:00/,Acknowledged IH for recent pull request #3.
+qubekit/QUBEKit,f841e7a6391e1c310340405884561e75b812703b,2018-10-05T15:12:43Z,3d017b9bd5adb664ef34e29ab4d97eedf574c706/,2018-10-05 16:22:01+01:00/,"Config fixes and options, added timings, better psi4 and chargemol integration."
+TRIQS/triqs,ad45adbaddefaba8ed1654ecd46561d31736bdcc,2014-05-30T09:11:28Z,8d1d13907096c7160f8b0b94abb2456c78cdf230/446f8171116c4371cd2a23aa1a7f85bd7ae6f037/4e9460bc1cfa6c092f47d8c535a7fbe4bcf29c70/fa06eaf3ae9c2f26ecd462aa3227e931381b337b/8ce34550fb0d66cbfc6ec5bf25036dbc3397ca7f/,2017-07-06 22:16:29+02:00/2014-05-26 09:34:22+02:00/2014-05-31 11:38:40+02:00/2014-06-03 15:07:38+02:00/2018-05-26 23:43:55+02:00/,"wrapper: add static methods
+
+- is_static= True to wrap a static method."
+aiidateam/aiida-quantumespresso,8e3f66439395a8dce2c88efdd00d8ab4896aaf36,2018-06-25T17:10:39Z,4aef9f997999a6115a58513d854702e8f1b5f65b/1c9e55d51e800cc360d16f38cfcbff83b09831dd/ef0dd4493782e90dab1911ad345f7ef68f0d8500/c3e50928c9489e3ad37e7e3be5935582b4c67ae2/4cdb8aeea613b845db8b4d21991c80af95d18f8d/6fff0c2d241beadd2f9640d284b99692fd1071e4/5dfce69a5c24d7023b5d7c82e6bc74f4750bce54/46df668fb2f1ab54a53a0ebb0e9b5dd586d8c893/41b3e2bf1325c07dfcc57868b689707a868600e0/8a6c154315c42bde0fbe05b762ee75cdbc0a4b1e/211612c0672e72ac807ba8d543cd4dca9320ca5c/,2019-11-03 16:49:30+01:00/2020-05-07 13:51:38+02:00/2019-04-12 17:55:53+02:00/2019-05-31 14:10:24+02:00/2019-05-31 11:21:24+02:00/2019-10-16 16:54:34+02:00/2018-11-01 19:32:21+01:00/2019-06-03 11:50:12+02:00/2019-03-22 11:11:39+01:00/2018-06-26 12:23:01+02:00/2019-03-12 18:08:52+01:00/,"Fix bug in the mapping of raw symmetries in PwParser (#171)
+
+The raw output of a PwCalculation contains fairly verbose information
+about the symmetry operations found for the input structure. Since
+storing these data structures as parsed from the XML output would be
+very heavy on the database, instead these are mapped onto a static
+dictionary of rotation matrices. This incurs some minimal but acceptable
+information loss.
+
+The process of mapping the original symmetry operations onto the reduced
+operations was implemented by comparing the string name of the operation
+and using the corresponding index to obtain the correct rotation matrix.
+However, since the string comparison did not use an exact match as the
+mathcing criterion, and in addition no break was used after finding a
+match, the inverse symmetry operation always ended up getting matched.
+
+To solve this, we change the string comparison to be an exact match, and
+we break out of the loop when a match is found, for good measure.
+
+A parser test is added to test for the correct mapping of symmetries."
+evaleev/libint,20b02b919c767c93677b356b2412ff7bb36bf981,2018-08-13T15:56:37Z,09c912c36974bab4b30e08e0c9539d441788eb8c/6da80b1045393b0babadf83304bef6c70a7edb71/0c9d40d277984bd426c9d97a6645f0f0b28d1600/,2018-08-13 11:58:52-04:00/2019-04-05 22:18:39-04:00/2018-08-15 10:29:01-04:00/,updated CHANGES for 2.5.0-beta.2 [skip ci]
+XanaduAI/pennylane,b6b88c716d2404c28908b93597839edb45f710f4,2020-07-28T13:30:27Z,fb625a979f0cd13b9a009e3e88b9d0b802261ea3/15381bb5b4ebd8db24152a4a40e89d95c3503c91/29be04282080c1f72fff0eeea6cc2542e839604f/9f7581890d832be46b8a5fc8fe6182b6c1f1d19e/028205c192c2114237453e1afc469d513455c241/,2020-07-29 14:55:23+09:18/2020-09-14 14:38:15+09:18/2020-10-05 11:42:50+08:00/2020-07-30 20:13:26+09:18/2020-07-28 22:50:10+09:18/,"Switch to GitHub actions (#717)
+
+* Switch to GitHub actions
+
+* attempt
+
+* attempt
+
+* attempt
+
+* another attempt
+
+* another attempt
+
+* update badge
+
+* update badge
+
+* update badge
+
+* update readme
+
+* fix coverage
+
+* fix typo"
+evaleev/libint,430cccdc76672af4bb83a1f6d1a26ed5abc72847,2005-06-05T00:11:55Z,621b7c5336138ff7746c13ebc998b4b9919b6749/ea8bed56a9497d01a0c63b395b96fac4c6456b25/1610551038a13285b58f19ad16ee363aecc6e231/45bfebeabb22ebe7a525b9e9d24850c832db15d9/a72f221fc5f184a27954e68f44bcd6d9885822a7/88dc0152af07065d6897a2ec33914f274e13f845/41df634fe0d94802118c87e106b146de285e521c/c0a25df069bfe6ac47b10c2020d209bd655e7d11/6f49eefb767af2f196ff095a56a343924aaf4f9e/e0cad286bece1556cb7f9e5331123dc2f7155c42/681a24297f26e8b74422fb98620f547499a21541/ab93799415219daa6190c51bb13980ce1950917e/68c1a4adba46af96720b2e2a9b69009bc67e5ec2/273831f84bfe8bc7e12c27fb2e6a5e3024eb355c/55d23ee09efae660fb6e9bacbaccff35a652e9d7/,2005-08-08 01:32:19+00:00/2011-08-14 11:36:27-04:00/2020-04-16 06:50:46+09:00/2011-04-20 17:39:03-04:00/2008-06-18 03:04:15+00:00/2007-04-26 04:20:17+00:00/2008-11-12 15:39:28+00:00/2011-05-02 00:09:14-04:00/2005-08-08 22:09:21+00:00/2006-02-28 22:04:37+00:00/2006-02-25 23:01:16+00:00/2007-04-25 21:07:43+00:00/2007-05-01 04:11:19+00:00/2011-04-01 17:04:40-04:00/2007-04-24 21:08:39+00:00/,"More optimization improvements:
+1) separated out template definitions for DirectedGraph out to dg.templ.h
+2) reworked DirectedGraph::insert_expr_at significantly. It'll still require
+more work (quite messy at the moment but progress is made).
+3) Lots of debugging statements are added that can be turned on by setting DEBUG
+define to 1 in global_macros.h .
+
+--HG--
+branch : prerelease-2-branch
+extra : convert_revision : svn%3A30ab2afb-5f51-4bfe-ae8b-bcb573c66ba7/branches/prerelease-2-branch%40167"
+QuTech-Delft/qtt,4a883b7d7814690c239e0c91eb142678db207e7f,2019-12-18T14:46:16Z,f28627470ad1b8955059181978500477a0e71d34/,2020-01-16 07:45:02+01:00/,[OP-NN] Version number increase after release (#698)
+deepchem/deepchem,420ee9d3b20c46bb71964772bea7dd17804a39bc,2020-05-18T17:09:09Z,118151c9ae8a17d3d7bde066344807bc3b25e517/7365535e556288a0fb2c7a646f28d4a08e6e3f6d/,2020-09-04 00:51:28+09:00/2020-07-08 13:00:43-07:00/,DiskDataset stores shards in npy format
+orbkit/orbkit,e0792eaa151144849162bead8b3e3a1afca018f9,2014-06-20T14:10:47Z,3e92b0389bd828590ace8ee43d89ccb14a0bf01d/e3e693e088874e41218d712e1ec2bbf2b4d2dc30/fbc033298116e14ae8877aa6187aea003b6cb53a/,2014-08-12 17:26:04+02:00/2015-06-10 12:59:38+02:00/2017-06-15 17:25:43+02:00/,Added computation of analytical Overlap Integrals incl. example for STO-3G water MOs. Modified ordering routine.
+deepchem/deepchem,0366465662610a47f16020daf98c1ddf623dbb20,2016-02-01T01:26:47Z,147fe83aeac7176f1a60d8d8d2282de6e357d053/1c7d8ec05b5f6d3a59511c047fa55ef135b8bf29/dd0f5f4d22ef12ccd0e06e08595ef6a4ce45a2ac/7536028ec62ee7206695cba43d23c9e8b0ce2377/bd92e5cee8df37206c2ad0e5b51c54dbd292afbc/,2017-06-14 12:17:42-04:00/2018-02-19 12:49:35-08:00/2016-09-29 20:08:18-07:00/2017-12-20 18:00:56-08:00/2017-11-08 12:07:22-05:00/,Adding s3cmd install back in.
+deepchem/deepchem,ddfe97f04094cdc91fcc09242c99df29e40a919d,2020-07-19T23:04:33Z,aa4add51af170901eb5e1957ad3072513bc41e22/5854b9cacb669ac3ae3d8a0b20fea0ea0b78c6a6/9f5cd2b6b32bf6093e70fac838de98a892fc1fac/73723be4f664ec8ff3e57d07dbb1dbc9be295179/84ab499f92ae88199d6b08ee04c7877337b6e8e2/995cfb79430fc05d33a27730edf33aaf1a2da66e/d4804caafec9fc3b05f3569da11cc2cab3d971fd/1aaa7180ed9ebe6bda01140ffc8f3ee54d6b6889/d1a7878305c017bb778bb7d2a56f33aa780dba01/6f87f962240a93fe43b1aff8ff5eb429d8fcbea1/019dd9b8886847d9c2320833c2aabe6a5ca10f0b/d8be13f18968fd132bca7b4b16c3172c84fb5d2a/,2020-09-08 17:30:46-07:00/2020-08-12 11:21:06+09:00/2020-07-19 16:41:37-07:00/2020-08-06 12:41:24-07:00/2020-08-03 11:19:42-07:00/2020-07-19 22:37:54-07:00/2020-08-27 20:47:53-07:00/2020-07-20 18:35:12-07:00/2020-08-05 13:08:47-07:00/2020-07-19 17:23:51-07:00/2020-09-08 17:40:12-07:00/2020-08-16 17:30:46+09:00/,Fixes
+deepchem/deepchem,5e47d6d70583d7810b57d5f19258628cba424842,2016-02-21T03:07:57Z,21c7050bb3b943223405a98212d76873ab655989/1cb558d1ebbe08a08d88efd03692ef651852d537/2c0978852241dc329769f5341c20c809ac488eed/17b84220c0de96620ab75f3e53c8537de71a0aaa/6fc7462059821a6a2d755f416c8fab07887c9a08/d81f1899f0fa6852a7d9292e2e12a68b95a0c5a1/6536f886bb3639c781dc3881b808e46e845b42f3/4744652dbb4ee09252335bb950eed6898c9d2640/0d704cdd1691c1ba7cf77e7ac0e666b7e1eab5d4/372c5d01a80e04056b9718ce11b743b5d8179c5b/d00f63c784ab4c747b5456846f25b95d2c6d2557/2a6a1ec0b5535ee041bbe7a55ad6893a3b5e4230/b7f5dbe9c524dbe4d8859d5a535d4994117bdd24/c1783911aed51af42b6e60da1bafa1b6055afd6b/5c35018f5f3ebe21f5e98583fd7161e21867cb75/b0a8f372c734c3284b560d77d20dc2c564b7849f/3eaec408439ac66a117b549322969f04afa513c2/637858c89838714e30b1da9f674d2a6ce995ba4b/b98f488e7c5e8bcb8e4edd5ec0a4d3f34e144226/6239d6ecea4f0f7b093615782763c10b83585d92/9314f5c94c7223c54177cca75dab401352d69370/8969c493d0bf25e4447b8d2cb812ebecb09ccf5f/,2017-08-08 15:53:45-07:00/2016-04-03 19:03:01-07:00/2016-09-28 13:25:35-07:00/2016-02-28 17:03:43-08:00/2016-03-07 13:40:17-08:00/2017-07-30 21:09:13-07:00/2017-08-01 12:55:08-04:00/2016-02-23 19:10:57-08:00/2016-03-21 16:19:22-07:00/2017-08-02 12:44:13-04:00/2016-05-20 14:33:06-07:00/2016-03-21 16:47:05-07:00/2020-03-28 16:50:28+09:00/2020-03-06 11:18:01-08:00/2016-04-17 15:50:08-07:00/2017-07-30 22:39:46-07:00/2016-02-20 20:51:24-08:00/2016-05-05 17:36:13-07:00/2017-07-28 00:48:32-07:00/2016-05-14 15:39:18-07:00/2020-08-06 00:21:36+09:00/2020-08-19 13:26:32+09:00/,Added classifiers to BACE notebook.
+evaleev/libint,4d83b30707d61d7afbb8f792c59b1a65e59461c9,2018-06-30T14:09:45Z,33c66ebbcded2c274fbd0dd81f6677958341362c/78a84a85d1e4784563ecf804bd5e1bf143666e0f/,2018-07-03 08:31:55-04:00/2018-06-30 11:16:24-04:00/,lower precision for derivatives in unit test
+jcmgray/quimb,3799b6c51ba07098c5c714fc6807d9cebe1f8b58,2017-08-26T12:04:30Z,013520c672ca6d1cde5e7b73f2d9b0ad914c1683/d22708b3599149764892267c7db869edc3cb68ec/0bf068d36b92227ff5775c65be9312c083b38317/649e17f8646b20b93238d902fcd74280c7eb298a/592a24e665208b03cc90e5a6a2deec51e814875b/6b59a383007ab117d03daba2289c424a151798d2/5b764691bcc2a5c840426db1292751a4eb858c18/,2018-04-24 16:47:34+01:00/2017-10-17 16:51:31+01:00/2017-11-21 00:38:45+00:00/2018-08-30 18:33:17+01:00/2018-04-24 18:56:19+01:00/2018-09-20 15:49:51+01:00/2018-05-15 01:16:58+01:00/,add is_eigenvector
+deepchem/deepchem,b63adce00ae5caaf3bf24480ffc5bd6f1e5b9790,2017-09-15T02:08:59Z,7ef106ddc8bbfa06a43b4e5c0d42028c8e673bd5/,2017-09-26 11:18:19-07:00/,update
+QInfer/python-qinfer,bf840de8cfc3f129bfda3c41c6fdb70674c57afb,2014-02-17T04:53:55Z,8fd4421c00220be2bc6728379a6746a986450704/f00d2dd3314669ca9de27db78e5f4cbed64943cc/,2016-01-22 15:13:26+11:00/2016-04-27 22:54:03+10:00/,"Bumped version, added to setup.py."
+deepchem/deepchem,003c685c9dc1f477709024eae0279c712b9dbcb9,2017-10-02T17:33:27Z,cfbeeb2c794d7a35eac6702bb8027c8c274dbeac/,2020-03-04 12:00:13-08:00/,Fix Tests
+QuTech-Delft/qtt,7438176aa24fffe5d9bd875168d0fc0862a2ba20,2018-09-07T18:17:54Z,41f84a50f12dadf9b8bbe242b8222f37482306a2/07d4c9ede522bd8ca381ea5cf724fa46535df3c4/99dd31c9584d8af7346097f9979448c85aeaa456/,2019-09-05 13:45:20+02:00/2019-06-07 14:34:40+02:00/2019-04-12 13:21:04+02:00/,Fit Ramsey review (#442)
+TRIQS/triqs,068c4a116da57107507bda32189dbe373db747e4,2014-05-20T16:08:28Z,e3775228792d9fde5613af7250deb656324f4b76/,2014-05-21 00:28:40+02:00/,Fix a bug in simple_read_write.hpp
+qucat/qucat,9a8350df2d4c8404042fea88a8dc1da0128ff24b,2019-02-07T08:58:07Z,27c4de3c15c3b0c6485e95cb1cd2b052df8188d7/a6135b1d4dddde5009e8339f1233ee4ad459e34b/0c5f11da7a394012ddc7e2079dce4017c1d45f15/,2019-02-07 11:34:30+01:00/2019-02-07 10:18:29+01:00/2019-04-10 17:44:09+02:00/,debug
+qubekit/QUBEKit,401d3f191ea68f728122b01b44b02ba98904aef5,2019-11-04T14:34:17Z,30cef1806c6f29f51a6fd408cea197368d4ac113/e01c08ef33fb96a128855420c468f76bca3af09f/,2020-08-24 15:02:32+01:00/2019-11-04 15:51:56+00:00/,"XML can now be provided with virtual sites.
+openmm energy update when using sites"
+aiidateam/aiida-quantumespresso,6ef6af176c8f85e43d0e32a5d673a79cb66e824d,2019-11-19T14:14:12Z,1c9e55d51e800cc360d16f38cfcbff83b09831dd/,2020-05-07 13:51:38+02:00/,Remove CI configuration for Travis
+rigetti/forest-benchmarking,2fddf9d39b8a15175f485de28992422fdefd643a,2019-02-19T18:54:17Z,f6c740f7ef8e420a20bdc8498725bbc3971482b4/9a3b0ec77a8bd5402eaaa765cf115a6272a18bda/,2019-03-21 15:14:11+11:00/2019-08-09 14:49:06-04:00/,"Changed acquire_data and fixed typos, added newlines."
+aiidateam/aiida-quantumespresso,7ec9eaa689cb39b6a04291892b6858b27c897d78,2020-10-07T21:56:41Z,e00c2995a3eb13d88dff5c467ffbf81dc7628e7b/,2020-10-09 20:04:20+02:00/,"CI: revert workaround that installs Python 3.7.7 (#572)
+
+Sometime ago there was a bug on GHA that didn't work with the latest
+path version of Python 3.7 and as a workaround we installed the previous
+path 3.7.7 that did work. Reverting this change now so we test against
+the latest patch version."
+TRIQS/triqs,a34f23580afb03f841754f7107ba725c83002caa,2014-10-21T18:34:25Z,ee42e24fba14a0900f6eec1e8f4d655ef67e6dec/905f4ca1a3de425c9dc9744d9449e09be803a710/9688154b0b1da8f4961ce16bb1bc386c9947b3ff/0d61e00b8a3f2386bff52b7471a27f90e5e3d861/fcd0c7a8ee7c1ae3f765ceb08638b5efe89568c6/801808e0acdd90341013f20885410d0a4a2a6ed4/8ce34550fb0d66cbfc6ec5bf25036dbc3397ca7f/b51bb53290d5bbaede40b6c99eccfb116b65bb71/,2014-10-21 23:49:57+02:00/2015-02-14 15:56:43+01:00/2014-10-22 14:29:58+02:00/2018-09-26 03:30:08+02:00/2014-10-24 13:47:22+02:00/2017-01-18 14:23:49+01:00/2018-05-26 23:43:55+02:00/2019-04-09 16:39:53-04:00/,"[mpi] Work on draft
+
+- add invoke2, works now for block_gf
+- TODO: more systematic tests
+- TODO: remove the mpi.hpp, include as higher heder like in gf"
+tensorflow/quantum,8b8b064073a19a80b2e623f79ceb2905a1bf3f48,2020-02-21T10:32:40Z,69838d5d8ec63083268faf64a0818f701d7e4f57/1e07b6e8e615b4253b1efd315058e784c5f318b2/63eee3900563e3fe6431b05a17b835e96a170662/3c2e5099553cbab47e60ff049065d0fba1a16f85/c40af6bdcf8bc642e43bbeb00bcbe3906742128a/d43f6a313509d76c7cf0705d232d9723e0e06843/f93cdf9e0fae2352c60726c005653681df8b3e04/2187b363652c75fb54a7f5a8df7353f24ac7d99a/d6b135648da9a39e0444bcc4a4e506f64b5ab28b/6890f377a9a2a9c9638a305ba3e9e4f9345b27d4/,2020-02-23 08:16:21-05:00/2020-03-06 16:46:46-08:00/2020-02-27 13:25:22-08:00/2020-10-06 13:54:31-04:00/2020-03-11 02:59:45-04:00/2020-02-27 17:03:02-08:00/2020-03-06 17:47:23-08:00/2020-05-04 17:37:53-07:00/2020-02-27 07:16:46-08:00/2020-02-28 17:43:43-08:00/,"Formatting fix (#97)
+
+* Added notebook format checking
+
+* Ran formatter on all
+
+* Undo format checker for ipynb
+
+Co-authored-by: MichaelBroughton <MichaelBroughton@users.noreply.github.com>"
+jcmgray/quimb,56d1ce8f65fd5ed1ada333063ddfbad43d761d47,2019-03-05T18:00:25Z,f0f83c64f816644ca0f1f5090e15d20cf8f9226b/,2019-03-06 14:46:03+00:00/,"TN fix for multiply spreading with negative real creating complex data
+
+
+further fix"
+XanaduAI/pennylane,7b3d21575b698d98b6c1d080ae776d49b7ab59db,2018-09-04T16:45:40Z,3e2d5dd2ee7d9ed08c8be9bc65f0e341fbd77b43/9713e459f02106fe8005657df8bc4365fe94de23/946c692566313b3bbd3b8932df7e35460a59ab80/d4a02c881ef3ea00474060fc681bd5b6f189b52a/8b3a9ecf5e0a637998b300343abde5a61b032f8e/603994053b1d4a4f7a10888151071be65847b4f4/,2018-09-13 21:58:14+08:00/2018-09-13 14:33:28+08:00/2018-09-10 18:51:20+03:00/2018-09-17 11:14:28+02:00/2018-09-06 11:11:11-04:00/2018-09-16 01:16:47+03:00/,Fixed up tests and examples
+TRIQS/triqs,0d411c74e496a95524b7579b6739a885dfbe6a93,2020-06-16T13:55:23Z,7521ff41bc848e694e2f4d77fccabff6cfa5e1cd/b4305510e7f32cb2e4ad685d1093214b424523fe/,2020-06-16 14:51:58-04:00/2020-06-17 09:47:58-04:00/,[cmake] Use -std=c++20 if available
+deepchem/deepchem,36440eb4258ef231b2fe0e8ecd0b070ebbdebdda,2017-02-24T02:40:35Z,6f2393729908116a3528bdbc70f49aa9781b3bf9/,2020-01-27 16:04:21-08:00/,fix for tf sessions
+evaleev/libint,812a0662a3ed861a7a709967a817fc1eecc0fd1b,2005-05-09T15:17:06Z,80ee23a8a70c08a8ea65837896f2d7fc82d019f9/c06aaabae6504bb8245e1e1a0f646d30977ca21c/d55f72f72b1e6c3a8c218ee2555676e7e3f689a2/d0e0a3c1453d283c58626182ac9ff49201df65fd/38dd046939ce4974e90ad1f6dc7e896c6561f091/,2006-02-14 20:05:00+00:00/2014-08-15 14:29:24-04:00/2008-06-10 15:10:25+00:00/2005-05-11 18:28:20+00:00/2006-11-02 20:57:10+00:00/,"Adapted to V2.
+
+--HG--
+branch : prerelease-2-branch
+extra : convert_revision : svn%3A30ab2afb-5f51-4bfe-ae8b-bcb573c66ba7/branches/prerelease-2-branch%40148"
+evaleev/libint,52cfddbfa4da93b66c6354fccef748ceb68ed2ec,2019-07-22T14:18:15Z,10a362bf9df3992961cb9a8f0a3ea15350e21360/,2019-07-22 11:23:55-04:00/,updated CHANGES for 2.6.0-beta.7
+TRIQS/triqs,698c4c532b1f0352de8544d8649a68807c18939f,2016-05-24T17:13:47Z,33f57ecf57166b13262e781a747fcf0b079a48fc/8ce34550fb0d66cbfc6ec5bf25036dbc3397ca7f/,2019-05-01 10:06:28-04:00/2018-05-26 23:43:55+02:00/,[utility] Fix #330
+qojulia/QuantumOptics.jl,e1a188df59b206736fd9a52d1a0570808fde2ccf,2017-03-31T07:33:23Z,525f058cb5fcb59832ded097d9ee57e29bf85151/,2019-10-07 10:34:06+02:00/,More tests for lazy tensor. (#105)
+qojulia/QuantumOptics.jl,00f07f9ae90d1393cd05abe3d36ca4c00b24f2c1,2014-09-04T13:18:53Z,b26c1f0b377158b3eb2662e2e750ef4cb0b9fa6f/36261d9866cd462552ac4109a6020f00dbba9a7d/,2014-10-07 14:24:12+02:00/2014-09-04 19:19:51+02:00/,Export pauli operators from main quantumoptics module.
+TRIQS/triqs,acab58a59375028f5fee907dbc3d80de1ef496ae,2016-08-10T16:27:55Z,8d1d13907096c7160f8b0b94abb2456c78cdf230/,2017-07-06 22:16:29+02:00/,[cmake] Fix HDF5 detection by CMake version >= 3.6.0
+deepchem/deepchem,a34adf28d7c1a0d9940ba44f6e544c40b63792e1,2019-07-14T21:49:28Z,ede8600fe4e0062db7ad648c48672fd7bea99419/c2cfbc453eba3f0766184601311e00bc6f7310cf/9525c8b95b4ce1290d73cc0286e3f313dc4be9a6/d8a17537dd7a9874d314b31d7680b36824d3fa13/cffb807a323dfc4e6484ceb4e6237c90ff7081a2/d21490ef8754bd9a13c95a612ed598694be4d0a3/ddd84250327bd5ad9546ef6990e4fee589801881/,2020-08-25 23:51:31+09:00/2019-07-21 18:44:20+02:00/2020-07-02 19:21:02-05:00/2020-07-07 13:24:19-07:00/2019-07-17 11:39:45+02:00/2020-01-24 09:16:14-08:00/2019-08-05 12:47:36-07:00/,Edits to logging and saving for KerasModel
+orbkit/orbkit,853c71bde1f06fa470da702a10e6d170c18392e7,2017-09-30T14:24:31Z,01f573147c632ab7db18eee4f3f6d8c57e45883c/4dad4479f1f53f34fe4f03902522adccd121f0ee/a04ab3a499fceddeca39686a4d5bc829243f4787/a6f74f986d3378c5b1be74e5c59da60168f0f084/be79315d0be136436268e639f9b031d018a48fee/,2017-10-01 18:27:22+02:00/2017-10-02 09:20:38+02:00/2017-10-01 16:49:30+02:00/2017-10-18 14:35:04+02:00/2017-10-06 17:34:22+02:00/,Fix reshaping of libcint output
+Qiskit/qiskit-ignis,32c7af68ef2c5f5e34e9f251cade2a851a95ce8b,2019-03-05T13:29:58Z,91d777f2d1654f28f30858ace3d8c9eab72ef145/7643f60d44ad41001d1806a0b85e35339ed21fe8/,2019-03-08 12:52:14-05:00/2019-03-06 13:44:25+02:00/,Wrote the sections on circuits generation and backend execution in the new relaxation_and_decoherence.ipynb
+deepchem/deepchem,d92ea751c31a0e098fd489724ab77a216c802116,2016-04-25T23:37:01Z,0450b9e750dcbbaa67965e2f6f9d4fe05e4dd228/64c532c1c6369c62614438785dcc435942fe8de0/ae8739f236c91da7e040e508afcc988d66172b22/526a8d8bc1303ac2364f728ba0fed51f57697000/b3463f05941b7a08f1e9564ceb1402f6f17f0ae2/2c0978852241dc329769f5341c20c809ac488eed/d4227698f8c3175382ac835a57cf945353997c69/aa6e3b120d213e2b0e431739470f73698a7b93a6/098095d4ce426edb89e61eba2923b89dfc191bdf/63f2ecf3570d1625e3250d0913af7b89abb192ea/b10de1da14548fa3436f11059276777f30062d89/0890181b42ca6b1963afeec67dbc4ce7dbdb1c19/6b467aa2eaaef02e9c48c8530b5c29b17d648a84/cf15455463620718f0c95eed924023a7d43a66e2/d8be13f18968fd132bca7b4b16c3172c84fb5d2a/,2016-05-01 13:37:54-07:00/2016-10-30 21:25:04-07:00/2016-04-28 20:32:08-07:00/2016-05-16 12:38:51-07:00/2020-06-26 18:02:59-07:00/2016-09-28 13:25:35-07:00/2020-07-24 13:08:44-07:00/2016-05-28 17:13:25-07:00/2016-09-30 16:54:12-07:00/2020-06-26 14:47:36-07:00/2016-12-13 19:50:25-08:00/2016-09-28 17:07:31-07:00/2020-07-11 20:38:08-07:00/2020-06-25 19:40:26-07:00/2020-08-16 17:30:46+09:00/,Add prediction printing back in.
+deepchem/deepchem,5531c218e8b373f10460cadfbf780048a3128888,2017-02-22T08:14:43Z,e99ed5a04a3d5fd14d3682206fd5834c124552ea/707c2592cf6bb9c4079865faf95ae0a7279e5c39/5639ccb5e9d9e936d236938e3f71d10d2bde10fe/6f2b005da061007c2d838c4239b06d83b4b7c22d/b7980a0bff6bf322fb05c24515284634e478d85e/,2017-02-22 00:38:07-08:00/2017-11-28 10:43:45-08:00/2017-03-23 13:08:50-07:00/2018-01-27 21:49:03-08:00/2018-05-04 18:04:48-07:00/,irv&lr fix
+QInfer/python-qinfer,24ba3d8fc75911043ad0214ba4df474354314785,2014-11-17T21:48:52Z,1d431dedfbfa27728581059e5602ade71de8e873/05e9459be477aae62c9c4aba45591ea9b8ea06b3/d14420f8d226846efe239eac59590062017826ce/02d2f574f68c54d1d98831877b2ea01986024808/e4cc1ca89ec17e86dc75b1378a24e057149e6d18/db773b12749ecff9c8bfb8c10c4a30aa6f8b9597/419e753ff838adc804d8e5ce10cd8b6394b5e914/10b445cd43078b35de327b8d263123bb3980b354/f87428ffc9224129dcddbcc03f7330192fa65fbb/,2016-04-03 22:00:51-04:00/2015-04-15 09:31:57+10:00/2015-07-14 20:18:34+10:00/2014-11-17 17:01:53-05:00/2014-11-17 17:27:40-05:00/2016-05-09 20:01:13+10:00/2016-04-03 22:33:04-04:00/2016-04-04 21:11:11+10:00/2016-06-08 14:00:52+10:00/,"Enabled parallelization, tskmon."
+TRIQS/triqs,8d18b4fa178dfda1c3d5f4eef78af3f93e798a9f,2018-05-08T18:25:11Z,2d9b8dde5fcd0da45bf5365b09623197b9202a2e/d3731e245621ed3e6013bc25c7be6ce84c8f336c/2216e962a8192f7d383ae72e153bdb92db873d65/bbaeb5864bfc2d5a271a58265ceebfdb117fae3c/8ce34550fb0d66cbfc6ec5bf25036dbc3397ca7f/b51bb53290d5bbaede40b6c99eccfb116b65bb71/,2019-04-25 11:22:29-04:00/2020-03-09 17:35:36-04:00/2020-04-27 14:43:30-04:00/2020-04-21 14:15:24-04:00/2018-05-26 23:43:55+02:00/2019-04-09 16:39:53-04:00/,"Fix  #431 (histogram improvements) (#516)
+
+-Add Boost serialization support + Python support
+-Inclusion via statistics.hpp
+-Code refactoring
+-Implement mpi_broadcast(), Fix and test MPI collectives
+-Changed type of _n_data_pts and _n_lost_pts to unsigned long long,
+because mpi_datatype() is not defined for uint64_t.
+-Remove default constructor from Histogram
+-Remove outdated histograms.hpp from mc_tools
+-Add more namespaces to be processed by c++2rst
+-Fix atom_diag documentation
+-Document histograms (C++ and Python) and add a C++ example
+-Extend C++ and python histogram tests"
+evaleev/libint,f1996fba91731070d3bdef14dcfad07001f8d404,2008-06-18T03:41:41Z,e62b8c19ed4aa9638ff72d9d91d2a6758cf2e832/,2010-06-09 19:18:05+00:00/,"Adapted test to recent changes.
+
+--HG--
+branch : prerelease-2-branch
+extra : convert_revision : svn%3A30ab2afb-5f51-4bfe-ae8b-bcb573c66ba7/branches/prerelease-2-branch%40409"
+aiidateam/aiida-quantumespresso,ccb8fcf57c6975c274a67cef31ee9531efc833d4,2018-03-28T14:52:52Z,4f076ab9997070fa447d38eb0e470d696eecd100/,2018-06-25 16:45:47+02:00/,PwRelaxWorkChain: fix small bug with Node not being unwrapped
+deepchem/deepchem,934c167249d4b1f2220079b9c3c9fa1c9b4dcf99,2016-07-28T21:38:59Z,641d6bbd42ea4fb3a27aead07619eb5c8eecbe27/fc092acf17c33d73f4d7400112585b950b2421a8/0017a77551376a895531b1020b82acc9029563cd/215ea67a9cc7b5eb6ffc68fba02cbd4c2f77e616/963d201f11f0cb84b89d44e275060235b59a9d66/6f619a6b02b38c1effb97014b492627b8ab19f03/50efccc10d7dd32caf913b7da3059551dd7739d6/5be48301b35cb59c01cd318b0095c33b7a3c726c/dd3862dae7c5a200df8e3ec6c6e7b0a76d35bb0f/,2016-09-21 18:10:19-07:00/2016-08-02 14:45:39-07:00/2016-07-28 15:16:25-07:00/2016-08-01 10:31:39-07:00/2016-08-01 16:33:06-07:00/2016-07-28 15:48:44-07:00/2016-08-01 14:00:21-07:00/2016-08-02 14:21:41-07:00/2016-07-28 15:22:04-07:00/,"fixed bugs in tests, but not done"
+deepchem/deepchem,74fad77ce398d8e525ffc0b05e14eb90678f2d2b,2020-03-05T01:03:59Z,49c5452eb583e8c61dde57b9e0a82c817a3fcdd1/9b5f78cc7f06144c5421c664f88c36fdc67fafe3/367160126d2c4c5b95f6b404b5fb2c6d48827ba2/b7f5dbe9c524dbe4d8859d5a535d4994117bdd24/6a4850948b34e8266ae59c1f84140b053050dc9d/5363e2abdea93e87ead0c19ef99ea4c778c7c860/57cb1a1c6528b0c41c45abe399119c79ed2e4fcc/dd5dc438e53f6de6c51798035704380269fd212e/eee39f3db9a4aa39c09fb21b8091d961962fb971/c1783911aed51af42b6e60da1bafa1b6055afd6b/715d94afd43e227430c48b22271f23fefea11332/,2020-03-06 17:31:06-08:00/2020-03-05 13:53:10-08:00/2020-03-05 18:06:34-08:00/2020-03-28 16:50:28+09:00/2020-09-13 22:55:48+09:00/2020-08-24 09:11:21-07:00/2020-09-25 14:11:46-07:00/2020-10-08 09:49:57-07:00/2020-05-31 12:53:10+09:00/2020-03-06 11:18:01-08:00/2020-09-15 12:59:40-07:00/,Shuffling ipynb
+deepchem/deepchem,d65baa3b09ed3db1e11fb7f45022364d0c119efc,2016-12-27T03:53:04Z,ed567fde6470394bbbb2370992ea25f390f2f47f/707c2592cf6bb9c4079865faf95ae0a7279e5c39/bf06e8132b67244cf9f6d2d9f4d13413650fccac/,2016-12-28 19:50:11-08:00/2017-11-28 10:43:45-08:00/2016-12-27 00:15:49-08:00/,Adding support for refined/full sets
+deepchem/deepchem,ec4516bd0e3df84d3243f6bd0b3395a84fb1c19c,2020-07-13T19:59:27Z,624dfb1a1263e5539d30112e2ba7344957b9b20f/231664cd74e4e17d4b26cee5e564671ee5069057/89d8cd3109c67b1cfe5e36ea9c70ccb2390505b0/2b76c72b4a67a8692ec7617c7a2d41cd8148d7e0/0dd1de30b8c8706a8b3b84b33243285f4d186c62/5151acad72171358584833c4dc9fac456e6cce5c/f43ff4c153a8c302137a2cdc672d91afc6c81471/8fe09cd6d1b6cd362c15d3963238f5abc4cac06a/7c87e8e0d78517e0c9bdd41d000a01a5f39b9d86/0c0a6a6d13913db55aa97fd5866d33e5b1ccd24b/b414182237fecef9fd2874c6f9bac900348e28af/c85740e25d8fd820d4665cd0d8c4cbfae45f3d13/,2020-07-20 16:14:29-07:00/2020-07-15 16:46:50-07:00/2020-07-16 15:30:23-07:00/2020-07-15 18:25:58-07:00/2020-07-19 19:52:39-07:00/2020-07-15 13:29:55-07:00/2020-08-11 18:17:18+09:00/2020-08-15 23:39:56+09:00/2020-08-19 00:36:40+09:00/2020-07-22 16:09:30-07:00/2020-07-21 12:07:09-04:00/2020-09-07 12:44:10+09:00/,Refactored json fields and added docs
+evaleev/libint,742695f85fb9d9a40ba200ddcef04690025f867e,2015-05-21T19:47:35Z,fa04958d305da3c644057c1b04b00ffe7b8bc2b2/,2017-07-31 14:52:01-04:00/,Re-amended bd5f08b8cf3e2a37bd6591047caf8b04f514ff15 to use proper one-body operator types
+aiidateam/aiida-quantumespresso,891e8edf5916ecfe55363168c79091acc581a6ad,2019-07-11T11:28:48Z,d0a13b2fd34e566398440db7220b23917fd3a086/a77c68853cc87f538552a4ac45a799e097ad3f93/,2019-07-31 17:15:11+02:00/2020-10-09 21:39:35+02:00/,"`PwRelaxWorkChain`: various improvements
+
+ * Start from scratch between meta convergence iterations
+ * Do update the structure between meta convergence iterations
+ * Exclude the `clean_workdir` from `PwBaseWorkChain` exposed inputs
+ * Update the number of bands between cycles, if updated by base workchain
+ * Set the `call_link_label` metadata inputs
+ * Add error handler for `ERROR_IONIC_CONVERGENCE_REACHED_EXCEPT_IN_FINAL_SCF`"
+TRIQS/triqs,2fc4f1cd090aa759d3675e6ed8a058df5ad2b409,2013-10-22T12:10:44Z,11fd166ca5c2d9b2085293582f5e666a62ddaf95/fa07abbea9affdc8945a8447f376dc8cba4eeb3b/26fe547f880df416f15fe6f6920840b58193397b/603e397e166296fc15baf4ea7737d7179b1b7758/bdac3e159c5997c894ae1133139779889d923942/,2015-08-22 21:22:21+02:00/2014-09-05 13:26:21+02:00/2015-08-22 16:48:37+02:00/2013-10-22 21:28:25+02:00/2013-12-30 22:31:36+01:00/,gf: add rebind view/const + delete swap
+rigetti/forest-benchmarking,feaa847ef1bfc22a2f26730a83e6eba141a58e38,2019-02-07T22:00:52Z,fe15c067c42f54a78c319f88c6bc5fa275f39275/40deb4abb4087d4c2bbd51819a64ed1dbe4d5b05/858129257b01f4b6f9393798d17b72103f2f62ec/,2019-06-11 17:11:33-04:00/2019-03-21 10:37:20+11:00/2019-08-19 14:49:07-04:00/,clean
+jcmgray/quimb,fbead6991ad8fa9c8d13dd29b5b63f2f724910d3,2016-04-18T16:53:10Z,ed7f306b7f255f23ff49e87558f543f302762f5d/3631638899b249f9056a57f9dda1f6c63f278bca/,2016-06-23 17:32:27+01:00/2016-07-02 17:48:21+01:00/,test explt small
+deepchem/deepchem,e03fd43e3bc50fcec88e35eada8341cc24cbede6,2017-08-07T16:45:25Z,f51b1451522d9478a8ab7b4d59ba0763f0a7f20c/,2017-08-07 16:01:13-04:00/,tf 1.2.1
+TRIQS/triqs,b40f7c8a0d28e778dea6ae073cb145333821b9ea,2015-07-27T16:02:48Z,8d1d13907096c7160f8b0b94abb2456c78cdf230/,2017-07-06 22:16:29+02:00/,"[c++2py] Fix property returning void...
+
+- although it is a quite strange property !!"
+orbkit/orbkit,69a42720821380136c6f8bc696b808425a4d5eae,2017-01-24T12:31:04Z,fbc033298116e14ae8877aa6187aea003b6cb53a/,2017-06-15 17:25:43+02:00/,Fixed bug SP orbitals in FChk reader
+TRIQS/triqs,3aa380ba9d4deaf1addd69abb4081c5b35e73f5a,2014-05-07T08:49:50Z,2b5dd322ce6d2b5f7b8a9c525189271095ba73c6/8ce34550fb0d66cbfc6ec5bf25036dbc3397ca7f/f5db0d1e1e199643751b49c1f8a1d165a8ff9336/d6419d1e6935b204b048e0d3e46b5611b23d1033/,2014-05-29 21:34:46+02:00/2018-05-26 23:43:55+02:00/2020-02-20 16:07:47-05:00/2019-03-15 10:02:33-04:00/,"Fixed abs bug in bravais_lattice + added method
+
+When constructing the last unit vector in 2D, the sanity check was wrong because of usage of abs instead of std::abs.
+
+Added method energy_on_bz_path_2 that returns the energy *matrix* at each k point on a given path instead of the eigenvalues of this matrix. The name of the function should be changed (to energy_matrix_on_bz_path?)
+
+Renaming energies_on_bz_path_2 to energy_matrix_on_bz_path"
+TRIQS/triqs,6239dee8b39dfa09c7199d8288d64b61940991f2,2013-07-30T19:46:03Z,8ce34550fb0d66cbfc6ec5bf25036dbc3397ca7f/c95b548108eda92e40665d4da5bc1481a4cc4dd5/1030bc7a875f5d7fa377805cbf125a7e24819aa5/85141350e7a0c5d16ecf51573a4b4b97f5fe43ad/fa5202aac3a9d220fa6643bd9885552a886ba2d0/905f4ca1a3de425c9dc9744d9449e09be803a710/117d9f27991b3a2e1a2012764df990492a52df55/4af1afbdaf7facd6eda279f2ac8a1642e5963b62/7ae5ba58cb18e083adf69e6e475ec0479e5c890b/e2ca15160226d26b9dd6135429de710a3121f0fe/0e5c2418d68461e0b05eb9a0586f242711960c50/,2018-05-26 23:43:55+02:00/2013-10-03 11:02:09+02:00/2015-12-23 14:27:35+01:00/2014-01-30 22:17:28+01:00/2019-03-29 13:27:52-04:00/2015-02-14 15:56:43+01:00/2015-12-23 13:24:57+01:00/2014-06-08 21:47:32+02:00/2015-06-02 02:37:01+02:00/2016-05-09 11:37:33+02:00/2015-12-01 14:48:07+01:00/,"test/triqs/mc_tools directory added, with an example of simple random walker"
+deepchem/deepchem,5add5bac13b6843bd1d1fd330b4f8cf349529f77,2018-07-31T13:33:49Z,f2856a6114554c0fd38c24acf2ced449349ce742/64099a1d2d671705cd9d4a18f9413f4c3569bc86/a95410a3727256e522375c713cfc59de879500df/,2018-12-27 14:49:31+01:00/2019-04-19 11:26:51-07:00/2020-05-21 15:59:31-07:00/,Just Changes To Graph Convs
+jcmgray/quimb,289bafa44d5e875c4405a1b4c8397c8f0c2ef03c,2018-08-15T00:54:04Z,eeb57d6a00ffab256190bf0aed2ab09f54731d88/73fe476f9a34225acfbb1514fc4ba7581b7a6522/d5db2de78b0db1591a3eb4ef01068f03149957ea/be2468b4c3152fdc77071495ed64bea3698ca97f/9295af597726ce282db0b28aa329971ac2edddfb/,2020-02-10 23:18:20-08:00/2018-08-15 15:33:25+01:00/2018-09-06 00:58:09+01:00/2018-08-22 19:02:51+01:00/2019-10-23 15:44:35+01:00/,updates for new rand changes
+deepchem/deepchem,3ae09ba59a666fb69ce23bc9f2e4abb9c966f535,2020-09-15T00:55:30Z,d87084ce7961b995ae5157f75232ef98d30efcac/,2020-09-15 13:19:53+09:00/,Fixed indent error
+qucat/qucat,96daf27870473a2da46b533a0fc3060b34a4671a,2019-05-03T12:50:14Z,a94b30cb3ffa8a2653c002f55b0a91461622efbb/c978983abcde81a2503ea4756292d2746c407e2a/,2019-05-03 16:46:15+02:00/2019-07-03 09:51:29+02:00/,Adapting arrow directions
+evaleev/libint,dcc0c9a5c05e156ac0794ed206198649c2cedca1,2014-11-28T03:38:01Z,cdb4456e61bcf352fcfcac204bf0ccac21a7e7b3/b2941b2c6a844b15e2c2bea648f9863e3ffa17df/,2019-05-17 15:30:14-04:00/2020-04-01 22:37:52-04:00/,travis-ci: debugging export build problems
+TRIQS/triqs,e12e94905f23e61e7e91ca54c679cdde2b4ea43e,2016-06-09T16:28:04Z,7e215a6da7e2af6eb2013b4b29dfdfbba539301b/f5db0d1e1e199643751b49c1f8a1d165a8ff9336/10d2e3701a06cd538e9b6627b47b4bd75460fc26/a6a55d93d64c05bd02e76c98f4396020d69929aa/9ce8861a2223029d888d89848c635df94da49992/3d223195224735e68ef65c3c206eb5d421dd676c/7d3db78d77927b499404d35dde129402506c916b/bb13ff248ec142fb565f464b868dacf598e92fb4/924fd170be655ffb9cb68056f7a0c8a385ea6e6a/899196f0085ba90c974f9f11afcffe61705804d6/,2020-05-06 17:02:14-04:00/2020-02-20 16:07:47-05:00/2018-01-24 19:36:08+01:00/2016-05-05 18:28:23+02:00/2017-01-15 16:34:16+01:00/2016-07-15 11:53:29+02:00/2016-07-13 15:43:29+02:00/2016-12-04 16:18:53+01:00/2016-08-04 18:02:06+02:00/2017-01-21 17:56:15+01:00/,"[py] Wrap G_k_om (and related).
+
+Wrap basic functionalities of G_k_om (imfreq/refreq only).
+
+List of wrapped types:
+- BrillouinZone (in lattice_tools_desc--> pytriqs.lattice)
+- MeshBrillouinZone (in gf_desc --> pytriqs.gf.local)
+- GfBrillouinZone ("""")
+- GfImFreqNoTail ("""") : needed for slice at const k on G_k_om
+- GfReFreqNoTail ("""") : needed for slice at const k on G_k_om
+- GfBrillouinZone_x_ImFreq (in multivar_desc --> pytriqs.gf.local.multivar)
+- GfBrillouinZone_x_ReFreq (in multivar_desc --> pytriqs.gf.local.multivar)
+
+Test: in pytriqs/gf/gf_multivar/g_k_om.py
+
+Note::
+- plotting is still rudimentary (because no oplot for GfBrillouinZone yet)
+- did not check: serialization, hdf5
+- no tail in this object"
+TRIQS/triqs,5b3904afef9258663b4560bb516c2c22b42b8ea0,2020-06-26T20:22:48Z,81e82709023ada718470b35e8331536d473794fa/c56ece95d6797f4bbb502af325238d51f246fbe6/03171a021646c4b74d91d091bb50f37551a2abcb/082a9dfa75149a067b5ee624dae8e1a56da8626d/3d78db32c77ec979356575050322937fe7990b51/5ea2fb4d73f536fedf5947e84780c9b7fe99fd0a/5e2efaa00a6678aa2b04fb95f12c5351aa84d64d/,2020-07-08 12:03:19-04:00/2020-07-08 12:03:19-04:00/2020-07-01 09:19:26-04:00/2020-07-02 16:02:10-04:00/2020-07-02 16:02:10-04:00/2020-06-29 17:44:25-04:00/2020-06-26 18:10:27-04:00/,"Draft of a focal-based base image using memory sanitizer for libcxx, hdf5"
+deepchem/deepchem,4fed7c2d07f0fa64f91834c7d91fc04330f0d662,2020-05-05T01:40:25Z,8df1d6bf8f45f2616e2bf6922831f516d0f9157c/d05e0ef5dca3fd1224718681dad30c1fc23319f2/0d530e60d4ee11cb5ddcdcfa9eced22e230592cc/11850f7a4cdd75cd4456de9d48d6369f1acb602f/,2020-06-06 22:35:48+09:00/2020-07-16 14:22:46+09:00/2020-07-03 12:10:21-07:00/2020-06-01 15:09:16+09:00/,"Run CI tests on Windows (#1835)
+
+Run travis tests on Windows"
+QuTech-Delft/qtt,9e4052300e6638dfa282c954a77d7058a2047a83,2017-06-22T22:20:15Z,99dd31c9584d8af7346097f9979448c85aeaa456/cafab81de1a62c2bfd3b522459ddce6704da7344/abdb0ea4de1e070c64adb5ffbd1bf1893ce9bd49/da34a8c1af55d3a02f0d044b13837f70e39f16fa/93e7eca4b2135c96f98d356a17c3da8cc4dd1c04/c9ec15ac06ef552068429d19341835ca5d6b4e12/,2019-04-12 13:21:04+02:00/2018-10-14 21:35:55+02:00/2018-05-18 12:34:48+02:00/2018-10-14 21:35:55+02:00/2018-05-29 20:32:53+02:00/2018-08-08 21:36:37+02:00/,"add fast readout mode for gates (#111)
+
+* add fast readout mode for gates
+
+* fix typo
+
+* fixes
+
+* add multi_set; fix bugs"
+deepchem/deepchem,dcaf25250ec0b0d6ab82edb3ec406538b26e46d8,2018-05-09T19:45:25Z,d97cbca1cf7e04a5e7cad348a226ebaf2b07a366/,2019-08-28 10:53:37-07:00/,yapf
+XanaduAI/pennylane,3b3eaf016d29eee0bd7fdf42b0cbe764deaab8a2,2018-08-15T11:48:38Z,2563fbc94a8f49849df8bb1dfef7074fe065ebcf/015b5ff29dd63081c36c384b4371901c46411679/4b64aea84d609205dbe3d9a666dd68f428330818/ef7d7b016ddfbab1c112e0bd465c90a08dc31104/9f051839ce48f5f99675734d88bd42c57156b54e/96391dd5c6c3234c432b9334bc6de5cd150172d5/af639182941b9f5500ecacdfde54e0851c9e53f9/147559af093fdb3a15531a4b890f00d3cad8e67e/,2018-08-30 13:01:43+02:00/2018-08-15 15:45:17+02:00/2018-08-15 16:57:27+02:00/2018-08-30 17:28:20+02:00/2018-08-15 16:31:29+02:00/2018-08-17 20:56:22+02:00/2018-08-17 20:48:47+02:00/2018-08-23 13:49:37+02:00/,added AllZ gate ane AllZ measurement as good as currently possible
+deepchem/deepchem,1681f49491a389c2e9b8ac40d12545065b6cbf4c,2020-02-25T04:48:47Z,9b5f78cc7f06144c5421c664f88c36fdc67fafe3/367160126d2c4c5b95f6b404b5fb2c6d48827ba2/,2020-03-05 13:53:10-08:00/2020-03-05 18:06:34-08:00/,"Cleaned up uncertainty, gcn, model-interp"
+jcmgray/quimb,537273c98d52199443cc16a3f81fff79f28541a3,2016-07-06T16:47:23Z,d5cf252ff04a486592f8f6b92972dcb77c4075a1/fb97560a6a9a427a629ac03a8f73cce8b51bd132/,2016-10-06 18:50:22+01:00/2016-11-02 01:06:09+00:00/,small refactor of evo [ci skip]
+QuTech-Delft/qtt,584d56b7ce9349c24dbbffb99f8be0ec946dbca1,2018-02-19T22:39:27Z,c09e6e129be7b0f207bef8a49c6cef8a792dc263/e1c976c1a0717b4d7d9a0d2f9872ba17708268d8/423ce83131f924009b1cbe447f5ae67d9a35b224/,2018-08-27 22:09:30+02:00/2020-01-10 14:45:56+01:00/2018-04-12 14:31:35+02:00/,"Fix/crosshair (#271)
+
+* deprecate functions
+
+* fix for crosshair"
+QInfer/python-qinfer,5670dca770cef719cfb826123da0255d375e8592,2013-05-17T15:39:30Z,419e753ff838adc804d8e5ce10cd8b6394b5e914/96f402540673d56a9cda69f70a3786aa5a7eb930/,2016-04-03 22:33:04-04:00/2016-05-10 11:19:21+10:00/,Small improvements to qubit plotting examples
+orbkit/orbkit,7c123d1d41db4d5b5370bef4c55b9416b66a77b8,2016-01-08T12:15:46Z,e647f14c037c869327b995c8e0eb1438710ca8a8/e64122d02bd67883a4e798340f3f1df0bcce92f6/,2016-02-11 22:35:21+01:00/2017-09-26 15:48:20+02:00/,Minor bugfix in extras.gross_atomic_density and vmd script creator
+evaleev/libint,a155e6255234c2c4ff39f515ddef394594b9b08b,2015-05-26T19:30:18Z,1610551038a13285b58f19ad16ee363aecc6e231/cc519b9ba161a6593565db1c13c36de4dcad2b31/91ede893905ae07a7bf51cb77f00de3ff0965e54/8ef27a4f3445fd406ca738b226ea7142fb13201e/80d829b0e9932cd118a85e8aab03a41fe0699a7b/09bf324f2fa185fd16a5e60c42c21154ff6729b9/,2020-04-16 06:50:46+09:00/2019-04-09 08:12:33-04:00/2016-06-04 14:47:09-04:00/2015-05-28 17:07:16-04:00/2017-01-12 15:38:45-05:00/2015-07-07 15:28:22-04:00/,"1) implemented generic build for 1-d GTG ints (path to Rys)
+2) added test_eri_rys ... currently requires libroots OR total L=0 or 1."
+QInfer/python-qinfer,f7f31e213dad1f3b17d477102081ed0e3d678ef8,2016-04-12T05:41:13Z,ca42c3e924931fd97bbf781f4c7150f339d0cf2b/cb4074fa763720a863b7d9e27165abe51c346d5d/cfce7e7b7cca84d39782b3924a502ad8b334bca1/46c69c75fc480939704b50d4b11aa67daeb8bdbb/,2016-04-12 16:03:19+10:00/2018-08-06 17:26:22-07:00/2016-05-09 16:52:11+10:00/2017-08-23 09:16:53-07:00/,Metadata for PyPI submission.
+TRIQS/triqs,32814be65e9d322965b6973cda220416f057ef17,2013-07-25T11:25:15Z,e5648d2bfd29e51711d77dd46a4345f22f1d122a/bdac3e159c5997c894ae1133139779889d923942/5f7e0989a36e523089cb0ec676a981b86c7b5321/,2013-10-21 15:07:29+02:00/2013-12-30 22:31:36+01:00/2013-12-23 23:19:03+01:00/,"gf : add nearest_point for krylov
+
+To be cleaned, it is redundant.
+I put it here to make the krylov app compile properly"
+deepchem/deepchem,4de0e1b3a3b0ae98b38966b04d2b062e4c8b98f5,2016-02-01T02:56:46Z,1192e19c5e1884b508ac90aa868b344b3da49fa1/386fafee4052f425ff7796bc07f4e08d2206b34c/b49f589771ede631edf33c51edbf75da47c8334f/,2016-10-08 18:58:16-07:00/2016-10-08 20:26:47-07:00/2016-01-31 19:27:26-08:00/,Updating secure travis env variables.
+zoran-cuckovic/QGIS-visibility-analysis,dc59f71ba46e3578b8186a3c6bb44c7ee10e520b,2016-08-18T10:09:17Z,05933bd0d186de794c54821394746b9910590d10/,2019-05-28 13:17:15+02:00/,"Update doViewshed.py
+
+Fixed numpy format problem"
+deepchem/deepchem,674558d84c1a887f5a72fd6e4d3d8538def34a94,2016-07-29T18:25:44Z,641d6bbd42ea4fb3a27aead07619eb5c8eecbe27/dfac7bb74a59e2e38501ed88242acb43f2c14567/af87706baf8d19ebb77733fd7a0b0feb6c9d07ac/e3581dd0617597b8c95d642ddfb8edd760cef741/b597884099b3da52ecb23f8d97dd1fc1b764783b/50efccc10d7dd32caf913b7da3059551dd7739d6/5be48301b35cb59c01cd318b0095c33b7a3c726c/,2016-09-21 18:10:19-07:00/2016-07-29 15:35:19-07:00/2016-09-21 16:07:32-07:00/2016-07-29 11:28:47-07:00/2016-08-01 23:50:50-07:00/2016-08-01 14:00:21-07:00/2016-08-02 14:21:41-07:00/,trying to fix test
+Qiskit/qiskit-ignis,3c364ecc664d8df67753d8db5b2e0ea32d5218f3,2019-03-07T13:02:52Z,91d777f2d1654f28f30858ace3d8c9eab72ef145/2e8788319d8cc477817561593ad4e2be7086c20f/,2019-03-08 12:52:14-05:00/2019-03-08 12:33:52-05:00/,Fix the iterative plot in RB tutorial
+Qiskit/qiskit-ignis,6fe2999ecd7459e401537474352217e5ca66105d,2020-07-31T14:23:49Z,f4b410057faae545c2e70abeb21e055278afdb95/a705a6e165b86c7aec36343a146857b475bd3b4c/,2020-08-12 10:09:24-04:00/2020-08-05 16:31:38-04:00/,Migrate Quantum Volume circuits to use circuit library (#460)
+QInfer/python-qinfer,48dd1b81e545e26d65546e4062c1d31dd091abf8,2016-04-26T00:26:58Z,dc4088378b792e4b9e048e8eeef7ed3d86e49e6a/,2016-04-27 23:56:20+10:00/,Update README for Py3 support.
+TRIQS/triqs,0b17152bd9c23e4c288bee6100269d55f24fd861,2016-05-06T09:11:02Z,ed7d344b789eb7f871e8b6207decf974901e7674/a6a55d93d64c05bd02e76c98f4396020d69929aa/c7d9c3c2ca56503baf42605018bea741e1073c5d/1855f2a14b46a66d95f792fffa5a35445e84d810/fcc0691fbe5d928c8e22fcbac30146555cf160c7/,2016-06-20 11:16:30+02:00/2016-05-05 18:28:23+02:00/2017-01-14 14:42:34+01:00/2018-05-02 22:00:07+02:00/2016-06-13 23:50:32+02:00/,"[gfs] fit_tail
+
+- for tensor_valued template on Singularity
+- fit_tail for negative Matsub.
+- clarify treatment of positive_only/all_frequencies"
+XanaduAI/pennylane,e7a55ad4a1fda58b606e28c045b78c7b9bf38831,2019-01-12T11:48:44Z,b069aeff1170d8a9d112e2ac4accc7f6c0af184e/,2019-01-15 15:30:57-05:00/,added todo
+TRIQS/triqs,90ec42e8a7430beba5161b2acec2f8828fa54826,2017-04-05T16:21:18Z,8ce34550fb0d66cbfc6ec5bf25036dbc3397ca7f/f22af511ec5f45c573369fecae207786b2dc81ff/c93defa5f2f5a835f3f07f31fcbaae346f694838/,2018-05-26 23:43:55+02:00/2017-06-06 22:39:32+02:00/2017-12-08 17:24:58+01:00/,Fixed compile problem with gcc-7 / c++17
+QuTech-Delft/qtt,87646846b6a96c7a61d02737ca2982a5e65f5f15,2016-08-10T19:29:34Z,b3286ceb32ca5c3543170bb4fe749cb7ed7625c3/31e2e887d0f7d341b501a04568b63af6cac3663d/f32fd57ec6c03e05b1b56e2cd0f71e9bb6dc4948/9db8cece352644109eadae22574ae9a7b55a1f1d/db4d242edc0d0a6cc4794386e053424913f1fce4/669e9c307353c9e0cc3ce7b0f678057c3c7a6881/09f79a1da62a3332185cad87eba5ced41221993c/22d32f82fafe914007dac6a925b5f6e54a379f4d/72eb42b95ae29c6372bdbb7a47adc61b75dc6c4a/7023cec4151e5b7c3ab3e6d16a7a052739cba031/4570a73187868d04d7d889b9c8c151baefa96a12/fffaba04f265ff338fa1dc029d0b613c5f9468c2/843750dec98e749b732ea67e8a3f716211f97dc4/29db7c26fcbf5db10b2ac3805e8a7363205d0f7a/85f0027155c203e794136751d2e3f88d56244b72/b0de40de9240e37e1277b2cd02047cba0d1c9c82/0a8b0038da189330289d067c0c6859680c4c5482/60fafd79276cbe4d99b6dcf9ea7afe30346ed384/0cce4142e0e147ec5559e2eade74c3b71fb8b0fd/c1b63a030231f29f15152964cb20ad7ecf4f450d/95bdb7381bebf9bc95be6d9a3f6b416e606f7872/a62d143de65cbc273f30866e7705a3612f85a9a0/f42354d2484f67179d7f3995ca0e9956bda46f51/543d3797b9bfda30bb5159fc60c8aef195647d33/edcdf223963f7b51c5e389450289feb6e9e8842f/bb90a1e154afc092b56b3e7bbf2a2ac696279464/63c391a076aceeace188a54eb0408a00b344a5ea/659144e0dc434cee3b4a68c9ddd7fbba5875fcc1/730872e03421edab2f29bd0283080f3fa04738e5/f8d2525be9973075529b4884c813d9e5e4bd4b80/8d27fbf883f3f2db09afe81ece9888568102c766/87d00a1e366c0cc76ddd1ecce9742f95b333f0dd/7b0f21b83bf21a8d9076c168556873369788a0ab/f1f4121b7fcdeaf5dd55c10537a781267b9b902f/d1b54040c676907959e4b95bb8d15d02332114c8/406d8454792eea85596b1dc2dba40598c9f28f5b/777706c9ba5ea8c943807b5553c7e0b7589ea4a1/5700d6c60e8fdda2a72bfd64d106a3d659842079/f3876e7cd51792ee8c12c3bac54d7fb172a6ad26/daa6c0cdd7ff6008a4d28919ae623e2c99c1a030/bd0b68379687ae447d90d616c6b235de08673a7e/7c6bd2a327873e47d091f3b44aecacaca2b6e7dd/0d6e7e77e34c77872a327b5910737cdd9ebf7a18/febc20562ca555f15a6093fd97bf6092cb6d8c17/03387cd988284b8a508429a76fd056544ea31ba8/f0c6b6b2f8aed8d60215d15ceee46a1bbec5c332/54de85dc603543d7e7ec70829bf1eed140158afe/,2017-05-23 11:03:51+02:00/2018-02-04 21:07:09+01:00/2016-09-16 15:22:30+02:00/2016-09-16 09:40:02+02:00/2016-09-06 23:38:34+02:00/2017-07-14 18:50:15+02:00/2016-09-16 15:22:30+02:00/2016-08-11 22:05:32+02:00/2016-09-30 10:36:55+02:00/2017-05-30 23:55:35+02:00/2016-09-14 18:34:51+02:00/2018-10-14 18:13:57+02:00/2018-08-16 13:16:20+02:00/2017-11-17 20:14:26+01:00/2016-09-09 15:11:53+02:00/2016-11-15 13:22:44+01:00/2016-11-25 11:37:14+01:00/2017-01-26 10:15:10+01:00/2016-09-26 10:12:51+02:00/2018-02-09 15:32:26+01:00/2018-05-11 12:53:20+02:00/2017-02-11 13:31:51+01:00/2016-09-14 18:34:51+02:00/2017-12-20 12:52:26+01:00/2016-09-06 15:33:37+02:00/2017-01-08 22:20:16+01:00/2016-09-16 09:40:02+02:00/2016-09-26 10:11:05+02:00/2016-08-12 13:20:05+02:00/2016-09-14 18:34:51+02:00/2016-11-11 16:13:24+01:00/2016-12-09 10:47:19+01:00/2017-07-20 16:29:35+02:00/2018-10-14 18:13:57+02:00/2016-09-08 15:08:38+02:00/2017-03-26 22:20:13+02:00/2017-03-13 15:47:19+01:00/2018-02-15 12:44:04+01:00/2020-03-12 07:32:16+01:00/2016-09-14 18:34:51+02:00/2016-09-16 09:40:02+02:00/2016-09-07 13:07:14+02:00/2016-11-18 21:34:51+01:00/2016-11-18 21:34:51+01:00/2016-09-30 11:51:53+02:00/2017-05-30 16:49:51+02:00/2017-01-18 09:40:03+01:00/,work on 1dot script
+aiidateam/aiida-quantumespresso,4e67ff4db23530e7c9e276c62ecec24ce70c95cd,2019-04-29T13:10:11Z,4aef9f997999a6115a58513d854702e8f1b5f65b/3c63b93700679a6e9206ebf6747fb40f18683495/ed46d1d6d6772457b7b476020f4b73f8c79ee390/7c9a68736168b087e9e4b6221a9a6cd3802895e7/1c9e55d51e800cc360d16f38cfcbff83b09831dd/96bef279f98c9d23ad8a07e28420980866856126/b0f4c002be8c6832fd8448d9a052fbb0b465a937/0978b66b8ca468eb61eca492f63a0ed6cc63e775/b1f44a40575650dd42119463a19e67906a5e499c/9ed6106e9697417b1903a56adfc91b4fd14675a2/a417071b00cd5b01fc2eb7348885b22a3b39c7f2/4e2f6f6d3c9790abecfa3ce759d585f6c7cec963/6365f59038e3c515afd09a75eab32202003ee0e5/8b8a89607b06e8b269d938ad58009268bd4ec7fe/58f12b04b8fdd33606f853cda3a7974f3fb2592d/7427398e66c174ce7301bebce087247f79c4af75/d0a13b2fd34e566398440db7220b23917fd3a086/e6e5d9b2584f871c678be627fef2f8102c62aac7/a77c68853cc87f538552a4ac45a799e097ad3f93/,2019-11-03 16:49:30+01:00/2019-05-08 10:46:06+02:00/2020-03-26 15:56:35+01:00/2019-08-13 15:36:57+02:00/2020-05-07 13:51:38+02:00/2019-05-31 15:16:52+02:00/2019-05-07 17:10:31+02:00/2020-10-08 10:38:42+02:00/2019-08-29 18:40:09+02:00/2019-05-09 19:37:40+02:00/2020-05-07 11:13:38+02:00/2019-11-08 14:37:57+01:00/2020-03-24 16:02:35+01:00/2019-05-09 11:43:55+02:00/2019-07-31 16:24:30+02:00/2020-10-08 12:25:15+02:00/2019-07-31 17:15:11+02:00/2019-05-14 15:36:33+02:00/2020-10-09 21:39:35+02:00/,"Migrate `CpCalculation` and `CpParser`
+
+Make them work for aiida 1.0. The calculation class was upgraded to
+subclass the new `CalcJob` class, simmilarly, the signature of the
+parser was updated to meet the new standard."
+deepchem/deepchem,4309e9acc8157faf1159e2a24d858ce201721bdb,2017-01-12T00:22:29Z,5a398b288935ce532ad418390cb126db71028385/6387e4c40cbe50ddd90a130b0fa8f28af8760591/d680be6857f61342216221e1dedc275b11f0bd26/557bfba02f049ae7fb0f9dca7c1080d6d02ad473/29ceabe3c893c7122b490c5106d383919d779df9/2c3623fb890f5d3d6d04c1f0f6333f7abdd3482d/47057e8eab93eeb3d996d9e4b1c63fd4aaec48f5/66387854c407cc5d8a6ce71d111f56fe9a4586ed/39e8732bbac6a41a64fc12fed586ac9f09796a51/,2017-01-13 14:38:12-08:00/2017-01-11 17:41:42-08:00/2017-01-21 20:06:00-08:00/2017-12-20 17:36:19-08:00/2017-01-13 13:12:41-08:00/2017-01-13 23:30:36-08:00/2017-01-13 12:01:16-08:00/2017-01-13 15:45:00-08:00/2017-01-13 12:37:57-08:00/,Partial progress
+qojulia/QuantumOptics.jl,e64c74386b216dcd3ed20069e3bd884678042b3e,2018-07-17T11:30:27Z,e2a407fc086c821af3140a496d37a73faa9c0f6b/12159f322b8981e5def1b7d4eae7b9837467ba5d/e897c160cbdbf477f7454b0db056726892e5ecfd/,2018-07-24 13:30:34+02:00/2018-10-25 22:02:52+02:00/2018-08-03 09:58:25+02:00/,"Add SU(2) phase space tools (#223)
+
+* I implemented coherent spin states
+
+* add SU(2) phase space tools
+
+* Some efficiency and style changes
+
+* Fix mistake in wignersu2
+
+* tidy up SU(2) phase space tools
+
+* further tidy up
+
+* even further tidy up
+
+* even further tidy up with the test
+
+* even further tidy up with the test XD
+
+* Small style changes
+
+* Fix required packages to v0.6 compatible releases
+
+* optimise tests"
+TRIQS/triqs,cf82d24c5fef7915b73d3a8a62e2cca696bb73f8,2019-05-02T15:53:21Z,8a4b4471506d40a5dc493856e81d7032270b15d4/bc561271da1b6ecde46a53375dcc2a66f13ab110/,2020-04-01 13:48:18-04:00/2020-04-27 11:31:36-04:00/,[cmake] Explicitly prepend py_ to all python tests
+jcmgray/quimb,d53a8941bf749420267ac4e843c9495d079564fe,2018-02-22T17:44:40Z,5ddc3d4f69c5ca03d56fa1d8a77babacf47291cb/,2018-03-02 12:35:21+00:00/,tweaks to docs
+orbkit/orbkit,5c8427b0210d8e9a97a1264ffa6e7aa9202b01df,2017-07-07T07:43:38Z,dc26b484e8bfec6bd8f6df239bbffaa84b14c01b/55770f9fd81258cab69fc44d92780e64c7436130/e64122d02bd67883a4e798340f3f1df0bcce92f6/a70d75c25dd785ca42ca34728e14bc11640031a7/51886f06f4e5d1e7dd7d629dcf97ccecfbb38658/c47eb5d09b5c7ce954cac4dd00152a59002511bb/c057b814d775585d632231e5becd2673dec55e38/14cea2bb0506f1b11c1463b43f70c52e818215fd/2c6d8a87f07578751e73590af7a67a17c0bb8e90/10c5f146b6159c0c9411d64f48e2efdbba45a6ce/a988cc9b4444583cb7058ab2056447670a26c9e2/7c06ae8095d40731ca8adc3ee39ace7120f0b963/d2aeb039a0f3eecb7c99db8884c479c7f4f367e1/199e26784b5e037a80ba124ca0943f9d27b31176/bdb4b79669b4805249a7b1ade4c962157284f2fc/,2019-01-11 16:08:50+01:00/2018-01-08 13:32:24+01:00/2017-09-26 15:48:20+02:00/2017-07-07 10:49:19+02:00/2017-09-29 23:42:59+02:00/2017-09-08 16:15:01+02:00/2017-09-08 16:15:01+02:00/2018-01-18 17:47:36+01:00/2017-11-23 09:13:08+01:00/2018-07-10 08:49:37+02:00/2017-10-18 08:27:36+02:00/2018-01-18 17:05:23+01:00/2019-08-19 22:53:19+02:00/2018-01-05 18:09:42+01:00/2017-11-20 11:54:17+01:00/,"Bug fix in MOClass
+
+  - get_old_ao_spherical returned wrong format - should work now"
+deepchem/deepchem,1a0a14ac9ca854a013083c7430221167283329e7,2016-11-03T00:35:06Z,d2aa9a97309fb59229f200378d8dd9a9ce7eecca/44b2c473024aea591b773ec59ba0609908ca0418/ff727acef5b35b469cdf3d17147c7cd35a93c4aa/e815db7680cb04f4968bc369c9211457e86493e0/b001cae84677a520f19770730d98e6be9b0f2ac0/84ce3736dc67db47588ae500c1331eaefc6f1bf6/8afc4c11ae6445529713e38b441f557209ac0259/4968207713913ccd7c95534fb125468864932cf3/48d8d6b53ab5cf8a48d6a5c6146fc26d7e8549cc/6a50c0eeb5a8d12de5cda1344971cf4df9fe5cf7/c6c9993a19ca6521871e3be00004891d47254972/04e453418f5bb453472ef1ad78aa6fbd17a6b934/045c79caa96b768de9ce363d8c380a5c98f6310d/4e6c16a5ba853180c4d2b7a04aa78705960b8662/bcb91dc988be13069e62549fa8690f22b099a970/07b5932ad1f58c3818b5512ca68345988726f321/1b97292ef55358a0207ea3fb04f9d26b8266122d/c96af58e6ab2f85626e51a331e8479da49329f0e/1d8a4d54c6f0c762369df3c0ca742f1749b4471e/d66cefdd61c32e2a67abf67412df7b30d5b51843/44a841ca16d9bd05b7ef40d6c58c65265a347b71/707c2592cf6bb9c4079865faf95ae0a7279e5c39/ca2ba7c22ab331b4446850ec653604be1f5fd8df/a7fca56ee63f9c755bb47bc45beba761d1778b89/46c403dae7254754f85558bdd5616c9d2330b285/137a2a616f0d253b4ed246f612bef8613cc6046e/,2016-11-03 16:38:53-07:00/2017-04-05 15:04:50-07:00/2017-07-24 23:48:17+00:00/2016-11-13 11:52:00-08:00/2016-12-13 18:51:06-08:00/2016-11-03 00:43:33-07:00/2016-11-02 21:06:12-07:00/2017-01-14 16:26:58-08:00/2017-09-26 10:01:53-04:00/2016-12-13 20:20:41-08:00/2017-02-23 19:25:34-08:00/2016-11-05 17:12:31-07:00/2016-11-09 23:02:19-08:00/2017-07-25 00:36:33+00:00/2016-11-28 16:00:40-08:00/2016-11-03 20:15:39-07:00/2017-03-04 18:01:51-08:00/2017-01-18 14:06:42-08:00/2017-04-05 16:01:57-07:00/2017-02-20 20:16:27-08:00/2017-08-14 18:32:01-07:00/2017-11-28 10:43:45-08:00/2020-07-20 09:27:24-07:00/2016-11-22 03:20:17-08:00/2016-11-20 16:55:41-08:00/2017-12-20 13:33:55-05:00/,Some minor fixes to Tox21 models
+jcmgray/quimb,e112851eae9977fa10d1abbfda612c891cc6c243,2019-04-25T17:14:38Z,e1f6303b7eabe703a9643b4338cfcb347ee24802/,2019-04-30 17:50:45+01:00/,TN Circuit.to_dense: add reverse option to match qiskit
+aiidateam/aiida-quantumespresso,f7a03009104b0ffb72b64c774b69834afaff1aab,2018-07-13T21:15:00Z,4aef9f997999a6115a58513d854702e8f1b5f65b/96b2f0e3ac406c3934ac21569f28a8a8e9e1f018/0a085b5e22f810aa51256a58391055223d6329eb/e5e1844dd48071f33e11f09608a9fb9de54f8cb6/abcb7f2cb99378afae14e1f565db40310214236f/77314634d6e7341f386dddc2374f096eb76d2b97/062d96c52a7a154966e5278e974488b96a72860a/1c9e55d51e800cc360d16f38cfcbff83b09831dd/4cdb8aeea613b845db8b4d21991c80af95d18f8d/7e79a7bd80f22d26f1d83a74e65d3eb2f5f99021/a417071b00cd5b01fc2eb7348885b22a3b39c7f2/e85a50fca5c1a1a731348e44f6e51ce0d479a7ab/1fc4d6cf565520f5bdb0271279fa8624461c194d/8c68576c83f9d243b90f8f70529fbabd4b1eb63e/9230c19e5ac36fffdcb6c956a3bef5b2d19f349a/615d699c6bb5de5578e96fe223f567e6d6f6f8d4/58f12b04b8fdd33606f853cda3a7974f3fb2592d/89a44f1a119f9db37d566e5801a676ffd83b017d/41b3e2bf1325c07dfcc57868b689707a868600e0/d0a13b2fd34e566398440db7220b23917fd3a086/84930701ebbbfcaf51a4aa84f11e7c452bfded5b/a77c68853cc87f538552a4ac45a799e097ad3f93/,2019-11-03 16:49:30+01:00/2018-11-29 19:26:05+01:00/2019-04-15 15:21:51+02:00/2019-07-31 16:23:28+02:00/2019-03-27 15:05:23+01:00/2019-01-10 14:33:32+01:00/2019-05-01 15:36:50+02:00/2020-05-07 13:51:38+02:00/2019-05-31 11:21:24+02:00/2019-05-06 17:32:29+02:00/2020-05-07 11:13:38+02:00/2019-08-02 16:28:00+02:00/2019-07-31 17:01:24+02:00/2018-12-19 15:23:57+01:00/2019-03-24 19:39:08+01:00/2019-06-19 09:15:27+02:00/2019-07-31 16:24:30+02:00/2020-10-05 16:05:29+02:00/2019-03-22 11:11:39+01:00/2019-07-31 17:15:11+02:00/2019-04-02 11:46:30+02:00/2020-10-09 21:39:35+02:00/,"Improvements to the band structure workflows (#187)
+
+* Upgrading bands workchain, fixing spec input
+
+* Fixing a copy-paste bug in the workchain
+
+was referencing the WChain for bands but it
+was still in the inspect for SCF
+
+* Fixed bands workflow - now it works!
+Removed exclude of kpoints from scf exposed inputs
+
+* Implementing a more general logic to pass protocol parameters
+
+In particular, we do not hardcode parameters in the workchain but in a
+protocol class; no family is passed anymore, but the protocols
+contain the MD5 of the pseudo, and this is used to match the
+correct pseudo (if already existing in the DB).
+
+* Updated json sssp
+
+* small fix to protocols/pw.py
+
+* Bugfix on passing custom pseudo_data to check_pseudos
+
+* Updated json sssp
+
+* Epic bug fix of pseudopotential.py
+
+* Bugfix in base pw workchain - pseudos required dynamic=True
+
+* Adding workchain_options to BandsWC
+
+For now the only supported option is to
+compute more bands (for the band-structure calculation)
+
+* More verbose error message for the parser
+Improvements to the pw workchain, now if inner bands workchain fails
+also the band_structure workchain fails
+
+* Small fix, wc options from dict to ParamData
+
+* Changing some default diago options in run_bands
+
+* Fix a typo in the error code"
+TRIQS/triqs,e3d06bba25a61d652380b047789641287cb29c26,2015-02-10T23:06:54Z,3d201c69c5252792af3613e8462af08dae4dc12d/8ce34550fb0d66cbfc6ec5bf25036dbc3397ca7f/683c859e8449933a14a2bc677aaba4d7d897f03e/52f4e718b890c3936045b9ad90cf1bffebdf213e/,2019-04-30 14:18:38-04:00/2018-05-26 23:43:55+02:00/2015-09-13 18:28:29+02:00/2017-10-05 10:50:22+02:00/,Clean numeric_ops.hpp and add test
+deepchem/deepchem,483f57b18b78794f25ade6f465d1774714891c45,2017-09-15T17:44:16Z,7ef106ddc8bbfa06a43b4e5c0d42028c8e673bd5/,2017-09-26 11:18:19-07:00/,update
+deepchem/deepchem,343cb214a384df7061e0e4300bc376ae4f66b5ef,2017-02-21T02:39:34Z,f373058b0aa2125aefdca44e745c16ce7d7f5710/557bfba02f049ae7fb0f9dca7c1080d6d02ad473/a2658df2c6d1a105c70928b92ddf108787e5cf48/abd56e94eb1ee68c8cf18bf7cd9e91b3947456b4/ef3c40a4542966e2dac08cc51710ddedc31fd2d9/887f94bd4f292778622304ba627727a6dacad43f/e392e1333b78c0b2788f3d7d947b2fe7c052f26b/292488370f7c2bf428b931c743c2f58bc7269005/5246f2cf92f4f82a1bda2c23fb86c60b4a47ec6c/b9b2701adfd3cf55d7f8989257635b3acf1bb08c/9db006c3627b071c5f02f5a9e9fd013865384868/55e8eacfa3a3d9208cfee5c31695a326b6dbf631/19cc947cde29c8a65873258f72367212c1b6e86a/73489570f9d6fb455ce22f6a16ee043b9ce283ad/cfbeeb2c794d7a35eac6702bb8027c8c274dbeac/166172b4bf799436f08bbd4b78fdb02c769a5497/5abb9a5a65c7395b07faeb15ddb9f6c8d2bfad63/7cf104f99a590bde9918eaa8cf71786699abeb67/9af9659cacf93a67a7df9dc5499bb6be0b07a92b/d66cefdd61c32e2a67abf67412df7b30d5b51843/e18b3a4f0301190d0e696dd9d213e441a876bccf/ed7782f0f59f1eef6453f47633fe9e15bda00f84/240ce321c42338d1cc648f6e049f7673b482a429/2aa5cccc7c65d14305e60e0a61781aa11cb7142d/5639ccb5e9d9e936d236938e3f71d10d2bde10fe/aa9dd8b41959c05bcaa2512a9f9190ded2581b93/9d7d558b1d61dc2ec2342239444dd0a82e6a2854/b9f19b3d1add52a75010a91dbd7a56d567128bd4/,2018-02-15 01:54:25-08:00/2017-12-20 17:36:19-08:00/2017-12-20 15:24:56-08:00/2017-12-20 12:26:46-08:00/2019-06-10 16:48:57-07:00/2018-03-25 11:15:18-07:00/2017-12-21 13:22:37-08:00/2017-03-13 18:25:18-07:00/2017-11-05 19:20:12-08:00/2017-12-20 15:24:10-08:00/2017-03-13 17:15:59-07:00/2017-03-04 18:02:32-08:00/2017-02-20 19:44:27-08:00/2017-12-24 17:41:37-08:00/2020-03-04 12:00:13-08:00/2017-02-20 18:39:50-08:00/2017-03-23 13:11:15-07:00/2020-01-23 15:04:28-08:00/2017-07-14 15:10:27-07:00/2017-02-20 20:16:27-08:00/2018-01-27 21:06:29-08:00/2017-03-23 14:53:30-07:00/2017-12-21 10:28:38-08:00/2019-03-28 15:11:28-07:00/2017-03-23 13:08:50-07:00/2017-03-10 10:45:53-08:00/2017-03-06 16:29:00-08:00/2020-07-13 20:35:54-07:00/,yapf and bugfixes
+tensorflow/quantum,4b7f6ae8fd3ebb9206435d75620dbace406f954f,2020-06-15T20:33:33Z,b96c88347e5f0c514779088573a3d4be1e71c40f/,2020-07-11 15:18:23+09:00/,"Upgrade sympy to 1.5 (#262)
+
+* Upgrade sympy to 1.5
+
+* fix lint in serializer_test.py"
+Qiskit/qiskit-ignis,e8a559f7293e48193f4c665f1594e5774ce18ba9,2020-06-19T20:59:51Z,a5e398d2f0fa4feb87016e12d44c2ee36b9db4f0/,2020-09-01 11:43:52-04:00/,"Fix azure pipelines (#430)
+
+In #422 the azure pipelines jobs were updated to simplify the dependency
+installation to no longer require build scs against openblas. However
+there was a bug in that which caused the jobs to not really run, but
+still return success. This commit corrects the oversight so we're still
+running CI for windows and actually testing it."
+jcmgray/quimb,1925e55ff144f4540721fe974da1cd8a44ccb4ae,2017-09-20T16:12:59Z,99e9fdc67bf7091a518f6c3b4deeb4c5611c1a0e/ca76ccc07ff1a50c02c4907c472a83619f06a26c/,2017-09-20 19:07:24+01:00/2018-03-19 00:37:34+00:00/,update test approx linalg nomenclature
+jcmgray/quimb,551dd22d0ad92092f0a222df85017e9edff430a9,2016-12-29T01:29:38Z,6863d4eb0a5b626144234d04a533e1863121eefb/ba3e7844e42d43f1e16606a416e5209eedf1bb36/,2017-04-05 14:23:45+01:00/2017-02-23 14:23:22+00:00/,fix for unintialized MPI
+jcmgray/quimb,8fa9075ef6f74fee8458226bb27893f1504b6f88,2016-08-23T14:11:54Z,1d898147c82c7786e18e7344d33fcdf2ad21e230/91d0453c46a786b3d6569ef8a5bfdb6339a132ab/8381ee5566e57fa77d4294ef5701b3055239ee99/,2016-10-17 14:31:56+01:00/2017-12-01 00:16:35+00:00/2017-06-06 13:34:24+01:00/,add codeclimate ci integration
+evaleev/libint,8104590766339ed447741e9f42b9f6631feb6509,2007-04-30T19:16:28Z,601183ec2ed34ea9867d01d16b6402fff84a041b/840da33bd103ead6e0f1b616873bf93c1f5b8429/96aea04eb4dc97f25ac111d2f029c1dc3d612d27/8ee889b30ffcba8a3e03f96ba200d0c91e08145f/3d5b15815997df1cc06cb8584b676e30489d0e40/98d0b71ab235f5dcf014b6f3e51377d360a116a4/b0b43da348b47e646a35d81e730c9f68bac42a92/,2008-06-05 03:36:46+00:00/2015-06-17 12:20:07+09:00/2012-03-20 13:44:49-05:00/2011-04-17 12:04:13-04:00/2012-09-21 19:39:02-04:00/2017-10-10 06:53:20-04:00/2011-04-17 23:09:04-04:00/,"DirectedGraph::find_subtrees should use hints to avoid doing pointless work.
+
+--HG--
+branch : prerelease-2-branch
+extra : convert_revision : svn%3A30ab2afb-5f51-4bfe-ae8b-bcb573c66ba7/branches/prerelease-2-branch%40326"
+deepchem/deepchem,8b0f91b6aaf1d287af395bc442de6e26b5e91ec4,2017-01-10T23:36:47Z,7f4328a3f3b49a95125c3f02393f1db8000e4d33/21d748c32a442786d23d112f32fbe11c395af5ae/d9d479a2ab85c1d15d4a99bdd88ce140d1b20923/fabd5aee44218389b99d69363d68a5f8a59266ff/860f9eff4a7376819d6f08e34e6468dcd94bbc47/ad6eb4b55a1edaf1773412b6e486a416d5e8c559/caa85a5bf44a3fedf9fb991afb8609bdd394b7f0/707c2592cf6bb9c4079865faf95ae0a7279e5c39/8545a6323f051d8d0cefb16f0fbae4895ce36bb1/9ba1170193d6d339a0eb0da54e4b032ea7ffbac5/,2017-01-16 17:07:41-08:00/2017-01-10 18:21:28-08:00/2017-01-10 15:59:07-08:00/2017-02-16 13:55:57-08:00/2017-03-06 14:55:47-08:00/2017-01-17 22:51:43-08:00/2017-08-02 12:07:38-07:00/2017-11-28 10:43:45-08:00/2017-03-17 17:23:54-07:00/2020-08-31 00:40:14+09:00/,pdbbind fix
+QInfer/python-qinfer,f93b3e287ee2ff970d4d3a3429f97b060a7a8a46,2014-08-14T19:04:51Z,db146813cc95dd2d331344b72b412cee56e31627/,2015-03-16 14:07:33-04:00/,Minor fixes to models.
+QuTech-Delft/qtt,6b300ab6976fce31338b076b88d4cdbc29401e04,2018-01-19T16:12:51Z,99dd31c9584d8af7346097f9979448c85aeaa456/59c99fba8ab593e65b53e7acc0bff0395a83fb6a/c2e47a4787bddf67350f01e74c101ec42c1189f8/749d8c90ea38e9e0ecb5c5144c8e73b012ed3cb9/bb3eed5a1f4ca0f540fbdc0ca6688f250d2cebb2/,2019-04-12 13:21:04+02:00/2019-08-01 13:57:20+02:00/2020-05-06 20:01:45+02:00/2018-02-09 15:28:58+01:00/2018-08-27 17:58:04+02:00/,"improvements for plotting ttraces (#244)
+
+* improvements for ttrace plotting
+
+* small adjustment
+
+* fix for pip installs
+
+* fix corner cases"
+qubekit/QUBEKit,9c0d1e80853bbfbfc53a6a7db76cbc91d9fa59b4,2019-07-15T14:35:20Z,4f17018f23ce4aab7504d769ed1c5327a1a649e7/40bda87e5e9e987d44d7e3b1e6c683d324c3642b/3db537f53c966d17c73610c59ae7092c048a0caa/9303b5641c0ae0df4cdf36811ca07d43329d79ac/2473611a855fd4aee2a2036a6c5dd92e252f5fcb/ef2a5cade3036ffe0e9b6326063fa048ca0cd648/75804b361ee4411b0bf528251f36082bf5f53121/5437433cacc81827c349788c1f8f31791659a18c/858ce130f859664674e54f70c28f667bd4357e82/cd7b2c982c98e838ee8fb53f0a01cb70a805b993/302b82f1ed71d828537743659727482ebd56f446/19ad0b392712ebb043ae58f3e939ca82222a75c2/,2019-07-30 12:20:59+01:00/2019-07-16 15:12:19+01:00/2019-07-17 15:52:58+01:00/2019-12-11 14:53:03+00:00/2019-09-30 14:31:30+01:00/2019-08-22 10:17:46+01:00/2020-02-26 12:25:23+00:00/2020-01-13 12:19:07+00:00/2020-09-17 11:29:18+01:00/2019-10-18 11:46:34+01:00/2019-07-19 14:42:34+01:00/2019-07-15 16:41:00+01:00/,Rewrote Configure class; cleaned up TODOs; added more custom exceptions; mod Sem appending removed for restarts; version update
+TRIQS/triqs,8ba64bbf1e78983c9692afb320a0abddae10e706,2018-06-27T15:41:41Z,4e286c10e65e961945f71f57add0980bdffb9fd4/c6759f438272a62a2f4a7ad27e1983be95702929/,2018-06-26 11:28:07+02:00/2018-06-29 12:00:53+02:00/,[lattice] Fix h5 read/write for cyclic_lattice mesh
+XanaduAI/pennylane,8bc58f68cb9f077b48ae7e3c91f53ef463c9d21c,2018-10-17T20:26:18Z,03b1b779ea1614cab2c8ee036eaa3d9831749e3a/e845613860c96628a7c9c383f5ef0ba5750756ef/322a6261ce37665a5095c1adb3696194f92773af/57757f994a2ec3c65d9d17609c2d3375ef130b22/b45ed9c92701a221c62e1d2efb549b18b56974af/,2019-06-21 14:16:21-04:00/2018-11-30 11:54:13+01:00/2018-10-20 14:07:18-04:00/2018-10-26 15:07:04-04:00/2019-10-17 18:36:33+02:00/,change filenames
+jcmgray/quimb,31ed2a530d9bdc640ea9e8f979310d513706c873,2017-11-28T16:23:00Z,d61f8d49e1b9db8f88ab45c5e084107a1ead3a8f/f4f38b5f20f35fb0ce48b2a2b8286eda2eb06327/cd3d726a9501d58d266fc2c27043545c4a9bb8ab/cddc675a97204eca9b29a361d6850eaa32c90277/78a1a54b60d985db4b9e728a700cf629d9d601dc/58bf4e7b532642db72e790700e7b8317bb21cb5c/069200f3f1cc0ae53fc40f79eba822e20bde9a4b/ce1a500d6876034ea21ff1bf0f99b5d70e9179de/11cf8e3aae92448e8e91ae83e31ab7f51c52b7c0/3eccdebb68d625cd2d94a550181f0537b647f0fd/8136fa0bbfde98b6319e517101cc60d43e3e6e59/9a3f67eff30b8300cb6df29de484b8d2b3a4f46c/1e43f7f4c50d94c6d043fa6baf27528b98531b27/,2017-12-05 18:29:41+00:00/2018-04-25 18:10:28+01:00/2017-12-05 01:02:15+00:00/2017-11-30 17:39:25+00:00/2018-04-12 00:41:01+01:00/2017-12-04 15:26:02+00:00/2018-03-22 13:06:35+00:00/2017-12-06 16:05:30+00:00/2018-03-27 19:20:49+01:00/2017-12-01 02:00:28+00:00/2017-11-30 19:22:13+00:00/2017-12-07 00:53:29+00:00/2018-01-10 16:19:12+00:00/,incorporate new DMRG features in into DMRGX by subclassing
+QInfer/python-qinfer,b8cf4e1f82e71c260e4b2632c1b3368d09833a42,2013-02-09T05:57:36Z,1d431dedfbfa27728581059e5602ade71de8e873/c0f1b7f29880618015800cbea7db7c28d647847e/860ccfea7f05077fecf1ae1f7a24adeff889995e/96f402540673d56a9cda69f70a3786aa5a7eb930/419e753ff838adc804d8e5ce10cd8b6394b5e914/4f46bd14b213938af1ea3feed8913021278558ce/,2016-04-03 22:00:51-04:00/2013-02-11 17:04:17-07:00/2013-02-18 20:33:33-07:00/2016-05-10 11:19:21+10:00/2016-04-03 22:33:04-04:00/2016-04-06 12:01:01+10:00/,"HT circuit performance example added, some debugging elsewhere"
+TRIQS/triqs,a920697e78a5ab538cad6744fc70d68dbbb4f68d,2014-05-30T09:45:58Z,31927c91329e6b7c06f463d7bf4976773280333a/98b6e8aba65c444531b162ba1c64bcb1d33b691b/4af1afbdaf7facd6eda279f2ac8a1642e5963b62/90ba7752eb0d3eb2e7487664e9d22b9f61e5567a/8ce34550fb0d66cbfc6ec5bf25036dbc3397ca7f/,2014-05-30 15:30:27+02:00/2014-10-22 19:46:05+02:00/2014-06-08 21:47:32+02:00/2015-07-18 13:06:02+02:00/2018-05-26 23:43:55+02:00/,"fixes in wrap_generator, parameters, h5 for strings
+
+- string size in h5. Add +1 (or empty string is wrong).
+- parameters : modified flags from python
+- minor corrections in wrapper"
+TRIQS/triqs,59288e597ff90c3b6c387c637c5d6067feee9b4d,2013-09-29T17:59:46Z,1517cdaaeb7d176fb71b375444afde4cbe072772/6326c2b4ebf7309935f0e91dd60647358881d8ed/b9451e7018bc863c1a2f2723aa8b75a1f7289819/7e1f2eb34b2f3443d6d780be88e19b1eaf765be3/2fdba13bc572bf847758a89c38a9d348b5d03f33/e182762bf2a881a004a5b05d3c0ebb48fd7a4241/,2013-10-01 22:56:11+02:00/2013-10-31 13:24:38+01:00/2013-10-18 21:53:59+02:00/2014-02-08 13:09:09+01:00/2014-04-06 22:19:38+02:00/2014-02-10 20:19:36+01:00/,"clef. Clean evaluator when producing temporaries...
+
+- When evaluation produces temporaries in intermediate
+steps, they were capture by ref, not properly forwarded.
+This results in bugs in more complex cases,
+like evaluation of objects returning new arrays expression template.
+(preparation for next commit)."
+deepchem/deepchem,62439eb90d3ec50a4d2acb4791b127975e290a1c,2017-09-26T17:55:35Z,0fc1db7fc4f544716daa6de43f01eff74eed259a/2af0ba37271f0ce66c945e7862d649fb2b3af141/9ab3a437ebfe8a59463738228c1d91acddeee17c/,2018-03-06 13:26:39-05:00/2017-10-27 12:32:20-04:00/2018-01-26 10:46:28-05:00/,update documentation as well
+QuTech-Delft/qtt,ab2e73a7531d5daafea1859ec59dd2be94df9ec9,2017-11-26T21:02:40Z,93cd60caea21eb1a829d561a8c0c229990b268d2/99dd31c9584d8af7346097f9979448c85aeaa456/8af3f685109ce674a0f67050a8644852f0fa70b6/ba95f8ae00975554899266f2cb35b5324f89368b/,2018-08-16 11:54:41+02:00/2019-04-12 13:21:04+02:00/2018-05-11 11:03:17+02:00/2018-02-02 16:10:19+01:00/,add restrict_boundaries function (#188)
+tensorflow/quantum,4a7090dcbc72dc5e29b613a57aa33a36516227f1,2020-05-03T21:14:40Z,6c14b4ab4a61ab72c97d5d305f5a9168fb9da95e/,2020-05-03 17:53:57-04:00/,Added check for repetitions less than 1
+deepchem/deepchem,277fc976b684ebd2d2fcc074ee210c0975eb637b,2020-08-21T06:09:13Z,a3f1fd671baab33c4284cb51d7df5ec38a3f5051/,2020-09-07 09:54:02+09:00/,:ok_hand: update codes by review
+Qiskit/qiskit-ignis,06ce58ed0945b4453147da832e7367f7c003ee72,2020-01-07T17:34:17Z,800891368bff38339ff0384294f105ddcea3609c/,2020-04-09 14:49:02-04:00/,Update CHANGELOG.md
+TRIQS/triqs,a846734d430eb5a572de78550ff6d40f7f3aa334,2018-05-21T20:03:42Z,0fd6af59bd9bca3d2c5b581d1248edc3444a8e73/b4f0d29f1429018658086d4b7dd2d503ebb08faf/,2018-05-25 20:23:47-04:00/2018-05-24 14:13:07-04:00/,"[cmake] deb pkg works with libgcc1 1:6
+
+The default on xenial"
+deepchem/deepchem,f69999e17845625eb5777cf578abe294fad24b5f,2017-04-11T19:42:58Z,4712adac89e5b5eefd854d61d1778760f2063505/,2017-04-11 15:09:12-07:00/,Turn it into a prediction
+deepchem/deepchem,294b18193afe79deef5524dce1eba5268a7a09fb,2016-07-24T20:01:38Z,64c532c1c6369c62614438785dcc435942fe8de0/,2016-10-30 21:25:04-07:00/,Fixing small bug in datasets
+deepchem/deepchem,398b61d854b1bb2c8fe09bded2c8d5dad71924d6,2016-07-29T09:34:53Z,f9f55ca392c74a7b6a5403fd6ff5909bb1da40ac/,2016-07-29 02:36:45-07:00/,sparse
+deepchem/deepchem,81e802dfdbe19de44fc20146f3c7f7d938fe9afe,2017-11-09T21:47:07Z,fa51b7235bab7a773536e876e624d501d8e5ce6e/,2018-01-02 16:49:51-08:00/,yapf upgrade
+XanaduAI/pennylane,45f502f1c76c4b48b4ee220e8f5f1fa8192aff3f,2018-08-29T07:45:48Z,adeaad8143357f7d3e7cb015de574c1a2039ebd9/57757f994a2ec3c65d9d17609c2d3375ef130b22/5ab05be295ea85930159b56a0c3e4d0f11c079f3/,2018-10-16 06:11:20+08:00/2018-10-26 15:07:04-04:00/2018-09-12 15:04:56+08:00/,merged changes suggested by Christian
+jcmgray/quimb,feacb80b40a06a68946222e7c1816d7ab0bfb05d,2017-09-25T16:55:06Z,f8bad6d91f74d7273fb843fc2e1e833344b00bb8/18c049a19a470ac7499653164c487252db9bb546/ca76ccc07ff1a50c02c4907c472a83619f06a26c/6d72c9c1f6f7fb01f014b52c58baad2cd5315f83/e817518cbcf77380143ccd282850ddd0f817d0e1/38ceae627d9d51d713ffea533df43331630b3c7c/,2017-09-25 18:35:47+01:00/2017-10-11 15:31:07+01:00/2018-03-19 00:37:34+00:00/2017-10-09 01:40:05+01:00/2017-10-17 17:15:30+01:00/2017-10-05 14:43:47+01:00/,factor and cache contraction logic
+Qiskit/qiskit-ignis,e696fee3e52550f50fb240a4c6356c61c9f01725,2019-11-13T06:38:22Z,a786cfbd243557cc0809ae66ebc232842375da33/,2019-11-15 23:59:50-05:00/,fix FC rotation direction (#302)
+deepchem/deepchem,e902650a198785b079ef1471ee03d2e264c684ee,2017-01-05T04:09:28Z,2efccdc6835d785976e320addc0563eb1a2302c0/a731768cee1ddca73dc6abc76938f1552ec45825/763f8721952e8042d6086b103deb2450334be4b3/,2017-03-14 15:42:52-07:00/2017-08-08 09:22:31-04:00/2017-03-09 19:32:33-08:00/,append '-c' option to wget commands.
+aiidateam/aiida-quantumespresso,2994bf5f741698c8382fe008e79ce3039c56d500,2017-12-05T09:08:25Z,a277b1ed3002716409294d166062f9d34757ca08/1c9e55d51e800cc360d16f38cfcbff83b09831dd/4a9213451ab64b0ce94d2b4964a4c197dc501a96/46df668fb2f1ab54a53a0ebb0e9b5dd586d8c893/b5f4770d8075c0754344231da5221d5aa94844d8/211612c0672e72ac807ba8d543cd4dca9320ca5c/,2019-05-31 10:27:03+02:00/2020-05-07 13:51:38+02:00/2019-05-31 09:13:31+02:00/2019-06-03 11:50:12+02:00/2018-02-16 15:17:25+01:00/2019-03-12 18:08:52+01:00/,"Parse atomic occupations when set in the 'parser_options' of the settings
+
+We provide a new key for the 'parser_options' key in the settings input.
+When the user sets 'atomic_occupations' to True, the parser will attempt
+to parse the atomic occupations which will be stored in a separate ouput
+ParameterData node labeled 'output_atomic_occupations'. Note that this
+information is only printed for DFT+U calculations."
+deepchem/deepchem,3e611c521c3adbecc946fdbc78408b936d09234d,2016-10-28T21:42:42Z,2efccdc6835d785976e320addc0563eb1a2302c0/73489570f9d6fb455ce22f6a16ee043b9ce283ad/64c532c1c6369c62614438785dcc435942fe8de0/ec91d4984ec5613c2736564d04783c89738e8ee9/63fc42178af6c63e521e66d7170fa59406f4f304/5ba2e919d876be5aaf3cdcd08b4529c6306d17f0/c5f9a908910ab118c465de659a8a90c9d64aa708/afad43019a6907527debd73cca58f80825e7dece/cdeda081ac8ae1d39420ad14a9a88299723dc858/b9f19b3d1add52a75010a91dbd7a56d567128bd4/6c4008c8da1743e38909569cf030e4b3c43c6d40/,2017-03-14 15:42:52-07:00/2017-12-24 17:41:37-08:00/2016-10-30 21:25:04-07:00/2020-06-17 13:54:48-07:00/2020-07-12 19:48:19-07:00/2017-02-19 22:44:07-08:00/2016-11-14 17:16:48-08:00/2020-07-07 17:45:43-07:00/2020-07-23 17:20:11-07:00/2020-07-13 20:35:54-07:00/2017-03-20 17:33:20+00:00/,Transformers use Dataset.transform()
+XanaduAI/pennylane,5dd3ecae05aca5866cdb64b57ab303058755d6f7,2018-09-18T01:15:47Z,c68bbd1baf67597105a64dae46bbf34c0aa467b6/03b1b779ea1614cab2c8ee036eaa3d9831749e3a/cafb70c2db8f541536393412a7d2c59ba888d7ba/43f5959ebedc466ffde5c37353436e9b72ab263c/57757f994a2ec3c65d9d17609c2d3375ef130b22/81bb276ed97f7a076d289b7159fc221d527feda4/55276c3ce4b599fc075ee855537879e8712e52c2/b45ed9c92701a221c62e1d2efb549b18b56974af/3485ae501b353f495405703c695bd27d6a0ac2e5/e40945eeca7c797549728c863a40c908176fb02d/61858ca58ef3128dac31fb60ce381779a8466ecf/e3a2b2085f9954478cc50d4667021406539842d8/adeaad8143357f7d3e7cb015de574c1a2039ebd9/738c00ed221d90eb2a8a57acece5eff4ea86714b/1be8f92adceedd712d75dc16bae158c2078e17c5/59e2bd3305d5643a70d6263e6c6fb5f3500e58bc/8cdf651f92c21b81bf8ffbf521c8faa44bfe9fd4/cad2ea416fc034cec04500c3d478c463d29f8e26/040a3580b243647826c23ae72c8731a837e6d2b8/98a9b2a8e409591039ae79774f6467b212656532/5604b338074ddcd76a2e0ebf2f71b0398c447437/758937731501c2305e460187d8cb7dd13a5b3278/493d41995e1174761ce8dcffec0d292327a67310/d8d2f93184b87f8ca40c30e4b84eb2b749a17a6c/a1ad3ea3897c528d61041b339fcba3f9fa239077/,2018-10-12 14:28:06-04:00/2019-06-21 14:16:21-04:00/2018-09-26 16:23:45+03:00/2019-02-07 19:22:25-05:00/2018-10-26 15:07:04-04:00/2019-10-15 21:52:17+03:00/2018-09-18 17:50:13+03:00/2019-10-17 18:36:33+02:00/2018-10-29 11:49:25-04:00/2018-09-21 03:54:24+03:00/2018-10-16 15:57:01-04:00/2018-11-09 14:59:53-05:00/2018-10-16 06:11:20+08:00/2018-10-16 03:53:26+08:00/2018-10-14 14:30:43-04:00/2018-10-16 16:58:59-04:00/2019-01-16 11:21:48-05:00/2018-10-16 10:08:03-04:00/2018-10-15 21:35:26+08:00/2018-09-19 02:14:04+03:00/2019-09-20 18:07:21-04:00/2018-09-27 16:20:17+03:00/2019-12-06 16:21:07-05:00/2019-08-23 17:41:44+08:00/2018-09-18 19:32:07+03:00/,QNode updated.
+deepchem/deepchem,e313c5bd35ac98c9ca547cfc9eafd2f2104f9f60,2017-09-11T20:53:49Z,3c605f15ca37ee58a1482adc57e1aeb55efa03f8/,2017-09-11 16:25:49-07:00/,"fixes batch padding in predict: pad_batches was always ""True"", now it follows the argument in ""predict"""
+jcmgray/quimb,b5dd90998ad9522c52d6dff1f5fc2e58865b5492,2017-08-23T19:37:10Z,f2917689a7a19ba4f689e9b56945ba0aa2325660/91d0453c46a786b3d6569ef8a5bfdb6339a132ab/,2020-03-11 13:55:28-07:00/2017-12-01 00:16:35+00:00/,add codacy coverage
+TRIQS/triqs,6712cca4423a6dc7b2993912dd5935e31e56110a,2019-07-23T21:15:13Z,569324dccc02f6d3e8f22a8e6c565abb41623126/118ab50d4eab2af7b486c77f15fd60be5b6a85e0/,2020-01-28 15:13:40-05:00/2020-01-28 15:10:43-05:00/,[jenkins] Reduce duplication in Dockerfile.sanitize
+qubekit/QUBEKit,604aaa59920c5050bda50dfb49cd7c78b1d69c37,2018-10-24T15:23:30Z,f887a861c7af05f01762283cffdf2ecc62ab82e3/b15be5f47a1f7fd4a303f6db0d2f74fcc64c4b4f/fd8fd652cbb9fa515fcb4c79f07194ca4ee0db6f/,2018-10-30 14:00:48+00:00/2019-01-31 14:42:59+00:00/2018-10-30 11:28:31+00:00/,TODO Test
+deepchem/deepchem,7efa64376312ffbf21f751fe90c0ddfa0725ddef,2017-03-08T09:06:31Z,b17c746750251ced6f1e46a7bce76a74e6fad47c/f1f9412267d265a328c1966668cdee2030e25158/d1dc4e10fb6edeafe36429b672448b87bb8a795a/8545a6323f051d8d0cefb16f0fbae4895ce36bb1/9bed42f3d366c086f2dedbe009c86afe41be417f/15b15d1c09d2e5b5ad52ff36f0f7c6362f36e1d8/145ba9a1d9add0d21b7629d9860d4c65a271733c/ca8d89df880291f6e83d621d57004c19601defc2/72025959cae057139ca0706d8b497d51e2e6a834/38e2076694fd069be6be5d0be428b28e7eddc99e/f6877ba18d00333d29053e43583f1e207c31dece/9290c70e38215ddc785430fc79da32f27f0a4dfa/6901f77179a4e574ead6e8d6a06433f11747b00a/5cbb4d8bf488c78cc6f4aa85a79e51d21c93a231/1a072bcf54eba0d5039621840c12b6d1631335d8/5938fe1ee369b16a91f7157949aea6e1c1604a4d/e9878ee733d215357f6f142bb63b1df88465b108/ac458a406c35a7d67104eb944375eef6a4742af5/6808c495567e65d569a4eec1d494f457b504ee97/34d2f0706adef7ae1e38e8fa0d084cb92733ad3d/894b08a6cb4c47f2300209f4e23d3a4ee7d54133/6a6e29516a77f3d80e24932c0d70e7dbc94af891/050de549d4df671712058c54ef318eec55ef084e/7ade211c375f4418ec26ac1a767c42a371fb4c64/4496dd6316615a1e6c940e0c911aa74d7cae0d2b/c7315e7a46321d3e843e2b5b5a47a423aceebc25/6d91f03c7d2040bcd1624bc4485701570d853b83/770cca00e16c001e3e579241dcfa1bb945f439f7/8a49ad8d672e3298c2a64384fb7268a8da7152c7/a731768cee1ddca73dc6abc76938f1552ec45825/a65d0290e0dde94f5c4a6a8f23ef3fea4a55507b/ca2ba7c22ab331b4446850ec653604be1f5fd8df/d9eabf5d76ced399f17606420edb5b7bf954d2c4/e9140421a9d86bdeb65182d002be2885d4c82aaa/,2019-06-17 22:11:57+02:00/2019-06-14 23:54:16+02:00/2017-08-28 14:10:26-07:00/2017-03-17 17:23:54-07:00/2020-07-26 17:41:34-07:00/2017-03-08 01:18:05-08:00/2017-04-21 13:27:02-07:00/2017-03-08 22:08:31-08:00/2017-03-17 16:16:51-07:00/2019-07-30 20:11:36+02:00/2020-09-04 09:52:19-07:00/2017-03-09 15:34:13-08:00/2017-09-27 23:07:38+01:00/2018-01-08 18:30:47-08:00/2018-03-09 02:22:40+05:18/2017-12-29 18:55:57+01:00/2019-07-14 23:51:31+02:00/2017-03-24 17:46:59-07:00/2017-03-15 13:38:01-07:00/2018-03-08 00:40:46+05:18/2017-03-30 22:26:19-07:00/2018-03-09 00:22:38+05:18/2017-09-11 19:17:01-07:00/2018-03-05 13:42:39+05:18/2017-10-06 16:22:46+01:00/2017-11-28 10:47:54-08:00/2017-03-19 16:52:34-07:00/2017-03-09 22:04:28-08:00/2017-12-06 22:06:33+01:00/2017-08-08 09:22:31-04:00/2017-10-13 12:32:09-07:00/2020-07-20 09:27:24-07:00/2017-04-28 17:23:50-07:00/2017-07-05 18:56:33-07:00/,style change
+TRIQS/triqs,8ea4cf59823f22760c387f368280c323559a6672,2020-04-01T17:52:12Z,f46664ae27816e3bc9d2d2c28cd30a11b841a3ca/b90a2e528d80dfe5a97bfa309179131f8ff8440e/7e215a6da7e2af6eb2013b4b29dfdfbba539301b/1230a7bd9841ec7d55a32341311a37fba7f17adf/,2020-04-03 10:11:22-04:00/2020-08-05 17:33:31-04:00/2020-05-06 17:02:14-04:00/2020-07-09 15:26:25-04:00/,[pytriqs] Adjust h5 module imports in accordance with nda
+qubekit/QUBEKit,295d8ab76c207bbbe30217223aa4ee0754af0921,2018-10-30T16:40:39Z,dc424a7c8c810ecacffe1c361234bf1215363132/796986315d4a03e8ac57302e845f652eff3c4fce/47bb0871fb56ec63053845338f57bbb7b6bcb870/c039e66446db2c57f00e9bbcd2a4db2ea61c58ff/76f56c78878774e1a6318d965cf9fda37e1a00dd/e2214a26122f51bd0e625e4bddfeb2cc71631c59/f485122045766cdc11b4cb223980df6b8c3f0d33/c84da98f45ee0e3f6e20282b9924c5d8c17447c1/,2018-10-31 10:56:29+00:00/2018-11-28 13:42:04+00:00/2018-10-31 18:05:46+00:00/2019-04-15 11:19:23+01:00/2018-11-09 12:00:54+00:00/2018-11-22 13:54:34+00:00/2018-11-19 09:46:51+00:00/2018-10-31 11:56:27+00:00/,Ligand class update engine changes and seminario tests. get hessian broken
+deepchem/deepchem,4034c5c9c2ad6431a32da59ed30d8d37bf8ba388,2018-07-08T04:26:12Z,ae13294c0d4f5e12b58f1c0e7775192b3b1bb504/38e2076694fd069be6be5d0be428b28e7eddc99e/fff925b11b5e711220166fe4c5913b07343d990d/a1589b460b4354452259bc16a4e45cdf27464a6e/,2018-07-07 23:33:43-07:00/2019-07-30 20:11:36+02:00/2018-07-07 21:36:55-07:00/2019-08-20 11:22:28+02:00/,Continued debugging
+OriginQ/QPanda-2,92b82beb6a6f1d00b26b68b5668b1813f20fb249,2018-06-11T09:51:51Z,716a66f3b55c099929153d9c8cadb8efb681bac0/,2018-06-12 14:12:33+08:00/,update QVM
+deepchem/deepchem,8b2312b83f9bc0441f199cd5a36c74edc9086b86,2017-10-12T18:03:33Z,c10f34fc774a782643c1b6d4510ad8aa1896e4e3/8df1c80cea4ca216de788dbabf4a8f99f890f67b/84398f9fb6e6a8d2bb913367fdd389f9ca3a5405/cfbeeb2c794d7a35eac6702bb8027c8c274dbeac/8bb85146147d2423ce198ffc713e4ad54d49c7b6/78b983908c339779bf13331cbb611950ce13484b/2aa5cccc7c65d14305e60e0a61781aa11cb7142d/887f94bd4f292778622304ba627727a6dacad43f/,2018-01-16 16:57:31-05:00/2017-10-17 12:44:47-07:00/2019-04-08 16:05:34-07:00/2020-03-04 12:00:13-08:00/2018-01-15 16:54:54-05:00/2018-01-17 12:05:41-05:00/2019-03-28 15:11:28-07:00/2018-03-25 11:15:18-07:00/,Added Conv2DTranspose and Conv3DTranspose layers
+deepchem/deepchem,8a49ad8d672e3298c2a64384fb7268a8da7152c7,2017-12-06T21:06:33Z,40e0dda76aef3b9a0b6fdaf279248194f3f789bc/e92a4f204946881c9940f27afd2cb437f6c6406a/5938fe1ee369b16a91f7157949aea6e1c1604a4d/0483083ba83d3e7471eca391a0bfb6a61edffd69/0f481642f9a2ebba21ae0ed0b7f2a3cac1b7fb3e/,2017-12-07 22:44:08+01:00/2017-12-06 23:02:34+01:00/2017-12-29 18:55:57+01:00/2018-06-11 13:24:36-04:00/2017-12-29 20:51:36+01:00/,"Feature for building multi-assay datasets based on related gene, allows building larger multitask datasets"
+QuTech-Delft/qtt,5459b9c3f556d7a7a83f46a5961aa9b9e1b9e95a,2020-02-21T14:59:25Z,f3876e7cd51792ee8c12c3bac54d7fb172a6ad26/4a1c35469592a514b8c179806866f4656103f842/,2020-03-12 07:32:16+01:00/2020-04-21 11:41:28+02:00/,fix bug in generation of stepvalues for vector scans
+orbkit/orbkit,5e53843b93bbd4ea0738aef2e373d9e582977757,2018-01-23T13:04:36Z,b19e51181703043b1f62dacf19e53d3cbb6d7e33/,2018-03-22 18:51:25+01:00/,"WIP: Restructuring of output calls in extras.calc_ao
+
+  - replaced multiple output calls in calc_ao by one call
+  - added missing alpha_index, beta_index in restart of MOClass
+  - Modified data conversion in hdf5_write"
+aiidateam/aiida-quantumespresso,8cba17d776a2d3a2f4f3e952b993cc446ca76277,2018-01-05T10:53:00Z,70d97b1cf40e3a6a4d9fe8bf0fccba09a3d4d102/63e9e475df8795fa73476abe0a949303ffcc9768/67abbbc26d7b69c40bea80ca9c9823ffa042263e/d63ad36f1ad2730162c0c28259756e6073466dcc/028c4f8530776c543185981fb59e0645a653ef58/4f076ab9997070fa447d38eb0e470d696eecd100/b5adc5d61df529e73ae574d6f06fe8a8c8c709f1/ab3368d31f960c1cb62374a6256e8337693fbae0/aab3721c23dc10d005cb384e0248b50e0311da67/a6a74452228f22037f6a97ed504b133b9c30c32e/569140d45409ac7fbcd978ec09aac2d42fd63311/,2019-06-07 13:20:49+02:00/2018-01-07 17:58:27+01:00/2018-01-07 13:30:59+01:00/2018-01-08 16:43:12+01:00/2018-03-23 16:46:25+01:00/2018-06-25 16:45:47+02:00/2018-01-05 13:18:12+01:00/2018-01-05 13:06:58+01:00/2018-02-04 11:02:26+01:00/2018-01-06 20:20:32+01:00/2018-01-05 12:19:34+01:00/,"Renamed and moved BaseWorkChain to BaseRestartWorkChain
+
+This particular base workchain implements the notion of 'restarting'
+a calculation from a previous calculation that did not complete
+successfully until it does or a maximum number of iterations is
+exceeded. This concept appears often, for example in QE pw.x
+calculations that can restart if convergence was not reached."
+evaleev/libint,da3affe882a0898e780a221a3b97070220a92a05,2014-12-24T16:32:22Z,b576967e87229cc1b258a23d3932e5a54fe9d987/31a216e46a38bd8aa2d0dceb84e813af9312307a/f7281432bdeb36da5b6de87683bf3fe9a6677abf/,2015-04-26 18:47:57+02:00/2017-05-18 16:30:37-04:00/2015-05-18 21:55:32-04:00/,"trying to fix hang in libint2_init_shg in BG/Q ... likely something to do with ""small"" types (char vs unsigned char, etc.)."
+deepchem/deepchem,8bb85146147d2423ce198ffc713e4ad54d49c7b6,2018-01-15T21:54:54Z,2aa5cccc7c65d14305e60e0a61781aa11cb7142d/2a3d0bc307b218ea6cb33f9e0aecb10c5f3c3ce1/cfbeeb2c794d7a35eac6702bb8027c8c274dbeac/,2019-03-28 15:11:28-07:00/2018-01-16 09:40:14-05:00/2020-03-04 12:00:13-08:00/,ToInt32
+evaleev/libint,8c5c13aa22b19f6a463494330d511860fe6de60c,2005-12-01T15:34:37Z,5cdee30e33a4f04a30d97179a0466eea3767b69f/1c620d9e4b3cdf5e8acaa453eefe30b25b7f8fbf/9c8bb704348b9de8f3b95a893062e41dbf151f2e/,2013-05-10 10:55:22-04:00/2012-12-17 12:38:06-05:00/2005-12-01 16:23:05+00:00/,"Needed better checking for compatibility between cxx and cxxgen.
+
+--HG--
+branch : prerelease-2-branch
+extra : convert_revision : svn%3A30ab2afb-5f51-4bfe-ae8b-bcb573c66ba7/branches/prerelease-2-branch%40249"
+jcmgray/quimb,836b999f8c5508268ab4f6973e294baf7764bf55,2018-01-05T16:54:43Z,9ef0a90997918c81f084fee47cd9f3f01e7eaa96/dc43b06b4799d925d754d8047da5a7621257e197/,2018-05-03 17:20:02+01:00/2018-03-29 17:35:17+01:00/,some fixes for partial MPOs
+QInfer/python-qinfer,6c9df9851606e5e1ebb41081c25d9056c6d27b93,2017-06-13T17:53:55Z,add8e739f8e9367ba2ee6a058fc0586added77b6/,2017-06-13 13:58:27-04:00/,fixed a bugA
+evaleev/libint,d3f78efb16dd57ed1f9a98bce72fa4738fdd8fad,2004-11-23T23:30:38Z,d651218ceea63607d1d5792633b8d4e983eae1a6/9303c5a673444af1cf2a4b6155166a05c32c9c79/d58679f9abe4ead264f45c17d86b90ed5670cdb1/5d72c0a821428d3cbbd7ece5956fb7abb27dc96f/96ca467e607a9f47ccd30b0585357dfbfa52de0c/e74b17525c0cbcf9d46b4876f2b424e56c421650/5b74a6b6afffacb4826c9f20cfab1d0fb79c65df/f0679ad18b9c47be4e07a20b7ef69b82041643d9/d5d3b7cb83c4f4c7044c6fb67a61c5b937b22ae8/6cb33633072a7b403a744f7fc3e469230471f7ba/4005a2d8a8cefcc04b8f06a0d6504a082c723e32/9a2e120306b158f28cdc13e580049daf19652a4f/9821b6399a18e227c832df9a725e05483cf160cd/,2005-04-14 22:41:43+00:00/2005-01-17 23:52:33+00:00/2004-12-21 21:29:56+00:00/2004-12-01 00:42:35+00:00/2004-11-26 22:40:46+00:00/2004-11-24 23:59:45+00:00/2004-12-15 21:43:34+00:00/2004-11-27 20:28:04+00:00/2004-12-03 22:17:51+00:00/2004-11-30 00:31:01+00:00/2004-12-09 14:07:27+00:00/2004-12-10 20:47:09+00:00/2004-12-21 21:23:35+00:00/,"Prototyping more stuff -- last few ideas are starting to look OK.
+
+--HG--
+branch : prerelease-2-branch
+extra : convert_revision : svn%3A30ab2afb-5f51-4bfe-ae8b-bcb573c66ba7/branches/prerelease-2-branch%4047"
+QuTech-Delft/qtt,f6ce9d72fb463e21a24aed7fd813a79e96c7066f,2016-09-08T11:58:56Z,5d35dfde39dc23bd304ec70a45ab2b13b1f084c5/7a0acfc277c23b7d12ab75896d0112dbf30c2d4b/76fbc9bea56514be6a8a0892ff65292e604d8c03/17572dd5a86f02ee49d22b8ee9d83b9232b76659/,2016-09-14 18:31:34+02:00/2018-01-11 17:18:20+01:00/2016-09-14 18:31:34+02:00/2016-09-14 18:31:34+02:00/,Fix virtual_awg in if statements wrt awg_seq
+jcmgray/quimb,8e02382a02039a8b90b5e75a7ed124de6b883c83,2019-12-16T14:38:15Z,d45f170636112070697737e58703f6773ed5800b/f3ef77b6c5a2b367d0b43f29c03bb4d1ab98dc43/dec3b951405555e32ff03a2989f17e1e8cb58146/e18791d915fe9ae1fe44ea57d75267b1e7d9238c/5a68fdfa21796f007a4d6e264a761dc7da7b42ed/,2020-01-27 17:08:02+00:00/2020-02-15 15:45:36+00:00/2020-01-24 14:27:04+00:00/2020-05-05 18:20:45-07:00/2020-01-26 12:40:56+00:00/,"distinguish time-dependent 'callables' from LinOp 'callables'
+
+also extend the 'test_evo_ham' test to include tests for time-independent LinearOperator case"
+TRIQS/triqs,90ba7752eb0d3eb2e7487664e9d22b9f61e5567a,2015-07-18T11:06:02Z,3ca4b62c3952cf9c0b46738729d8a105ba48ce7f/df192f62e8154867bc00a36b613b356fbdf65f69/6c0320d8ab2754a08da1dd4dccf47323341087b3/f8abebacec4529f59aa46e65effdc72415b826a0/f702bc6c873ee00a7cc96ecaf636e109e93c665e/79048b7b104b8a399d93b960ea52732ff727bc67/8ff3010f43973472841ec85ffa47f858b366cc5b/b9725e0517179e9c1b1ae2db9ae1c33a7cb24013/ac2ea8b1d835797ae8115f513933368554e9e65b/542541e2ddc8da7454bde1ac57fcd464825de74f/7fc2099fcf1293af1ad17a8d7dfb1c92617dbc0a/57cb8defc82f41140b8a62fe6ce578adb181e5d9/8ce34550fb0d66cbfc6ec5bf25036dbc3397ca7f/59716640a683b0e9262afb978af91202789cfe5e/,2017-02-23 11:49:06-05:00/2017-02-23 11:49:06-05:00/2016-08-03 14:47:47+02:00/2015-07-24 23:04:05+02:00/2016-11-09 21:24:13+01:00/2019-11-01 17:40:52-04:00/2015-11-17 21:27:38+01:00/2018-05-03 18:31:09+02:00/2019-04-13 21:22:18-04:00/2016-12-06 14:40:44+01:00/2015-11-11 14:49:34+01:00/2019-05-16 15:22:43-04:00/2018-05-26 23:43:55+02:00/2017-07-05 11:09:12+02:00/,"Porting some tests to gtest
+
+- to experiment"
+deepchem/deepchem,db564b32da8310e3d8f009adf6817026427013e6,2020-06-06T00:47:42Z,b04449fd69516dcccbb862b6c0880c9be2ca0dbd/,2020-07-14 16:09:31-07:00/,Fix Tests
+tensorflow/quantum,6efc39a2ab73693d3417d40516935788188306b3,2020-04-23T16:52:23Z,89504e0a621e7602a042173113ce6fbf4899a604/,2020-09-08 12:32:03-07:00/,Change size_t to ptrdiff_t (#219)
+orbkit/orbkit,d36cfb2d7674fde43dbca726eff2ba1b274f2c24,2015-01-14T16:14:08Z,06295bd22421334ea02ec87177210bb9ad1b7652/9d0a3733deda2c91df91661375bcf1937c667c59/225dd85784ca94dd9e1caa37e7d3a466e6a4b598/fbc033298116e14ae8877aa6187aea003b6cb53a/5aa5202da5c63babf67950513fed5828d0d400f9/6d778cc5877f6555a8e13de5c1d40c5380131a8c/213a14d4fc75e20fa9e01e8399b7580f772956ff/1019fa9ffcff41c5577982e474c14668dc1967d4/f45a7baf085aaf74fc389b85aacdfff00707a37d/bb4e0689e1765ff728ce89b4fffbb6bb927743e3/,2016-02-05 18:13:53+01:00/2015-01-15 12:38:45+01:00/2015-09-18 11:06:27+02:00/2017-06-15 17:25:43+02:00/2017-06-30 12:34:18+02:00/2016-02-16 00:09:37+01:00/2015-01-15 12:32:58+01:00/2015-01-14 17:26:18+01:00/2015-06-22 18:09:26+02:00/2015-07-13 14:42:00+02:00/,Reading AO exponents in gamess reader.
+XanaduAI/pennylane,6ac7a3b81b0fd680408a6880408c11543104cbba,2020-04-06T12:16:03Z,5f8064f269698cf83c2c274039096f2a80dcf8b2/,2020-09-14 21:35:57+02:00/,"Unset attribute in test (#576)
+
+* fix
+
+* use monkeypatch"
+XanaduAI/pennylane,a8c729f4c7c3014a72ca756af4dcd60f81cd406d,2018-11-09T08:33:13Z,c2d27ccc005e46bba584b3f6a18fb9eed4824f88/,2020-08-05 15:40:47+02:00/,"Update pennylane/_device.py
+
+Co-Authored-By: cgogolin <git@cgogolin.de>"
+TRIQS/triqs,de25e0c7f385efc9fd062565d0158300407eecd2,2020-06-08T20:43:44Z,e3cecbf8673deb3ba5e62e406929bbb46643d39f/,2020-06-15 10:18:49-04:00/,[jenkins] set BUILD_ID to avoid caching
+deepchem/deepchem,bbeda05e92c6dce60541bfc70f7be7bc4845f8c1,2019-02-21T15:37:11Z,e689f091ba9bfd6adc25ae7817e492505ef7cd2b/8472e51f2e58939d0f5b782b8d7e25c22072d8ca/e70c98395ebf35c779f3da1fdf3f3d09ed1cae77/2a560439e56956638289d29ab0fb37efaaa58008/01672db5120822b811ae453037935b6cab5b8863/,2019-03-01 20:01:13+05:18/2019-02-25 14:33:33+05:18/2019-02-22 13:58:58+05:18/2019-02-22 14:01:16+05:18/2019-02-21 21:34:35+05:18/,Add files via upload
+TRIQS/triqs,2de8cc73f08afa500d37aef4ce2add497ecf851c,2014-11-20T19:37:56Z,31b07f2b6a285b02b356d4a9270568ab038a9e5a/be60881a2c93ae59f9ca3cb3935526cb2e5614b0/adcf13a824c3b2de894b0912618b2481b21915c3/37e68715bec79c43c84b3d837227b64a7c416cec/06e7d0c40759874b86bd86352fda8560febb238d/488c9d8c33d94ca48ff965cae9821a13b74ffd28/01ccfb6140464f81bda00573a8272f14c0f8d83f/fec98af0329e03428bb1187379845caa51264f54/b1b67493d003d18b622975a67ced0afc2820c356/7402718f80b35bfdd801265b9068b1ae008d0fdb/09c77a174b4959f44d686d0584e166cfc47cb8d5/899196f0085ba90c974f9f11afcffe61705804d6/ddb1f8b5c5f9614c35f2976894412af37f9d82a8/2fe1f95108fac7986ef3128c7da7a1f0ecd3f365/bede82e3d3f52b260a4b61dd3f72d13bf4e30008/c91fef02c1ea82ad7b80d250864cadb50f142ac6/2d9b8dde5fcd0da45bf5365b09623197b9202a2e/136df6006774af71d0861dfbd8a457d1aa795258/e9284f9d560674805b848ddd9809d1056fd4c93d/,2019-04-11 13:25:16-04:00/2019-02-22 16:16:42-05:00/2014-11-20 20:28:55+01:00/2016-05-10 16:03:49+02:00/2016-02-11 18:01:03+01:00/2015-07-17 14:26:14+02:00/2019-08-15 18:06:15-04:00/2018-05-30 18:20:48-04:00/2015-06-17 16:49:03+02:00/2019-03-19 10:52:31-04:00/2018-08-24 14:58:04-04:00/2017-01-21 17:56:15+01:00/2020-05-19 12:43:26-04:00/2016-11-22 20:25:16+01:00/2015-02-20 11:02:03+01:00/2016-05-07 10:11:17+02:00/2019-04-25 11:22:29-04:00/2015-02-20 13:06:56+01:00/2015-01-26 18:02:55+01:00/,"Get rid of <<=, replaced by <<. Add warning
+
+- Replace in tests, doc.
+- Add a warning of deprecation for <<= into <<."
+deepchem/deepchem,322ef3b96a7dd2cb9bdc7e139c457454671659fd,2017-09-26T00:22:49Z,2aa5cccc7c65d14305e60e0a61781aa11cb7142d/cfbeeb2c794d7a35eac6702bb8027c8c274dbeac/fe274ab090148414328ca4943ff3929fff84156b/,2019-03-28 15:11:28-07:00/2020-03-04 12:00:13-08:00/2017-09-26 10:06:31-07:00/,Implemented StopGradient
+jcmgray/quimb,15432cfcf082c862a8c1866e3909549a7f864ba9,2017-08-16T16:01:21Z,dd8026f8f2205893ef29222c5431ea90c0d9ba35/0b6e688fdc0773838c96fbd8bd8e2c11ee0d4678/,2017-10-11 14:00:38+01:00/2017-10-06 01:06:06+01:00/,travis: fix cache check
+TRIQS/triqs,d8699990af3c7fe8f516980322b66b61bbc183ca,2017-01-04T10:17:55Z,8ce34550fb0d66cbfc6ec5bf25036dbc3397ca7f/,2018-05-26 23:43:55+02:00/,"[mc_tools] move, measure are not copyable.
+
+- remove the need for move and measure to be copyable.
+- type erased move, measure and their set are therefore non copyable."
+jcmgray/quimb,0a7c1ef5c6ca1e6e447ef7252fefcd71303b26d1,2019-10-28T12:12:49Z,492201519157355b751d64af73e297a318f0adff/,2019-12-06 17:20:31+00:00/,TN: fix repr typo bug
+qucat/qucat,2c8cebde3758a87d36e4305f63eb81edce4015ca,2019-02-11T10:01:58Z,23a954d60b1cdb46d77fff68cdba0dc42b842520/d0855754c4cc57b370dcacdfa4bdbc7545dd72e5/1a69027114f67e719a5b44029068022ac03a21b4/,2019-04-18 16:46:08+02:00/2019-05-20 18:18:25+02:00/2019-02-11 11:39:26+01:00/,debug
+deepchem/deepchem,55e8eacfa3a3d9208cfee5c31695a326b6dbf631,2017-03-05T02:02:32Z,557bfba02f049ae7fb0f9dca7c1080d6d02ad473/abd56e94eb1ee68c8cf18bf7cd9e91b3947456b4/,2017-12-20 17:36:19-08:00/2017-12-20 12:26:46-08:00/,Code changes
+deepchem/deepchem,ecda59f1017fb62320195c4995728832d775fef4,2016-01-12T03:29:33Z,17b84220c0de96620ab75f3e53c8537de71a0aaa/5273d873b9154ad706bfdfcf4fc8e2354fd425c0/,2016-02-28 17:03:43-08:00/2016-01-16 20:25:26-08:00/,added dataset
+deepchem/deepchem,159580943869d7e0886ce3d06bc10d35c7812aab,2016-01-28T05:10:21Z,c6b5ccaa9ffd5a928600214554da34b8e20ca50b/4a1b752726028f02bd04fc7b766b048a859e7f97/64c532c1c6369c62614438785dcc435942fe8de0/38271eb0689a1148f0016cd6a7f104582eb9815c/69cbcb65ac2c08809fe0f9ade0b665d7ecf760c6/1b18b95edefbd4c3ede234495f9d07d1d61e2ce5/21831e01cda03c1b32db3c171903eecc505e5db7/1cb558d1ebbe08a08d88efd03692ef651852d537/2c0978852241dc329769f5341c20c809ac488eed/f1b47030b99b7a040cba05d5c72f800db75d82a6/b244fa05baa74e7dca7fef206c2ddf23acf57d92/17b84220c0de96620ab75f3e53c8537de71a0aaa/4d8e9e71b1313eb95359604adaa79511398e5e42/8d98ffb4102b7a51145dfafbc56040f0d1829bac/0d704cdd1691c1ba7cf77e7ac0e666b7e1eab5d4/4f6d254efdc3ccea49faeb90662959cf0a82b724/4018ef4ca59c632b838643ac2505c1b85279b405/bb9258537df719fcb3a425c3c26647c5a9b31964/0450b9e750dcbbaa67965e2f6f9d4fe05e4dd228/473caa192ed38f44931935d4d4fc3b021d629ff8/63fc42178af6c63e521e66d7170fa59406f4f304/067cc2d8e9c3d79acc34198ca07bb5ee1a8e3c8c/a36e7917f6904923b9a660fbcd6c232fe159656d/1679086c6d3344e8b6f3aa83ece805cd5e590641/530254d7bc155f5d40bbbda82ca153ad1cb1e61e/08c9040e236373f305773e0fb46990d0d9757572/098095d4ce426edb89e61eba2923b89dfc191bdf/2e1fa8eb82b2a6fec90c2b064e01b1bbee99fa29/9c093e5db82d90885a96fb58b08f85e4029e2f3a/59cba5f2221ddc4520b95528e43b0822748cc1aa/2415e4eb22b468743f301623889149cbf1bf53f1/3ba7d9ecc985a1ee5782a1aade355059625abe64/ee2bc2a8daaba5717e49917831ddf8229d1ebe70/7fe6e64b7ff3ef7c0a060ccd3c702005e9458bbc/52268a72088a3c00e81463322b93a72aa8ad99f4/f72cf3d94c21ff08f429c91062eae43a22d3b269/1474bc05ab7b5f687bc18aad60d45ba98a6b53cf/b9d616c0caf654c849b6f21b059c6a05ffc290d3/65f7a6fb35f6710d602963b3f278707c1a72fcc2/b66bf99a59e8f3701499638d257a6e53a4fd6362/e9e11d4d05e48162ef209b53fad600675a028d5c/a47422a8e1e3bc8971e982d4879a18e8d9887c16/dbd3352606f1a97e321da7679655c6c4852df21e/ca40f1cb7e7556fd6b3bd20fd4d76dea838242cc/763f8721952e8042d6086b103deb2450334be4b3/195841638761666503f914c374a31ef54a0d4be7/581f486f3f4a116c359f9e32791f1e512d03abe8/4c14b496bb5d1a4dfb92a3f32d3478c9233bcc8a/a7e834bda0c73e64eb1a25733cc7885250eb4d32/84ffef3621d25c9fddb573c2e06ced0e5e0d5064/f19ebde9774b8c7117197f521d2ca311756161f6/b4d052fdeee18d0996a616e2adf3cf290e14e738/d01952226313b9ccc2e41a1869d5320c23df1c28/e9760d71d37ff5eaaa4a40c2885390eda1d6b1ff/,2016-02-12 12:56:48-08:00/2016-05-29 23:01:14-07:00/2016-10-30 21:25:04-07:00/2016-11-26 14:07:06-08:00/2016-12-30 19:27:52-08:00/2016-02-17 19:38:24-08:00/2016-02-25 19:58:11-08:00/2016-04-03 19:03:01-07:00/2016-09-28 13:25:35-07:00/2017-02-16 17:03:57-08:00/2016-02-10 19:40:58-08:00/2016-02-28 17:03:43-08:00/2016-09-12 20:33:48-07:00/2016-03-03 20:40:58-08:00/2016-03-21 16:19:22-07:00/2016-05-28 22:30:29-07:00/2016-07-19 16:48:52-07:00/2016-02-08 11:04:28-08:00/2016-05-01 13:37:54-07:00/2016-02-17 21:20:07-08:00/2020-07-12 19:48:19-07:00/2020-07-08 18:07:11-07:00/2016-09-07 00:34:02-07:00/2016-03-12 19:44:43-08:00/2020-03-14 16:34:27-07:00/2016-02-11 19:55:04-08:00/2016-09-30 16:54:12-07:00/2016-02-12 12:18:20-08:00/2016-03-16 19:28:30-07:00/2016-02-18 23:53:14-08:00/2016-02-05 01:17:17-08:00/2016-03-08 15:24:56-08:00/2016-05-30 14:23:43-07:00/2016-09-13 00:09:10-07:00/2016-09-13 18:44:16-07:00/2016-02-01 18:48:21-08:00/2016-06-02 18:17:23-07:00/2016-07-16 23:28:02-07:00/2016-05-11 12:57:29-07:00/2016-12-13 18:10:43-08:00/2016-12-30 19:53:22-08:00/2020-09-03 19:30:01+09:00/2016-02-03 00:49:41-08:00/2018-02-24 11:09:02+05:18/2017-03-09 19:32:33-08:00/2016-05-18 18:11:09-07:00/2016-05-22 16:48:26-07:00/2016-09-19 13:47:58-07:00/2016-11-01 23:11:34-07:00/2016-02-19 18:21:40-08:00/2016-02-01 02:36:35-08:00/2016-11-01 19:46:27-07:00/2016-12-25 19:37:42-08:00/2016-05-28 16:05:21-07:00/,merged grid featurization into deepchem
+qojulia/QuantumOptics.jl,97a3d1f43f6b8723203d827a6ba261fdc7fed1c0,2017-03-09T15:07:37Z,917145221c8a2f83e2db3b5db68cb9d5b05d3b67/525f058cb5fcb59832ded097d9ee57e29bf85151/8a1664ccfdaef1568b1bc22e493408b561f18c2c/24873cef53daf09b67defa0d22fbf6a44b206ebd/,2017-03-14 15:31:24+01:00/2019-10-07 10:34:06+02:00/2017-03-09 16:47:29+01:00/2017-04-19 16:05:07+02:00/,Fix gemm implementation of lazy tensor.
+deepchem/deepchem,cb3764f67177ab4e0e735a0aa5289fbf64ef36fd,2020-03-15T00:23:25Z,11497aa50fba7e781d459748035d48b0d0bbc1ba/,2020-05-30 00:59:55+09:00/,Trying with TF2.2 RC
+evaleev/libint,fd69747a52ceacf593d78cdf2422d8f8004fc80c,2015-01-15T19:03:18Z,77517890e983e63b7efa4824dd3e3b53a20d372e/,2015-05-13 17:05:30-04:00/,minor cleanup of 1-body ints construction in hartree-fock++
+TRIQS/triqs,758c07c87cadd2e00a1c082bae54a06c24cbe8e2,2014-01-21T13:29:44Z,cfe3532c94a1dbd4df0458e9750a21c759320b19/,2014-05-22 14:51:26+02:00/,"Correction of last correction....
+
+The construction from c++ should *not* be changed..."
+jcmgray/quimb,b3cfe0db2ec3e4389f7558aa74b481cfd52773e5,2017-05-29T12:37:52Z,6b59a383007ab117d03daba2289c424a151798d2/ec457b92a9e5b7a83bcaea8bdb09d591e9664bed/,2018-09-20 15:49:51+01:00/2017-09-15 14:35:12+01:00/,changes to env vars controlling num procs
+evaleev/libint,32a286192eadf1ddbde2bd0fff8d81af8c940bec,2016-07-26T02:15:38Z,1ae04f7d75958eef3ab1d284720167478105cddb/ee9371ff06ead25b779de9af9d24b19f985f89a7/,2016-07-25 22:18:15-04:00/2018-07-11 11:55:21-04:00/,"Updated element list, including most recent 4 provisional names (http://iupac.org/iupac-is-naming-the-four-new-elements-nihonium-moscovium-tennessine-and-oganesson/)"
+QuTech-Delft/qtt,0d6e7e77e34c77872a327b5910737cdd9ebf7a18,2016-11-18T20:34:51Z,bd3b4e03ead7b19a995049208f253d8606d46f79/911a89e95ff3a091664e5d5eb2ebf038c1d43c08/,2016-11-18 21:34:51+01:00/2016-11-11 16:55:44+01:00/,Add 1d array functionality in pix2scan and a signedslope in slopeClick in tools
+XanaduAI/pennylane,385a5a510e82e4b24d0b64d0e90647b757124833,2018-10-26T20:41:19Z,8e78539f0698e211b5195fc17fe1bb97e8cb6073/656020fcd99984d3a177dcdcff4ac03926c56135/ba9985974c30870ff71a320ba02bf0cb27aecf0d/1d4f5f09b15443e1d8ac05a1dfda936303fd3dfe/8a36c2e1c668b496506d9d9eeea422c470079abb/95a0f6822e07ee85338749540dd0b8e41b944fe7/b6b88c716d2404c28908b93597839edb45f710f4/ef7ee29cf4c06c091a9ae6d1c2d26f0ddf459c9c/,2019-01-15 18:21:52-05:00/2019-01-15 11:20:10-05:00/2019-08-22 20:54:03+08:00/2019-02-09 16:20:17-05:00/2019-12-26 11:52:41-05:00/2018-11-23 16:40:49-05:00/2020-07-28 22:48:27+09:18/2019-01-12 11:43:17+10:18/,added readthedocs and travis config files
+CQCL/pytket,a6c33023b80a095e0306cdc504584f455675bcbb,2019-06-12T16:55:19Z,ef6c5dfaa034e7413a8b57c84074b91a60a58af5/,2019-12-04 15:01:42+00:00/,edited symbolics_example
+Qiskit/qiskit-ignis,32be479f045fc502463cae8b621586758b02fd5a,2020-02-14T02:02:40Z,a9b473af8c64c8a1c869c028da5d93a307311637/4fc0b2b4d7ad3d45dc512081bbac27ba4ae03944/a136e72156a20c233446ebd6108038cba7ac9f1b/4457483018536ed818df6e249e1d677942d8d119/38dd6f9c6a3394d56d3085f06c97840aa435aea9/26d7745e3afe3331d765d667b0f5657640b006cc/,2020-07-01 21:04:43+03:00/2020-03-26 15:59:15-04:00/2020-09-18 23:13:35+03:00/2020-04-09 19:02:28-04:00/2020-03-10 17:16:31+02:00/2020-03-24 00:53:59+09:00/,"New style docs format (#350)
+
+* update sphinx
+
+* Merge remote-tracking branch 'upstream/master'
+
+* move to new style docs
+
+* lint
+
+* fix cyclic imports
+
+* fix missing filters
+
+* missed more filters
+
+* no doc errors locally anymore
+
+* update to latest terra
+
+* fixes
+
+* skip offending unittest for now
+
+* remove the skip
+
+* fixes
+
+* Fix the apidocs landing page title
+
+Co-authored-by: SooluThomas <soolu.elto@gmail.com>"
+evaleev/libint,d7acd12a5e3568e22170d317adbc397de8998d14,2014-07-09T16:47:30Z,d32b233a70d5cdf243b3437a5aebbc405af40cee/,2015-05-11 23:46:15-04:00/,Fixed bug introduced in [8cc13f7]
+deepchem/deepchem,545b3701843feb4e2c7c9edc6689201a7750515e,2018-09-20T01:01:07Z,63fc42178af6c63e521e66d7170fa59406f4f304/,2020-07-12 19:48:19-07:00/,Fixed more assumptions about array shapes
+deepchem/deepchem,19029da84dc6bb4240af6bc68455d463f838ac8a,2020-07-03T23:12:18Z,04f4305931bedd43ca76190b25de120239d2dfe6/7e6ee5d15f222ae8506a44a9df924b5f73627de6/afad43019a6907527debd73cca58f80825e7dece/e49868d35532a0d90cfe51b0cde7a7fa8cf1791a/d4227698f8c3175382ac835a57cf945353997c69/fc2c81d703960a59a22d6fa8427f9950bb312a68/cdeda081ac8ae1d39420ad14a9a88299723dc858/e3e36f1810045859e767c3fc4a671ec18e9cb0b7/b097eb3ca9883e4b342d34eb0990972fbdf68dc5/,2020-09-28 17:14:16-07:00/2020-09-04 00:21:52+09:00/2020-07-07 17:45:43-07:00/2020-07-07 19:53:23-07:00/2020-07-24 13:08:44-07:00/2020-07-23 17:52:33-07:00/2020-07-23 17:20:11-07:00/2020-08-11 14:19:17+09:00/2020-09-24 10:27:03+09:00/,Fixes
+boschmitt/tweedledum,d0989508ab761e8b7a102325418b92f861b37215,2020-05-28T14:31:17Z,4ef9fb7a563559f6079c4c132b06469267b22dc6/007338504f0d29b8a45d1aedc58e9b7d75400a50/,2020-06-03 15:45:12+02:00/2020-06-03 21:58:48+02:00/,"Start implementing the python bindings.
+
+This adds a minimal working prototype of the bindings."
+evaleev/libint,d247f74529d9443c9a2e97e9f50fe6a9545d9a6d,2019-05-15T03:21:33Z,11d55219a975a4136442ab5cd35f25007341a135/a82243b3f93110e3494309404b7c5c9f8cb4e13c/b7dbc49cf1785d990a38ce5157c4c8fa84e75393/a13526d130b3646a17c98b64067ee3faf5c8cde9/ef04e4e4215bd93ae31cff682daeeefbe4e356fa/53c8981799915ac11c34505f2f6f3782ff5cd1ef/0feff9d1fd3e4d40387eb10475b544a32e15ee15/76c851a5bd46322b06873fd274c1a24d0ad07ee6/35d73e911ca17d541809342b790199b1c9f8a747/1e2f1d9242ff80b498ff2b3bb243771300d8d7b1/08638425be0406756a62af002b759afe60878e44/504e454bce5e558daa03a79daf53718aa5b228df/,2020-06-02 09:32:14-04:00/2020-04-01 00:07:23-04:00/2020-01-29 13:52:32-05:00/2019-05-15 10:35:51-04:00/2019-10-04 15:36:08-04:00/2019-05-16 09:39:22-04:00/2019-07-30 13:19:21+02:00/2019-05-17 15:13:34-04:00/2019-06-19 16:15:28-04:00/2019-05-17 21:52:59-04:00/2019-05-18 09:05:05-04:00/2019-07-31 17:19:40+02:00/,[cmake] can build and run unit tests
+jcmgray/quimb,c2152cb0c1762b489da69ea446548ad95bf7e43e,2017-08-11T13:44:14Z,05b1b362677df30a1c107c24cb197852cca1586c/,2017-08-11 15:05:42+01:00/,travis try installing openmpi from apt
+aiidateam/aiida-quantumespresso,25935fc49d9054d6d051de9270854e77fb64a158,2018-06-27T12:54:43Z,122b7b17788f82d31148abf74105618906351a7d/,2020-04-03 11:46:05+02:00/,Update README.md with information about aiida-core version support
+XanaduAI/pennylane,d80e904b5d8ca52eaa2d022e1ae1faaea915a381,2020-01-18T15:56:30Z,c93b2dc737bed5a64bd25e6a2b82dae67d2242a9/bcdcc41e84f59603c0d8b33444c2a0ab7689a914/,2020-08-18 12:40:13-04:00/2020-01-28 19:30:53-05:00/,"Update chemistry.rst (#471)
+
+* Update chemistry.rst
+
+* Update chemistry.rst"
+evaleev/libint,fa5ca20ae167d15f6f35602194c779fa99e67ac5,2019-04-07T19:45:33Z,281e2970b65470d97d22793afd0677cdf736c1ea/,2019-04-08 10:00:37-04:00/,amended docker travis build script [skip ci]
+qucat/qucat,52aaf5f9965fea5a9f0957de08cc5247d1ec0724,2019-11-05T13:53:14Z,4f07e44825438d7274612cdf9e134264d154c931/,2019-11-05 16:50:42+01:00/,Update .travis.yml
+aiidateam/aiida-quantumespresso,51b3d722809c8063a48b4f0175dc161e90d5d35b,2017-12-05T09:04:59Z,211612c0672e72ac807ba8d543cd4dca9320ca5c/660b86a2745faf0fa7de64a14fa1e4804bc29403/c3e50928c9489e3ad37e7e3be5935582b4c67ae2/,2019-03-12 18:08:52+01:00/2018-07-18 11:58:30+02:00/2019-05-31 14:10:24+02:00/,"Fix bug in parser_opts of PwParser and pass to parse_pw_text_output
+
+The PwParser tried to retrieve the 'parser_options' from the settings
+input node, but failed to convert the key to uppercase. Since during
+calculation submission preparation all keys in the dictionaries are
+converted to uppercase to ensure homogeneity, during parsing the
+key never seemed to be specified. Converting the key to uppercase
+now properly finds the parser options if specified.
+
+The parser options are now also passed to the parse_pw_text_output
+function."
+QInfer/python-qinfer,36fd428d0011d5e5a15e60101a3a5789436c8ca8,2013-01-24T21:17:02Z,fe5601fea8a8d9614149c0b3076d34cd78549cb0/cfaf96abf0d727c39610646eeddd7216e1f7db97/,2014-04-20 13:37:37-04:00/2013-01-28 18:01:28-05:00/,"Minor refactoring, documentation improvements."
+QuTech-Delft/qtt,e8a4b12b273641231b43a2e121e92e000265cd2f,2017-05-29T15:18:31Z,543d3797b9bfda30bb5159fc60c8aef195647d33/99dd31c9584d8af7346097f9979448c85aeaa456/6f4306326e3b6680933c5c0227048cbbbfaabd08/43a8258449b6f2d0f598b45f88deba8e27ccba3b/7b0f21b83bf21a8d9076c168556873369788a0ab/f994d87cbc36e920bec85df8613e09ad7665c8e8/81affcb404c5c894fbe110504654b664ad64c40e/10d6f2d24fb17b0f41cafdaa751018516ba4cbbb/c2e47a4787bddf67350f01e74c101ec42c1189f8/7c205329165b241e3846d7a8cc9f035da2a12498/7023cec4151e5b7c3ab3e6d16a7a052739cba031/667d236933a83fdc1da1ffa6b66de3328d8fb77c/69bba319f1e48b2e06e2cc57e873533ec39ea939/9802dbff62044361a211c1a6a53938be10e19db9/,2017-12-20 12:52:26+01:00/2019-04-12 13:21:04+02:00/2017-09-29 13:10:55+02:00/2018-05-03 09:22:40+02:00/2017-07-20 16:29:35+02:00/2018-01-12 21:20:49+01:00/2018-01-05 20:29:40+01:00/2018-01-12 12:33:29+01:00/2020-05-06 20:01:45+02:00/2018-01-02 12:54:26+01:00/2017-05-30 23:55:35+02:00/2018-01-04 23:30:01+01:00/2017-07-24 21:56:28+02:00/2017-08-30 20:19:57+02:00/,"Add code for creating and parsing t-traces (#106)
+
+* add ttraces
+
+* autopep and clean up code"
+evaleev/libint,97d3186f4c2c2216b288bfefb4ba9c6723f10120,2013-05-15T00:02:51Z,d7d0c463698d5a7950ca4f4ba1767f1201efa7f4/bd2f09f923163637cd753720ababbb6c8b45cf2a/,2016-05-28 17:55:38-04:00/2014-08-10 09:09:18+03:00/,Pacify picky compilers.
+qucat/qucat,68f5c4049a2d91019440aaf39824ff053e5ff740,2019-05-03T08:12:38Z,924fe078676b8e4bef6b7481a7f9fa08c6ef44f8/e9f2f7e9f58c1537d62b039e4b49806b1ca02d99/40da18dacebbd5c55a3ef886128632a58a5110be/ca8386c1f734edba72c877e92452ddd25ac297ec/67c1377d733f65944d0ecd2ca15974eaf729fee3/,2019-05-07 18:17:18+02:00/2020-03-30 12:47:30+02:00/2019-11-05 13:59:36+01:00/2019-05-03 10:31:00+02:00/2020-01-29 19:40:23+01:00/,went back to release instead of click for selection
+tensorflow/quantum,0dd7c0951b330d557b39a97d3b5b13e295c478ff,2020-02-10T10:31:21Z,3e662e8902d8d02f997e6b49aadbebcec0b7a9ed/,2020-02-10 22:31:11+09:00/,Apply temporary debugging print at operator==()
+TRIQS/triqs,668fcb9910ab646f1e6a0d15a2e006cde80d6d6a,2019-01-18T20:55:06Z,774f7b8c9b9a5a9eca6685a12b717fec93482f8d/,2019-01-15 11:04:42-05:00/,Update Cpp2py
+deepchem/deepchem,84e20a7f054c2fbb7074461ecc7d5f7a9e506ced,2020-03-09T22:59:30Z,e051ae90cbbe3c0866f7720ebe153b23cbb3c33d/621199cab4b00954c1b2c62047c45f1233d1ec98/247a75db27e2946d091e5d5436b817b90e101d4e/,2020-03-09 16:05:17-07:00/2020-07-23 17:21:01-07:00/2020-03-09 16:04:32-07:00/,test fixes
+XanaduAI/pennylane,860f1357ef6f36f0bdb85be8ce6f19b7df6af481,2018-09-27T09:12:29Z,82cc5dbcd63d532ed94eea9f9a24686b44924957/67c58471ece79b10fe9bf49d7f4dc3da5decbe72/,2018-09-27 11:49:01+02:00/2018-10-11 10:27:25-04:00/,"implemented Rot and QubitUnitary in ops.py
+disabled error message for state preparations on a subset wires"
+deepchem/deepchem,3bbebc3e088e6b52e111cc8bbff9d715752c03ac,2017-05-29T20:34:48Z,557bfba02f049ae7fb0f9dca7c1080d6d02ad473/,2017-12-20 17:36:19-08:00/,debug
+deepchem/deepchem,fea42a67984cecd8caea48b83b1b29496b520402,2020-07-16T02:17:52Z,865c19c914c73a8398269e13925c49d9fdd319f1/,2020-07-16 12:14:25+09:00/,:truck: move data
+evaleev/libint,a88fa949dfddf5012764bc8f65097557036d82c9,2009-02-22T17:02:01Z,ce23be60de3609717e2e5dc3cf13b1edb426aaf7/,2009-02-25 20:56:39+00:00/,"Correct ORCA ordering for up to lmax=8.
+
+--HG--
+branch : prerelease-2-branch
+extra : convert_revision : svn%3A30ab2afb-5f51-4bfe-ae8b-bcb573c66ba7/branches/prerelease-2-branch%40445"
+qucat/qucat,8d64bea95f0bb8bd5af99c67169b85faa411e7ed,2019-04-10T07:55:38Z,40da18dacebbd5c55a3ef886128632a58a5110be/7407ad72d9ec18beab686733480dfe3f030def0e/d174224f0c2f72f5113779f93dc14eabc81e6ba4/0220e7309ac0d43c42bbfd840ee0dcbaa7df045a/01522c020230d25264c22296c78fd76a8888bac0/,2019-11-05 13:59:36+01:00/2019-05-09 13:28:25+02:00/2019-04-11 11:47:28+02:00/2019-04-10 13:18:50+02:00/2019-04-10 10:38:20+02:00/,Added timing decorator for easy profiling
+jcmgray/quimb,ed1a65a80629aedcaae797fc0164d250501fcfe4,2016-04-19T10:10:21Z,a0d6fab49ef18cf9fc8708bfd8644c2edf34bf3a/,2016-10-02 23:46:43+01:00/,fix diagonal sparse dot
+jcmgray/quimb,b5138b9047fbc20f16bbc6f388d9af6110340c50,2017-01-13T15:49:56Z,e95b24483d6cca73a0ce6cfa9c0b8348f21b0f1b/2a5685bb1b1b7129f377e004cfe532d4251a8d77/ad3de5c0f203249583eb620bae4a9e5f5c91f17a/7accfd5e490100b305ae1e8f70d0b6344d0500c3/cddc675a97204eca9b29a361d6850eaa32c90277/98997eca8bdc3598c6b8596cfa3ad3e3f42b9431/5da7fe40398d1559ab147b94de7f9ef4f937a078/d22708b3599149764892267c7db869edc3cb68ec/b2d4842dd48ac10909819c9ee3163a5a28546b43/5b764691bcc2a5c840426db1292751a4eb858c18/,2018-08-15 01:04:10+01:00/2017-07-29 22:48:55+01:00/2017-09-19 00:49:00+01:00/2017-11-29 12:05:24+00:00/2017-11-30 17:39:25+00:00/2018-08-31 00:47:46+01:00/2017-01-13 15:52:08+00:00/2017-10-17 16:51:31+01:00/2017-03-22 18:57:04+00:00/2018-05-15 01:16:58+01:00/,fixes and more coverage
+QuTech-Delft/qtt,46d96707985ccea2bc2875befd46d85651729910,2019-05-20T17:10:59Z,deca445947d6f82c9d45ca44ba1ae22454889c10/,2019-08-23 22:15:13+02:00/,"refactor parameterviewer; remove default min max values for parameters (#570)
+
+* refactor parameterviewer; remove default min max values for parameters
+
+* refactor parameterviewer to allow reloading of instruments
+
+* autopep
+
+* use signals for gui creation
+
+* fix range settings of double box
+
+* fix codacy
+
+* final fixes"
+orbkit/orbkit,550ae689e7e30e910df102b22f72433ce670f0f3,2015-08-26T15:03:46Z,891a74205fa70820f9e34b803155d04c0ae9cef0/e64122d02bd67883a4e798340f3f1df0bcce92f6/7ec6d35d306d8bfa792fb32ba646e1278e2f9d6f/,2016-06-21 15:07:22+02:00/2017-09-26 15:48:20+02:00/2015-09-02 12:18:22+02:00/,PDB and XYZ file creator.
+deepchem/deepchem,57df93a5a2bcc59230f81e856a1d3e764f119991,2017-12-21T01:55:26Z,cfbeeb2c794d7a35eac6702bb8027c8c274dbeac/ed2414e0d01e6140b39414e5985a66c2872c90c5/,2020-03-04 12:00:13-08:00/2018-03-14 12:52:54-07:00/,Changes
+TRIQS/triqs,5a0efd52154502d2bdc00b21f705dde98fe0228e,2014-10-20T15:27:06Z,f4220efaea20146d5268e1af1e2cbfecdd1e35fa/,2014-10-21 13:31:32+02:00/,Correction
+deepchem/deepchem,34fcf51a4b367a92c996152fb17e7a9c048f8b97,2020-06-01T06:10:18Z,589a766f8b7c2287960118b90badfbbb1bacc7d1/1384da03b370a05185fa93b341fcf9b78e69fd13/edc63c448c3781611ef25525e71c4f920cb33c26/1a189ddf4df67d44531778ec4d390f91a092798a/00c40c1ad108e327cd699269bcb208318e5d6db6/8f965bb8f23310fcd065f20f56bc0f05e5224572/,2020-06-22 01:16:31+09:00/2020-06-09 22:46:20+09:00/2020-07-09 00:29:35+09:00/2020-06-19 20:50:45+09:00/2020-06-18 12:36:23+09:00/2020-06-29 10:36:17+09:00/,:memo: update docker section (wip)
+deepchem/deepchem,241ec0bedd5a60c3a87ec23585fffe57a57507fa,2017-09-05T18:30:48Z,43e32ed900e1c767a594c11011e57a87d8a571d8/,2017-09-05 15:05:23-04:00/,Master Merge
+qucat/qucat,45c3ab565169878444e7dbe3ab1682a0bddb35f0,2019-04-10T16:30:05Z,9330d3048371153dc7df0a89e19e9ffb2a076306/dd9479d3c11e1fb1483c6103c600257b402b553f/,2019-04-24 13:33:24+02:00/2019-04-23 19:22:43+02:00/,small debugs
+evaleev/libint,b4d2781ce2555165ce905fc43d0b370da536056b,2006-03-02T02:14:13Z,6f071816ef704b9a771ffb1447c461bb2c0bd471/840da33bd103ead6e0f1b616873bf93c1f5b8429/1d9f2113f8f07646df83941445916dbb1e961811/605219f91d18e583f7c9033a13a8b9e3a85428e7/a6c6261941ba9c0858577a97e65de02ac5219bf6/,2007-05-05 20:32:58+00:00/2015-06-17 12:20:07+09:00/2006-07-19 14:54:57+00:00/2006-07-11 15:18:30+00:00/2011-04-21 23:45:36-04:00/,"1) test_eri.pl can generate code with or without CSE
+2) correct FLOP counts are produced even for the condensed code
+
+--HG--
+branch : prerelease-2-branch
+extra : convert_revision : svn%3A30ab2afb-5f51-4bfe-ae8b-bcb573c66ba7/branches/prerelease-2-branch%40280"
+deepchem/deepchem,426ae2b7bccde00b887fa02e52946db13145c554,2017-12-12T00:20:42Z,fec23179223cbde694b1611046221fc07a851824/cfbeeb2c794d7a35eac6702bb8027c8c274dbeac/ac21b5ecdeb6a872e0bc0b70cc3242393219abd3/,2019-04-05 16:39:22-07:00/2020-03-04 12:00:13-08:00/2017-12-11 18:02:57-08:00/,"Can restore from any checkpoint, not just latest"
+QuTech-Delft/qtt,8d27fbf883f3f2db09afe81ece9888568102c766,2016-11-11T15:13:24Z,c9ec15ac06ef552068429d19341835ca5d6b4e12/cb281648a29f118690db4bcac681f2a88e57f7ca/0a8b0038da189330289d067c0c6859680c4c5482/6a4fcbeac3aa5e1a3c24770d358e1b908c299bf8/1008f6fcf27799f30231aa934bae29d0b88002d4/f2b6d3d21f7580519b03bc79de89e93b368f1c90/777706c9ba5ea8c943807b5553c7e0b7589ea4a1/cfa184885eadb56a309bd120348917f4d69fe0e9/e7d5aab8569e50ad13c435eb005d85d4edd97841/7a4fd3a3512898ca2d2ab0498c2ee95e34055706/,2018-08-08 21:36:37+02:00/2016-11-25 10:49:41+01:00/2016-11-25 11:37:14+01:00/2017-07-31 16:46:33+02:00/2017-05-29 16:26:09+02:00/2017-05-11 10:41:35+02:00/2017-03-13 15:47:19+01:00/2016-11-23 18:09:15+01:00/2017-04-06 15:50:42+02:00/2017-01-03 12:11:51+01:00/,Add virtual gate scans and sweeps
+deepchem/deepchem,5f3689e351e95dd741f529b02b99c7179a464eb5,2016-12-15T01:15:13Z,f1b47030b99b7a040cba05d5c72f800db75d82a6/cad42325a7bb937ae9f436052e72e49db3443c95/d8aa5c98e248f7a77c0b71d0d53417003a786726/e2fd409bcb9478015b02212a0588fcb0228e9d08/e3893b6a69fb4833433edb1c95c51b1bedc1d963/9fb18d53febaaa0d063c2ad428a6758537815cab/879923095069f626fed913a1bb2ec1aa035f50e9/0dd1de30b8c8706a8b3b84b33243285f4d186c62/a570015bf872ba885bd5d6e214dbcf66accf4a5d/7c87e8e0d78517e0c9bdd41d000a01a5f39b9d86/5811e3b2258dbff392ef2efe7560fbac4373563e/cf455f6aae7797ec802fdb1d9efebbe855ebb069/1b8db4d6473494255edb60bc37e7d4eee5bba5fb/b8b7ad31532d9623b7a754b74bcbfd618731f0e5/ddfe97f04094cdc91fcc09242c99df29e40a919d/624dfb1a1263e5539d30112e2ba7344957b9b20f/c9f653cfaadf92763b5e26b2c76807cb4377cd47/394bc9df534c54965fc75efa843eb69578b8f0e0/615cff21d8cd8f7dd6f7d1e468c1f7f7b60a4511/f16728a7bf303bdc564d00f42b8bc568febb3d2a/ed5433429ce81aaf059bddcb48c23dcca4465be9/31b211a036ffda39295b7e7ac5902f3c9d83a37a/91f1e69f12784b6b9f6ba0804c71169934fcefed/40302b017cb41e2d9f1e771e0e79da6a6f0188b9/,2017-02-16 17:03:57-08:00/2017-01-31 13:55:44-05:00/2020-05-02 18:42:18-07:00/2020-05-02 18:31:03-07:00/2016-12-15 18:26:13-08:00/2018-10-25 15:45:35-07:00/2016-12-14 19:35:06-08:00/2020-07-19 19:52:39-07:00/2016-12-26 21:04:15-08:00/2020-08-19 00:36:40+09:00/2020-07-30 17:59:46-07:00/2020-06-24 14:14:19-04:00/2020-07-17 14:45:28-07:00/2020-08-18 16:38:50-07:00/2020-07-19 16:04:33-07:00/2020-07-20 16:14:29-07:00/2020-03-05 12:18:42-08:00/2016-12-14 17:24:10-08:00/2020-07-19 17:14:53-07:00/2020-05-05 10:53:07-07:00/2016-12-26 22:31:56-08:00/2020-03-08 18:19:26-04:00/2020-05-05 10:32:36-07:00/2017-05-09 14:09:32-04:00/,Refactoring dataloader API
+jcmgray/quimb,6148df8c8143e37d8a198cb2f31c1c5cf7c80911,2017-09-19T15:21:25Z,748e3cc5a47933e0447cc792cc823a49b9caf891/26a263f7da2591c64d7f389d629147fbb308c39f/b986e01a7246f8b1b135f8b4bc35d9d7252d85ab/e415455aa093aed3e1950888a6a66a7c7db17363/821243d7337b525837b53b985f71c31d624b3b4d/7f21713fbf064c19d687f4d15041e98fac3a725e/3ae9e195ae12ad60294a72029df2a2d870c0b87c/6b59a383007ab117d03daba2289c424a151798d2/36ad1a25ba73573b9714d48acea3c17df82b6b8d/5b764691bcc2a5c840426db1292751a4eb858c18/c4a121102a72e3e212de7643db62603f75fe7a28/,2018-01-10 12:03:27+00:00/2018-01-04 18:33:26+00:00/2018-04-27 13:38:07+01:00/2017-09-22 14:46:06+01:00/2017-09-21 00:32:29+01:00/2018-04-27 18:09:26+01:00/2017-10-17 15:13:55+01:00/2018-09-20 15:49:51+01:00/2017-09-19 16:27:09+01:00/2018-05-15 01:16:58+01:00/2017-10-16 18:16:14+01:00/,generalize negativites to arbitrary interleaved dimensions
+XanaduAI/pennylane,30dd7d4cbbc7d8625ec643fbc6dbceb10e8364f9,2020-05-06T08:31:00Z,b22a60ddbc2fc4c11ab7cafdd89d42b2106cce3f/51d3bd43eafda43744b2e2dd1cb063840e544494/588c42f85069dbd3f400224bf6ff084fce5f570e/,2020-07-28 15:42:29-04:00/2020-05-15 10:51:42+09:18/2020-06-03 09:32:11+02:00/,"Use multiz in qaoaembedding (#609)
+
+* use MultiRZ
+
+* fix test and replace gate
+
+* improve docstring
+
+* added pr number
+
+* Update pennylane/templates/embeddings/qaoa.py
+
+Co-authored-by: antalszava <antalszava@gmail.com>
+
+* update changelog
+
+* update test - local version was overwritten by old one
+
+* add queue test
+
+* Update .github/CHANGELOG.md
+
+Co-authored-by: Josh Izaac <josh146@gmail.com>
+
+* Update .github/CHANGELOG.md
+
+* Update .github/CHANGELOG.md
+
+Co-authored-by: Josh Izaac <josh146@gmail.com>
+Co-authored-by: antalszava <antalszava@gmail.com>"
+boschmitt/tweedledum,929aa4e17b62f3e827db87f2b8226eab3c37d7e2,2020-06-03T17:23:30Z,18b1f7f4a8195115f43aac8dc4e1eb24120a80c8/,2020-06-03 19:31:13+02:00/,Skip building wheels for win32
+TRIQS/triqs,924a51ec868203079ffb858f2cef7b4c7868043a,2015-11-29T14:50:10Z,8d1d13907096c7160f8b0b94abb2456c78cdf230/2dd1e0138560ab64fcfe6ab77af9595572bc7d65/,2017-07-06 22:16:29+02:00/2017-12-05 17:58:33+01:00/,"[variant] Make bounded_type(s), n_bounded_types private.
+
+* Reformat the source code with clang-format."
+deepchem/deepchem,e0a7f055a3e848786cb692fb048e041f87ee08fe,2020-07-19T20:19:55Z,995cfb79430fc05d33a27730edf33aaf1a2da66e/f17d79f68b06b7468a5cf082a244c7e95e3b988e/,2020-07-19 22:37:54-07:00/2020-07-19 22:40:38-07:00/,lint tests
+QInfer/python-qinfer,467cb7b7507bb98e8486861efd906a4aead89ca0,2013-02-06T20:32:53Z,7d398dad679b4aac3844f6f90919192a0f3b402e/76227a08c46c06bc3ca15ee2ff82a349ce304ae6/8cea8b7d2d65f93da0fdf37904348ea2d888262a/c8cc6dc9e147d8b2f59166f6bf5664cedbb971b9/964f2ba18b7d5282c7fcf6d9564bfdfdf1d26823/1d0de28214a86a44374bb570ae251f1ba9bd07f1/3fb92d76595334fe83203cc1e1930765109e731d/,2013-02-19 18:10:25-05:00/2016-05-09 20:06:30+10:00/2013-02-06 17:12:03-05:00/2016-05-09 19:54:31+10:00/2016-05-09 19:55:37+10:00/2013-02-06 19:27:11-05:00/2013-11-26 15:34:01-05:00/,Added progress bar UI based on PySide.
+qucat/qucat,67a226ad38b84fb2678b8b597d60a64efa6f31b6,2018-11-13T15:48:26Z,adcd97e077648d54c21cc5b0d8f65052facb01e8/85861bf2283ae2ad0ed26efb7e5f266ee915a188/1beaf49a327b371f0951280e3fe6551a6063faad/50f4885724bb3cb75d9d4abc5ccaf527db8ef9ab/,2018-12-18 11:56:08+01:00/2019-02-06 13:39:09+01:00/2018-12-06 18:09:22+01:00/2018-11-15 10:23:04+01:00/,Made code python 3 and python 2 compatible
+OriginQ/QPanda-2,114e4c1c09f0e625dcb8d18ac4aeb74054212ab9,2018-09-29T08:31:21Z,1818d21d6d6c0874d4398e7dfac93c6ff1d7091a/,2018-11-01 18:36:53+08:00/,plus
+deepchem/deepchem,8afc4c11ae6445529713e38b441f557209ac0259,2016-11-03T04:06:12Z,e6b88130fff743c9851a4353c18eaccaa446e2d8/2efccdc6835d785976e320addc0563eb1a2302c0/ca40f1cb7e7556fd6b3bd20fd4d76dea838242cc/557bfba02f049ae7fb0f9dca7c1080d6d02ad473/4968207713913ccd7c95534fb125468864932cf3/51bca11614633b36831972eb6afc12b471dd3a35/d2aa9a97309fb59229f200378d8dd9a9ce7eecca/0af7a0518acc964d4607b33399d087aa2c1bf9a5/ef8ae657c07adf467d8a38d75db49707b7e3ef2f/07b5932ad1f58c3818b5512ca68345988726f321/530254d7bc155f5d40bbbda82ca153ad1cb1e61e/a1a2b8475e0a1bde9eec14125b15829228aa55e9/d66cefdd61c32e2a67abf67412df7b30d5b51843/,2017-12-21 17:18:27-08:00/2017-03-14 15:42:52-07:00/2018-02-24 11:09:02+05:18/2017-12-20 17:36:19-08:00/2017-01-14 16:26:58-08:00/2020-08-19 13:56:09+09:00/2016-11-03 16:38:53-07:00/2017-07-12 21:14:23+00:00/2017-02-10 10:30:46-08:00/2016-11-03 20:15:39-07:00/2020-03-14 16:34:27-07:00/2016-11-03 15:37:04-07:00/2017-02-20 20:16:27-08:00/,Faster fit and fix for support sampling with missing data
+Qiskit/qiskit-ignis,31395f26bf85bd52855e845f3a7b211b56151137,2020-01-07T17:20:30Z,57e426498c08ff0935208947f2f03f0664526436/659727d65e0c13f1e8425841ca4881f6d50ffac0/8d9b0e5e441c0a89807043022cefed7186ea91a3/ac6e24d34c98ac4447ee0378002b247beafa7209/,2020-02-05 16:20:45+01:00/2020-06-15 18:24:40+02:00/2020-04-23 11:46:29-04:00/2020-02-05 20:32:36-10:00/,"Improvements to repetition code test (#319)
+
+* make sure errors create a pair of nodes
+
+* remove unnecessary reset on final round
+
+* fix linting errors
+
+* move node calculation to own method
+
+* add method to update edge weights given results
+
+* prevent negative distances
+
+* clean up
+
+* fix linting errors
+
+* improve weights
+
+* add tests for weighted matching
+
+* improve test for weighted matching
+
+* Update qiskit/ignis/verification/topological_codes/fitters.py
+
+Co-Authored-By: Christopher J. Wood <cjwood@us.ibm.com>
+
+Co-authored-by: Christopher J. Wood <cjwood@us.ibm.com>"
+rigetti/forest-benchmarking,8174815275cf612a588a2af612b673a37b2d692c,2019-01-31T20:55:43Z,858129257b01f4b6f9393798d17b72103f2f62ec/34afa1e2492faa3c6128d35edc47a3f41ccb09da/a1e39834d3769313ee29be3341cb198c7908d993/c5307c2a816222dd52c3ce57daadba7c17c636d9/a3744756c34043736ea7d263d2d4f566366c326f/,2019-08-19 14:49:07-04:00/2019-02-07 14:00:20-08:00/2019-07-03 09:45:50-04:00/2019-06-19 13:19:09+10:00/2019-06-15 07:09:58+10:00/,"Rename notebooks (#24)
+
+* Rename file and add title
+
+* Rename notebooks for consistency and add titles to notebooks that did not have titles
+
+* i think it worked"
+zoran-cuckovic/QGIS-visibility-analysis,e8bc6ed2a9f87b7a34c1c3acdb97e39d54cad7ef,2020-02-01T10:28:04Z,60c64b225f88f1a630bd4a9fbf824a97a4f0bf9d/,2020-04-24 17:04:44+02:00/,Update visibility_provider.py
+TRIQS/triqs,73d81cc55acb5030f8d8d26ce63c9f80501fca8d,2014-02-19T20:14:59Z,672834fd68afdd32de5ab77f8a35bd3512d81bc0/8045598534d6e9811a67ab1d4b8eb6cd936e73ef/9c129cb22429480b4025dc39b308d94b43a67060/,2014-09-19 20:53:28+02:00/2014-03-19 13:58:36+01:00/2014-09-03 14:03:31+02:00/,"gf: correct bug in matsubara_freq mesh point
+
+- bool at_end() for a mesh point means AFTER the last point ,
+as end in STL. It was not correct ( +1 missing).
+- also the at_end was not computed in the mesh product.
+- it slightly changes the test_fit_tail --> just changed the output.
+--> did this bug affect other functions/codes ?"
+deepchem/deepchem,e7fb11ab84b1d39759d6b8d7eb083daa36071d02,2017-06-13T16:02:56Z,cfbeeb2c794d7a35eac6702bb8027c8c274dbeac/3564299c40cc8469cf9f85665c68f4fbd0e9c963/,2020-03-04 12:00:13-08:00/2017-06-13 13:37:42-04:00/,Actually use learning rate
+qubekit/QUBEKit,e01c08ef33fb96a128855420c468f76bca3af09f,2019-11-04T15:51:56Z,aaa721888d4a422d96aaa938e3f4efdd2bbd02b6/30cef1806c6f29f51a6fd408cea197368d4ac113/,2019-12-03 15:19:07+00:00/2020-08-24 15:02:32+01:00/,"XML can now be provided with virtual sites.
+openmm energy update when using sites
+cleaned up openmm energy calculation with sites."
+deepchem/deepchem,2f6d71f1b9f98b44348791ee53d3c65ef7bbc394,2018-01-02T18:49:10Z,8fabc66a27b3186e82e1128b76b17cfd5959b8f9/,2018-01-02 12:09:56-08:00/,yapf attempt
+jcmgray/quimb,d613b9659129d716bb4cd42898b747c326582541,2019-12-16T13:19:22Z,d45f170636112070697737e58703f6773ed5800b/,2020-01-27 17:08:02+00:00/,add evo linop test
+orbkit/orbkit,dd731f7cd50cb02d4bbead19faf00f6d094a46e8,2014-05-27T09:11:20Z,a049596f061ce50b51f6d5001e449f515e43abd8/eaeddbfb261f6159fb0c91e7cc158ec9933f7d73/,2018-01-08 15:06:23+01:00/2015-07-31 15:27:53+02:00/,minor changes
+deepchem/deepchem,ca842951e8ad683108cbbbc9c25dee4a55a60646,2017-07-03T15:40:49Z,cfbeeb2c794d7a35eac6702bb8027c8c274dbeac/482360f06eebf18a460373ea00cd9920e2c8a37a/67bbb06e21869b6097bb9f037feec282d9899a94/07a6c8655b81bffa42663c042fd0dcf5076f4700/ed720894e8be266c12dddc7f9069c96b469e657b/,2020-03-04 12:00:13-08:00/2017-08-03 11:35:03-07:00/2017-08-31 12:24:08-07:00/2017-09-05 13:40:28-04:00/2017-07-03 12:37:38-04:00/,Tests for pickling layers
+evaleev/libint,74fdee9471b86c79f18b79cb55531fddd84e41cc,2005-01-07T01:23:15Z,cce9f080d9118edab5356d42f82097b21e5635ad/ec31418418cfa0f5d0b9750952911ff94bb3b701/,2005-06-03 22:29:14+00:00/2005-01-07 19:28:14+00:00/,"Readded this file
+
+--HG--
+branch : prerelease-2-branch
+extra : convert_revision : svn%3A30ab2afb-5f51-4bfe-ae8b-bcb573c66ba7/branches/prerelease-2-branch%4088"
+TRIQS/triqs,0efc2eacbe6e0a76eca57ae0808a3d87ae2a71b6,2019-01-30T19:22:18Z,99123c7332a75ffb49368585fca9bd9c8b3fe6c1/8a4b4471506d40a5dc493856e81d7032270b15d4/c43bf91ed4b26dd250805b1e2919d7cdfc2e1033/20baca2df46251ff9fd661b7fcd500493c1eb9c3/d80c90e0539b7265be08ec90b78810519106947b/,2019-06-27 13:40:13-04:00/2020-04-01 13:48:18-04:00/2020-04-29 15:45:55-04:00/2019-09-18 14:30:14-04:00/2019-11-01 17:43:45-04:00/,"Populate INTERFACE_INCLUDE_DIRECTORIES of triqs target, Bump cmake version requirements"
+deepchem/deepchem,414e32cc95991ae8f095b354bde8d2db30e119c7,2016-10-11T21:19:41Z,64c532c1c6369c62614438785dcc435942fe8de0/2aaf2dac4ff1d8c86b55107acc62ea6adb8ddc0f/5ba2e919d876be5aaf3cdcd08b4529c6306d17f0/c5f9a908910ab118c465de659a8a90c9d64aa708/cdeda081ac8ae1d39420ad14a9a88299723dc858/3e611c521c3adbecc946fdbc78408b936d09234d/,2016-10-30 21:25:04-07:00/2016-11-01 20:49:48-07:00/2017-02-19 22:44:07-08:00/2016-11-14 17:16:48-08:00/2020-07-23 17:20:11-07:00/2016-10-28 14:42:42-07:00/,CDF and Power X transforms
+TRIQS/triqs,32500df5ba50d1a70a0a1400b50450d50e45746d,2014-10-20T14:27:58Z,9366c29eab42c17e59b7e8a55fdb59323c5d8992/2b5cb06a80c31c69cd678a9690efccc2a3f8c7e4/a6a55d93d64c05bd02e76c98f4396020d69929aa/c7d9c3c2ca56503baf42605018bea741e1073c5d/1855f2a14b46a66d95f792fffa5a35445e84d810/0f59d9e55e02e4c63ef88bf914450569e7db843f/23a0488d68e8d0ac5beeb69410ad647fb8d98129/43ea3bce90aa64a9e747dcc9b5edaa8e12435487/3d223195224735e68ef65c3c206eb5d421dd676c/94e702984f7b031b6db70dc143bc33c4e81df480/8ce34550fb0d66cbfc6ec5bf25036dbc3397ca7f/b961dc20f8b6dc73140df60e9a79cb5c3c347ffd/,2014-10-25 23:07:56+02:00/2015-07-26 21:13:08+02:00/2016-05-05 18:28:23+02:00/2017-01-14 14:42:34+01:00/2018-05-02 22:00:07+02:00/2015-07-19 21:25:47+02:00/2014-10-29 17:39:53+01:00/2015-07-24 17:56:49+02:00/2016-07-15 11:53:29+02:00/2016-07-11 15:10:44+02:00/2018-05-26 23:43:55+02:00/2018-05-09 14:34:47+02:00/,"[gfs] Change bz tag to using the actual brillouin_zone class
+
+- simpler to remember ...
+- in this case, gf is specialized on the actual name of the domain."
+evaleev/libint,d7d0c463698d5a7950ca4f4ba1767f1201efa7f4,2016-05-28T21:55:38Z,4b6c6cf2ac160ef55f1fb0f59021a3449e56090c/91ede893905ae07a7bf51cb77f00de3ff0965e54/,2016-06-07 15:18:20-04:00/2016-06-04 14:47:09-04:00/,full sets of 2-e deriv ints are now computed using translational invariance
+jcmgray/quimb,97494cdb2101de2b7da1f3545195fda30a303928,2018-01-31T18:37:23Z,89051f73b1c90fda8023b219d4ab13a6300775d2/959dedb50ca9ac4de35af28e814b867fb57d23c6/d5db2de78b0db1591a3eb4ef01068f03149957ea/118281a9998ffa3d116de3393966052915e9d7ed/fa63fddf3b386ba2f408fdd17e58aeb5a1a5fa7d/,2018-02-07 23:58:01+00:00/2018-03-27 19:33:52+01:00/2018-09-06 00:58:09+01:00/2018-01-31 18:48:32+00:00/2018-03-01 01:33:22+00:00/,"handle missing tqdm, opt_einsum better"
+rigetti/forest-benchmarking,a1e39834d3769313ee29be3341cb198c7908d993,2019-07-03T13:45:50Z,858129257b01f4b6f9393798d17b72103f2f62ec/2ab46d3b5f22af2037878870bc21f65270769503/888068b71e8701017dbe7045edda91f50b79a19a/79cfd4c0c655024de213936028197c22479cbcff/,2019-08-19 14:49:07-04:00/2019-07-04 07:23:54+10:00/2020-02-27 01:27:29-05:00/2019-07-09 05:49:13+10:00/,"Update RB example notebooks (#154)
+
+* rename (in)fidelity to error in helper functions
+
+* Add tqdm progress bars."
+rigetti/forest-benchmarking,a29ff76e9e0c1ebe82c2f355e7cf138eeb8ddc84,2019-02-21T21:52:12Z,fe15c067c42f54a78c319f88c6bc5fa275f39275/858129257b01f4b6f9393798d17b72103f2f62ec/a33aa8e2f186a7f1557cb8c0b7e0542c0d8c74a5/f3fd0ccb5083095cee5b8398f570c80468f5c482/6c9ceac81c74046a469a7e71d0c21618296ebce2/,2019-06-11 17:11:33-04:00/2019-08-19 14:49:07-04:00/2019-03-21 06:07:21+11:00/2019-05-15 16:35:31-04:00/2019-02-21 13:56:25-08:00/,all plots now use dataframe from estimate method
+XanaduAI/pennylane,d955d4fbe13d53240efbd02123eb45d94055f483,2018-12-10T08:16:29Z,f557d211e591c44dbd09cbfacb20636cc709ca0d/ba9985974c30870ff71a320ba02bf0cb27aecf0d/,2019-07-09 00:42:21-04:00/2019-08-22 20:54:03+08:00/,Change 7 weights per layer to the correct 5 weights used
+TRIQS/triqs,18f53b37c211ce9c3d6e14fc431b166240558608,2018-12-03T23:43:51Z,7e215a6da7e2af6eb2013b4b29dfdfbba539301b/f5db0d1e1e199643751b49c1f8a1d165a8ff9336/dc2e66d1bd2c4aa6a4e2d335deb6a34b119389d9/de959d21ddd7a8e128e09de62d6714c9108415f9/8f28b709526b3260aedb89a6380773733ca90d33/50cbc3bab7e341d956ee250a1404da160f03adad/,2020-05-06 17:02:14-04:00/2020-02-20 16:07:47-05:00/2018-12-03 18:45:27-05:00/2020-02-21 11:22:52-05:00/2018-12-11 18:26:27-05:00/2019-02-08 18:29:03-05:00/,Add python function make_zero_tail in accordance with cpp implementation
+QuTech-Delft/qtt,93e7eca4b2135c96f98d356a17c3da8cc4dd1c04,2018-05-29T18:32:53Z,99dd31c9584d8af7346097f9979448c85aeaa456/cafab81de1a62c2bfd3b522459ddce6704da7344/90678b41ed71ebc4a580024ef0ad85bab774f956/da34a8c1af55d3a02f0d044b13837f70e39f16fa/c9ec15ac06ef552068429d19341835ca5d6b4e12/,2019-04-12 13:21:04+02:00/2018-10-14 21:35:55+02:00/2018-06-03 22:15:34+02:00/2018-10-14 21:35:55+02:00/2018-08-08 21:36:37+02:00/,"Feat/serialization (#333)
+
+* add serialization of virtual_gates (no deserialization)
+
+* bump version"
+deepchem/deepchem,a738bece170d9486235b31e18f6878a9e40298b7,2017-03-04T00:33:05Z,caa85a5bf44a3fedf9fb991afb8609bdd394b7f0/707c2592cf6bb9c4079865faf95ae0a7279e5c39/da8419d597f3357037ea744f999095a33cb986d3/8545a6323f051d8d0cefb16f0fbae4895ce36bb1/ea070aebec9add2859d39ef172ebd854a7854799/,2017-08-02 12:07:38-07:00/2017-11-28 10:43:45-08:00/2017-05-09 15:01:15-04:00/2017-03-17 17:23:54-07:00/2017-03-06 00:23:39-08:00/,benchmark with qm9
+TRIQS/triqs,054ea7fdf771a10d2c47720c236fe36ec51061bb,2017-11-08T14:38:55Z,1182a6131e7257b3e376a17eea9b03ff39b10c07/,2018-03-13 10:21:27+01:00/,"[cmake] Sphinx version check
+
+- bug in 1.6.3, we request 1.6.4 or higher."
+deepchem/deepchem,83f11a11fff94576c7baacab7d99aa6a992583b2,2017-03-15T08:28:34Z,1e646c4eed6a1cc5c4387dc69ed969d7dbb84703/c6f381a51669b268620b8423703de9dc2f303dba/abd56e94eb1ee68c8cf18bf7cd9e91b3947456b4/cdee28d1064df5426ae4775cf16dddc654b19eaa/1a3c14b063a8048d2c179a8c49598723e2043378/46c68924decd2bde78a978aa296aea55c3d1b865/6808c495567e65d569a4eec1d494f457b504ee97/005942c3f7f48b3839b2036d6a7c7dce42746df9/137a2a616f0d253b4ed246f612bef8613cc6046e/,2017-03-27 12:07:04-07:00/2017-03-15 17:15:08-07:00/2017-12-20 12:26:46-08:00/2017-03-15 13:42:30-07:00/2017-04-19 23:40:54-07:00/2020-03-09 12:39:45-07:00/2017-03-15 13:38:01-07:00/2017-03-27 11:13:32-07:00/2017-12-20 13:33:55-05:00/,multitask DTNN
+TRIQS/triqs,d4c96a9d93b73c02ceb41cdbe72359864f3ba383,2013-09-11T18:48:03Z,04cf39a3613936b7fda3edce78ca5f71094e4617/,2014-01-10 14:55:19+01:00/,"gf: minor correction for 2 times, etc...
+
+-> are going to be replaced soon anyway ..."
+evaleev/libint,7ea218c24df8033cb8827fecaeae096280f9f128,2016-02-11T17:01:00Z,5872484e853772d629dedd3ce0040ca410d83f30/,2016-06-09 10:16:38-04:00/,Further refinement of engine precision control.
+XanaduAI/pennylane,33135d19d51ad03fd812cecde4b9610ce614c471,2018-09-08T18:56:25Z,739daaec3da0c4a760edf61f71d645ff96bcfcc5/cf1f5576214b9765a9e9ebf3fdb17198c99633d4/,2018-10-09 16:59:59-04:00/2018-10-10 13:14:20-04:00/,Merging openqml.optimize from master.
+deepchem/deepchem,1ff727debdbd7f31893e9c961952ce083c011736,2016-04-18T21:52:03Z,4c14b496bb5d1a4dfb92a3f32d3478c9233bcc8a/,2016-09-19 13:47:58-07:00/,Some fixes for sklearn models.
+TRIQS/triqs,2c2df7d0c9b6a23627314e3f5b0f169a17a7d1ca,2018-01-30T15:50:25Z,100c6cd1b23ebe96bb23e34a364a08ed9c4ee330/39c126a25f3f8e21fcf3c36fc21607465a13efeb/e7e4f32d38e2a55f2e978c98843f58601511717c/fefa6ffdbcbcadb575b46ad51b26a1eea685f405/cd27d7790af51e1e03117d4563b33f79ca4c1d2b/7f254f8280ae9f50f2c48793d1139dbb87e4659a/18ee256493310cbef5e6e836d3904e81196710ee/34b663303d28ed08fc1ec0abe1993fe650d1d94d/774f7b8c9b9a5a9eca6685a12b717fec93482f8d/b036af5e2a67c9c9cf39ea33dd463a78569618a7/f20b9e764a36db05351ad5902d651443eefd5968/f9974df86c19e9d56a90e81224a2fcb720076b57/546b5135bdb199b0e64659241939f52ac592f100/24ba163bdde9aadac71b01d8a83e97bc16f9e865/89c2410ff0f557e804f0a437b8ccc5b1d0686c44/af198e8b47d8ddea1771a215d6007bede221f8ba/799782fa3fcf09facbec36b85e5fd13cb0bc3d4b/0b967862047f77e281ad096186768535637f94ad/91d2566e28c0ad6d8b67cccd0ff1f56337f3fbb7/aa32b9372ec2e8a65d665a2b95b8d81c0668cf21/3092a877e8623c2a37da1bdfc1124542b78e9e4d/29c668a063c4402ffef50258f5a27764cc27ca7a/20ba50e3f9fa91da49e7c6fc79cb165ac84638fa/33fbb1af504ec8fcde5c2350e9ebdd4297183beb/b961dc20f8b6dc73140df60e9a79cb5c3c347ffd/984f1d5f359959a55fdb4693334102f12a4e5da4/9ecb313f4ea724046cd8958de17df9a17ccbc463/17f909a205c57daeb318de598d9260fbbfd3e87b/58c1bed4db716235b735eea3367d72eab22c437d/efd7b0f7d855a0b5ae260d0fd7a6031cec068072/2944dfd525ff95040cc4c75ad2c626027726a61b/47bba42fa4ad71bd492106abeda6fd6badcf584c/8ac483563b30a11729d27fc2e170c8c7913cf3d7/,2018-02-22 17:51:34-05:00/2018-02-22 14:27:42-05:00/2018-03-07 08:30:11-05:00/2019-06-27 11:28:27-04:00/2018-02-12 13:56:36-05:00/2018-03-07 15:23:54-05:00/2020-05-13 15:52:17-04:00/2018-02-14 13:59:19-05:00/2019-01-15 11:04:42-05:00/2019-01-30 14:28:53-05:00/2018-02-14 13:38:31-05:00/2018-11-28 12:47:04-05:00/2018-03-23 14:56:38-04:00/2020-08-05 10:12:04-04:00/2018-10-10 11:52:45-04:00/2018-03-06 17:51:18-05:00/2020-05-19 10:50:17-04:00/2020-06-15 10:33:58-04:00/2019-04-02 15:26:20-04:00/2018-05-29 11:21:34-04:00/2020-05-13 12:32:44-04:00/2019-07-23 17:30:34-04:00/2018-11-28 22:35:18-05:00/2018-03-06 17:23:10-05:00/2018-05-09 14:34:47+02:00/2019-07-30 18:03:34-04:00/2020-02-11 14:09:56-05:00/2019-07-31 12:08:04-04:00/2019-07-31 12:06:34-04:00/2018-04-09 17:15:43-04:00/2019-07-30 17:55:09-04:00/2019-04-16 15:47:45-04:00/2020-07-29 14:56:37-04:00/,"[jenkins] Add linux (docker), osx builds
+
+pure llvm/clang (ubuntu, osx) and pure gcc (ubuntu, osx, centos)"
+aiidateam/aiida-quantumespresso,96bef279f98c9d23ad8a07e28420980866856126,2019-05-31T13:16:52Z,7b1d5ca5517aa1864012de6da272324acaf62885/a5cd3e021ab4e5d55bc55207b155a2f4167e2831/6fff0c2d241beadd2f9640d284b99692fd1071e4/b1f44a40575650dd42119463a19e67906a5e499c/46df668fb2f1ab54a53a0ebb0e9b5dd586d8c893/,2019-08-09 15:01:12+02:00/2020-03-24 16:24:08+01:00/2019-10-16 16:54:34+02:00/2019-08-29 18:40:09+02:00/2019-06-03 11:50:12+02:00/,Move raw parsers to sub module `aiida_quantumespresso.parsers.parse_raw`
+evaleev/libint,4c6b3797fc7739ee0e840ef6dc0d71762993514d,2014-08-15T18:30:20Z,4aafb90f563d9b21a37be9c6ddf9958d16641532/b2941b2c6a844b15e2c2bea648f9863e3ffa17df/,2014-11-28 11:46:34-05:00/2020-04-01 22:37:52-04:00/,make check works correctly with shared libs
+deepchem/deepchem,fe274ab090148414328ca4943ff3929fff84156b,2017-09-26T17:06:31Z,cfbeeb2c794d7a35eac6702bb8027c8c274dbeac/,2020-03-04 12:00:13-08:00/,Added more documentation
+QuTech-Delft/qtt,fd94a3152ac6c4b853fab6ee1590d1f9c8e4bd75,2016-08-02T10:42:47Z,64b2ec2a5302d30350d0d73f9906bcb4efa69350/7f01eba8f96f81e4270c804b0ff678d1cb509246/51b34ab75cf439ce8d77286e348a3b86c4dda228/,2016-08-17 09:17:47+02:00/2016-11-25 10:54:02+01:00/2017-05-17 10:13:21+02:00/,add try catch around heartbeat
+TRIQS/triqs,975ff1844515260a27402eb84c80ad95e3d8c205,2016-04-29T12:27:17Z,99a91106dc237bde2547693b99f1e302926033be/,2020-02-21 11:21:52-05:00/,"[U_matrix] Merging in Gernot's patch -- fixing conventions in U_matrix
+
+Thanks!"
+XanaduAI/pennylane,409087bb9257b2afff349f1f6beaa253299555c5,2018-11-09T08:23:19Z,737348c6d19dc656a93c41f30e232b08d59944c9/,2019-06-14 19:32:48+05:18/,"Update pennylane/_device.py
+
+Co-Authored-By: cgogolin <git@cgogolin.de>"
+qojulia/QuantumOptics.jl,49430cea438fb12a2e3a10dd37d99420711a2e9b,2015-08-10T21:24:59Z,9dda15c1e027dfeba888fd0efd89ff348817b803/c20a78217c8dfcda6689e536eba00df050ff4094/fa5ff63adc08ed2ed62c55b37997aefafea03f10/e77e6c2a8463397433d62382d19ac65705f589fa/,2015-08-11 15:58:00+02:00/2017-05-15 17:09:07+02:00/2016-03-16 15:36:35+01:00/2015-09-15 11:03:56+02:00/,Fix bug in particle basis transformation.
+QuTech-Delft/qtt,d54e1e95412ff1f207dbc4f451c6deefc5f187ea,2016-09-26T11:18:41Z,ae8f70aea6875233383059d7df1f7e59b75348d9/0a8b0038da189330289d067c0c6859680c4c5482/ed0986df07569fc1a5342b62ef9b1b6b0a29bda8/99dd31c9584d8af7346097f9979448c85aeaa456/,2017-02-07 12:19:57+01:00/2016-11-25 11:37:14+01:00/2018-07-09 23:50:01+02:00/2019-04-12 13:21:04+02:00/,vectorize calculate_energies; add more coulomb interaction by default
+QuTech-Delft/qtt,f473516df380b8b3a1d0a6704b32b6a93020dccf,2019-10-09T13:42:07Z,76496d0ece799794583e0860ddaa02c733101776/54eae556f10e1248753d942d80e1c122d6060d67/f6fdcc024bedfa8b55f919d04f40e2f1940c4886/,2020-04-28 14:53:53+02:00/2020-05-06 19:33:12+02:00/2020-01-15 13:02:49+01:00/,"[OP-95] Add the AllXY analysis code. (#664)
+
+* [OP-95] Add allxy analysis code
+* [OP-95] Add type annotations
+* [OP-95] Update model to have offset at centre of segments
+* [OP-95]  update notebook; add covariance to allxy output"
+jcmgray/quimb,05b1b362677df30a1c107c24cb197852cca1586c,2017-08-11T14:05:42Z,dfbcc0be808ebd2c54bf99304f09034909f7c67b/,2017-08-17 13:26:44+01:00/,travis try openmpi-bin
+XanaduAI/pennylane,67c2d61b892062c09993dc102bf19664fdf5e90b,2018-11-15T06:10:50Z,f557d211e591c44dbd09cbfacb20636cc709ca0d/ba9985974c30870ff71a320ba02bf0cb27aecf0d/,2019-07-09 00:42:21-04:00/2019-08-22 20:54:03+08:00/,Fix batch typo
+TRIQS/triqs,a6e1528730ac9fd10f03dba63183b2fb6f8e63d2,2014-07-08T21:23:03Z,371a963012d5aa4739aaac4155d8ffd44f874310/fa07abbea9affdc8945a8447f376dc8cba4eeb3b/8fb6ac26fae5198362512940563a9a54430754e9/,2016-07-28 19:20:44+02:00/2014-09-05 13:26:21+02:00/2015-09-27 14:36:51+02:00/,"hdfarchive + gf : two corrections
+
+- hdfarchive : transform the key to string with str
+  because they can be unicode and C wrapper does not convert python unicode strings.
+- gf : Correct the scheme for BlockGf : not very clean, to be improved ?"
+evaleev/libint,0a6f9b90c66fe009110bf1a8caefbaf3088b4792,2006-09-25T19:58:07Z,d44f50b0ac9e7076791a3acee7eac624b8f8fb76/7d067d0194a12a2ec7f16e58d4b01344c6e1a663/2e4a169c7a6afaf959d75e9ff6ce41056f593263/,2006-09-25 22:43:06+00:00/2012-11-20 08:37:24-05:00/2007-08-29 16:20:56+00:00/,"Incorrect code was produced for l=9 and higehr because static io[] array
+was too short. Moved static stuff into constants.h and replaced io[] with inline io().
+
+--HG--
+extra : convert_revision : svn%3A30ab2afb-5f51-4bfe-ae8b-bcb573c66ba7/trunk%40301"
+qubekit/QUBEKit,8ac6e64feb647fb267c9d6275158cc0a2b4e66a7,2019-09-20T13:30:01Z,1da21613f1b177dbc28a767df7bcf5d8a14d1da1/0f8121f5a5acdcea521cec66a444e0a32b05324b/d5c46c77fb2a848a012167bb302955a3796c8b4d/2d99e172604987486344d97c510a818c4911424d/b4420fbeea7db87ccd455624b2cfb013ac8ceaa0/abcb37f83b8c07359d1d58e1a6115793da505900/30cef1806c6f29f51a6fd408cea197368d4ac113/8f698ae0552bb4a0af793a534f33db275f4d69f3/0a3d4188a063ba89b666b011d9d24edec42c0394/15a745b8f333c70725d7818a58673d9f891197db/b8f5384435d185e593d2f296f93a7698e53aa269/c85c43bf872ce4d4d80e3042ed3369dd39ae18e8/d0b9d288184faec248947844fff82ac68be56fbf/03d774f850a8367bbcf0868578edc43e4198d0ef/48401283c8eb3170375765639c7db7eadd86e341/985b642790c483c6db93ba76f59736efc763c2b9/50f774c74d3c226311e5784cfb27aa41e0c3c05b/2473611a855fd4aee2a2036a6c5dd92e252f5fcb/9d6bc47150a381a0eb330196a5322af71d88c6ab/cd7b2c982c98e838ee8fb53f0a01cb70a805b993/ccb73fbecda5e2f860ab613704e9dd6364ca1c0f/a91ad2f800c162576d15b8ba0275fcce4f784266/6449f00385dfb61c6e894f0d7126805b4c28d083/63bb834e5e66f52b6a207aa0fe42c713301602cf/,2020-01-27 13:46:01+00:00/2019-10-29 13:42:33+00:00/2019-10-31 09:39:15+00:00/2020-02-11 10:57:20+00:00/2019-10-08 15:01:43+01:00/2020-03-05 16:02:09+00:00/2020-08-24 15:02:32+01:00/2020-01-27 13:46:01+00:00/2020-10-01 16:03:24+01:00/2019-09-20 15:09:06+01:00/2020-03-05 15:11:10+00:00/2019-09-24 11:18:35+01:00/2020-03-05 15:33:21+00:00/2019-12-09 12:23:35+00:00/2020-02-28 14:54:46+00:00/2020-02-27 15:57:23+00:00/2020-08-24 16:22:47+01:00/2019-09-30 14:31:30+01:00/2020-10-01 17:33:20+01:00/2019-10-18 11:46:34+01:00/2020-10-05 16:12:26+01:00/2019-12-11 14:11:13+00:00/2020-10-01 16:28:49+01:00/2019-09-23 14:50:07+01:00/,conda install with packages; start of torsiondrive class; big tidy up; fixed qcengine for class-style attribute access;
+deepchem/deepchem,637858c89838714e30b1da9f674d2a6ce995ba4b,2016-05-06T00:36:13Z,73489570f9d6fb455ce22f6a16ee043b9ce283ad/3ef691a7a44d55e82115b88c0496a5210e94d706/d937f57b002f0337e5258eb61fbc957bcc375bd0/5ba2e919d876be5aaf3cdcd08b4529c6306d17f0/a881f0966d0735ff646e0cd91679b19ee1f8788f/1bccc708dc11b091d0f4264955d6f0f4e953cf53/864e1d1a35bbe4b95edd30169cf70b3dfd126a37/241ce85330b16131ce8a930734aaa1bc539ad670/cd648e6252104018c89693dd4ca3a14d93ab6669/ce4a5ca7cab1ea4ae421fbcd3b28205b1e18158d/1fa8044a9372df056271387032dedeb87b578464/b10de1da14548fa3436f11059276777f30062d89/b567fa17de1479501d3e066a497da884ca4f9a55/343cb214a384df7061e0e4300bc376ae4f66b5ef/ee24ea4106874fc720e0b34db6d50fa3bf824f78/44841f2382629f510626fffea1efeda4af11d6e8/,2017-12-24 17:41:37-08:00/2016-09-18 14:18:40-07:00/2016-05-08 19:53:13-07:00/2017-02-19 22:44:07-08:00/2016-05-22 13:24:07-07:00/2016-10-30 19:14:30-07:00/2016-05-08 17:59:18-07:00/2016-05-09 19:15:49-07:00/2016-09-19 16:54:06-07:00/2016-09-19 21:34:54-07:00/2016-05-08 18:44:19-07:00/2016-12-13 19:50:25-08:00/2016-09-07 00:57:00-07:00/2017-02-20 18:39:34-08:00/2016-05-09 13:48:13-07:00/2016-05-11 12:15:03-07:00/,Many changes
+deepchem/deepchem,f2856a6114554c0fd38c24acf2ced449349ce742,2018-12-27T13:49:31Z,cfbeeb2c794d7a35eac6702bb8027c8c274dbeac/1533d1db4d1c0ebf278e2e963c05ef8ffd92cd52/87bdca6a7d594cef6b0efe2324e1a18236a71714/ec30df0fb62dabd76c37d8ba08c9b89abcd3ed5f/3073c288559d8b052eb278a86809862ffac2681c/2aa5cccc7c65d14305e60e0a61781aa11cb7142d/,2020-03-04 12:00:13-08:00/2019-05-10 15:34:59-07:00/2019-05-13 17:34:18-07:00/2019-01-11 12:38:35-07:00/2019-01-01 14:14:09-05:00/2019-03-28 15:11:28-07:00/,make_estimator for DTNN graph model and added corresponding tests
+QuTech-Delft/qtt,3e1f0f65d535e72abfac22bf53c41ed8abee67ad,2016-05-24T14:39:04Z,f0483bda3e781246a623090cdf9e8666ce7dc690/0a8b0038da189330289d067c0c6859680c4c5482/1cf082f2b969916613a5fd745c94022c7ec68e4d/,2016-07-07 10:32:41+02:00/2016-11-25 11:37:14+01:00/2016-07-11 10:45:40+02:00/,use tripledot by default
+qucat/qucat,d1ea0e4bb26b8c3b967d0af844545d5999dd2d92,2019-05-06T15:42:17Z,2ac632a0092dfc946a688af846594ee5729fb5a6/c78ef8d31c4b8d2a5337a2ec7da8587899b6e2f2/d0a639ca9055bf654b702075d6de1ea86dcee806/053d3be5ad9f93b8859e25864becfad88485367a/,2019-05-06 19:41:13+02:00/2019-05-06 18:00:04+02:00/2019-05-06 18:11:20+02:00/2019-05-06 18:11:09+02:00/,patched the matplotlib import to make it possible to use in notebooks on mac
+qucat/qucat,bf93f84164fb00e586a0bb3726df75caa0ecfd19,2019-04-05T12:25:52Z,5339db16f2b7ae43ec698e2aff609bc5cb2c8835/d62b70ab4daebda42694841fdd616da085f3d643/8b971f285b9050246cd1aec7428d1083481b122d/,2019-05-22 17:18:18+02:00/2019-04-08 13:47:09+02:00/2019-04-05 16:40:49+02:00/,Different foundations for alternative resonance finder
+deepchem/deepchem,81a29a5bda094267be9270703e43396aced1aa8c,2017-12-21T20:07:39Z,87f92ee1e2ffe29d0ce8af653d64614806f9c910/21d20383b4d2769a9db02d246fa27e2f2cd0f6f5/,2017-12-21 13:18:13-08:00/2017-12-24 16:30:49-08:00/,Changes
+deepchem/deepchem,bcde3826307f9e7e4de0537ff29b76ff7308d59c,2017-02-19T23:32:12Z,5ba2e919d876be5aaf3cdcd08b4529c6306d17f0/fc2c81d703960a59a22d6fa8427f9950bb312a68/,2017-02-19 22:44:07-08:00/2020-07-23 17:52:33-07:00/,transformer test
+evaleev/libint,4843147fff872b693d394613ed44596d5c1b8339,2005-01-18T04:13:07Z,d651218ceea63607d1d5792633b8d4e983eae1a6/4a1c91ed7b740eb042a8d55e60cbfb4a98d68a5e/8ee889b30ffcba8a3e03f96ba200d0c91e08145f/64558c923de0daf330f04b1544ed0e65ac66405e/68c1a4adba46af96720b2e2a9b69009bc67e5ec2/,2005-04-14 22:41:43+00:00/2006-07-06 20:14:20+00:00/2011-04-17 12:04:13-04:00/2005-01-18 22:16:57+00:00/2007-05-01 04:11:19+00:00/,"A bit of a clean-up.
+
+--HG--
+branch : prerelease-2-branch
+extra : convert_revision : svn%3A30ab2afb-5f51-4bfe-ae8b-bcb573c66ba7/branches/prerelease-2-branch%40115"
+QInfer/python-qinfer,938bfeb549b360783a59988d1afc8f70dd1c177c,2017-03-18T14:47:07Z,cba6647e7f17212810b2c73748b61f32c7a1196a/,2017-03-20 09:43:24-04:00/,Added a bunch more tests now that the template is working
+deepchem/deepchem,2e839c2ab23b37e0fc424099fff9b723449a3fb2,2018-01-05T03:34:50Z,175f1edf1ed5bd5781e4e295c76b9cd056035408/,2020-06-09 22:46:43+09:00/,Added some more tests
+TRIQS/triqs,1a0ebea512167afc88ee1183e04d3ace4db551e9,2013-12-17T20:38:11Z,acab58a59375028f5fee907dbc3d80de1ef496ae/8d1d13907096c7160f8b0b94abb2456c78cdf230/,2016-08-10 18:27:55+02:00/2017-07-06 22:16:29+02:00/,Fix #40
+TRIQS/triqs,1263c409b3a9a648672eb8aa4be5b326c137e22c,2014-12-07T21:03:20Z,bb13ff248ec142fb565f464b868dacf598e92fb4/,2016-12-04 16:18:53+01:00/,[gf] Added 'GfLegendre' and 'MeshLegendre' to __all__ list.
+deepchem/deepchem,29d402d8e32a535b66a91d9f22edd6fef1e8ff27,2017-10-18T21:20:27Z,18ea3f2604556f7367700ce344e35a2bb6914191/e1b925e46e99bd818c3d55305c2a3804ec7efbd8/81851ee60891c1a006ee17f80df037f837275e39/8ee42420661dcd9f8f1cb7d4de26a7b07974a4fe/6835a33aafe2d4c1af679be6591bb5b49e75ddb9/e6a29c458700915ffd1625cf5698d8a70692d346/,2017-10-30 16:09:10-07:00/2017-10-30 12:49:05-07:00/2017-11-08 17:54:06-08:00/2017-10-30 13:27:29-07:00/2017-10-24 19:22:49-07:00/2017-10-30 13:15:13-07:00/,update jenkins molnet build
+TRIQS/triqs,a0e7cc20b31c4256e16052bf159edfc24ed47b6d,2015-02-06T11:02:09Z,dbadc3bd21bbc5fe8423566ebfae1f28c43f1044/614fa72aac9abaed20320ca51c7b559f37c9ea8d/9d4ecd99f3ff3e9e8f37ecfc31c0200ca03267c6/683c859e8449933a14a2bc677aaba4d7d897f03e/6eacea60db792b4d14786b3f0cc2cd384e5cffb7/be99acd058b6ab966adf264f1eff2301b0f5c449/a8f683282c0f88e76a0a8fd726c38b8ee9fd3864/3c3344022c531a920cfcc6796e967c5f8b76e539/5cad6a05662fddcf9801cdf6558f28a644e6f3b7/6b69b96b066314fe5c9ee062e63570e7a47a17b6/f7018b327c2cc526267a1cc52e79d79a9b8faead/0f93207f25ede0bc7b330e769c49cc7b2e0b8267/c2cdf0dc1f53b5d78778bf9dd2f44f59e9bc0e97/a3991b3f81e5f045734e8c5f9e4bbe8874a40460/bd3307ae90556fd4ae43d7096d03060ca389364b/dc0bc8dc74b197a3b9444d11c59659b863b99a2e/f583999a4d502278c7b9cdb62bb01b6cb954f9fc/8ce34550fb0d66cbfc6ec5bf25036dbc3397ca7f/abdec502c6a12eef4c83fd6b1fe4ad074a026f90/,2015-09-27 14:51:46+02:00/2015-06-16 00:33:48+02:00/2019-03-07 14:30:15-05:00/2015-09-13 18:28:29+02:00/2019-02-28 15:05:10-05:00/2019-03-07 17:38:08-05:00/2015-03-01 22:40:04+01:00/2015-02-10 15:26:31+01:00/2015-08-01 19:53:33+02:00/2015-06-13 01:12:21+02:00/2018-05-11 16:34:45-04:00/2016-03-08 00:42:40+01:00/2016-03-20 18:45:06+01:00/2015-02-06 15:16:30+01:00/2015-05-21 17:39:45+02:00/2015-09-12 23:10:46+02:00/2016-03-08 19:13:09+01:00/2018-05-26 23:43:55+02:00/2015-08-03 00:01:39+02:00/,"Upgrade hilbert_space tools to triqs library
+
+We moved the hilbert_space tools of the cthyb here as well as
+the autopartition algorithm. Tests pass."
+aiidateam/aiida-quantumespresso,48d118df3fd52ce735f794b246b73e2a78dc0563,2020-06-07T19:54:14Z,89a44f1a119f9db37d566e5801a676ffd83b017d/,2020-10-05 16:05:29+02:00/,"Remove `prospector` and run `yapf` and `pylint` from repo (#526)
+
+The `prospector` tools has been giving a lot of problems with dependency
+incompatibilities since we have been using it and we really only use it
+to run `pylint`. However, this is easy to run directly as well from a
+remote, specifying the desired revision.
+
+We do the same for `yapf` and remove the explicit dependency from the
+`pre-commit` extra since the latter was not pinning a particular version
+which could cause arbitrary style changes in different environments that
+just happen to have a slightly different version.
+
+Note that, although we also install `pylint` directly from a revision
+in the pre-commit hook, we still have to define an explicit version in
+the `extras_require`. This is because `pylint` needs to be run with the
+`system` language defined in the hook, or it won't find all third party
+dependencies that are installed and throw a lot of false positives about
+missing imports. We define `~=2.5.0` which allows different patch
+versions, which should not introduce incompatible linting."
+deepchem/deepchem,e010189597befa96e13f1f4ca088a86c24c46482,2018-11-24T03:01:52Z,49c5452eb583e8c61dde57b9e0a82c817a3fcdd1/367160126d2c4c5b95f6b404b5fb2c6d48827ba2/b7f5dbe9c524dbe4d8859d5a535d4994117bdd24/5363e2abdea93e87ead0c19ef99ea4c778c7c860/4774b04593fa8fc965fbb475d2b46da5ae314663/74fad77ce398d8e525ffc0b05e14eb90678f2d2b/55acd3d71025d6d8299043618092e4c812676d7d/9314f5c94c7223c54177cca75dab401352d69370/dd5dc438e53f6de6c51798035704380269fd212e/eee39f3db9a4aa39c09fb21b8091d961962fb971/,2020-03-06 17:31:06-08:00/2020-03-05 18:06:34-08:00/2020-03-28 16:50:28+09:00/2020-08-24 09:11:21-07:00/2020-03-05 15:36:41-08:00/2020-03-04 17:03:59-08:00/2019-08-29 09:43:25-07:00/2020-08-06 00:21:36+09:00/2020-10-08 09:49:57-07:00/2020-05-31 12:53:10+09:00/,Changes
+TRIQS/triqs,b86aaa1f55a26c33a87a13e611bd0d246f932027,2015-10-12T19:53:08Z,8ce34550fb0d66cbfc6ec5bf25036dbc3397ca7f/,2018-05-26 23:43:55+02:00/,"[hilbert_space] Simplify code in space_partition::merge_subspaces()
+
+* Prompted by a referee's question."
+QInfer/python-qinfer,6be5c47a1a18f795ef7453ccb8a809270db11c4a,2016-04-05T00:53:27Z,b969e501488704ce036089b2ad530d24e8817b80/,2016-06-13 13:11:01+10:00/,Made IPythonProgressBar ignore errors.
+Qiskit/qiskit-ignis,d8ffdffce5c1e5d9f94028b489981bd494a6deb6,2019-01-24T19:19:47Z,db9c8bfc79d6693fb56941245fbec31dce49b927/b542241748e85eed025352bce45752b6c96fdc5b/d08814e01185c7680161dd1869b26dfda92645a1/2b949af1c8863390e751b503e59e18624c3e7243/2e8788319d8cc477817561593ad4e2be7086c20f/ecdfacd745cf0581896ebdc7f025cdf8955cda6c/,2019-02-02 12:07:09-05:00/2019-02-04 10:57:35-05:00/2019-01-25 00:18:50-05:00/2019-02-28 15:54:24-05:00/2019-03-08 12:33:52-05:00/2019-02-28 18:28:04-05:00/,"update fitter_data function
+
+* remove cal_matrix from fitter_data
+* return binomial weights as seperate vector
+* updated examples for now fitter_data"
+TRIQS/triqs,49399a24b8c47a155d6909f94029b8ef3d9c691d,2018-11-27T21:08:21Z,d762854bd95c588a124a118236cc467eeab6a4f3/215cfeff685a4eb66d538e286f5d77df595fb99b/,2019-09-17 13:36:47-04:00/2019-09-19 13:12:04-04:00/,"[doc] Minor reformatting of application website, add omegamaxent interface"

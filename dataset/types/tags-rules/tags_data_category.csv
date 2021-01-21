@@ -1,0 +1,821 @@
+Tags,project_type,category,project,total_debt
+convention,Quantum,Quantum Algorithsm,netket/netket,15.948275862068964
+convention,Quantum,Quantum Algorithsm,JoshuaSBrown/QC_Tools,0
+convention,Quantum,Quantum Algorithsm,quantumlib/OpenFermion,25.14512679498931
+convention,Quantum,Quantum Algorithsm,ProjectQ-Framework/FermiLib,7.446808510638297
+convention,Quantum,Quantum Algorithsm,dwave-examples/factoring,11.111111111111112
+convention,Quantum,Quantum Algorithsm,PanPalitta/phase_estimation,0
+convention,Quantum,Quantum Algorithsm,qrefine/qrefine,19.66
+convention,Quantum,Quantum Algorithsm,mabuchilab/QNET,44.3477277865702
+convention,Quantum,Quantum Algorithsm,Qiskit/qiskit-aqua,20.46500363284088
+convention,Quantum,Quantum Algorithsm,XanaduAI/thewalrus,50.99009900990099
+convention,Quantum,Quantum Algorithsm,rigetti/grove,51.1904761904762
+convention,Quantum,Quantum Algorithsm,Q-solvers/EDLib,29.999999999999996
+convention,Quantum,Quantum Algorithsm,aeantipov/pomerol,12.5
+convention,Quantum,Quantum Algorithsm,qucontrol/krotov,70.06427915518825
+convention,Quantum,ToolKit,qucat/qucat,11.50855365474339
+convention,Quantum,ToolKit,orbkit/orbkit,14.28
+convention,Quantum,ToolKit,deepchem/deepchem,35.49
+convention,Quantum,ToolKit,bloomberg/quantum,0.0
+convention,Quantum,ToolKit,lmacken/quantumrandom,3.1746031746031744
+convention,Quantum,ToolKit,rigetti/forest-benchmarking,72.52396166134184
+convention,Quantum,ToolKit,TRIQS/triqs,44.33
+convention,Quantum,ToolKit,zoran-cuckovic/QGIS-visibility-analysis,43.52000000000001
+convention,Quantum,ToolKit,QuTech-Delft/qtt,41.150000000000006
+convention,Quantum,ToolKit,evaleev/libint,0.0
+convention,Quantum,ToolKit,redhat-cip/openstack-quantum-puppet,0
+convention,Quantum,ToolKit,qubekit/QUBEKit,30.023640661938533
+convention,Quantum,ToolKit,OriginQ/QPanda-2,26.93433709744877
+convention,Quantum,ToolKit,boschmitt/tweedledum,0
+convention,Quantum,ToolKit,qojulia/QuantumOptics.jl,0.0
+convention,Quantum,ToolKit,tensorflow/quantum,1.8633540372670807
+convention,Quantum,ToolKit,XanaduAI/pennylane,52.26537216828479
+convention,Quantum,ToolKit,aiidateam/aiida-quantumespresso,8.346456692913387
+convention,Quantum,ToolKit,QInfer/python-qinfer,35.5806872553284
+convention,Quantum,ToolKit,jcmgray/quimb,66.55872828966736
+convention,Quantum,ToolKit,Qiskit/qiskit-ignis,39.76
+convention,Quantum,Compiler,Quantomatic/pyzx,9.371727748691098
+convention,Quantum,Compiler,microsoft/qsharp-compiler,0
+convention,Quantum,Compiler,QE-Lab/OpenQL,7.519999999999999
+convention,Quantum,Quantum-Chemistry,MolSSI-BSE/basis_set_exchange,21.31495227995758
+convention,Quantum,Quantum-Chemistry,Quantum-Dynamics-Hub/libra-code,38.63
+convention,Quantum,Quantum-Chemistry,GQCG/GQCP,0.0
+convention,Quantum,Quantum-Chemistry,vonDonnerstein/QuantumLab.jl,0
+convention,Quantum,Quantum-Chemistry,QMCPACK/qmcpack,0
+convention,Quantum,Quantum-Chemistry,MolSSI/QCElemental,22.169562927856767
+convention,Quantum,Quantum-Chemistry,qcdb/qcdb,23.86
+convention,Quantum,Quantum-Chemistry,aoterodelaroza/critic2,0
+convention,Quantum,Quantum-Chemistry,ValeevGroup/mpqc,35.2112676056338
+convention,Quantum,Quantum-Chemistry,ericchansen/q2mm,3.5876475930971847
+convention,Quantum,Quantum-Chemistry,MolSSI/QCFractal,11.909581646423753
+convention,Quantum,Quantum-Chemistry,cp2k/cp2k,59.30000000000001
+convention,Quantum,Quantum-Chemistry,hande-qmc/hande,19.539473684210527
+convention,Quantum,Quantum-Chemistry,votca/xtp,60.7445008460237
+convention,Quantum,Quantum-Chemistry,pyscf/pyscf,45.18999999999999
+convention,Quantum,Quantum-Chemistry,tmancal74/quantarhei,32.129999999999995
+convention,Quantum,Quantum-Chemistry,LCPQ/quantum_package,9.6514745308311
+convention,Quantum,Quantum-Chemistry,MolSSI/QCEngine,14.523121387283238
+convention,Quantum,Quantum-Chemistry,SebWouters/CheMPS2,52.99823633156966
+convention,Quantum,Cryptography,supernomad/quantum,20.0
+convention,Quantum,Cryptography,exaexa/codecrypt,0
+convention,Quantum,Cryptography,mupq/pqm4,76.92307692307693
+convention,Quantum,Cryptography,theQRL/QRL,40.64992262825854
+convention,Quantum,Experimentation,m-labs/artiq,49.25000000000001
+convention,Quantum,Experimentation,BBN-Q/Qlab,50.498398006407974
+convention,Quantum,Experimentation,sedabull/quantum-shell,0.0
+convention,Quantum,Experimentation,zlatko-minev/pyEPR,64.67770034843205
+convention,Quantum,Experimentation,lneuhaus/pyrpl,3.899403022989966
+convention,Quantum,Experimentation,BBN-Q/QGL,81.9
+convention,Quantum,Experimentation,BBN-Q/PyQLab,85.62
+convention,Quantum,Experimentation,qutech/qupulse,25.821367729374547
+convention,Quantum,Experimentation,iitis/QuantumInformation.jl,0
+convention,Quantum,Assembly,XanaduAI/blackbird,25.220264317180614
+convention,Quantum,Assembly,BBN-Q/QGL.jl,0
+convention,Quantum,Assembly,artiste-qb-net/qubiter,21.52517985611511
+convention,Quantum,Assembly,BBN-Q/pyqgl2,62.150000000000006
+convention,Quantum,Assembly,lanl/qmasm,17.313432835820898
+convention,Quantum,Quantum Annealing,dwavesystems/penaltymodel,15.400410677618073
+convention,Quantum,Quantum Annealing,dwavesystems/dimod,53.76344086021505
+convention,Quantum,Quantum Annealing,dwavesystems/dwave-system,54.107505070993916
+convention,Quantum,Quantum Annealing,shinmorino/sqaod,78.7947697555429
+convention,Quantum,Quantum Annealing,dwavesystems/dwavebinarycsp,15.93625498007968
+convention,Quantum,Quantum Annealing,dwavesystems/qbsolv,7.673568818514007
+convention,Quantum,Web-Extension,quantacms/quanta,0.01
+convention,Quantum,Web-Extension,Quantum-Manager/quantummanager,0.3654970760233918
+convention,Quantum,Web-Extension,dauphine-dev/drop-feeds,0.0
+convention,Quantum,Web-Extension,Izheil/Quantum-Nox-Firefox-Dark-Full-Theme,7.81
+convention,Quantum,Web-Extension,firebug/websocket-monitor,0.0
+convention,Quantum,Web-Extension,foxyproxy/firefox-extension,0.0
+convention,Quantum,Web-Extension,Aris-t2/CustomCSSforFx,0.0
+convention,Quantum,Web-Extension,spikespaz/firefox-nativedark,0.0
+convention,Quantum,Web-Extension,catho/quantum,20.0
+convention,Quantum,Fun/ Game,Quantum-Game/quantum-game-2,0.0
+convention,Quantum,Fun/ Game,decodoku/A_Game_to_Benchmark_Quantum_Computers,79.94186046511628
+convention,Quantum,Fun/ Game,HuangJunye/QPong,0.0
+convention,Quantum,Fun/ Game,JavaFXpert/quantum-toy-piano-ibmq,0.07376444553725105
+convention,Quantum,Full-stack Library,Blueqat/Blueqat,49.20634920634921
+convention,Quantum,Full-stack Library,softwareQinc/staq,60.381355932203384
+convention,Quantum,Full-stack Library,rigetti/pyquil,44.198655389286486
+convention,Quantum,Full-stack Library,microsoft/QuantumLibraries,25.287356321839084
+convention,Quantum,Full-stack Library,microsoft/Quantum-NC,0
+convention,Quantum,Full-stack Library,Qiskit/qiskit-terra,30.768029971901345
+convention,Quantum,Full-stack Library,qiskit-community/qiskit-vscode,41.86046511627907
+convention,Quantum,Full-stack Library,QuantumPackage/qp2,9.589041095890412
+convention,Quantum,Full-stack Library,qiskit-community/qiskit-js,0.0
+convention,Quantum,Full-stack Library,ProjectQ-Framework/ProjectQ,21.203554119547658
+convention,Quantum,Full-stack Library,quantumlib/Cirq,24.112607099143204
+convention,Quantum,Full-stack Library,microsoft/Quantum,20.0
+convention,Quantum,Full-stack Library,rigetti/rpcq,18.94736842105263
+convention,Quantum,Full-stack Library,Qiskit/qiskit-ibmq-provider,8.403361344537814
+convention,Quantum,Full-stack Library,Qiskit/qiskit,4.629629629629629
+convention,Quantum,Full-stack Library,XanaduAI/strawberryfields,51.14029025570145
+convention,Quantum,Simulator,Approximates/dotBloch,0
+convention,Quantum,Simulator,rigetti/qvm,0
+convention,Quantum,Simulator,QuantumBFS/YaoBlocks.jl,0
+convention,Quantum,Simulator,aparent/QCViewer,50.0
+convention,Quantum,Simulator,microsoft/qmt,66.83848797250859
+convention,Quantum,Simulator,arguelles/nuSQuIDS,47.91666666666667
+convention,Quantum,Simulator,vm6502q/qrack,0
+convention,Quantum,Simulator,QuantumBFS/Yao.jl,59.57446808510638
+convention,Quantum,Simulator,qutip/qutip,49.13
+convention,Quantum,Simulator,Qiskit/qiskit-jku-provider,21.428571428571423
+convention,Quantum,Simulator,Qiskit/qiskit-aer,14.269340974212033
+convention,Quantum,Simulator,Strilanc/Quirk,0.1289767841788478
+convention,Quantum,Simulator,softwareQinc/qpp,0.0
+convention,Quantum,Simulator,qulacs/qulacs,0.0
+convention,Quantum,Simulator,quantumlib/OpenFermion-Cirq,15.704387990762125
+convention,Quantum,Simulator,issp-center-dev/HPhi,61.16071428571429
+convention,Quantum,Simulator,marvel-nccr/quantum-mobile,58.33333333333333
+convention,Quantum,Simulator,SoftwareQuTech/SimulaQron,55.76
+convention,Quantum,Simulator,ngnrsaa/qflex,52.70270270270271
+convention,Quantum,Simulator,QuEST-Kit/QuEST,0.0
+convention,None-Quantum,None-Quantum,kivy/kivy,18.23
+convention,None-Quantum,None-Quantum,frappe/bench,0.11269722013523666
+convention,None-Quantum,None-Quantum,dpgaspar/Flask-AppBuilder,0.54
+convention,None-Quantum,None-Quantum,flexxui/flexx,25.17
+convention,None-Quantum,None-Quantum,lbryio/lbry-sdk,43.49
+convention,None-Quantum,None-Quantum,falconry/falcon,4.179447852760736
+convention,None-Quantum,None-Quantum,django-tastypie/django-tastypie,6.658238516645596
+convention,None-Quantum,None-Quantum,django-crispy-forms/django-crispy-forms,12.885723974228553
+convention,None-Quantum,None-Quantum,google/personfinder,8.440000000000001
+convention,None-Quantum,None-Quantum,quack/quack,0.0
+convention,None-Quantum,None-Quantum,nvbn/thefuck,53.542821934688845
+convention,None-Quantum,None-Quantum,cquery-project/cquery,77.3913043478261
+convention,None-Quantum,None-Quantum,AppImage/AppImageKit,0
+convention,None-Quantum,None-Quantum,Nuitka/Nuitka,44.06
+convention,None-Quantum,None-Quantum,jieter/django-tables2,18.78065872459706
+convention,None-Quantum,None-Quantum,mjolnirapp/mjolnir,0.0
+convention,None-Quantum,None-Quantum,AppDaemon/appdaemon,2.419035029742234
+convention,None-Quantum,None-Quantum,Kunstmaan/KunstmaanBundlesCMS,0
+convention,None-Quantum,None-Quantum,keystonejs/keystone-classic,0.0
+convention,None-Quantum,None-Quantum,emeryberger/CSrankings,18.212501687592816
+convention,None-Quantum,None-Quantum,zetavm/zetavm,18.840579710144926
+convention,None-Quantum,None-Quantum,pinax/pinax-stripe,80.63619518221124
+convention,None-Quantum,None-Quantum,plotly/dash,28.79177377892031
+convention,None-Quantum,None-Quantum,wooey/Wooey,28.539626001780945
+convention,None-Quantum,None-Quantum,vim-vdebug/vdebug,10.256410256410255
+convention,None-Quantum,None-Quantum,SciML/DifferentialEquations.jl,0
+convention,None-Quantum,None-Quantum,ps2homebrew/Open-PS2-Loader,0.0
+convention,None-Quantum,None-Quantum,rajkumardusad/Tool-X,26.451612903225808
+convention,None-Quantum,None-Quantum,Chuyu-Team/Dism-Multi-language,0.0
+convention,None-Quantum,None-Quantum,guanguans/favorite-link,0
+convention,None-Quantum,None-Quantum,pre-commit/pre-commit,9.746835443037975
+convention,None-Quantum,None-Quantum,dcloudio/mui,0.0
+convention,None-Quantum,None-Quantum,owntracks/recorder,0.0
+convention,None-Quantum,None-Quantum,janeczku/calibre-web,14.62
+unused,Quantum,Quantum Algorithsm,netket/netket,59.05172413793104
+unused,Quantum,Quantum Algorithsm,JoshuaSBrown/QC_Tools,0
+unused,Quantum,Quantum Algorithsm,quantumlib/OpenFermion,28.353192789489764
+unused,Quantum,Quantum Algorithsm,ProjectQ-Framework/FermiLib,42.55319148936171
+unused,Quantum,Quantum Algorithsm,dwave-examples/factoring,0.0
+unused,Quantum,Quantum Algorithsm,PanPalitta/phase_estimation,0
+unused,Quantum,Quantum Algorithsm,qrefine/qrefine,19.1
+unused,Quantum,Quantum Algorithsm,mabuchilab/QNET,22.914311553244406
+unused,Quantum,Quantum Algorithsm,Qiskit/qiskit-aqua,22.5236134657302
+unused,Quantum,Quantum Algorithsm,XanaduAI/thewalrus,10.643564356435643
+unused,Quantum,Quantum Algorithsm,rigetti/grove,4.523809523809524
+unused,Quantum,Quantum Algorithsm,Q-solvers/EDLib,20.0
+unused,Quantum,Quantum Algorithsm,aeantipov/pomerol,0.0
+unused,Quantum,Quantum Algorithsm,qucontrol/krotov,7.346189164370983
+unused,Quantum,ToolKit,qucat/qucat,7.371695178849145
+unused,Quantum,ToolKit,orbkit/orbkit,15.48
+unused,Quantum,ToolKit,deepchem/deepchem,22.680000000000003
+unused,Quantum,ToolKit,bloomberg/quantum,0.07
+unused,Quantum,ToolKit,lmacken/quantumrandom,22.22222222222222
+unused,Quantum,ToolKit,rigetti/forest-benchmarking,11.821086261980831
+unused,Quantum,ToolKit,TRIQS/triqs,15.44
+unused,Quantum,ToolKit,zoran-cuckovic/QGIS-visibility-analysis,23.68
+unused,Quantum,ToolKit,QuTech-Delft/qtt,22.53
+unused,Quantum,ToolKit,evaleev/libint,34.693877551020414
+unused,Quantum,ToolKit,redhat-cip/openstack-quantum-puppet,0
+unused,Quantum,ToolKit,qubekit/QUBEKit,18.55791962174941
+unused,Quantum,ToolKit,OriginQ/QPanda-2,16.687578419071517
+unused,Quantum,ToolKit,boschmitt/tweedledum,0
+unused,Quantum,ToolKit,qojulia/QuantumOptics.jl,0.0
+unused,Quantum,ToolKit,tensorflow/quantum,1.8633540372670807
+unused,Quantum,ToolKit,XanaduAI/pennylane,16.990291262135923
+unused,Quantum,ToolKit,aiidateam/aiida-quantumespresso,22.789651293588303
+unused,Quantum,ToolKit,QInfer/python-qinfer,16.485428447150934
+unused,Quantum,ToolKit,jcmgray/quimb,9.832204886664705
+unused,Quantum,ToolKit,Qiskit/qiskit-ignis,17.04
+unused,Quantum,Compiler,Quantomatic/pyzx,33.50785340314136
+unused,Quantum,Compiler,microsoft/qsharp-compiler,0
+unused,Quantum,Compiler,QE-Lab/OpenQL,2.8599999999999994
+unused,Quantum,Quantum-Chemistry,MolSSI-BSE/basis_set_exchange,20.360551431601273
+unused,Quantum,Quantum-Chemistry,Quantum-Dynamics-Hub/libra-code,14.990000000000002
+unused,Quantum,Quantum-Chemistry,GQCG/GQCP,43.75
+unused,Quantum,Quantum-Chemistry,vonDonnerstein/QuantumLab.jl,0
+unused,Quantum,Quantum-Chemistry,QMCPACK/qmcpack,0
+unused,Quantum,Quantum-Chemistry,MolSSI/QCElemental,16.535018430753027
+unused,Quantum,Quantum-Chemistry,qcdb/qcdb,26.64
+unused,Quantum,Quantum-Chemistry,aoterodelaroza/critic2,0
+unused,Quantum,Quantum-Chemistry,ValeevGroup/mpqc,20.422535211267604
+unused,Quantum,Quantum-Chemistry,ericchansen/q2mm,33.69663941871026
+unused,Quantum,Quantum-Chemistry,MolSSI/QCFractal,38.15789473684211
+unused,Quantum,Quantum-Chemistry,cp2k/cp2k,3.990000000000001
+unused,Quantum,Quantum-Chemistry,hande-qmc/hande,5.263157894736843
+unused,Quantum,Quantum-Chemistry,votca/xtp,19.627749576988155
+unused,Quantum,Quantum-Chemistry,pyscf/pyscf,21.599999999999998
+unused,Quantum,Quantum-Chemistry,tmancal74/quantarhei,19.19
+unused,Quantum,Quantum-Chemistry,LCPQ/quantum_package,9.6514745308311
+unused,Quantum,Quantum-Chemistry,MolSSI/QCEngine,23.554913294797686
+unused,Quantum,Quantum-Chemistry,SebWouters/CheMPS2,6.7901234567901225
+unused,Quantum,Cryptography,supernomad/quantum,9.0
+unused,Quantum,Cryptography,exaexa/codecrypt,0
+unused,Quantum,Cryptography,mupq/pqm4,0.0
+unused,Quantum,Cryptography,theQRL/QRL,6.844423282942506
+unused,Quantum,Experimentation,m-labs/artiq,15.979999999999999
+unused,Quantum,Experimentation,BBN-Q/Qlab,4.093983624065504
+unused,Quantum,Experimentation,sedabull/quantum-shell,0.0
+unused,Quantum,Experimentation,zlatko-minev/pyEPR,17.63937282229965
+unused,Quantum,Experimentation,lneuhaus/pyrpl,24.615775435031118
+unused,Quantum,Experimentation,BBN-Q/QGL,3.54
+unused,Quantum,Experimentation,BBN-Q/PyQLab,4.069999999999999
+unused,Quantum,Experimentation,qutech/qupulse,11.340958870771479
+unused,Quantum,Experimentation,iitis/QuantumInformation.jl,0
+unused,Quantum,Assembly,XanaduAI/blackbird,26.43171806167401
+unused,Quantum,Assembly,BBN-Q/QGL.jl,0
+unused,Quantum,Assembly,artiste-qb-net/qubiter,15.194244604316546
+unused,Quantum,Assembly,BBN-Q/pyqgl2,17.940000000000005
+unused,Quantum,Assembly,lanl/qmasm,9.55223880597015
+unused,Quantum,Quantum Annealing,dwavesystems/penaltymodel,20.53388090349076
+unused,Quantum,Quantum Annealing,dwavesystems/dimod,23.143881208397335
+unused,Quantum,Quantum Annealing,dwavesystems/dwave-system,17.647058823529413
+unused,Quantum,Quantum Annealing,shinmorino/sqaod,9.266628766344514
+unused,Quantum,Quantum Annealing,dwavesystems/dwavebinarycsp,37.05179282868526
+unused,Quantum,Quantum Annealing,dwavesystems/qbsolv,6.211936662606577
+unused,Quantum,Web-Extension,quantacms/quanta,3.0
+unused,Quantum,Web-Extension,Quantum-Manager/quantummanager,25.584795321637426
+unused,Quantum,Web-Extension,dauphine-dev/drop-feeds,4.223433242506812
+unused,Quantum,Web-Extension,Izheil/Quantum-Nox-Firefox-Dark-Full-Theme,0.34
+unused,Quantum,Web-Extension,firebug/websocket-monitor,5.176663927691044
+unused,Quantum,Web-Extension,foxyproxy/firefox-extension,6.756756756756756
+unused,Quantum,Web-Extension,Aris-t2/CustomCSSforFx,0.26
+unused,Quantum,Web-Extension,spikespaz/firefox-nativedark,0.0
+unused,Quantum,Web-Extension,catho/quantum,9.0
+unused,Quantum,Fun/ Game,Quantum-Game/quantum-game-2,20.422535211267604
+unused,Quantum,Fun/ Game,decodoku/A_Game_to_Benchmark_Quantum_Computers,4.94186046511628
+unused,Quantum,Fun/ Game,HuangJunye/QPong,0.32
+unused,Quantum,Fun/ Game,JavaFXpert/quantum-toy-piano-ibmq,32.53012048192771
+unused,Quantum,Full-stack Library,Blueqat/Blueqat,23.809523809523814
+unused,Quantum,Full-stack Library,softwareQinc/staq,3.813559322033898
+unused,Quantum,Full-stack Library,rigetti/pyquil,21.21014964216005
+unused,Quantum,Full-stack Library,microsoft/QuantumLibraries,6.896551724137931
+unused,Quantum,Full-stack Library,microsoft/Quantum-NC,0
+unused,Quantum,Full-stack Library,Qiskit/qiskit-terra,9.772088666874806
+unused,Quantum,Full-stack Library,qiskit-community/qiskit-vscode,1.1627906976744184
+unused,Quantum,Full-stack Library,QuantumPackage/qp2,6.849315068493151
+unused,Quantum,Full-stack Library,qiskit-community/qiskit-js,9.610000000000001
+unused,Quantum,Full-stack Library,ProjectQ-Framework/ProjectQ,33.360258481421646
+unused,Quantum,Full-stack Library,quantumlib/Cirq,9.400244798041616
+unused,Quantum,Full-stack Library,microsoft/Quantum,9.0
+unused,Quantum,Full-stack Library,rigetti/rpcq,0.0
+unused,Quantum,Full-stack Library,Qiskit/qiskit-ibmq-provider,1.2605042016806722
+unused,Quantum,Full-stack Library,Qiskit/qiskit,6.018518518518519
+unused,Quantum,Full-stack Library,XanaduAI/strawberryfields,19.834139599170697
+unused,Quantum,Simulator,Approximates/dotBloch,0
+unused,Quantum,Simulator,rigetti/qvm,0
+unused,Quantum,Simulator,QuantumBFS/YaoBlocks.jl,0
+unused,Quantum,Simulator,aparent/QCViewer,0.0
+unused,Quantum,Simulator,microsoft/qmt,3.5509736540664374
+unused,Quantum,Simulator,arguelles/nuSQuIDS,4.166666666666667
+unused,Quantum,Simulator,vm6502q/qrack,0
+unused,Quantum,Simulator,QuantumBFS/Yao.jl,25.531914893617017
+unused,Quantum,Simulator,qutip/qutip,10.830000000000002
+unused,Quantum,Simulator,Qiskit/qiskit-jku-provider,21.428571428571423
+unused,Quantum,Simulator,Qiskit/qiskit-aer,37.363896848137536
+unused,Quantum,Simulator,Strilanc/Quirk,68.91659501289767
+unused,Quantum,Simulator,softwareQinc/qpp,0.0
+unused,Quantum,Simulator,qulacs/qulacs,37.03703703703704
+unused,Quantum,Simulator,quantumlib/OpenFermion-Cirq,4.157043879907622
+unused,Quantum,Simulator,issp-center-dev/HPhi,9.374999999999998
+unused,Quantum,Simulator,marvel-nccr/quantum-mobile,0.0
+unused,Quantum,Simulator,SoftwareQuTech/SimulaQron,6.94
+unused,Quantum,Simulator,ngnrsaa/qflex,24.324324324324323
+unused,Quantum,Simulator,QuEST-Kit/QuEST,0.5499999999999999
+unused,None-Quantum,None-Quantum,kivy/kivy,15.56
+unused,None-Quantum,None-Quantum,frappe/bench,7.475582268970699
+unused,None-Quantum,None-Quantum,dpgaspar/Flask-AppBuilder,13.200000000000001
+unused,None-Quantum,None-Quantum,flexxui/flexx,32.14
+unused,None-Quantum,None-Quantum,lbryio/lbry-sdk,11.42
+unused,None-Quantum,None-Quantum,falconry/falcon,15.989263803680982
+unused,None-Quantum,None-Quantum,django-tastypie/django-tastypie,13.513133867116169
+unused,None-Quantum,None-Quantum,django-crispy-forms/django-crispy-forms,5.0186503899626995
+unused,None-Quantum,None-Quantum,google/personfinder,9.81
+unused,None-Quantum,None-Quantum,quack/quack,5.771812080536912
+unused,None-Quantum,None-Quantum,nvbn/thefuck,0.8009858287122612
+unused,None-Quantum,None-Quantum,cquery-project/cquery,3.4782608695652173
+unused,None-Quantum,None-Quantum,AppImage/AppImageKit,0
+unused,None-Quantum,None-Quantum,Nuitka/Nuitka,16.150000000000002
+unused,None-Quantum,None-Quantum,jieter/django-tables2,14.611072179397338
+unused,None-Quantum,None-Quantum,mjolnirapp/mjolnir,0.0
+unused,None-Quantum,None-Quantum,AppDaemon/appdaemon,27.08526107072042
+unused,None-Quantum,None-Quantum,Kunstmaan/KunstmaanBundlesCMS,0
+unused,None-Quantum,None-Quantum,keystonejs/keystone-classic,3.2600000000000002
+unused,None-Quantum,None-Quantum,emeryberger/CSrankings,17.726474956122587
+unused,None-Quantum,None-Quantum,zetavm/zetavm,15.217391304347824
+unused,None-Quantum,None-Quantum,pinax/pinax-stripe,0.24706609017912293
+unused,None-Quantum,None-Quantum,plotly/dash,4.305912596401028
+unused,None-Quantum,None-Quantum,wooey/Wooey,16.028495102404275
+unused,None-Quantum,None-Quantum,vim-vdebug/vdebug,7.997557997557997
+unused,None-Quantum,None-Quantum,SciML/DifferentialEquations.jl,0
+unused,None-Quantum,None-Quantum,ps2homebrew/Open-PS2-Loader,8.583690987124463
+unused,None-Quantum,None-Quantum,rajkumardusad/Tool-X,16.451612903225804
+unused,None-Quantum,None-Quantum,Chuyu-Team/Dism-Multi-language,17.241379310344826
+unused,None-Quantum,None-Quantum,guanguans/favorite-link,0
+unused,None-Quantum,None-Quantum,pre-commit/pre-commit,1.3080168776371308
+unused,None-Quantum,None-Quantum,dcloudio/mui,21.57
+unused,None-Quantum,None-Quantum,owntracks/recorder,10.362694300518134
+unused,None-Quantum,None-Quantum,janeczku/calibre-web,10.95
+design,Quantum,Quantum Algorithsm,netket/netket,3.0172413793103448
+design,Quantum,Quantum Algorithsm,JoshuaSBrown/QC_Tools,0
+design,Quantum,Quantum Algorithsm,quantumlib/OpenFermion,8.340971585701192
+design,Quantum,Quantum Algorithsm,ProjectQ-Framework/FermiLib,7.446808510638297
+design,Quantum,Quantum Algorithsm,dwave-examples/factoring,41.666666666666664
+design,Quantum,Quantum Algorithsm,PanPalitta/phase_estimation,0
+design,Quantum,Quantum Algorithsm,qrefine/qrefine,2.0700000000000003
+design,Quantum,Quantum Algorithsm,mabuchilab/QNET,3.8322405607054035
+design,Quantum,Quantum Algorithsm,Qiskit/qiskit-aqua,6.7813029789295225
+design,Quantum,Quantum Algorithsm,XanaduAI/thewalrus,0.5775577557755776
+design,Quantum,Quantum Algorithsm,rigetti/grove,3.8095238095238098
+design,Quantum,Quantum Algorithsm,Q-solvers/EDLib,0.0
+design,Quantum,Quantum Algorithsm,aeantipov/pomerol,0.0
+design,Quantum,Quantum Algorithsm,qucontrol/krotov,7.80532598714417
+design,Quantum,ToolKit,qucat/qucat,3.2970451010886466
+design,Quantum,ToolKit,orbkit/orbkit,3.0500000000000003
+design,Quantum,ToolKit,deepchem/deepchem,1.9599999999999997
+design,Quantum,ToolKit,bloomberg/quantum,0.02
+design,Quantum,ToolKit,lmacken/quantumrandom,0.0
+design,Quantum,ToolKit,rigetti/forest-benchmarking,3.407880724174654
+design,Quantum,ToolKit,TRIQS/triqs,3.4999999999999996
+design,Quantum,ToolKit,zoran-cuckovic/QGIS-visibility-analysis,0.8000000000000002
+design,Quantum,ToolKit,QuTech-Delft/qtt,3.4
+design,Quantum,ToolKit,evaleev/libint,0.0
+design,Quantum,ToolKit,redhat-cip/openstack-quantum-puppet,0
+design,Quantum,ToolKit,qubekit/QUBEKit,10.520094562647754
+design,Quantum,ToolKit,OriginQ/QPanda-2,1.2547051442910917
+design,Quantum,ToolKit,boschmitt/tweedledum,0
+design,Quantum,ToolKit,qojulia/QuantumOptics.jl,100.0
+design,Quantum,ToolKit,tensorflow/quantum,37.88819875776397
+design,Quantum,ToolKit,XanaduAI/pennylane,7.508090614886731
+design,Quantum,ToolKit,aiidateam/aiida-quantumespresso,5.15185601799775
+design,Quantum,ToolKit,QInfer/python-qinfer,1.5224010439321445
+design,Quantum,ToolKit,jcmgray/quimb,2.266705916985575
+design,Quantum,ToolKit,Qiskit/qiskit-ignis,7.52
+design,Quantum,Compiler,Quantomatic/pyzx,3.2460732984293195
+design,Quantum,Compiler,microsoft/qsharp-compiler,0
+design,Quantum,Compiler,QE-Lab/OpenQL,1.29
+design,Quantum,Quantum-Chemistry,MolSSI-BSE/basis_set_exchange,11.876988335100743
+design,Quantum,Quantum-Chemistry,Quantum-Dynamics-Hub/libra-code,1.7400000000000002
+design,Quantum,Quantum-Chemistry,GQCG/GQCP,0.0
+design,Quantum,Quantum-Chemistry,vonDonnerstein/QuantumLab.jl,0
+design,Quantum,Quantum-Chemistry,QMCPACK/qmcpack,0
+design,Quantum,Quantum-Chemistry,MolSSI/QCElemental,36.65086887835703
+design,Quantum,Quantum-Chemistry,qcdb/qcdb,34.769999999999996
+design,Quantum,Quantum-Chemistry,aoterodelaroza/critic2,0
+design,Quantum,Quantum-Chemistry,ValeevGroup/mpqc,9.154929577464788
+design,Quantum,Quantum-Chemistry,ericchansen/q2mm,15.803814713896458
+design,Quantum,Quantum-Chemistry,MolSSI/QCFractal,15.249662618083672
+design,Quantum,Quantum-Chemistry,cp2k/cp2k,0.21000000000000002
+design,Quantum,Quantum-Chemistry,hande-qmc/hande,10.307017543859649
+design,Quantum,Quantum-Chemistry,votca/xtp,0.0
+design,Quantum,Quantum-Chemistry,pyscf/pyscf,6.77
+design,Quantum,Quantum-Chemistry,tmancal74/quantarhei,3.26
+design,Quantum,Quantum-Chemistry,LCPQ/quantum_package,7.715221924337206
+design,Quantum,Quantum-Chemistry,MolSSI/QCEngine,32.36994219653179
+design,Quantum,Quantum-Chemistry,SebWouters/CheMPS2,0.7936507936507935
+design,Quantum,Cryptography,supernomad/quantum,9.0
+design,Quantum,Cryptography,exaexa/codecrypt,0
+design,Quantum,Cryptography,mupq/pqm4,7.6923076923076925
+design,Quantum,Cryptography,theQRL/QRL,7.677657421735508
+design,Quantum,Experimentation,m-labs/artiq,3.1
+design,Quantum,Experimentation,BBN-Q/Qlab,0.3915984336062656
+design,Quantum,Experimentation,sedabull/quantum-shell,0.0
+design,Quantum,Experimentation,zlatko-minev/pyEPR,5.966898954703833
+design,Quantum,Experimentation,lneuhaus/pyrpl,1.5241966213641562
+design,Quantum,Experimentation,BBN-Q/QGL,0.64
+design,Quantum,Experimentation,BBN-Q/PyQLab,0.4000000000000001
+design,Quantum,Experimentation,qutech/qupulse,14.845461182769531
+design,Quantum,Experimentation,iitis/QuantumInformation.jl,0
+design,Quantum,Assembly,XanaduAI/blackbird,2.3127753303964758
+design,Quantum,Assembly,BBN-Q/QGL.jl,0
+design,Quantum,Assembly,artiste-qb-net/qubiter,1.5251798561151075
+design,Quantum,Assembly,BBN-Q/pyqgl2,2.6600000000000006
+design,Quantum,Assembly,lanl/qmasm,7.910447761194031
+design,Quantum,Quantum Annealing,dwavesystems/penaltymodel,1.8480492813141682
+design,Quantum,Quantum Annealing,dwavesystems/dimod,6.758832565284178
+design,Quantum,Quantum Annealing,dwavesystems/dwave-system,4.513184584178499
+design,Quantum,Quantum Annealing,shinmorino/sqaod,0.2274019329164298
+design,Quantum,Quantum Annealing,dwavesystems/dwavebinarycsp,2.7888446215139444
+design,Quantum,Quantum Annealing,dwavesystems/qbsolv,0.8526187576126674
+design,Quantum,Web-Extension,quantacms/quanta,7.6
+design,Quantum,Web-Extension,Quantum-Manager/quantummanager,39.619883040935676
+design,Quantum,Web-Extension,dauphine-dev/drop-feeds,0.21798365122615806
+design,Quantum,Web-Extension,Izheil/Quantum-Nox-Firefox-Dark-Full-Theme,1.11
+design,Quantum,Web-Extension,firebug/websocket-monitor,1.9172829361818682
+design,Quantum,Web-Extension,foxyproxy/firefox-extension,0.0
+design,Quantum,Web-Extension,Aris-t2/CustomCSSforFx,0.0
+design,Quantum,Web-Extension,spikespaz/firefox-nativedark,0.0
+design,Quantum,Web-Extension,catho/quantum,9.0
+design,Quantum,Fun/ Game,Quantum-Game/quantum-game-2,0.0
+design,Quantum,Fun/ Game,decodoku/A_Game_to_Benchmark_Quantum_Computers,3.488372093023256
+design,Quantum,Fun/ Game,HuangJunye/QPong,0.03
+design,Quantum,Fun/ Game,JavaFXpert/quantum-toy-piano-ibmq,0.24588148512417016
+design,Quantum,Full-stack Library,Blueqat/Blueqat,3.880070546737213
+design,Quantum,Full-stack Library,softwareQinc/staq,6.991525423728813
+design,Quantum,Full-stack Library,rigetti/pyquil,5.942311862936457
+design,Quantum,Full-stack Library,microsoft/QuantumLibraries,18.39080459770115
+design,Quantum,Full-stack Library,microsoft/Quantum-NC,0
+design,Quantum,Full-stack Library,Qiskit/qiskit-terra,21.29253824539494
+design,Quantum,Full-stack Library,qiskit-community/qiskit-vscode,2.325581395348837
+design,Quantum,Full-stack Library,QuantumPackage/qp2,6.849315068493151
+design,Quantum,Full-stack Library,qiskit-community/qiskit-js,0.59
+design,Quantum,Full-stack Library,ProjectQ-Framework/ProjectQ,10.016155088852988
+design,Quantum,Full-stack Library,quantumlib/Cirq,28.984088127294985
+design,Quantum,Full-stack Library,microsoft/Quantum,9.0
+design,Quantum,Full-stack Library,rigetti/rpcq,31.57894736842105
+design,Quantum,Full-stack Library,Qiskit/qiskit-ibmq-provider,40.33613445378151
+design,Quantum,Full-stack Library,Qiskit/qiskit,6.944444444444444
+design,Quantum,Full-stack Library,XanaduAI/strawberryfields,5.828150195807417
+design,Quantum,Simulator,Approximates/dotBloch,0
+design,Quantum,Simulator,rigetti/qvm,0
+design,Quantum,Simulator,QuantumBFS/YaoBlocks.jl,0
+design,Quantum,Simulator,aparent/QCViewer,0.0
+design,Quantum,Simulator,microsoft/qmt,1.4891179839633446
+design,Quantum,Simulator,arguelles/nuSQuIDS,4.8076923076923075
+design,Quantum,Simulator,vm6502q/qrack,0
+design,Quantum,Simulator,QuantumBFS/Yao.jl,0.0
+design,Quantum,Simulator,qutip/qutip,2.5100000000000002
+design,Quantum,Simulator,Qiskit/qiskit-jku-provider,14.285714285714285
+design,Quantum,Simulator,Qiskit/qiskit-aer,17.593123209169054
+design,Quantum,Simulator,Strilanc/Quirk,0.0
+design,Quantum,Simulator,softwareQinc/qpp,0.0
+design,Quantum,Simulator,qulacs/qulacs,0.0
+design,Quantum,Simulator,quantumlib/OpenFermion-Cirq,8.775981524249422
+design,Quantum,Simulator,issp-center-dev/HPhi,16.07142857142857
+design,Quantum,Simulator,marvel-nccr/quantum-mobile,37.50000000000001
+design,Quantum,Simulator,SoftwareQuTech/SimulaQron,1.04
+design,Quantum,Simulator,ngnrsaa/qflex,0.0
+design,Quantum,Simulator,QuEST-Kit/QuEST,0.0
+design,None-Quantum,None-Quantum,kivy/kivy,8.12
+design,None-Quantum,None-Quantum,frappe/bench,8.752817430503383
+design,None-Quantum,None-Quantum,dpgaspar/Flask-AppBuilder,3.2499999999999996
+design,None-Quantum,None-Quantum,flexxui/flexx,11.780000000000001
+design,None-Quantum,None-Quantum,lbryio/lbry-sdk,6.87
+design,None-Quantum,None-Quantum,falconry/falcon,38.22852760736196
+design,None-Quantum,None-Quantum,django-tastypie/django-tastypie,54.27728613569322
+design,None-Quantum,None-Quantum,django-crispy-forms/django-crispy-forms,13.123092573753816
+design,None-Quantum,None-Quantum,google/personfinder,20.19
+design,None-Quantum,None-Quantum,quack/quack,39.19463087248322
+design,None-Quantum,None-Quantum,nvbn/thefuck,23.598274799753543
+design,None-Quantum,None-Quantum,cquery-project/cquery,0.0
+design,None-Quantum,None-Quantum,AppImage/AppImageKit,0
+design,None-Quantum,None-Quantum,Nuitka/Nuitka,1.34
+design,None-Quantum,None-Quantum,jieter/django-tables2,27.960756832515766
+design,None-Quantum,None-Quantum,mjolnirapp/mjolnir,0.0
+design,None-Quantum,None-Quantum,AppDaemon/appdaemon,5.327164573694646
+design,None-Quantum,None-Quantum,Kunstmaan/KunstmaanBundlesCMS,0
+design,None-Quantum,None-Quantum,keystonejs/keystone-classic,8.260000000000002
+design,None-Quantum,None-Quantum,emeryberger/CSrankings,1.6200891049007693
+design,None-Quantum,None-Quantum,zetavm/zetavm,27.536231884057973
+design,None-Quantum,None-Quantum,pinax/pinax-stripe,10.06794317479926
+design,None-Quantum,None-Quantum,plotly/dash,34.383033419023135
+design,None-Quantum,None-Quantum,wooey/Wooey,8.504007123775601
+design,None-Quantum,None-Quantum,vim-vdebug/vdebug,20.757020757020758
+design,None-Quantum,None-Quantum,SciML/DifferentialEquations.jl,0
+design,None-Quantum,None-Quantum,ps2homebrew/Open-PS2-Loader,3.0042918454935625
+design,None-Quantum,None-Quantum,rajkumardusad/Tool-X,16.451612903225804
+design,None-Quantum,None-Quantum,Chuyu-Team/Dism-Multi-language,15.310344827586205
+design,None-Quantum,None-Quantum,guanguans/favorite-link,0
+design,None-Quantum,None-Quantum,pre-commit/pre-commit,23.839662447257382
+design,None-Quantum,None-Quantum,dcloudio/mui,1.08
+design,None-Quantum,None-Quantum,owntracks/recorder,0.0
+design,None-Quantum,None-Quantum,janeczku/calibre-web,9.79
+brain_overload,Quantum,Quantum Algorithsm,netket/netket,8.405172413793103
+brain_overload,Quantum,Quantum Algorithsm,JoshuaSBrown/QC_Tools,0
+brain_overload,Quantum,Quantum Algorithsm,quantumlib/OpenFermion,22.059272838374582
+brain_overload,Quantum,Quantum Algorithsm,ProjectQ-Framework/FermiLib,28.72340425531915
+brain_overload,Quantum,Quantum Algorithsm,dwave-examples/factoring,8.333333333333334
+brain_overload,Quantum,Quantum Algorithsm,PanPalitta/phase_estimation,0
+brain_overload,Quantum,Quantum Algorithsm,qrefine/qrefine,6.7299999999999995
+brain_overload,Quantum,Quantum Algorithsm,mabuchilab/QNET,7.223603888763283
+brain_overload,Quantum,Quantum Algorithsm,Qiskit/qiskit-aqua,30.636958101235162
+brain_overload,Quantum,Quantum Algorithsm,XanaduAI/thewalrus,3.877887788778878
+brain_overload,Quantum,Quantum Algorithsm,rigetti/grove,14.523809523809524
+brain_overload,Quantum,Quantum Algorithsm,Q-solvers/EDLib,0.0
+brain_overload,Quantum,Quantum Algorithsm,aeantipov/pomerol,0.0
+brain_overload,Quantum,Quantum Algorithsm,qucontrol/krotov,11.753902662993573
+brain_overload,Quantum,ToolKit,qucat/qucat,1.7418351477449456
+brain_overload,Quantum,ToolKit,orbkit/orbkit,8.47
+brain_overload,Quantum,ToolKit,deepchem/deepchem,8.43
+brain_overload,Quantum,ToolKit,bloomberg/quantum,0.0
+brain_overload,Quantum,ToolKit,lmacken/quantumrandom,0.0
+brain_overload,Quantum,ToolKit,rigetti/forest-benchmarking,5.750798722044728
+brain_overload,Quantum,ToolKit,TRIQS/triqs,6.29
+brain_overload,Quantum,ToolKit,zoran-cuckovic/QGIS-visibility-analysis,4.960000000000001
+brain_overload,Quantum,ToolKit,QuTech-Delft/qtt,7.900000000000001
+brain_overload,Quantum,ToolKit,evaleev/libint,0.0
+brain_overload,Quantum,ToolKit,redhat-cip/openstack-quantum-puppet,0
+brain_overload,Quantum,ToolKit,qubekit/QUBEKit,19.26713947990544
+brain_overload,Quantum,ToolKit,OriginQ/QPanda-2,3.9314094521120873
+brain_overload,Quantum,ToolKit,boschmitt/tweedledum,0
+brain_overload,Quantum,ToolKit,qojulia/QuantumOptics.jl,0.0
+brain_overload,Quantum,ToolKit,tensorflow/quantum,42.857142857142854
+brain_overload,Quantum,ToolKit,XanaduAI/pennylane,6.148867313915858
+brain_overload,Quantum,ToolKit,aiidateam/aiida-quantumespresso,14.803149606299213
+brain_overload,Quantum,ToolKit,QInfer/python-qinfer,10.26533275337103
+brain_overload,Quantum,ToolKit,jcmgray/quimb,15.307624374448041
+brain_overload,Quantum,ToolKit,Qiskit/qiskit-ignis,21.44
+brain_overload,Quantum,Compiler,Quantomatic/pyzx,28.376963350785342
+brain_overload,Quantum,Compiler,microsoft/qsharp-compiler,0
+brain_overload,Quantum,Compiler,QE-Lab/OpenQL,0.039999999999999994
+brain_overload,Quantum,Quantum-Chemistry,MolSSI-BSE/basis_set_exchange,39.02439024390244
+brain_overload,Quantum,Quantum-Chemistry,Quantum-Dynamics-Hub/libra-code,1.6300000000000001
+brain_overload,Quantum,Quantum-Chemistry,GQCG/GQCP,0.0
+brain_overload,Quantum,Quantum-Chemistry,vonDonnerstein/QuantumLab.jl,0
+brain_overload,Quantum,Quantum-Chemistry,QMCPACK/qmcpack,0
+brain_overload,Quantum,Quantum-Chemistry,MolSSI/QCElemental,19.167983149025805
+brain_overload,Quantum,Quantum-Chemistry,qcdb/qcdb,8.65
+brain_overload,Quantum,Quantum-Chemistry,aoterodelaroza/critic2,0
+brain_overload,Quantum,Quantum-Chemistry,ValeevGroup/mpqc,2.9342723004694835
+brain_overload,Quantum,Quantum-Chemistry,ericchansen/q2mm,27.20254314259764
+brain_overload,Quantum,Quantum-Chemistry,MolSSI/QCFractal,17.341430499325238
+brain_overload,Quantum,Quantum-Chemistry,cp2k/cp2k,4.660000000000001
+brain_overload,Quantum,Quantum-Chemistry,hande-qmc/hande,11.425438596491228
+brain_overload,Quantum,Quantum-Chemistry,votca/xtp,3.0456852791878175
+brain_overload,Quantum,Quantum-Chemistry,pyscf/pyscf,11.55
+brain_overload,Quantum,Quantum-Chemistry,tmancal74/quantarhei,4.63
+brain_overload,Quantum,Quantum-Chemistry,LCPQ/quantum_package,3.068215668751862
+brain_overload,Quantum,Quantum-Chemistry,MolSSI/QCEngine,17.702312138728324
+brain_overload,Quantum,Quantum-Chemistry,SebWouters/CheMPS2,3.527336860670194
+brain_overload,Quantum,Cryptography,supernomad/quantum,5.0
+brain_overload,Quantum,Cryptography,exaexa/codecrypt,0
+brain_overload,Quantum,Cryptography,mupq/pqm4,12.82051282051282
+brain_overload,Quantum,Cryptography,theQRL/QRL,4.380430901083204
+brain_overload,Quantum,Experimentation,m-labs/artiq,8.180000000000001
+brain_overload,Quantum,Experimentation,BBN-Q/Qlab,0.1423994304022784
+brain_overload,Quantum,Experimentation,sedabull/quantum-shell,0.0
+brain_overload,Quantum,Experimentation,zlatko-minev/pyEPR,4.050522648083623
+brain_overload,Quantum,Experimentation,lneuhaus/pyrpl,4.737711164740252
+brain_overload,Quantum,Experimentation,BBN-Q/QGL,3.36
+brain_overload,Quantum,Experimentation,BBN-Q/PyQLab,2.06
+brain_overload,Quantum,Experimentation,qutech/qupulse,15.57556583110246
+brain_overload,Quantum,Experimentation,iitis/QuantumInformation.jl,0
+brain_overload,Quantum,Assembly,XanaduAI/blackbird,6.057268722466961
+brain_overload,Quantum,Assembly,BBN-Q/QGL.jl,0
+brain_overload,Quantum,Assembly,artiste-qb-net/qubiter,6.877697841726619
+brain_overload,Quantum,Assembly,BBN-Q/pyqgl2,4.66
+brain_overload,Quantum,Assembly,lanl/qmasm,37.910447761194035
+brain_overload,Quantum,Quantum Annealing,dwavesystems/penaltymodel,19.096509240246405
+brain_overload,Quantum,Quantum Annealing,dwavesystems/dimod,8.55094726062468
+brain_overload,Quantum,Quantum Annealing,dwavesystems/dwave-system,6.490872210953346
+brain_overload,Quantum,Quantum Annealing,shinmorino/sqaod,1.7055144968732234
+brain_overload,Quantum,Quantum Annealing,dwavesystems/dwavebinarycsp,13.94422310756972
+brain_overload,Quantum,Quantum Annealing,dwavesystems/qbsolv,1.0962241169305724
+brain_overload,Quantum,Web-Extension,quantacms/quanta,0.13
+brain_overload,Quantum,Web-Extension,Quantum-Manager/quantummanager,4.5321637426900585
+brain_overload,Quantum,Web-Extension,dauphine-dev/drop-feeds,0.0
+brain_overload,Quantum,Web-Extension,Izheil/Quantum-Nox-Firefox-Dark-Full-Theme,0.31
+brain_overload,Quantum,Web-Extension,firebug/websocket-monitor,0.0
+brain_overload,Quantum,Web-Extension,foxyproxy/firefox-extension,0.0
+brain_overload,Quantum,Web-Extension,Aris-t2/CustomCSSforFx,0.0
+brain_overload,Quantum,Web-Extension,spikespaz/firefox-nativedark,0.0
+brain_overload,Quantum,Web-Extension,catho/quantum,5.0
+brain_overload,Quantum,Fun/ Game,Quantum-Game/quantum-game-2,0.0
+brain_overload,Quantum,Fun/ Game,decodoku/A_Game_to_Benchmark_Quantum_Computers,5.813953488372094
+brain_overload,Quantum,Fun/ Game,HuangJunye/QPong,0.25
+brain_overload,Quantum,Fun/ Game,JavaFXpert/quantum-toy-piano-ibmq,0.09835259404966806
+brain_overload,Quantum,Full-stack Library,Blueqat/Blueqat,9.347442680776014
+brain_overload,Quantum,Full-stack Library,softwareQinc/staq,7.627118644067796
+brain_overload,Quantum,Full-stack Library,rigetti/pyquil,5.855562784645413
+brain_overload,Quantum,Full-stack Library,microsoft/QuantumLibraries,2.2988505747126435
+brain_overload,Quantum,Full-stack Library,microsoft/Quantum-NC,0
+brain_overload,Quantum,Full-stack Library,Qiskit/qiskit-terra,20.246643771464253
+brain_overload,Quantum,Full-stack Library,qiskit-community/qiskit-vscode,0.0
+brain_overload,Quantum,Full-stack Library,QuantumPackage/qp2,6.849315068493151
+brain_overload,Quantum,Full-stack Library,qiskit-community/qiskit-js,0.15
+brain_overload,Quantum,Full-stack Library,ProjectQ-Framework/ProjectQ,14.378029079159935
+brain_overload,Quantum,Full-stack Library,quantumlib/Cirq,10.795593635250919
+brain_overload,Quantum,Full-stack Library,microsoft/Quantum,5.0
+brain_overload,Quantum,Full-stack Library,rigetti/rpcq,32.63157894736842
+brain_overload,Quantum,Full-stack Library,Qiskit/qiskit-ibmq-provider,34.87394957983193
+brain_overload,Quantum,Full-stack Library,Qiskit/qiskit,14.351851851851851
+brain_overload,Quantum,Full-stack Library,XanaduAI/strawberryfields,7.256392536281963
+brain_overload,Quantum,Simulator,Approximates/dotBloch,0
+brain_overload,Quantum,Simulator,rigetti/qvm,0
+brain_overload,Quantum,Simulator,QuantumBFS/YaoBlocks.jl,0
+brain_overload,Quantum,Simulator,aparent/QCViewer,0.0
+brain_overload,Quantum,Simulator,microsoft/qmt,1.9759450171821307
+brain_overload,Quantum,Simulator,arguelles/nuSQuIDS,12.5
+brain_overload,Quantum,Simulator,vm6502q/qrack,0
+brain_overload,Quantum,Simulator,QuantumBFS/Yao.jl,0.0
+brain_overload,Quantum,Simulator,qutip/qutip,9.049999999999999
+brain_overload,Quantum,Simulator,Qiskit/qiskit-jku-provider,21.428571428571423
+brain_overload,Quantum,Simulator,Qiskit/qiskit-aer,15.35816618911175
+brain_overload,Quantum,Simulator,Strilanc/Quirk,0.0
+brain_overload,Quantum,Simulator,softwareQinc/qpp,0.0
+brain_overload,Quantum,Simulator,qulacs/qulacs,1.8518518518518519
+brain_overload,Quantum,Simulator,quantumlib/OpenFermion-Cirq,36.25866050808314
+brain_overload,Quantum,Simulator,issp-center-dev/HPhi,4.166666666666666
+brain_overload,Quantum,Simulator,marvel-nccr/quantum-mobile,0.0
+brain_overload,Quantum,Simulator,SoftwareQuTech/SimulaQron,1.13
+brain_overload,Quantum,Simulator,ngnrsaa/qflex,20.27027027027027
+brain_overload,Quantum,Simulator,QuEST-Kit/QuEST,0.0
+brain_overload,None-Quantum,None-Quantum,kivy/kivy,12.23
+brain_overload,None-Quantum,None-Quantum,frappe/bench,13.523666416228401
+brain_overload,None-Quantum,None-Quantum,dpgaspar/Flask-AppBuilder,1.6099999999999999
+brain_overload,None-Quantum,None-Quantum,flexxui/flexx,8.520000000000001
+brain_overload,None-Quantum,None-Quantum,lbryio/lbry-sdk,9.930000000000001
+brain_overload,None-Quantum,None-Quantum,falconry/falcon,8.569785276073619
+brain_overload,None-Quantum,None-Quantum,django-tastypie/django-tastypie,9.453574940300603
+brain_overload,None-Quantum,None-Quantum,django-crispy-forms/django-crispy-forms,7.256697185486606
+brain_overload,None-Quantum,None-Quantum,google/personfinder,7.25
+brain_overload,None-Quantum,None-Quantum,quack/quack,12.885906040268457
+brain_overload,None-Quantum,None-Quantum,nvbn/thefuck,3.0191004313000613
+brain_overload,None-Quantum,None-Quantum,cquery-project/cquery,5.217391304347825
+brain_overload,None-Quantum,None-Quantum,AppImage/AppImageKit,0
+brain_overload,None-Quantum,None-Quantum,Nuitka/Nuitka,4.569999999999999
+brain_overload,None-Quantum,None-Quantum,jieter/django-tables2,9.425367904695166
+brain_overload,None-Quantum,None-Quantum,mjolnirapp/mjolnir,0.0
+brain_overload,None-Quantum,None-Quantum,AppDaemon/appdaemon,9.980171844018505
+brain_overload,None-Quantum,None-Quantum,Kunstmaan/KunstmaanBundlesCMS,0
+brain_overload,None-Quantum,None-Quantum,keystonejs/keystone-classic,0.0
+brain_overload,None-Quantum,None-Quantum,emeryberger/CSrankings,3.564196030781693
+brain_overload,None-Quantum,None-Quantum,zetavm/zetavm,8.695652173913045
+brain_overload,None-Quantum,None-Quantum,pinax/pinax-stripe,0.8956145768993207
+brain_overload,None-Quantum,None-Quantum,plotly/dash,10.154241645244216
+brain_overload,None-Quantum,None-Quantum,wooey/Wooey,11.442564559216386
+brain_overload,None-Quantum,None-Quantum,vim-vdebug/vdebug,11.05006105006105
+brain_overload,None-Quantum,None-Quantum,SciML/DifferentialEquations.jl,0
+brain_overload,None-Quantum,None-Quantum,ps2homebrew/Open-PS2-Loader,1.2875536480686696
+brain_overload,None-Quantum,None-Quantum,rajkumardusad/Tool-X,6.129032258064516
+brain_overload,None-Quantum,None-Quantum,Chuyu-Team/Dism-Multi-language,0.0
+brain_overload,None-Quantum,None-Quantum,guanguans/favorite-link,0
+brain_overload,None-Quantum,None-Quantum,pre-commit/pre-commit,4.30379746835443
+brain_overload,None-Quantum,None-Quantum,dcloudio/mui,0.06
+brain_overload,None-Quantum,None-Quantum,owntracks/recorder,0.0
+brain_overload,None-Quantum,None-Quantum,janeczku/calibre-web,9.7
+obsolete,Quantum,Quantum Algorithsm,netket/netket,0.0
+obsolete,Quantum,Quantum Algorithsm,JoshuaSBrown/QC_Tools,0
+obsolete,Quantum,Quantum Algorithsm,quantumlib/OpenFermion,0.0
+obsolete,Quantum,Quantum Algorithsm,ProjectQ-Framework/FermiLib,0.0
+obsolete,Quantum,Quantum Algorithsm,dwave-examples/factoring,0.0
+obsolete,Quantum,Quantum Algorithsm,PanPalitta/phase_estimation,0
+obsolete,Quantum,Quantum Algorithsm,qrefine/qrefine,44.0
+obsolete,Quantum,Quantum Algorithsm,mabuchilab/QNET,5.516617680307483
+obsolete,Quantum,Quantum Algorithsm,Qiskit/qiskit-aqua,0.0
+obsolete,Quantum,Quantum Algorithsm,XanaduAI/thewalrus,5.61056105610561
+obsolete,Quantum,Quantum Algorithsm,rigetti/grove,9.523809523809524
+obsolete,Quantum,Quantum Algorithsm,Q-solvers/EDLib,23.333333333333332
+obsolete,Quantum,Quantum Algorithsm,aeantipov/pomerol,87.5
+obsolete,Quantum,Quantum Algorithsm,qucontrol/krotov,0.0
+obsolete,Quantum,ToolKit,qucat/qucat,7.091757387247278
+obsolete,Quantum,ToolKit,orbkit/orbkit,37.17000000000001
+obsolete,Quantum,ToolKit,deepchem/deepchem,0.18999999999999997
+obsolete,Quantum,ToolKit,bloomberg/quantum,71.84
+obsolete,Quantum,ToolKit,lmacken/quantumrandom,12.698412698412698
+obsolete,Quantum,ToolKit,rigetti/forest-benchmarking,0.0
+obsolete,Quantum,ToolKit,TRIQS/triqs,16.09
+obsolete,Quantum,ToolKit,zoran-cuckovic/QGIS-visibility-analysis,8.799999999999999
+obsolete,Quantum,ToolKit,QuTech-Delft/qtt,0.0
+obsolete,Quantum,ToolKit,evaleev/libint,0.0
+obsolete,Quantum,ToolKit,redhat-cip/openstack-quantum-puppet,0
+obsolete,Quantum,ToolKit,qubekit/QUBEKit,0.0
+obsolete,Quantum,ToolKit,OriginQ/QPanda-2,0.0
+obsolete,Quantum,ToolKit,boschmitt/tweedledum,0
+obsolete,Quantum,ToolKit,qojulia/QuantumOptics.jl,0.0
+obsolete,Quantum,ToolKit,tensorflow/quantum,0.0
+obsolete,Quantum,ToolKit,XanaduAI/pennylane,2.330097087378641
+obsolete,Quantum,ToolKit,aiidateam/aiida-quantumespresso,25.46681664791901
+obsolete,Quantum,ToolKit,QInfer/python-qinfer,15.789473684210527
+obsolete,Quantum,ToolKit,jcmgray/quimb,0.0
+obsolete,Quantum,ToolKit,Qiskit/qiskit-ignis,0.0
+obsolete,Quantum,Compiler,Quantomatic/pyzx,0.0
+obsolete,Quantum,Compiler,microsoft/qsharp-compiler,0
+obsolete,Quantum,Compiler,QE-Lab/OpenQL,0.0
+obsolete,Quantum,Quantum-Chemistry,MolSSI-BSE/basis_set_exchange,0.0
+obsolete,Quantum,Quantum-Chemistry,Quantum-Dynamics-Hub/libra-code,42.3
+obsolete,Quantum,Quantum-Chemistry,GQCG/GQCP,0.0
+obsolete,Quantum,Quantum-Chemistry,vonDonnerstein/QuantumLab.jl,0
+obsolete,Quantum,Quantum-Chemistry,QMCPACK/qmcpack,0
+obsolete,Quantum,Quantum-Chemistry,MolSSI/QCElemental,0.0
+obsolete,Quantum,Quantum-Chemistry,qcdb/qcdb,0.0
+obsolete,Quantum,Quantum-Chemistry,aoterodelaroza/critic2,0
+obsolete,Quantum,Quantum-Chemistry,ValeevGroup/mpqc,23.826291079812208
+obsolete,Quantum,Quantum-Chemistry,ericchansen/q2mm,0.6357856494096277
+obsolete,Quantum,Quantum-Chemistry,MolSSI/QCFractal,0.0
+obsolete,Quantum,Quantum-Chemistry,cp2k/cp2k,19.680000000000003
+obsolete,Quantum,Quantum-Chemistry,hande-qmc/hande,17.017543859649123
+obsolete,Quantum,Quantum-Chemistry,votca/xtp,13.19796954314721
+obsolete,Quantum,Quantum-Chemistry,pyscf/pyscf,9.379999999999999
+obsolete,Quantum,Quantum-Chemistry,tmancal74/quantarhei,9.59
+obsolete,Quantum,Quantum-Chemistry,LCPQ/quantum_package,57.93863568662497
+obsolete,Quantum,Quantum-Chemistry,MolSSI/QCEngine,0.0
+obsolete,Quantum,Quantum-Chemistry,SebWouters/CheMPS2,34.92063492063492
+obsolete,Quantum,Cryptography,supernomad/quantum,0.0
+obsolete,Quantum,Cryptography,exaexa/codecrypt,0
+obsolete,Quantum,Cryptography,mupq/pqm4,0.0
+obsolete,Quantum,Cryptography,theQRL/QRL,1.7735983811451015
+obsolete,Quantum,Experimentation,m-labs/artiq,0.0
+obsolete,Quantum,Experimentation,BBN-Q/Qlab,25.240299038803848
+obsolete,Quantum,Experimentation,sedabull/quantum-shell,0.0
+obsolete,Quantum,Experimentation,zlatko-minev/pyEPR,0.0
+obsolete,Quantum,Experimentation,lneuhaus/pyrpl,29.937761971294297
+obsolete,Quantum,Experimentation,BBN-Q/QGL,0.08
+obsolete,Quantum,Experimentation,BBN-Q/PyQLab,1.8
+obsolete,Quantum,Experimentation,qutech/qupulse,0.0
+obsolete,Quantum,Experimentation,iitis/QuantumInformation.jl,0
+obsolete,Quantum,Assembly,XanaduAI/blackbird,7.709251101321586
+obsolete,Quantum,Assembly,BBN-Q/QGL.jl,0
+obsolete,Quantum,Assembly,artiste-qb-net/qubiter,11.884892086330932
+obsolete,Quantum,Assembly,BBN-Q/pyqgl2,0.0
+obsolete,Quantum,Assembly,lanl/qmasm,5.074626865671642
+obsolete,Quantum,Quantum Annealing,dwavesystems/penaltymodel,0.0
+obsolete,Quantum,Quantum Annealing,dwavesystems/dimod,0.0
+obsolete,Quantum,Quantum Annealing,dwavesystems/dwave-system,10.851926977687627
+obsolete,Quantum,Quantum Annealing,shinmorino/sqaod,2.6719727117680496
+obsolete,Quantum,Quantum Annealing,dwavesystems/dwavebinarycsp,0.0
+obsolete,Quantum,Quantum Annealing,dwavesystems/qbsolv,23.020706455542022
+obsolete,Quantum,Web-Extension,quantacms/quanta,0.13
+obsolete,Quantum,Web-Extension,Quantum-Manager/quantummanager,0.0
+obsolete,Quantum,Web-Extension,dauphine-dev/drop-feeds,15.040871934604905
+obsolete,Quantum,Web-Extension,Izheil/Quantum-Nox-Firefox-Dark-Full-Theme,0.0
+obsolete,Quantum,Web-Extension,firebug/websocket-monitor,0.0
+obsolete,Quantum,Web-Extension,foxyproxy/firefox-extension,0.0
+obsolete,Quantum,Web-Extension,Aris-t2/CustomCSSforFx,0.0
+obsolete,Quantum,Web-Extension,spikespaz/firefox-nativedark,0.0
+obsolete,Quantum,Web-Extension,catho/quantum,0.0
+obsolete,Quantum,Fun/ Game,Quantum-Game/quantum-game-2,0.0
+obsolete,Quantum,Fun/ Game,decodoku/A_Game_to_Benchmark_Quantum_Computers,0.0
+obsolete,Quantum,Fun/ Game,HuangJunye/QPong,98.89
+obsolete,Quantum,Fun/ Game,JavaFXpert/quantum-toy-piano-ibmq,0.0
+obsolete,Quantum,Full-stack Library,Blueqat/Blueqat,0.0
+obsolete,Quantum,Full-stack Library,softwareQinc/staq,12.288135593220337
+obsolete,Quantum,Full-stack Library,rigetti/pyquil,0.5421817393190197
+obsolete,Quantum,Full-stack Library,microsoft/QuantumLibraries,0.0
+obsolete,Quantum,Full-stack Library,microsoft/Quantum-NC,0
+obsolete,Quantum,Full-stack Library,Qiskit/qiskit-terra,0.0
+obsolete,Quantum,Full-stack Library,qiskit-community/qiskit-vscode,0.0
+obsolete,Quantum,Full-stack Library,QuantumPackage/qp2,47.945205479452056
+obsolete,Quantum,Full-stack Library,qiskit-community/qiskit-js,0.0
+obsolete,Quantum,Full-stack Library,ProjectQ-Framework/ProjectQ,0.0
+obsolete,Quantum,Full-stack Library,quantumlib/Cirq,0.0
+obsolete,Quantum,Full-stack Library,microsoft/Quantum,0.0
+obsolete,Quantum,Full-stack Library,rigetti/rpcq,0.0
+obsolete,Quantum,Full-stack Library,Qiskit/qiskit-ibmq-provider,0.0
+obsolete,Quantum,Full-stack Library,Qiskit/qiskit,0.0
+obsolete,Quantum,Full-stack Library,XanaduAI/strawberryfields,2.810412347385395
+obsolete,Quantum,Simulator,Approximates/dotBloch,0
+obsolete,Quantum,Simulator,rigetti/qvm,0
+obsolete,Quantum,Simulator,QuantumBFS/YaoBlocks.jl,0
+obsolete,Quantum,Simulator,aparent/QCViewer,50.0
+obsolete,Quantum,Simulator,microsoft/qmt,5.8705612829324165
+obsolete,Quantum,Simulator,arguelles/nuSQuIDS,23.878205128205128
+obsolete,Quantum,Simulator,vm6502q/qrack,0
+obsolete,Quantum,Simulator,QuantumBFS/Yao.jl,0.0
+obsolete,Quantum,Simulator,qutip/qutip,8.28
+obsolete,Quantum,Simulator,Qiskit/qiskit-jku-provider,0.0
+obsolete,Quantum,Simulator,Qiskit/qiskit-aer,0.0
+obsolete,Quantum,Simulator,Strilanc/Quirk,0.34393809114359414
+obsolete,Quantum,Simulator,softwareQinc/qpp,72.42999999999999
+obsolete,Quantum,Simulator,qulacs/qulacs,11.11111111111111
+obsolete,Quantum,Simulator,quantumlib/OpenFermion-Cirq,0.0
+obsolete,Quantum,Simulator,issp-center-dev/HPhi,4.761904761904762
+obsolete,Quantum,Simulator,marvel-nccr/quantum-mobile,0.0
+obsolete,Quantum,Simulator,SoftwareQuTech/SimulaQron,9.03
+obsolete,Quantum,Simulator,ngnrsaa/qflex,0.0
+obsolete,Quantum,Simulator,QuEST-Kit/QuEST,78.99
+obsolete,None-Quantum,None-Quantum,kivy/kivy,7.130000000000001
+obsolete,None-Quantum,None-Quantum,frappe/bench,27.798647633358378
+obsolete,None-Quantum,None-Quantum,dpgaspar/Flask-AppBuilder,20.93
+obsolete,None-Quantum,None-Quantum,flexxui/flexx,0.9000000000000001
+obsolete,None-Quantum,None-Quantum,lbryio/lbry-sdk,5.68
+obsolete,None-Quantum,None-Quantum,falconry/falcon,1.035276073619632
+obsolete,None-Quantum,None-Quantum,django-tastypie/django-tastypie,0.337126000842815
+obsolete,None-Quantum,None-Quantum,django-crispy-forms/django-crispy-forms,18.65038996269922
+obsolete,None-Quantum,None-Quantum,google/personfinder,7.3500000000000005
+obsolete,None-Quantum,None-Quantum,quack/quack,0.0
+obsolete,None-Quantum,None-Quantum,nvbn/thefuck,0.0
+obsolete,None-Quantum,None-Quantum,cquery-project/cquery,0.0
+obsolete,None-Quantum,None-Quantum,AppImage/AppImageKit,0
+obsolete,None-Quantum,None-Quantum,Nuitka/Nuitka,23.61
+obsolete,None-Quantum,None-Quantum,jieter/django-tables2,8.023826208829712
+obsolete,None-Quantum,None-Quantum,mjolnirapp/mjolnir,20.0
+obsolete,None-Quantum,None-Quantum,AppDaemon/appdaemon,0.0
+obsolete,None-Quantum,None-Quantum,Kunstmaan/KunstmaanBundlesCMS,0
+obsolete,None-Quantum,None-Quantum,keystonejs/keystone-classic,0.0
+obsolete,None-Quantum,None-Quantum,emeryberger/CSrankings,22.87025786418253
+obsolete,None-Quantum,None-Quantum,zetavm/zetavm,0.0
+obsolete,None-Quantum,None-Quantum,pinax/pinax-stripe,1.3279802347127858
+obsolete,None-Quantum,None-Quantum,plotly/dash,0.6426735218508998
+obsolete,None-Quantum,None-Quantum,wooey/Wooey,0.3561887800534283
+obsolete,None-Quantum,None-Quantum,vim-vdebug/vdebug,10.317460317460318
+obsolete,None-Quantum,None-Quantum,SciML/DifferentialEquations.jl,0
+obsolete,None-Quantum,None-Quantum,ps2homebrew/Open-PS2-Loader,64.8068669527897
+obsolete,None-Quantum,None-Quantum,rajkumardusad/Tool-X,0.0
+obsolete,None-Quantum,None-Quantum,Chuyu-Team/Dism-Multi-language,0.0
+obsolete,None-Quantum,None-Quantum,guanguans/favorite-link,0
+obsolete,None-Quantum,None-Quantum,pre-commit/pre-commit,0.5907172995780591
+obsolete,None-Quantum,None-Quantum,dcloudio/mui,0.08
+obsolete,None-Quantum,None-Quantum,owntracks/recorder,27.590673575129532
+obsolete,None-Quantum,None-Quantum,janeczku/calibre-web,0.47000000000000003
